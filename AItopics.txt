@@ -1,0 +1,15 @@
+ML, probabilistic approaches, Kalman filtering
+semantic networks, description logics
+graph theory, hypergraphs, factor graphs
+cognitive architectures
+-> philosophy of the mind
+study cogscience
+
+http://futureoflife.org/2016/02/29/introductory-resources-on-ai-safety-research/
+
+humean vs. kantian AI architecture (from "The Singularity: A Philosophical Analysis")
+
+"optimizing for a goal is an attractor, stable state"
+TODO: nonlinear utility function
+
+https://intelligence.org/2016/04/21/two-new-papers-uniform/

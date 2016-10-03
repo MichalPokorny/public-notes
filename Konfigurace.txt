@@ -1,0 +1,25 @@
+- Test-server kazdou hodinu
+- site watcher
+
+- Androidovy path (/opt/android-sdk/platform-tools)
+
+- enable cups demon
+
+Problemy s Terminusem:
+
+xset +fp /usr/share/fonts/local
+xset fp rehash
+
+(pri chybe v prvnim radku: # cd /usr/share/fonts/local;mkfontdir)
+
+nejstarsi notebook (asrock): feynmann, HP 4530s: vakarian, X230: megalocap
+server: dragon
+
+Vimperator mel ve verzi 3.7 par problemu s modernim Firefoxem. Upgrade na 3.8pre z Githubu.
+
+Generic mapping!!! (musim testovat, ze funguje dobre)
+	GENERIC na serveru i na notebooku!
+
+/etc/acpid: obsahuje eventy na lenovo dock a undock kvuli koleji
+
+available: prvak.name (6.4 eur na rok), prvak.info (7.4 eur na rok)

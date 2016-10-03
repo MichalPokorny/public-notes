@@ -1,0 +1,5 @@
+http://www.quora.com/How-do-I-build-a-profile-to-get-accepted-into-a-star-college-like-Caltech-MIT-Stanford-or-Berkeley-for-an-MS-in-CS
+Stanford:
+	GRE scores: >=750 math is adequate, 800 best
+		>=600 english OK, 700 good
+		===> a lot of effort into GRE

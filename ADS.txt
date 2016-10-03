@@ -1,0 +1,6 @@
+R-tree: "najdi mi zajimave body do 2 km"
+
+Burrougs-Wheeler Transform
+	→ setrid vsechny rotace retezce, vrat posledni sloupec
+
+inhibitivni neuron

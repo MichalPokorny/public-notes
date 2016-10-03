@@ -1,0 +1,21 @@
+pdflatex class option 'draft': ukazuje slimejze
+sloppypar env
+
+xetex/luatex allows fontspec, which has fancy ligatures
+\Command{} (eats space otherwise)
+stretching tables: 'tabu' package
+
+\citet{Erdos65}
+\citep{Erdos65}
+\citep*[see][chap. 2]{Erdos65}
+\stretch{1} \stretch{2}: jako hfill/vfill, akorat se roztahuje pomerove
+\dotfill, \hfill, \hrulefill
+\vspace{\stretch{1}}
+
+q = batch, r = run non-stop
+equation environment: allows label, ref; automatically numbered ((+subequations exist))
+\overbrace{something}{overbrace description}, podobne underbrace
+align*, align (aligned equations)
+cases env for piecewise functions
+multiline subscript: substack
+\renewcommand{\qedsymbol}{ajlasdf}

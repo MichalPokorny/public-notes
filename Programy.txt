@@ -1,0 +1,225 @@
+- firefox addon "stylish": vlastni stylovani ruznych URL
+
+- kiwix - offline wikipedia
+- Hydrogen - bubnove patterny (taky Trommler, Galan)
+
+- Performous - obsahuje detekci tonu.
+
+- konverze Mbox -> maildir: mb2md balik v AUR (exac se jmenuje mb2md.pl)
+
+- W3C Slidy
+
+- code coverage: gcov (gcc -fprofile-args -ftest-coverage)
+
+- sage
+	KDE frontent: Cantor
+	sage -n -> localhost:8000
+
+- hoodle: nahrada za xournal
+- avidemux (-gtk): jednoduche strihani
+- aalib: ascii art knihovna
+- hrani Go: gnugo
+- newsbeuter
+- slimrat
+- boost jam
+- pacgraph
+- centerim
+- arandr
+- mosh: lepsi ssh
+- ssh -C
+- key-mon (monitoruje klavesy)
+- KeyWatcher
+- GNU Expect
+- kompresor souboru: upx
+- ntp
+- libxslt -> xsltproc
+- http://jekyllboostrap.com
+- foremost, ddrescue
+- HDR: luminancehdr; s Hugin-em umi automaticky zarovnavat (hugin je na panoramata)
+- libcanberra: zvuky
+- xvidcap: capture obrazovky (/istanbul)
+- CoachPotato: automaticke stahovani torrentu
+- dwb - bacha, pamatuje si historii. - chce to zasifrovat .config/dwb, .cache/dwb
+
+- krdc, rdesktop, remmina, tightvnc, realvnc, vinagre : VNC / Remote Desktop
+	TIGERVNC!
+
+- cuneiform: OCR
+
+- open text summarizer (http://libots.sourceforge.net)
+- Landell - streamovani a uprava videi
+- konversation: IRC klient pro KDE
+- Point Cloud Library (PCL) - rekonstrukce veci z point cloudu
+- Haskell IDE Leksah
+- kcachegrind
+
+- gprof2dot-git: graf z gprofu do dotu
+	gprof program gmon.out | gprof2dot
+
+- Android Studio (nad IntelliJ IDEA)
+
+- fail2ban (umi mimo jine httpd, vsftpd, sshd)
+- sync && echo 3 > /proc/sys/vm/drop_caches ### dropne diskovou cache
+- gnuplot --persist
+
+- Android Lost - hlidac ztraceneho androidu
+
+- extrakce zvuku z YouTube videa: ffmpeg -i in.flv -vn -f mp3 out.mp3
+
+- xterm umi Shift+Num+ / Num- (zvetsuje/zmensuje pismo)
+- rubypython: pousteni Pythonu z Ruby
+
+- github leafo/sticky-kit -- na sticky elementy v JS
+- wireframy: pencil
+- nastaveni rate opakovani klaves: 'xset r rate 190 35'
+- less ma prikaz (F)ollow
+- zalohovani 'tarsnap' (Amazon EC3, hodne sifrovane)
+- vypnuti ulimitu: ulimit -St unlimited; ulimit -Ht unlimited
+- Zathura - vimovity prohlizec PDFek
+- common lines: `comm`
+- xiki
+- CLI 'spoje' - interface k Idosu
+- 'qalc': doporuceno FS - umi jednotky vcetne ruznych men
+- P2P sdileni muziky: soulseek (program 'nicotine')
+
+== Zajimave programy, ktere mam ==
+gparted??? (mam ho mit?)
+rrdtool
+
+heap-shot-git (heap profiling pro mono)
+
+hostapd, dnsmasq
+zenity -- 'dialog', ale hezci
+racket - lisp
+gecode - constrain solver
+
+fish shell
+
+xvkbd
+avidemux
+ffmpeg2theora
+selenium server
+ruby-gnomecanvas
+
+lepsi Freetype fonty: infinality patchset (previewer: grip) (balik v AURu grip-git)
+	fontconfig-infinality ==> infctl setstyle
+
+ibam: dela si profil baterie
+
+ssss: shamir's secret sharing scheme
+vanitygen-git
+
+dmesg -w: follow
+
+.NET Ant: 'nant'
+nunit
+monogame
+
+GL extension: volani bez bindingu, ARB_debug_output
+
+xorg-xinput: ruzne parametry vstupnich zarizeni
+
+alsa-mixer: mezernik na vypnutem mikrofonu
+.gtk-bookmarks - soubor s GTK bookmarky
+gcov: code coverage
+fake-hwclock: nacitani a ukladani data kdyz nejsou hw hodiny
+dosfstools
+cppcheck
+wkhtmltopdf: Arch ma v AURu starou verzi. Nainstaloval jsem staticky zbuildenou novou.
+
+Exolutio: XML konceptualni modeling
+
+form filler 602: filler.sh (Wine, pomale a otravne)
+
+vyzkouset 'workrave'
+
+Vimperator: :dialog searchengines
+it's all text: mozilla plugin
+
+skript 'column -t'
+jot = command
+
+Alt-F,B: current word
+nmtui
+
+CircleCI
+Papertrail logs
+Pivotal Tracker
+
+pachyderm (open MapReduce)
+gRPC (Proto3 + Stubby over HTTP/2)
+review board (open-source)
+
+disown
+units
+pipe through SSH
+fc (open => edit)
+vimb -- browser
+
+GNU datamash
+
+ledger
+
+simian (deduplicator na source code)
+
+hopper-v3 == dekompilator (nainstalovany)
+
+'google XYZZYFOO' -- mam nainstalovany googlici CLI nastroj
+
+base16-builder = univerzalni stylovac
+
+ncdu = disk usage in ncurses
+
+js-beautify
+
+- `hydrogen` - drum machine
+- terminator
+- meld
+
+<h3>Terminology</h3>
+Pretty cool terminal - has images, video, OpenGL...
+Doesn't really get my fonts and colors, through :(
+TODO: try again later.
+
+<code>terminology -f=terminus-14</code>: problem: can't do non-bold text?!
+
+tyls, ... (ty\*) == "terminology \*"
+
+- patoline typesetting system
+- Apache Mahout
+- Contiki: Internet of Things OS
+- MariaDB - drop-in MySQL replacement
+- piorekf: plug
+- xowa: offline wikipedia
+- mosh (alternative ssh)
+
+- epylog: sledovac logu
+- net/http cheat sheet
+- logwatch
+- undistract-me
+- libnotify
+- GPUMlib: GPU machine learning (C++)
+- ilog scheduler
+- CellWriter
+- Google Prediction API
+- ESALib - semantic analysis
+- Learn Python the Hard Way
+- nltk
+- ScalaZ: "making Scala more functional"
+- pocketsphinx
+- git ready (git tutorialy)
+- asymptote, Metafont
+- Selenium
+- mirage
+- GNU Guile
+- FLTK
+- Beamer
+- Recast -- navigation in 3D
+- Pomodoro technique
+- Yesod: Haskell web framework
+- Flask
+- Xamarin (C# everywhere)
+- Emscripten QT
+gtk-recordMyDesktop
+
+jrnl (journal command-line thingie)

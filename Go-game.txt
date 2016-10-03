@@ -1,0 +1,11 @@
+Black starts the game.
+
+Rule of liberty
+
+Ko rule
+
+Handicap: black can place >=1 stone in advance (if white stronger)
+
+score: # of stones on board + empty intersections surrounded by my stones
+	+ komi(dashi) points for white (compensation for first move)
+	+

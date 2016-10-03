@@ -1,0 +1,7 @@
+naucit se TCL?
+
+language: Elixir, Rust, Scala
+
+Caffe, OverFeat
+
+naucit se F#, Rust
