@@ -1,0 +1,25 @@
+C++: operator&: zpusobuje, ze nejde udelat bezpecnou forward deklaraci!
+operator"": user literals
+operator=: insidious :)
+
+initializer_list
+
+delegating constructors: using Base::Base -- redeklaruje stare konstruktory
+
+namespace fbb = foo::bar::baz;
+c++: string _name{"abc"};
+
+scoped_ptr, scoped_array
+std::exception_ptr, std::nested_exception
+
+static_cast<>()
+	conversion: (int)3.5, cast: (int)"hello"
+	const_cast, reinterpret_cast
+
+^ C++ brace-initialization
+
+unistd: pread
+s?printf parameter reordering
+
+if (auto x = ...) <- validni C++
+c++11 tie

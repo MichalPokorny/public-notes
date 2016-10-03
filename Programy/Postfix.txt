@@ -1,0 +1,1 @@
+Bacha: kdyz se separatne updatne postfix a dovecot, oba na to umrou, ale nebudou si stezovat zadnemu cloveku.

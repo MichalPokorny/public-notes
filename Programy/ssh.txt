@@ -1,0 +1,7 @@
+ssh rny.cz -o PubkeyAuthentication=no
+
+Escape char: ~ (ale funguje jenom na zacatku radku). ~. uzavre spojeni, ~~ posle escape char.
+
+ssh -X pi
+
+ssh -C: .ssh_config: Compression yes

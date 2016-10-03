@@ -1,0 +1,95 @@
+windows = sda3
+
+Asi nejde vubec rekalibrovat baterka (v BIOSu to neni)
+
+0% = asi tak dalsich 5 minut casu
+
+hezky consolefont: brzo "modprobe radeon"
+
+Maily ted muzou prichazet nebo odchazet jenom kdyz je zaply crypto
+	fetchmail chce fetchmailrc, ktery zije na cryptodisku
+	to same postfix a saslpass.db
+	
+iwconfig wlan0 power off zrejme zpusobi, ze zacne jit wifina
+
+/etc/updatedb.conf: prune ~prvak/crypto, ~prvak/downloads.
+
+~prvak/.cache/geeqie, ~prvak/.thumbnails, ~prvak/.local/share/geeqie: je to primontovane jako tmpfs; to navic znamena, ze to nebude indexovat updatedb
+
+bootovaci flag pro Linux: acpi_os_name="Windows 2009" - tvrdi ACPI, ze jsou to Windows 7.
+
+
+TEST SYSTEMU:
+	- SMTP rny.cz, rny.cz:5257
+	- HTTP rny.cz, work.rny.cz, poko.rny.cz, orldecin.cz, crm.b4f.cz
+
+Konfigurace ad-hoc wifiny s vedlejsim notebookem:
+	server:
+		ifconfig wlan0 down
+		iwconfig wlan0 mode ad-hoc
+		iwconfig wlan0 channel 9
+		iwconfig wlan0 essid 'hokej'
+		ifconfig wlan0 192.168.0.1 netmask 255.255.0.0 up
+
+		wpa_supplicant -iwlan0 -c /etc/wpa_supplicant/hokej.conf
+
+		dhcpd wlan0 -4 -cf /etc/dhcpd.conf
+
+		Ted bych chtel, aby jeste routoval
+		(nejaky ten sysctl blablabla...),
+		potom by to mohlo rozumne fungovat.
+
+			sysctl -w net.ipv4.ip_forward=1
+
+			(pripadne /etc/sysctl.conf: net.ipv4.ip_forward=1, sysctl -p /etc/sysctl.conf)
+
+	klient:
+		# iwconfig wlan0 essid 'hokej'
+		# iwconfig wlan0 mode ad-hoc
+		# ifconfig wlan0 192.168.0.2 netmask 255.255.0.0 up
+
+		nebo se proste pripojit a chytit DHCP.
+
+	Vakarian je "klient". Obsahuje v ~root/hokej tohle:
+		#!/bin/bash
+		ifconfig wlan0 down
+		ifconfig wlan0 up
+		iwconfig wlan0 essid hokej mode ad-hoc
+		ifconfig wlan0 192.168.0.2 netmask 255.255.0.0 up
+
+		/etc/resolv.conf:
+			nameserver 208.67.222.222
+			nameserver 208.67.220.220 # To je OpenDNS
+
+		ip route add default dev wlan0 via 192.168.0.1
+
+	Tezitko je "server". ~prvak/bin/hokej, potom je potreba zapnout forwarding, 
+
+	Vakarian nevydrzi dlouho bezet. Necht se tedy sam na nejakou dobu zapne a pak i sam vypne.
+
+Server: zaply syslog-ng v systemd, abych mel logy z postfixu a tak
+
+vgaswitcheroo: 'echo OFF > ...../switch'
+
+.iks-portfolio.yml v homu
+
+varovani na mail-queue-check kazdych 5 minut
+privatize kazdou hodinu
+test-server kazdou hodinu
+backup kazde poledne
+
+kazdych 6 hodin net-worth-keeper
+
+~/.sis-credentials.yml: pro stahovani veci ze SISu
+
+kazdych 5 minut se zkontroluje, jestli uz 5 minut nebezi locknuty screensaver, a provede se pokus o unmount
+
+pacman -S rust
+
+ntpd
+
+win-alt-h: spust htop
+
+/usr/lib/systemd/system-sleep: skript co se pusti pri suspendu -- pokusi se odmontovat crypto a zamkne obrazovku
+
+/etc/systemd/system/powertop-optimize.service: powertop --auto-tune

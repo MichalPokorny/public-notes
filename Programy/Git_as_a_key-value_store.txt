@@ -1,0 +1,10 @@
+git as a graph database:
+	tree: git update-index --add --cacheinfo 100644 (sha1) my-key.json
+		git write-tree ⇒ (tree-ish)
+
+commit: record of change: echo 'store some json' | git commit-tree (tree-ish)
+
+annotated tag: objekty v git databazi (changelog, podpis, ...)
+
+gem [[GitModel]] (trochu jako [[ActiveRecord]] - superfajn :) -- git model
+gollum: git-powered wiki

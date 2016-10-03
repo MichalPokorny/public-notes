@@ -1,0 +1,18 @@
+Prefix = C-a
+
+C-o	: rotuj panely
+C-z	: suspend the client
+!	: break
+"	: vertikalni split
+%	: horizontalni split
+&	: zabij okno
+0-9	: vyber okno
+;	: do posledniho aktivniho panelu
+c	: nove okno
+n	: dalsi okno
+o	: dalsi panel
+p	: predchozi okno
+t	: cas
+M-1-5: layout...
+C-nahoru dolu vlevo vpravo: zvetsit/zmensit
+M-nahoru dolu vlevo vpravo: vetsi zmenseni/zvetseni

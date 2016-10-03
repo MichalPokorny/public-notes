@@ -1,0 +1,17 @@
+%a(title=@title){attr: "widget_#{number}"}
+%script(type='text/javascript'
+        src='javascript.js')
+
+def hash1; { ... }; end
+def hash2; { ... }; end
+%sandwich{hash1,hash2,xyzzy: :foo}/ ==> <... />
+%input(selected)
+
+%div.c1.c2{class: c3} <--> {:class=>%w{c1 c2 c3}} <-> class="c1 c2 c3"
+ID: %div#a{id: 'b'} <--> %div{id: "a_b"} (['a', 'b'])
+
+HAML: #{...} v filtrech (:javascript etc.) neni HTML-escapovany
+
+= precede "*" do
+	%span Required
+(podobne 'succeed')

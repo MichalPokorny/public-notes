@@ -1,0 +1,11 @@
+asprintf
+
+zajimave: explicit_bzero
+calloc, reallocarray
+
+NOTE: puts pridava end-of-line character
+
+printf: %+d == signed, %#X == "alternate form", %a == ???
+%-4d = align left
+
+right-align continuation markers

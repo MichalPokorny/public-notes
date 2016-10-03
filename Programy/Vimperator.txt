@@ -1,0 +1,12 @@
+[f / ]f; ;f
+
+- hinttimeout - ms po kterych se aktivuje neunikatni hint
+
+vertical tabs
+
+smazani seznamu stazeni: rm ~/.mozilla/firefox/*/downloads.sqlite
+
+Firefox: Ctrl-DELETE: odstranit offending line
+web inspector: F12
+
+;I -- open hint image in new tab

@@ -1,0 +1,4 @@
+java: Map.Entry<K,V>
+java: .collect(Collectors.joining(", "))
+.mapToLong(...).sum()
+Collectors.groupingBy(...) ==> Map<X, List<Y>>

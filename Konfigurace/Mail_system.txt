@@ -1,0 +1,43 @@
+**Na serveru**
+	dovecot
+	postfix
+
+		- bezi na alternativnim SMTP portu (5257)
+			- BACHA NA TO, ABYCH NECHAL BEZET I TEN DEFAULTNI! (25)
+	
+		smtpd_tls_security_level = encrypt
+		+ nastaveni certifikatu a klice
+
+		delay_warning_time = 30m (!)
+
+		Dovecot poskytuje Postfixu auth backend.
+		
+	POZOR! Dovecot version mismatch zpusobeny nerestartem po upgradu
+	potichu zabije prichod mailu! EXPLICITNE KONTROLOVAT!
+
+**Na lokalu**
+	postfix
+		lokalni dorucovani:
+			home_mailbox = .maildir/
+		smtp_sasl_auth_enable=yes
+		smtp_sasl_password_maps=hash:/etc/postix/saslpasswd
+		smtp_always_send_ehlo=yes # PROC?
+		smtp_sasl_security_options= # TODO: tohle je nebezpecne!
+		smtp_generic_maps=hash:/etc/postfix/generic
+		smtp_tls_security_level = encrypt
+
+		generic:
+			@tezitko.localdomain pok@rny.cz
+			@localhost.localdomain pok@rny.cz
+
+	symlink do crypta - saslpass, saslpass.db!
+
+BACHA: MUSIM MIT TAKY DOSTATECNE VYSOKY LIMIT NA VELIKOST ZPRAV
+
+smtpd_client_restrictions = permit_mynetworks,
+        permit_sasl_authenticated,
+        reject_unauth_destination,
+        reject_rbl_client zen.spamhaus.org,
+        reject_rbl_client bl.spamcop.net,
+        reject_rbl_client cbl.abuseat.org,
+        permit

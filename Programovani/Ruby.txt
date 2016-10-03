@@ -1,0 +1,80 @@
+Proc.new si muze ukradnout muj blok... neee :D
+	sometimes_block { puts "Hi" }
+	sometimes_block
+
+	def sometimes_block; if block_given?; Proc.new.call; end; end
+
+Pomale operace:
+	:predicate? → lepsi zaaliasovat nez definovat
+	lambda je pomala: musi si pamatovat environment
+	define_method: pomale, pouziva to block
+
+TODO: naucit se jak funguje Benchmark (nazpamet)
+
+- def x(*); super; end -- tohle je asi jedine uzitecne pouziti anonymniho splatu...
+
+- Nemusim byt jediny, kdo pretezuje method_missing. Musim volat super. (podobne pri respond_to?)
+
+- Ruboto, Mirah -- jazyky kompilovane do Javy (Mirah je hodne podobny Ruby)
+	- ruboto je proste ruby pro jvm Dalvik
+
+- slideshow gem
+
+- 2D fyzika: chipmunk-physics. ma to Ruby FFI bindingy.
+
+- rack-middleware_profiler: profiluje jako middleware
+- memprof: ruby memory profiling
+
+- od 2.1.0 jde out-of-band garbage collection (to mozna umozni delat gc mezi requesty)
+
+#call syntactic sugar: x = lambda {|a,b| a+b}; x.(1,2) # 3
+
+FactoryGirl.lint pred vsemi testy!
+
+- Enumerable#flat_map
+- ruby hash: default_proc (da se predat v konstruktoru)
+
+- bbatsov/ruby-style-guide
+- rubocop
+
+acts_as_tree; acts_as_nested_set
+Rails RJS: generovani templatu na zmeny elementu stranky! :D
+^^ (Rails)
+assert_valid_markup test helper
+ActiveRecord calculations
+
+Rails services
+
+ruby: %i: symbol array syntax
+
+rspec: its("phone_numbers.size") { should == 2 }
+its([:key]) { should eq(value) }: na hashe
+TODO: jak RSpec dela, ze jde udelat 'def'?
+TODO: rspec: shared context = ?
+fuubar: instafailing rspec progress bar formatter
+
+benchmark/ips
+benchmark: standard library ruby (naucit se!)
+ips: iterations/second -- pocita kolikrat se to stihne za sekundu
+ruby: stackprof
+GC.stat()
+GC.stat(:total_allocated_object)
+allocation_tracer gem
+find(1), find([1]), find([[1]]), find({1 => 1}), find(post), find(1) { ... } (???), scoping { find } -- NAUCIT SE, zni to hezky
+Ruby: TracePoint(:c_call, :call) a podobne
+ruby: html_safe subclasses String
+
+begin -- rescue -- else
+
+extend = to same jako include, ale na singleton class
+
+ruby: next = break block, break = out of iterator invoking block, return returns
+
+.method(:...).source_location
+
+trailblazerb.org ("more opinionated Rails")
+ruby array.lazy
+
+URI.regexp je builtin
+
+"-run": umi spoustu veci (modul 'un')

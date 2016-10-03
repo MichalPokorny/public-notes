@@ -1,0 +1,66 @@
+- ferret = vyhledavac
+- taps = export / import
+- workling, starling = delayed tasks
+- better_errors = lepsi chybova obrazovka
+- conductor = web console
+
+- cucumber-rails
+- enginex = na vytvareni gemu pro rails
+
+- Faye - asynchronni zpravy.
+
+- spree-product-assembly: "produkt se sklada z dilu"
+
+- rolify - role
+
+- pelusa - staticka analyza
+
+- jammit - asset compressor
+- settingslogic
+- thinking sphinx
+
+- green_shoes - shoes jako gem
+- metasearch
+- ip-world-map
+- secretsharing
+- kaminari: pagination
+
+- minitest/benchmark (alternativa k core benchmarku, asi umi testovat asymptotickou slozitost)
+
+- faker: generovani testovacich dat
+- bullet: kill N+1 queries
+- netzke: RIAs
+- facebooker
+
+- ocr: gem na OCR webservisy
+
+- pg_trace
+
+- tolk: translations
+- rails-footnotes
+- rack-bug
+- rack-webconsole
+- rails-web-console
+- tubesock (websockets)
+
+- tlearn: gem co umi rekurentni neuronky
+
+- simplecov
+- perftools.rb: performance nastroje
+- ragel: state machine builder
+
+- rails-admin
+- A/Bingo
+- authlogic
+
+- coderay - syntax highlighting
+
+- whois: Whois.available?(domain)
+
+- thoughtbot/quietbacktrace -- zabije zbytecny backtrace v rake testech
+
+- ruby-ares: ruby ARES access
+
+- PJK/spark_rb
+
+- jazz_hands

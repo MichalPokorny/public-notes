@@ -1,0 +1,1 @@
+mplayer -af scaletempo: zrychlovani bez snizovani a zvysovani pitche

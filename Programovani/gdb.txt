@@ -1,0 +1,4 @@
+gdb: TUI: Ctrl-A X, then repaint with Ctrl-L
+	Ctrl-X 1, Ctrl-X 2 (switch windows)
+	gdb has python
+	python prettyprinters

@@ -1,0 +1,36 @@
+belongs_to :customer ==> #create_customer!; bez !; build_...
+relations: validate: true vypada uzitecne
+Rails: assoc "readonly" -- muze byt uzitecne - freezne ten objekt
+belongs_to x.y=z ==> neuklada
+nemame has_one s NULLy? dependent: :restrict_with_exception?
+has_one: x.y=z ==> z is automatically saved (to update FK). old object is saved, too (to update FK). validation errors => assg. stmt. returns false, assignment cancelled (unless parent unsaved -- then saved when parent saved)
+@campaign.orders.destroy(@order1); ALWAYS will be removed, ignoring :dependent
+@campaign.order_ids
+has_many.clear ==> dependent: :destroy => destroy; :delete_all => delete from db
+collection.empty?
+dependent: :restrict_with_exception: zakaz smazani parenta pokud existuji associated objects
+has_many: ma defaultne validate: true!!! to znamena ze kdyz ukladame kampan, tak to validuje vsechny ordery!!! FAIL!
+-> { uniq } ====> -> { distinct }
+has_many <<: automatically saved to update FK
+parent record new_record? ==> members will be autosaved when parent is saved
+has_many: :before_add, :after_add, :before_remove, :after_remove
+has_many :orders do ... end:: muzu tam pridefinovat (priextendovat) libovolny blok; jde to grupovat: -> { extending(FindRecentExtension) }
+^- proxy_association.owner; proxy_association.reflection; proxy_association.target
+ruby: spring
+Rails.application.message_verifier(:remember_me)
+^^- vypada fakt hezky
+
+https://github.com/rails/spring/blob/master/README.md
+X-Request-ID, ActionDispatch::Request#uuid by se mohlo hodit (ActionDispatch::RequestId middleware)
+(pry)
+ActionDispatch::Http::ParameterFilter
+
+na spravnejsi nelogovani klice: http://stackoverflow.com/questions/6152388/manually-filter-parameters-in-rails
+config.action_dispatch.signed_cookie_salt, encrypted_cookie_salt. VISIT JE SIGNED, NE ENCRYPTED! encrypted_signed_cookie_salt
+activsupport taggedlogging
+
+rails: blank? string === obsahuje jenom whitespace
+0, 0.0 nejsou blank
+.presence = present? or nil
+.try { |p| ... }
+git --intent-to-add

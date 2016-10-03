@@ -1,0 +1,137 @@
+<h2>Programming languages</h2>
+* Objective-C, Node.js, swift, rust, closure, scala
+* F#
+* Scala (+ FP in Scala; Coursera course)
+	* Android apps
+* Erlang
+* GNU R
+* Asymptote/Metapost
+* Google Dart (Dart Editor)
+* mit-scheme
+* Opa
+* XPath
+* Clojure
+* Rust
+* Groovy/Grails
+* Oz
+* D
+
+<h2>Programming (other)</h2>
+* C++ prev\_/next\_permutation (STL)
+* Unreal Development Kit
+* O(n) in-place merging
+* Ruby refinements
+* WebSockets
+* Blender
+* Java: Hibernate
+
+<h2>Misc</h2>
+* ureddit: intro to category theory, group representations
+* Angular (egghead.io)
+* client-side JS (Backbone, ...)
+* JS/jQuery frontends
+* Tesnopis/zkratky na psani
+* Zopakovat reckou abecedu
+* COBOL?
+* Objectivism
+* Empiricism (Aristoteles)
+* Naucit se hrat harmonicke na kytaru
+* fyzika
+
+<h2>CS</h2>
+* Datove struktury:
+	* Heavy-Light dekompozice
+	* Merkle tree
+	* gap buffer
+	* R-tree
+	* Fibonacciho halda
+	* Perzistentni datove struktury
+	* Skip listy, red-black stromy, splay stromy, fibonacciho haldy
+	* bentley-saxe trick (dynamizace statickych DS)
+* Kombagra 2:
+	* Turanova veta
+	* Veta o #E v grafu bez uplneho minoru
+	* Erdos-Ko-Rado veta (z Diestel - Graph Theory)
+* AKS primality test
+* Markov decision process
+* Cache coherence algos
+* Zpusob mapovani virt. pameti
+* Pochopit O(N) rovinnostni test
+* Some perfect hashing algorithm (CHD?)
+* Hindley/Milner type inference alg.
+* Ukkonenova konstrukce suffixoveho stromu (string.pdf v ~/study/done/ads)
+* self-organizing map
+* tar format
+
+<h2>Math</h2>
+* dukaz centralni limitni vety
+* zopakovat si definici exp(x)
+
+* Sapolsky - evolutionary biology
+
+non-principal ultrafilter => hyperreals
+nonstandard analysis
+von neumann-morgenstern veta
+hyperreal numbers
+
+prospect theory
+
+coefficient of determination
+
+context adaptive arithmetic coding
+probability interpretations
+C# 6
+poradneji Monte Carlo tree search
+timeless decision theory
+https://en.wikipedia.org/wiki/Autoregressive_integrated_moving_average
+
+"ABAP"?; chef; flume; hadoop
+data-oriented design
+
+stats: learn separating out multiple correlations
+
+http://multithreaded.stitchfix.com/blog/2016/04/21/forget-arima/
+https://en.wikipedia.org/wiki/Autoregressive_integrated_moving_average
+
+log-normal distribution
+naucit se full windsor knot
+MESI synchronizace (MOESI synchronizace) cache
+
+ethereum
+
+nastudovat gender stuff
+
+Hoeffdingova nerovnost
+
+arithmetic coding
+
+vyzkumna metodologie v socialnich vedach (experiment, kvazi-experiment,
+	reliabilita, validita, grounded theory, Cronbachova alfa, statisticke
+	testy, ...)
+
+ekonomika
+
+uceni restricted boltzmann machines
+
+https://en.wikipedia.org/wiki/Probably_approximately_correct_learning
+
+pochopit python metaclasses
+
+https://grml.org/zsh/zsh-lovers.html
+http://reasoniamhere.com/2014/01/11/outrageously-useful-tips-to-master-your-z-shell/
+https://github.com/jlevy/the-art-of-command-line
+
+learn: non-cognitivism, error theory, subjectivism, substantive realism, constructivism
+
+binarizace neuronovych siti
+
+LSTM
+
+koncept "power law" (distribuce)
+
+counterfactual thinking
+ablation studies
+metaanalyses, statistics
+scared straight: regression to the mean
+
+cross-entropy cost function

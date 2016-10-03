@@ -1,0 +1,5 @@
+; = tag-prefix
+s = save
+;s = move
+
+filtr: ~f yaghob = From, ~t yaghob = To
