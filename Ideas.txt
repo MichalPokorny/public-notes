@@ -1,0 +1,23 @@
+- Try something for 30 days.
+- prekladac hudby do tabu
+	- 2 casti: jedna bude urcovat podobnost, druha tam bude cpat pokusy o vytabovani
+- malovani
+- couch surfing
+- xmonad Shell modul na trideni podle pouzivani
+- preventor duplikatu
+	inotify, QFileSystemWatcher
+- automatizace ukladani vahy
+- vazani tkanicek: http://www.youtube.com/watch?v=WgSwvDkJVxE
+- Google Finance virtualni burza
+- ulozit si privatni klic a takove veci do sejfu v bance (muzu tam i pridat ruzna vysvedceni a podobne veci) - stoji v KB 1020 + 20% DPH rocne
+- kompletne cryptohome (je otazka jestli to je tak dobry napad jako polocrypto)
+- mobil se da dat na snurku
+- Stalker na zaklade open source; Stalker RPG
+- gem, co ukaze developerovi plnou chybu, ale normalnimu cloveku nic zajimaveho. Tohle by slo udelat sifrovanim a trochou JavaScriptu.
+- skript, co se podiva do textu mailu a upozorni, kdyz pisu, ze ma prilohu, ale nema ji
+
+**Startupy:**
+	- questy ve skutecnem zivote
+	- google "feature request" -> ok.
+
+
