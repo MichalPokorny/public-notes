@@ -1,0 +1,36 @@
+Anki: decks are trees; 'Chinese::Hanzl'
+word, meaning, page number
+	related information: "note", piece of information: "field"
+customizing fields
+blueprint: card type
+	Q: {{French}}
+	A: {{English}}<br>Page #{{Page}}
+	production: similar
+	add and edit card types: Cards... button
+new collection: Anki adds some standard note types to it
+	Basic; Basic (and reversed card); Basic (optional reversed
+	card); Cloze (Cloze deletion)
+tags
+
+spacebar: Good; 1 = Again, 2 = Good, 3 = Easy
+
+Anki: record audio - incl. answers
+
+Anki: checking your answer: http://ankisrs.net/docs/manual.html#typinganswers
+
+LAUNCHING: anki -b dropbox/anki
+{{type:Foreign Word}}
+
+{{type:cloze:1993}}
+styling: .card, .card1, img, img#start, ...
+{{hint:MyField}}
+special fields: {{Tags}}, {{Type}}, {{Deck}}, {{Subdeck}}, {{Card}}, {{FrontSide}}
+File: <img src="_logo.jpg"> (will be exported when sharing the deck)
+	Media references to fields are not allowed (will not work) -- latex, sound, img
+	store in "User 1"
+
+{{#FieldName}} ... {{/FieldName}}: shown only if non-empty, {{^FieldName}}: only if empty
+
+{{text:Expression}}: strip HTML
+
+AnkiWeb

@@ -1,0 +1,542 @@
+MOZNA SI BUDU MOCT UKRADNOUT prvak.cz!
+	- prvak.cz
+	- pokorny.name
+	- prvak.name
+	- prvak.info
+
+TODO: zalozit si seznam narozenin a svatku
+TODO: sada na opravu duse?
+TODO: sehnat stop-motion videa z K-SCUKu (Lukas mi poslal neco jineho...)
+TODO: POSTFIX BOUNCES POSILEJ NA POK@RNY.CZ!
+TODO: ICE kontakt v mobilu
+TODO: nastavit na facebooku notifikace na zpravy od neznamych
+TODO: existuje neco jako 'remind at location'?
+TODO: procistit vnitrni pamet mobilu
+TODO: check out 'subtle' - ruby WM
+TODO: poradne se naucit zehlit
+TODO: zmerit delku 'hand span', vzdalenost natazenych rukou
+
+TODO: https://www.google.com/settings/u/0/account/inactive
+TODO: papir "je mi 20"?
+TODO: zastavit se nekdy za kardiologem?
+NetHack hpmon
+Podivat se na:
+	http://www.kieser-training.cz/
+	http://www.youtube.com/user/scooby1961
+	https://www.youtube.com/watch?v=pIrcgwf_kUo
+
+deltovy sval (vrsek ramena)
+cvicit si ramena!
+
+screensaver-unmount: zmeneno z intervalu 20 min na 1 hod
+
+"edit command line in editor": jak v zsh?
+linux: program 'spark' (console sparkcharts)
+
+cheatsheet: narozky, miry, veky, ...
+
+zjistit neco o beer brewing?
+learn docker
+naucit se nazpamet UTF-8 encoding?
+
+the 4-hour workweek (muse business)
+poridit si mail @mff.cuni.cz?
+
+cesky basnik: Skácel
+
+lectures (combinatorics, set theory, etc.): https://www.reddit.com/tb/2xtojb
+dysthymia
+
+contribute to Electronic Frontier Foundation
+coding with ETF (HTTPS everywhere, etc.)
+
+write-only...
+
+zmigrovat ((Digital Ocean))
+
+http://www.ifweassume.com/2013/08/the-de-evolution-of-my-laptop-battery.html -- napsat podle toho clanecek na stranku
+
+http://mywiki.wooledge.org/BashGuide
+https://github.com/szilard/benchm-ml
+
+zjistit si pouziti ropy ve svete
+http://mrzool.cc/tex-boilerplates/
+
+TODO: cannot access ~/notes if it's not mounted
+TODO: must not start Dropbox if it's not mounted
+
+TODO: vejit do tarifu s O2ckem?
+
+najit si diplomku Martina Balka - hledani erdos-szekeres pres SAT
+
+TODO: jaky je Dropbox SLA?
+create cold backup, not bound to dropbox?
+test that dropbox keeps extended attributes
+
+* public speaking class (ToastMasters?)
+* bucket list
+* konzole na mobil (pingovani, sshovani, ...)
+* nova zidle
+* sehnat ucetniho? (zrejme ~6k za trzni ceny)
+* find czech wordlist
+* life cost-benefit analysis
+* upcoming IPOs
+* hackersurfing
+* rychla navigace v souborech (jako ma DestroyAllSoftware)
+* refresh bitcoin backups; remove duplicate/empty wallets!
+* proc nefunguje odmontovavani crypta? proc se odmonotovava kdyz nema?
+	* reenable screensaver-unmount
+* prejit na vic one-click OS...
+* get better handle? move GitHub?
+	* requires link updating :(
+* if-found wallpaper for phone
+* add wallet-btc to BTC backups
+* soukromy skladovy skript?
+* jak dlouho budou existovat nahradni dily na X230?
+* seridit kolo
+* pridat moje gemy do ruby toolbox?
+* Dragon:
+	* aktivovat FTP backup
+	* vyrobit instalacni skript? (Docker image?)
+* ThinkPad: heslo k HDD? fingerprint auth?
+* root: chci mit v dotfiles reference na vim bundles jenom kdyz jsem normalni uzivatel (root by mel mit spolehlivou konfiguraci)
+* whyday
+* poridit si vizitky?
+* check out 'owncloud' - mohla by se hodit tvrda zaloha
+* AndroidLost admin rights
+* bezpecnejsi login? co kdyz prijdu o klic? hesla by nemela stacit...
+
+rewrite deduplicator in go
+
+TODO: vyresit /stara cdcka, /from-crypto
+
+rescuetime: stop collecting window + document titles?
+
+3000 work Pomodoros, 500 study Pomodoros, 500 personal Pomodoros
+
+/etc/letsencrypt/* on server -- mel bych to zabackupovat
+/etc/letsencrypt/live/mail.rny.cz/fullchain.pem
+renewing certificates every month
+
+hnuti brontosaurus
+future of humanity institude - visit?  (Ondra)
+
+stockton vypada nefunkcne!
+
+neural network + stacks/tapes
+
+koupit rozdvojku na audio
+
+nastudovat neurosis / neurotic
+
+study synthetic biology existential risks
+http://www.existential-risk.org/faq.html
+
+join ACM? (policy-affecting)
+
+focus on health
+learn how to identify and solve problems
+soft skills are important
+learn how to teach
+
+Amazon Dynamo whitepaper
+
+rosseau: teorie obecneho blaha
+
+read list of AI safety papers
+https://docs.google.com/document/d/1BJzvwDTEzgv7YC100SA1LuqyDzTf1Gqe4QaOz-460gA/edit#
+
+TODO: urgovat zverejneni Fable of the Dragon-Tyrant na Bostromove strance
+
+unbreak kbcsvgrab.py
+
+fio osobni ucet
+
+http://www.sens.org/research/introduction-to-sens-research
+
+poridit lekarnicku, teplomer
+
+study free will & determinism
+
+test na facebook app listening
+
+zmerit moji vysku
+
+naucit se hrat sound of silence
+
+rozsirit delani screenshotu: dokazal bych potencialne nahravat vsechno, co delam s pocitacem? neco uzitecneho s tim delat?
+
+learning how to learn -- uc san diego na coursere
+
+naucit se hrat go
+
+prazdninova skola Lipnice, Velky vuz
+
+MIRI - do a workshop
+
+check out Clever Eating (effects of removing meat)
+
+investigate lifespan impact of vegetarianism
+	blood screen: risk factor na nemoci, impact na lifespan, B-12, D, omega-3
+
+TODO: backupy na vsechny textove materialy s historii -- dropbox mista na to mam nejspis zcela dost
+
+clanek 'how robust is the wisdom of crowds'
+
+memics.cz: CS konference
+
+luminosity
+	let there be light: start with psych studies, personality tests, feedback
+	myers-briggs, big five (tests)
+	http://skyview.vansd.org/lschmidt/Projects/The%20Nine%20Types%20of%20Intelligence.htm
+	book: love language
+	affect, behavior, circumstance
+	frequent agressive introspection
+	stream of consciousness, 5-10 minutes
+	city of lights (multiagency)
+
+arguments for universal objective binding morality
+
+jak to vypada geograficky s "pasmem gazy"? neni to spojene s palestinou?
+
+dalsi KSP sraz
+
+"the terrible horrible ... ..." - 28/377, 1.2 two meanings of "moral"
+
+join forums for LW, EA
+
+cerebrolysin
+
+udelat si IQ test
+
+CFAR for ML Researchers (CMLR) -- Aug 30-Sept 4 http://rationality.org/cfar-for-ml-researchers/
+
+povesit si postery
+
+mel bych zase zacit hubnout!
+
+je sance, ze jeste existuji moje zaznamy od psycholozky, kdyz jsem tam byl?
+
+spend more time with family -- they might die while I'm gone
+
+sehnat houby, pozvat tomiho na vec
+
+book giveaway
+	Real World Haskell: Tomas Marius -- pred 12.5.
+	navrhove vzory v php: pro dominika kadlcka -- pred 12.5.
+
+emotional dependency
+
+http://log.or.cz/?cat=150
+http://www.deeplearningbook.org/
+https://iamaaditya.github.io/2016/04/visual_question_answering_demo_notebook
+http://www.effective-altruism.com/ea/vo/expected_value_estimates_you_can_maybe_take/
+
+strategy of conflict: zbyva precist Part 4+
+
+dluzim kajovi par piv (za KFC z Polska)
+
+existuje nejaky argument proti antinatalistickemu pohledu?
+
+http://theuncertainfuture.com/
+
+http://lesswrong.com/lw/ur/crisis_of_faith/
+
+EA Global
+
+cryonics criticism: http://cryomedical.blogspot.com
+
+http://www.givewell.org/labs/causes/ai-risk
+http://blog.givewell.org/2015/03/11/open-philanthropy-project-update-global-catastrophic-risks/
+
+https://www.twilio.com/blog/2016/02/patrick-mckenzie-on-salary-negotiation-job-hunting.html
+Martin Fowler: sw engineer, author, international public speaker on SWE. smart guy. has blog.
+
+http://wiki.80000hours.org/index.php/AI_Safety_Research
+
+Jerry Fodor (philosopher)
+
+pridat do CV: spring school of combinatorics 2014 stuff
+
+clovek: David Chalmers
+
+gantt charts
+
+throw out all socks, get 30 identical pairs
+
+TODO: zazalohovat Dropbox 2FA one-time access codes
+
+TODO: stahnout 'find the music in you'
+
+Galibi deskovky
+
+precist: whole brain emulation: a roadmap
+nick bostrom: the future of human evolution
+
+Ingress
+
+lucid dreaming: reality checking
+
+http://apophis.cz/blog/
+
+existentialist play: No Exit
+
+LessWrong CZ: EA propagace
+
+webpage: hodit tam prezentaci o Bazelu
+
+vzit si z Bloxu VGA kabel
+
+Pasky - portfolio algoritmu
+
+the unreality of time
+
+multi-armed bandit problem (Tomas Tunys z CVUT eClub media lab)
+
+clanek "rational actors or rational fools: implications of the affect heuristic for behavioral economics"
+
+precist Book of life
+
+listen to audiobooks at 2-3x normal speed
+
+koupit osusku
+
+teorie prospektu (kahneman a tversky)
+
+podivat se na eliezerovy stare maily z ~1997
+
+nahodny casovac - co ted sakra delam?
+
+vitamin D, B-12, omega-3, CoQ-10
+	vitaminy A + D: http://nakup.itesco.cz/cs-CZ/ProductDetail/ProductDetail/2001130322971
+		D3, A
+	vitamin B (bez 12) + vitamin C: http://nakup.itesco.cz/cs-CZ/ProductDetail/ProductDetail/2001120814554
+	omega 3: http://nakup.itesco.cz/cs-CZ/ProductDetail/ProductDetail/2001018301095
+	koenzym Q10: http://nakup.itesco.cz/cs-CZ/ProductDetail/ProductDetail/2001130559303
+
+change diet, work out in the morning, maximize health, maximize physical attractiveness
+
+agentyduck.blogspot.com
+
+brazilian jiu jitsu
+
+build self-worth
+
+https://blog.gregbrockman.com/my-path-to-openai
+
+relationship advice thread z order of the stick
+http://lesswrong.com/lw/m78/strategies_and_tools_for_getting_through_a_break/
+
+Alicorn - Rationalist Gothic
+
+pridat denik do Dropboxu; uchovavat si ho nejak strukturovane
+
+fixnout na mobilu muziku (album Built to Spill - You in Reverse)
+
+Inspiration Manifestation: Rarity se tam uklidnuje jedenim zmrzliny :D
+
+knizka, ve ktere hlavni hrdina ma rozdelene hemisfery
+stalo se mu to asi na mesici jestli si dobre vzpominam
+komunikovaly spolu pomoci morseovky
+
+kosik.cz
+
+Go klub (MFF)
+
+Argunet (software na argument mapping)
+
+http://searchwarp.com/swa267806.htm
+
+"ugh field": actively look out for the flinch
+
+koupit vic kratasu
+
+dukkha: https://en.wikipedia.org/wiki/Dukkha
+	make a list of things you're grateful for
+
+ricardo's law of comparative advantage
+
+http://blog.keras.io/building-autoencoders-in-keras.html
+
+mel bych purgnout stary notebook
+
+existuje nejaky spravny zpusob, jak na kytaru davat nove struny?
+	zrejme jsem to posledne udelal dost divne.
+
+opravit na kytare takovy ten "jezdici plast" na leve strane hmatniku
+
+http://www.asofterworld.com/index.php?id=1199
+	I wish being in love was enough. I wish it counted for anything at all.
+http://www.asofterworld.com/index.php?id=1045
+	I wish I could give you everything you want and still be me.
+http://www.asofterworld.com/index.php?id=1033
+	Ah, unrequited love. When your best isn't enough.
+http://www.asofterworld.com/index.php?id=1000
+	Nothing can change the way I feel about you. I wish it could.
+http://www.asofterworld.com/index.php?id=765
+	You were my everything, which, upon reflection, was probably the problem.
+http://www.asofterworld.com/index.php?id=603
+	I know that I don't deserve you, but that's okay. Life's not fair.
+http://www.asofterworld.com/index.php?id=539
+	Unrequited love is a waste of time. Just walk it off. There. I said it.
+http://www.asofterworld.com/index.php?id=430
+	Ah, love at first sight. When you see someone so beautiful that you
+	forget they aren't there just for you.
+http://www.asofterworld.com/index.php?id=428
+	When Kurt Vonnegut suggested that you stop once in a while to say,
+	"If this isn't nice, I don't know what is." He was giving you the best
+	mid-makeout move ever.
+
+let people finish their sentences
+toastmasters
+
+Lipa Musica
+
+vzit domu levanduli a dalsi masti
+
+https://www.samharris.org/blog/item/taming-the-mind
+
+liska bystrouska
+
+koupit si jesterku az budu mit trvaly byt
+
+behani: http://www.kpo.cz/fyziologie/fyziologie.htm
+
+https://web.archive.org/web/20141013084825/http://kruel.co/2013/01/07/why-you-should-be-wary-of-the-singularity-institute/#sthash.5uZCbQRI.dpbs
+https://web.archive.org/web/20141013084617/http://kruel.co/2013/01/10/the-singularity-institute-how-they-brainwash-you/#sthash.1Tc1wW5U.dpbs
+https://wiki.lesswrong.com/wiki/Roko's_basilisk
+
+check for vitamin deficiencies, anaemia, hypothyroidism
+do therapy on yourself
+
+autocommit pri kazdem zavreni Vimu
+
+mapa Prahy nebo sveta na vnitrni strane dveri od zachoda
+diktafon na dokonalou pamet
+Spinalis zidle
+Viden - narodni opera
+
+david hume
+
+sophistication effect: greater ammunition to shoot down facts
+cached selves
+consider the opposite: "what are some reasons that my initial judgement might be wrong?"
+cognitive override: notice when speaking/acting on intuitive judgement
+
+commitment and consistency effects: any random thing you say or do in the absence of obvious outside pressure can hijack your self-concept for the medium- to long-term future
+
+positive hypocricy: speak and act like the person you wish you were
+visualize your life as something you just inherited from someone else
+
+before the battle: leave a line of retreat
+during the battle: call out flinching reactions
+
+envision what could go badly if you come to false beliefs
+
+http://www.marcandangel.com/2011/12/11/30-things-to-stop-doing-to-yourself/
+
+koupit vahu, co umi automaticky logovat vahu do webservice po wifi
+
+na LessWrong: perfect memory
+	- snazil se o to uz nekdo?
+	- kolik pameti je potreba na jake smysly?
+	- co vsechno bychom mohli vedet, kdybychom meli lepsi pristup k pameti?
+
+najit: draco telling harry to always be ready to give everything back
+
+zlozvyk: jedeni oboci
+
+my giving
+naucit se varit s nahrazkami masa
+
+E.C.Escher -- obrazek cloveka jak se diva na kouli a vidi v ni sam sebe
+
+right hemisphere dysfunction: https://medicalspeechpathology.wordpress.com/student-handbook/right-hemisphere-dysfunction/
+
+RehaLand
+ortoped v Praze: Jakub Vranka (poliklinika)
+
+gratitude journal
+
+AI Safety Syllabus: https://docs.google.com/document/d/1B6KjyzeW_HpFi9GSgcLON2p9KcA-MqrrjEbFsuUqY00/edit#heading=h.dc8oimokjfao
+
+join myfitnesspal + beeminder + vaha.ods
+
+issue on deadlock empire
+
+TODO: fix na to ze Dropbox se nestartuje sam!
+
+vyresit mobilni internet O2 - po vycerpani se vypne
+
+spend more time in Mode 2
+Don’t wait until your deathbed to figure out what life is all about.
+
+koupit tempeh
+
+tarif? lepsi mobilni internet?
+
+test na anemii: anemie zpusobuje depresi
+
+https://www.reddit.com/r/theXeffect
+
+* jit na Galibi
+
+https://adeshpande3.github.io/adeshpande3.github.io/The-9-Deep-Learning-Papers-You-Need-To-Know-About.html
+
+podivat se na skorovaci systemy na Go
+
+http://www.paulgraham.com/vb.html
+
+rungo.cz: terminovka   http://rungo.idnes.cz/terminovka.aspx
+Praha: 2 ligy na 10k
+Vitkov, Branik -- standartni 10k kazdy mesic
+Loap prazska bezecka tour: http://www.vaseliga.cz/cz/sporty/behani/
+
+look for: critique of consequentialism, critique of moral realism
+
+service worker api
+koupit si propagandisticke plakaty
+
+visit stiftung for EA in Berlin
+
+apply to OpenAI
+
+zkusit Steem
+
+pouzivat Anki
+
+https://wiki.lesswrong.com/wiki/Creating_Friendly_AI
+TODO: Lipa Musica - program?
+
+how to create false memories?
+
+dual n-back test na zlepseni general cognitive ability
+
+TODO: ssh-agent on metacentrum
+
+http://slideslive.com/casp/xiii-celostatni-konference-casp-laska-ve-21-stoleti
+
+get more money from work
+
+Hegel (world-spirit)
+
+Napsat povidku
+
+Budou nove dily Black Mirror (tenhle rok?)
+
+Jak by me slo presvedcit o tom, ze bych mel venovat na bezpecnost umele inteligence?
+
+Anime: Ajin; Geki no Souma; Haikyu
+
+Voltaire's Candide
+
+naucit se Crystal
+
+TODO: change swapfile location.
+
+https://nthlook.wordpress.com/2015/12/31/self-improve-in-10-years/
+http://tkipf.github.io/graph-convolutional-networks/
+
+Chrome ma moznost loadnout savenutou page
+
+mind hacking
