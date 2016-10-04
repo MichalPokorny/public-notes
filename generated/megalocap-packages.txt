@@ -171,7 +171,6 @@ libva-intel-driver
 lighttpd
 linux
 linux-headers
-litecoin-qt
 logrotate
 lsof
 ltris
@@ -265,7 +264,6 @@ qscintilla-qt4
 qt5-svg
 qtcreator
 quazip-qt4
-r
 rcm
 rdesktop
 redshift
