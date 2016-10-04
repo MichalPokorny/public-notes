@@ -913,3 +913,5 @@ https://www.udacity.com/course/deep-learning--ud730
 reciprocity.io
 
 ABMT (attention bias modification training), CBM (cognitive bias modification)
+
+Elektrosluch - https://www.youtube.com/watch?v=jc9yFVojlE4

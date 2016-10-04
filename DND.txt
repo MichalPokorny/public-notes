@@ -1,0 +1,103 @@
+aasterinian = draconian messenger deity
+io = dragon god
+
+'how do others perceive you in social interactions?'
+	cheerful/charming/talkative/witty/reserved/relaxed
+'how optimistic are you?'
+	enthusiastic/hopeful/fatalistic/grim/self-assured/brooding
+'how trusting are you?'
+	gullible/open-minded/skeptical/suspicious/naive/trusting
+
+'how assertive are you at a decision point?'
+	humble/timid/adaptable/easygoing/commanding/impatient
+'how conscientious are you about following rules?'
+	scrupulous/honest/pragmatic/flexible/dutiful/wild
+'how empathetic are you?'
+	kind/stern/thoughtful/protective/hard-hearted/oblivious
+
+'how courageous are you in dire straits?'
+	brave/competitive/steady/cautious/reckless/fierce
+'how do you feel when faced by setbacks?'
+	stoic/driven/happy-go-lucky/vengeful/bold/impassioned
+'how are your nerves?'
+	calm/skittish/restless/impulsive/patient/unshakable
+
+sayings/patterns
+
+why did you decide to be an adventurer?
+how did you acquire your class?
+how did you acquire your starting equipment?
+what's the worst event of your life?
+what's the best thing that ever happened to you?
+do you stay in contact w/ family?
+
+attack = 1d20 + (level/2) + (ability score mod / 2) + all other modifiers
+skill check = 1d20 + ability score modifier + all other modifiers
+ability check = to same
+
+level 4,8,14,18,24,28: increase 2 different ability scores
+level 11,21: all abilities +1
+increase ability to even => ability mod goes up
+level 11/21: paragon path/epic destiny
+feats: level 1, kazdy even level + 11 + 21
+
+level 1: two at-will attack powers
+level 1: one 1st-level encounter power
+level 3,7: new enc. level of <= level
+level 11: new enc. power based on paragon path
+13,17,23,27: replace any encounter attack with new from <= level
+daily attack: level 1 from list
+level 5, 9: new powers
+level 20: new daily power based on paragon path
+15, 19, 25: 29: can replace daily attack power from <= level
+utility: level 2 from list, dale 6, 10, 16, 22: new
+12: utility from paragon path
+26: utility from epic destiny
+retrain: one thing per level change
+heroic: 1-10, paragon: 11-20, epic: 21-30
+
+alignment, patron deity, (group)
+
+AC, fortitude, reflex, will = 10 + level/2 + ability modifier
++bonus from armor to AC
+ability score, modifier, mod+level/2
+HP: f(class, level) + constitution
+	healing surge = HP / 4
+trained skills: +5 bonus to checks
+
+dragonborn: +2 STR +2 CHR, speed 6
+	bloodied => +1 to attack
+	healing surge = HP/4 + CON modifier
+	dragon breath encounter power
+		acid/cold/fire/lightning/poison
+		close blast 3
+		STR+2/CON+2/DEX+2 vs Reflex
+		hit 1d6 + CON modifier
+			(lel11: +4 bonus, 2d6+CON mod dmg)
+			(lvl21: +6 bonus, 3d6+CON mod dmg)
+	arkhosia = old dragon empire
+
+bahamut = dragon god of justice, protection, nobility, honor (lawful good)
+
+*****************************************************************************
+
+only 1 'channel divinity' ability per encounter
+
+divine mettle: minor burst 10 - make saving throw + Cha
+divine challenge: uses Cha
+
+paladin dragonborn
+
+unread classes: ranger+
+bluff: can be used to gain combat advantage by feinting (standard action)
+	=> until end of next turn (once per combat)
+create diversion to hide -> stealth check
+dungeoneering: forage, monster knowledge (far realm)
+DC10 Heal: allow adjacent to use second wind without spending action (doesn't gain defense bonuses)
+DC15 Heal: stabilize dying
+DC15 Heal: grant saving throw to adjacent, or give +2 bonus to next
+treat disease: check result replaces endurance
+
+Hrncire
+
+roll twice and use either je jako +3.825

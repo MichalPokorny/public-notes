@@ -20,4 +20,95 @@
 	- questy ve skutecnem zivote
 	- google "feature request" -> ok.
 
+**Akademicke:**
+	- struktura, co rychle prozradi artikulace, a co se umi rychle prepocitat po odebrani vrcholu
 
+**Drobnosti:**
+	- muzu mit na dragonu vlastni named.
+	- hodne vtipne by bylo pohrat si s crypto-autentizaci flashkou
+	- Xyzzy Foo bar
+
+- open source: libfprint uklada data o otistich nesifrovane!!!
+- vyukovy text o splay stromech
+- laser tag date
+
+ruby: .tap {...} ==> .use { |x| ... }
+
+- explore stock closeness metrics
+
+"ok google" tool
+financial data startup/service/website
+
+HTML terminal - mame HTML, muzeme z nej stavet GUI
+
+eye tracking; better cli ui (s eye trackingem)
+
+unreal engine je free! vyuzit!
+
+Go vs. C performance
+startup/produkt na ulehceni citovani v texu
+gdb: prijimej argumenty pro debugovany program
+C++ code smell detector?
+code ctrl-c ctrl-v detector?
+https + caching?
+
+GitHub recommendation system
+
+help battle for wesnoth
+
+qr-print 1-pass
+
+set +i bit on very old backups
+
+yearly, monthly, daily highlights
+
+napad: pocitat kolik z obsahu internetu je reklama; machine learningem.
+	udelat z toho adblocker.
+
+hedge fund, co dava vydelek na charitu
+
+vizualizace celeho zivota
+
+globalni optimalizace
+
+Facebook bot (Petuv napad); Could be useful in FB bot: message tagging
+
+YouTube recommender, ktery recommenduje, co me bude zajimat, ale neni moc blizko toho, co uz znam
+
+Pragmatic Programmer: professional societies: IEEE, ACM
+
+KTV vylety
+
+velky polstar s Robinem Hansonem
+
+<h2>Alternativni napady na rocnikac apod.</h2>
+- monstrous moonshine -- shrnuti
+- (nejaka teorie grup)
+
+- Roguelike hra, kdyz tak s umelou inteligenci
+	- paralelni procesy pro AI
+
+- linked data: vidim Google v textu => kliknu a dostanu shrnuti Googlu
+
+- Ruby runtime
+
+<h2>Vylepseni na skripty</h2>
+- "skript pri vstupu do adresare v bashi" (a-la-Vorner)
+
+DIPLOMKA:
+	Napady na dalsi slovnikove struktury:
+		* two-choices hashing
+		* cuckoo with stash + jine systemy pro linear probing
+		* robin hood napad (uz je to stara vec) pro linear probing aby
+		  nepotreboval hodne pameti a pomohl
+
+	jan hubicka - mff
+	jirka fink: financni trhy -- poptat se jestli nekoho nezna (prakticke matematicke veci)
+	Tomas Krejci: bakalarka na geneticky algoritmy/neuronky: automaticke obchodovani
+	jakub gemrot: mel by cas mi pripadne vest diplomku (na pogamut)
+
+	Hubicka:
+		- mereni optimalizaci (on/off)
+		- pocet taktu pro instrukce
+		- GNU superopt => jak moc je to uzitecne?
+	Michal Koucky: system na backupy po blocich
