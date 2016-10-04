@@ -1,0 +1,55 @@
+git rev-list (vypise parents)
+git ls-tree
+
+view: read-only Vim
+vim: bind key to run (how do I bind quickly?)
+pushd, popd
+
+:map ,t :w\|...
+git: master~2
+
+rspec: stub(a: ..., b: ...)
+x, y = stub, stub
+
+#to_i(2) = binary; 55.to_s(2); "%b" % 23
+__method__, __callee__
+ruby: ... .lazy.map
+{ |x| a(x) } ==> each(&method(:a))
+Process.daemon
+YAML::Store :)
+stub.as_null_object => muze vse
+rails to_param.
+
+BASH:
+	grep --include="*.rb"
+	echo (backticks) collapses whitespace
+
+RUBY:
+	ruby stringex
+
+VIM:
+	:%s/.../&+value/ == "pridej +value"
+	\< \>: left/right word boundary in Vim (\b in grep)
+
+rspec/mocks/standalone
+	'stub == mock'
+	mock: put a message expectation
+	x.as_null_object: destructive, returns self
+
+	stub(x: :y).extend(SomeModel)
+
+	incidental/essential interaction: null object/stub
+
+	Test doubles are:
+		- dummies: passed around, but never used
+		- fakes: working implementation, but has shortcut (in-memory db, stripe, ...)
+		- stubs: canned answers, records, ...
+		- mocks: expectations, pre-programmed objects
+
+def f(x=Bad); end <-- OK, evaluated at compile-time
+
+tar -c . === vyrobeni taru
+tar -xp === rozbaleni & preserve
+tarpipe
+
+:!mkdir -p %:h
