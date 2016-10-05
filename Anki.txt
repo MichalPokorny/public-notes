@@ -34,3 +34,22 @@ File: <img src="_logo.jpg"> (will be exported when sharing the deck)
 {{text:Expression}}: strip HTML
 
 AnkiWeb
+
+imported file can also set the Tags field - TODO -- I want that.
+	how do I do that in Python?
+
+when importing cards including media, copy media files into collection.media folder (do not put subdirectories in the media folder!)
+	TODO: how do I do that?
+
+By default, if the file you are importing has a first field that matches one of
+the existing notes in your collection and that existing note is the same type
+as the type you’re importing, the existing note’s other fields will be updated
+based on content of the imported file.
+
+collection.anki2; audio and images: in collection.media folder
+
+ensure import-wikidata works
+
+to change field replacement tags:
+	{{=<% %>=}}
+	<%latex field%>
