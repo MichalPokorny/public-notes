@@ -15,6 +15,8 @@
 * Groovy/Grails
 * Oz
 * D
+* Tcl
+* Elixir
 
 <h2>Programming (other)</h2>
 * C++ prev\_/next\_permutation (STL)
@@ -85,7 +87,7 @@ poradneji Monte Carlo tree search
 timeless decision theory
 https://en.wikipedia.org/wiki/Autoregressive_integrated_moving_average
 
-"ABAP"?; chef; flume; hadoop
+"ABAP"?; chef; flume
 data-oriented design
 
 stats: learn separating out multiple correlations

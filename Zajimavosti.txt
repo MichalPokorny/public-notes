@@ -935,3 +935,6 @@ retorika
 Aurelien's book: http://shop.oreilly.com/product/0636920052289.do
 
 Apache Mesos - datacenter mgmt
+
+caffe: deep learning framework (caffe.berkeleyvision.org)
+overfeat: CNN-based image classifier & feature extractor; participated in ImageNet 2013 (https://github.com/sermanet/OverFeat)

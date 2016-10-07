@@ -1,6 +1,6 @@
 zajimave: explicit_bzero
 reallocarray
 
-printf: %#X == "alternate form", %a == ???
+printf: %#X == "alternate form"
 
 right-align continuation markers
