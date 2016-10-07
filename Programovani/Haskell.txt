@@ -1,6 +1,6 @@
 //Yesod//
 	(cabal update, cabal install yesod cabal-dev)
-	
+
 	$ yesod init
 	-> cd, cabal-dev install && yesod --dev devel
 
@@ -16,6 +16,3 @@ State, Reader, Writer monady
 type of 1 is "Num x => x", type of "hello" is [Char] ==> "IsString" typeclass.
 
 cabal: --global
-cabal install git-annex
-
-pacman -S gsasl: potrebuje to git-annex

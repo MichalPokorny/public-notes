@@ -15,8 +15,7 @@ TODO: naucit se jak funguje Benchmark (nazpamet)
 
 - Nemusim byt jediny, kdo pretezuje method_missing. Musim volat super. (podobne pri respond_to?)
 
-- Ruboto, Mirah -- jazyky kompilovane do Javy (Mirah je hodne podobny Ruby)
-	- ruboto je proste ruby pro jvm Dalvik
+- Mirah -- jazyk kompilovany do Javy (Mirah je hodne podobny Ruby)
 
 - slideshow gem
 

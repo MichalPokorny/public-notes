@@ -1,11 +1,6 @@
-asprintf
-
 zajimave: explicit_bzero
-calloc, reallocarray
+reallocarray
 
-NOTE: puts pridava end-of-line character
-
-printf: %+d == signed, %#X == "alternate form", %a == ???
-%-4d = align left
+printf: %#X == "alternate form", %a == ???
 
 right-align continuation markers
