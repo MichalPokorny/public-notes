@@ -1,3 +1,0 @@
-torch7; overfeat NYU; "overfeat NYU"
-GoogLeNet
-"caffe" ML repo

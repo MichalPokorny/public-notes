@@ -140,3 +140,6 @@ cross-entropy cost function
 
 TODO: stahnout taby Earth
 TODO: naucit se hrat harmonics
+
+torch7
+GoogLeNet

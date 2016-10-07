@@ -1,12 +1,9 @@
-Ctrl-U: smaz do zacatku radku
 Ctrl-S: i-search
 C-r: r-i-search
 
 bind -p: ukaze bindy
 
 prikaz `column`
-
-shuffle: 'shuf'
 
 Bash:
 	command <<< "some text" (to je jako echo |)

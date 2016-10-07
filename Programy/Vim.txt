@@ -2,24 +2,16 @@ Marks:
 	`[ = start of pasted text, `] = end of pasted text,
 	`[V`]>> indentne pasted text
 
-M, L, H: prostredek, zacatek, konec stranky
-
-]c, [c - jump pres zmeny ve vimdiff
-
 set diffopt=filler,context=0
 
 g-/g+ = prechod v case +- (jine undo)
 
 set iskeyword-=_ zpusobi, ze _ oddeluje 'slova'
 
-Shift-O = 'ko'
 aw = "predchozi slovo"
 zz = vertikalne vystred
-"r[p|y|d]
 registr "=": aritmetika
 it = inside tag (textovy objekt)
-
-VISUAL: o = other end
 
 INSERT MODE:
 	C-w = odstran slovo
@@ -43,7 +35,6 @@ Editing text at the speed of thought: #52 (75/329)
 - :Sex = split explore
 - va( = vyber vsechno okolo ( vcetne, vi(  vyber vsechno uvnitr ( bez
 - :bufdo s/co/naco/ge
-- po slovech dozadu: b
 - :r!ls ulozi vysledek prikazu do bufferu
 - :enew
 - ZZ
@@ -57,13 +48,9 @@ Editing text at the speed of thought: #52 (75/329)
 - ): nejblizsi predchozi zacatek vety
 - }: nejblizsi dalsi konec odstavce
 - {: predchozi... (-> 3d})
-- %: odpovidajici parova konstrukce () [] {} [[/**/]] #if ...
 
 - U: undo na tomhle radku
-- g~: zamen mala/velka (~ obecne)
-- gu: lowercase, gU: uppercase
 - gf: edituj soubor pod kurzorem
-- :w >>jmeno = pripoj na konec souboru
 - :w !program = prozen to programem
 
 - help: Ctrl-] = prejdi, Ctrl-T = zpet
@@ -81,7 +68,6 @@ Editing text at the speed of thought: #52 (75/329)
 Medved:
 	pomlcka misto mezery pred kterou nic neni
 0^$
-	(a*b)+(c*(d-e)/q) (tady procento)
 
 :set cinoptions
 
@@ -110,12 +96,10 @@ cc, C			like dd, D
 visual:o, O		edit other end (, corner) of selection
 mA..Z			file marks
 "A..Z			append to register (works even when recording)
-gU, gu, g~		make uppercase/lowercase/togglecase
 K, \K			looKup man, in window
 C-P, C-N		autocomplete previous, next
 C-X C-F			autocomplete file name (and many other such tricks)
 C-Y			insert character above cursor
-C-R			insert a register
 (ins) C-O		execute a single normal mode command
 gj, gk			move by visible lines
 gv			revive last selection
@@ -169,27 +153,15 @@ i...			inner
 autowrite
 display=uhex,lastline	(unprintable are shown as <XX>, partial last line shown)
 
-% also works on #ifdef etc.
 :set spell => [s ]s zg(add to dict) z=(suggest correctly spelled words)
 
 === POUZIVAM ===
-- ; = opakuj f
-- f: na pismeno, t: pred pismeno
-- w = word (dalsi slovo)
-- J = join
 - I = ^i
-- p/P
 
 b			previous word
 e			next word end
-F			backward f
-gg			go to start of file
-H, M, L			go to home, middle, last line of screen
-* search current word
-#			... backwards
-"*			clipboard
+H, go to home line of screen
 @@			repeat last @ command
-=			indent
 showmatch		show matching parentheses
 list, listchars		highlighting of trailing spaces, tabs etc.
 bg=dark
@@ -198,18 +170,15 @@ bg=dark
 vim-commentary
 vim-fugitive: blame (Git)
 
-Vim:
-	Vim keys: normal -> shift -> control (descending order of frequency) (nebo taky treba &, ...)
-	vim reference: moving
-	diw: leave whitespace, daw: kill whitespace
-	& = repeat replace
-	Command-T: fuzzy search in Vim
-	:s, :g
-	vim: \| v map?
-	:map xx ...
-	:silent !echo ...
-	<C-R>: command mode/insert mode: insert register; register =
-	Ctrl-^ == switch between files
-	rails.vim: :A == switch production/test
-	vim: [m ]m == move by methods in structured language
-	Ctrl-E: "extra lines" (stroll down); vs. Ctrl-Y
+Vim keys: normal -> shift -> control (descending order of frequency) (nebo taky treba &, ...)
+vim reference: moving
+diw: leave whitespace, daw: kill whitespace
+& = repeat replace
+Command-T: fuzzy search in Vim
+:s, :g
+vim: \| v map?
+:map xx ...
+:silent !echo ...
+Ctrl-^ == switch between files
+rails.vim: :A == switch production/test
+[m ]m == move by methods in structured language
