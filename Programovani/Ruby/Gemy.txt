@@ -1,8 +1,6 @@
 - ferret = vyhledavac
 - taps = export / import
 - workling, starling = delayed tasks
-- better_errors = lepsi chybova obrazovka
-- conductor = web console
 
 - cucumber-rails
 - enginex = na vytvareni gemu pro rails
@@ -27,8 +25,6 @@
 
 - minitest/benchmark (alternativa k core benchmarku, asi umi testovat asymptotickou slozitost)
 
-- faker: generovani testovacich dat
-- bullet: kill N+1 queries
 - netzke: RIAs
 - facebooker
 

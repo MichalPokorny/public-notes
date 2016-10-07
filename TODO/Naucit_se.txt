@@ -137,3 +137,6 @@ metaanalyses, statistics
 scared straight: regression to the mean
 
 cross-entropy cost function
+
+TODO: stahnout taby Earth
+TODO: naucit se hrat harmonics

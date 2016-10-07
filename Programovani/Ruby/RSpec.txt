@@ -1,1 +1,0 @@
-rspec (cesta ke specu): spusti jenom jeden spec

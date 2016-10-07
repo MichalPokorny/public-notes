@@ -3,8 +3,6 @@ word, meaning, page number
 	related information: "note", piece of information: "field"
 customizing fields
 blueprint: card type
-	Q: {{French}}
-	A: {{English}}<br>Page #{{Page}}
 	production: similar
 	add and edit card types: Cards... button
 new collection: Anki adds some standard note types to it
@@ -15,8 +13,6 @@ tags
 spacebar: Good; 1 = Again, 2 = Good, 3 = Easy
 
 Anki: record audio - incl. answers
-
-Anki: checking your answer: http://ankisrs.net/docs/manual.html#typinganswers
 
 LAUNCHING: anki -b dropbox/anki
 {{type:Foreign Word}}

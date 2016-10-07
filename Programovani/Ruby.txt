@@ -74,6 +74,4 @@ ruby: next = break block, break = out of iterator invoking block, return returns
 trailblazerb.org ("more opinionated Rails")
 ruby array.lazy
 
-URI.regexp je builtin
-
 "-run": umi spoustu veci (modul 'un')

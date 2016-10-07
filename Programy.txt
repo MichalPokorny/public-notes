@@ -91,7 +91,6 @@ heap-shot-git (heap profiling pro mono)
 hostapd, dnsmasq
 zenity -- 'dialog', ale hezci
 racket - lisp
-gecode - constrain solver
 
 fish shell
 
@@ -108,8 +107,6 @@ ibam: dela si profil baterie
 
 ssss: shamir's secret sharing scheme
 vanitygen-git
-
-dmesg -w: follow
 
 .NET Ant: 'nant'
 nunit
@@ -160,8 +157,6 @@ GNU datamash
 
 ledger
 
-simian (deduplicator na source code)
-
 hopper-v3 == dekompilator (nainstalovany)
 
 'google XYZZYFOO' -- mam nainstalovany googlici CLI nastroj
@@ -185,7 +180,6 @@ TODO: try again later.
 
 tyls, ... (ty\*) == "terminology \*"
 
-- patoline typesetting system
 - Apache Mahout
 - Contiki: Internet of Things OS
 - MariaDB - drop-in MySQL replacement
@@ -203,12 +197,10 @@ tyls, ... (ty\*) == "terminology \*"
 - CellWriter
 - Google Prediction API
 - ESALib - semantic analysis
-- Learn Python the Hard Way
 - nltk
 - ScalaZ: "making Scala more functional"
 - pocketsphinx
 - git ready (git tutorialy)
-- asymptote, Metafont
 - Selenium
 - mirage
 - GNU Guile
