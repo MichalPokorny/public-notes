@@ -3,14 +3,7 @@
 bg %1: resume the process, but don't put it in background
 	(sleep loop)
 
-pstree
-
-"tidy"
-
-single-terminal development...
-
 python: repr(x) ~~ x.inspect
-python: __contains__ <==> (x) in (y)
 
 'bundle check' => 'bundle': nemusi hitovat gem cache! :)
 

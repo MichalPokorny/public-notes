@@ -24,12 +24,9 @@ David Weekly - an introduction to stock & options for the tech entrepreneur or s
 architecture of opensource applications, volume >=3
 performance of opensource applications
 
-Louise Bogan - The Daemon
 pribeh: conference of the birds
 
 allen ginsberg - howl
-
-https://goodfeli.github.io/dlbook/
 
 The moral bucket list (David Brooks)
 pribeh: Abraha Joshua Herschel - I asked for wonder

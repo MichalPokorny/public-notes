@@ -1,5 +1,4 @@
 - Test-server kazdou hodinu
-- site watcher
 
 - Androidovy path (/opt/android-sdk/platform-tools)
 

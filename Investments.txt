@@ -1,5 +1,3 @@
-P/E = price/earnings.
-
 Various:
 
  * [COP](https://www.google.com/finance?q=COP) (ConocoPhillips)

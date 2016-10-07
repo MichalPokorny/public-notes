@@ -1,23 +1,6 @@
-windows = sda3
-
 Asi nejde vubec rekalibrovat baterka (v BIOSu to neni)
 
-0% = asi tak dalsich 5 minut casu
-
-hezky consolefont: brzo "modprobe radeon"
-
-Maily ted muzou prichazet nebo odchazet jenom kdyz je zaply crypto
-	fetchmail chce fetchmailrc, ktery zije na cryptodisku
-	to same postfix a saslpass.db
-	
-iwconfig wlan0 power off zrejme zpusobi, ze zacne jit wifina
-
 /etc/updatedb.conf: prune ~prvak/crypto, ~prvak/downloads.
-
-~prvak/.cache/geeqie, ~prvak/.thumbnails, ~prvak/.local/share/geeqie: je to primontovane jako tmpfs; to navic znamena, ze to nebude indexovat updatedb
-
-bootovaci flag pro Linux: acpi_os_name="Windows 2009" - tvrdi ACPI, ze jsou to Windows 7.
-
 
 TEST SYSTEMU:
 	- SMTP rny.cz, rny.cz:5257
@@ -69,22 +52,11 @@ Konfigurace ad-hoc wifiny s vedlejsim notebookem:
 
 Server: zaply syslog-ng v systemd, abych mel logy z postfixu a tak
 
-vgaswitcheroo: 'echo OFF > ...../switch'
-
-.iks-portfolio.yml v homu
-
-varovani na mail-queue-check kazdych 5 minut
-privatize kazdou hodinu
 test-server kazdou hodinu
-backup kazde poledne
 
 kazdych 6 hodin net-worth-keeper
 
-~/.sis-credentials.yml: pro stahovani veci ze SISu
-
 kazdych 5 minut se zkontroluje, jestli uz 5 minut nebezi locknuty screensaver, a provede se pokus o unmount
-
-pacman -S rust
 
 ntpd
 

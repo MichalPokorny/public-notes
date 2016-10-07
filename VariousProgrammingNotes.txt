@@ -17,15 +17,10 @@ YAML::Store :)
 stub.as_null_object => muze vse
 rails to_param.
 
-BASH:
-	grep --include="*.rb"
-
 RUBY:
 	ruby stringex
 
-VIM:
-	:%s/.../&+value/ == "pridej +value"
-	\< \>: left/right word boundary in Vim (\b in grep)
+VIM: \< \>: left/right word boundary in Vim (\b in grep)
 
 rspec/mocks/standalone
 	'stub == mock'

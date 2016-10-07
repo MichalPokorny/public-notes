@@ -6,19 +6,15 @@ pacman -Su (filesystem; presunul jsem soubory v /sbin)
 	NEPROSLO: pak to nebootuje.
 
 pacman -Syu --ignore bash,filesystem
-pacman -Syu --ignore bash,filesystem
 systemctl enable sshd
 reboot
 
 -----
 
-pacman -S postfix (misto toho se upgraduje pacman)
 pacman -S postfix
 
 (chybi libsasl2)
-
 pacman -S libsasl
-systemctl enable sshd
 
 reboot
 
@@ -40,7 +36,6 @@ virtual; postmap virtual: porad tomu vadi libsasl2.so.2!!!
 updatedb
 
 pacman -Sy
-
 pacman -Su postfix --ignore bash,filesystem
 
 (reinstall postfix)
@@ -246,7 +241,6 @@ systemctl start vsftpd
 	local_enable=YES
 	write_enable=YES
 	local_umask=022
-	
 
 chown -R prvak:http work
 chmod -R 770 work
@@ -261,7 +255,6 @@ fail2ban: vsftpd-iptables - zapnout, konf. mailu
 	ssh-iptables - zapnout, konf. mailu
 
 iptables aby fungovalo fail2ban:
-	
 	(pacman -S iptables)
 
 	systemctl enable iptables
@@ -269,7 +262,7 @@ iptables aby fungovalo fail2ban:
 
 	cp /etc/iptables/empty.rules /etc/iptables/iptables.rules (aby to slo zapnout)
 	systemctl start iptables
-	
+
 systemctl restart fail2ban
 
 vhost pp
