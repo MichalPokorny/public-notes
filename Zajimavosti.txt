@@ -933,3 +933,5 @@ http://www.growjob.com/clanky-personal/inspirativni-videa-u-kterych-mrazi-v-zade
 retorika
 
 Aurelien's book: http://shop.oreilly.com/product/0636920052289.do
+
+Apache Mesos - datacenter mgmt
