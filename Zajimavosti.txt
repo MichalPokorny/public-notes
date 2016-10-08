@@ -938,3 +938,6 @@ Apache Mesos - datacenter mgmt
 
 caffe: deep learning framework (caffe.berkeleyvision.org)
 overfeat: CNN-based image classifier & feature extractor; participated in ImageNet 2013 (https://github.com/sermanet/OverFeat)
+
+mindsets online: zrejme nejake veci na robotiku a tak
+

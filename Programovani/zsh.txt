@@ -1,1 +1,1 @@
-zsh: &!, &|: start job and disown
+rc, rdb, rs (rails)
