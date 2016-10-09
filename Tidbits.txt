@@ -170,7 +170,7 @@ Yours sincerely: kdyz ano
 
 - Klee LLVM tester (klee.github.io)
 
-- Trello, Redbooth (teambox)
+- Redbooth (teambox)
 
 - the 7 sages
 
@@ -211,28 +211,21 @@ ruby: Array.assoc
 Google Guava
 Google: Udacity: Android Fundamentals
 
-- GOOG = class C (no voting rights), GOOGL = class A share (voting rights)
-
 - diceware -- password generator
 - lockpicking
 
 - Wiki XML export: http://en.wikipedia.org/wiki/Special:Export/Set\_(mathematics)
 - ad-hoc mesh network: Byzantium
 - `export EDITOR="/usr/bin/rm"` :D
-- Paradise Lost
 
 - Upstart - crowdfunding for recent college graduates
 - full employment theorem
-- android: "(space) (space)" = konec vety
 
-- Lamport hash schema (quantum-safe)
 - false color palette - nahodne prechody, nemusi nic znamenat!
-- wiki: vertical integration (supply chain)
 
 - tritone paradox, shepard tone
 - binaural beats
 - solarni notebook Sol
-- Rust
 - The Eternal War (Civ2)
 - quantum paper, polymer, web components
 - mandela effect
@@ -265,7 +258,6 @@ Facebook: Pokusni kralici
 http://www.targetprocess.com/articles/speed-in-software-development.html
 http://en.wikipedia.org/wiki/Lord\_British
 
-- blue moon: 2 full moony za 1 kalendarni mesic (28 dni lunarni mesic vs X kalendarni)
 - spreeded: flash speed-reading
 
 - university of the people
@@ -282,7 +274,6 @@ http://en.wikipedia.org/wiki/Lord\_British
 - hledani min je NP-hard?
 - dominate in conversation: stare at forehead questionably :D
 - bro pages vs man pages
-- multilinear jigsaw puzzles
 - sovereign citizen movement
 - mesto Sitges
 - operator Odorik (maji celkem levne volani a vsechno)
@@ -310,7 +301,6 @@ http://en.wikipedia.org/wiki/Lord\_British
 - novomestske nefiltrovane pivo
 - quantified self
 - gittip
-- Apache Cordova - mobilni appsky v HTML/JS/CSS
 - ConceptNet 5
 
 - life in 1 page: https://dl.dropboxusercontent.com/u/18830285/x/matt.html
@@ -335,7 +325,6 @@ http://en.wikipedia.org/wiki/Lord\_British
 
 - trenovani chuze pres neuronove site
 - variable size bin packing problem
-- film Destino (Walt Disney & Salvador Dali) + Dillinger Escape Plan - Widower
 - 'a' ^ ' ' == 'A' atd.
 - http://nplusonemag.com/
 - Sweet Home 3D
@@ -366,7 +355,6 @@ http://en.wikipedia.org/wiki/Lord\_British
 - fight club + the bends -- spustit jak skonci logo 21st century fox
 
 - gaze tracking library
-- subtle: Ruby WM
 - Whisky: bourbon (USA) / scotch / rye
 - Linux na 8bitovem jednocipu: http://dmitry.gr/index.php?r=05.Projects&proj=07.%20Linux%20on%208bit
 - exolutio: konceptualni modelovani
@@ -389,7 +377,6 @@ workflowy app
 https://github.com/papers-we-love/papers-we-love
 
 stable marriage problem
-locality-sensitive hashing
 CountMin sketch, Count sketch
 
 8051 procesory
@@ -400,8 +387,6 @@ Stargate
 rubycritic
 
 TIMEFORMAT="%3R"
-
-Google Keep
 
 ^R = read thread
 

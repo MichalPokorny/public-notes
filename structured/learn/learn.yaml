@@ -29,6 +29,11 @@
 - Timeless decision theory
 - Greek alphabet
 -
+        group: Algorithms
+        topics:
+                - Burrougs-Wheeler-transform (setrid vsechny rotace retezce, vrat posledni sloupec)
+                - Bentley-saxe trick (static data structure dynamization)
+-
         group: Data structures
         topics:
                 - Heavy-Light decomposition
@@ -40,7 +45,6 @@
                 - Skip lists
                 - Red-black trees
                 - Splay trees
-                - Bentley-saxe trick (static data structure dynamization)
 -
         group: CS
         topics:
@@ -92,6 +96,21 @@
 - UTF-8 encoding (memorize?)
 - Docker
 - Gantt charts
+-
+        group: 'AI topics'
+        items:
+                - probabilistic approaches to ML
+                - Kalman filtering
+                - semantic networks
+                - description logics
+                - graph theory
+                - hypergraphs
+                - factor graphs
+                - cognitive architectures
+                - philosophy of the mind
+                - solomonoff induction
+- cognitive science
+- humean vs. kantian AI architecture (from "The Singularity: A Philosophical Analysis")
 - 'Ethics: perfectionism, emotivism, contractarianism'
 - 'Ethics: pasadena paradox, heaven and hell problem'
 -
@@ -104,3 +123,8 @@
                 - https://en.wikipedia.org/wiki/Marx's_theory_of_alienation
                 - reality shift (plane)
                 - negative utilitarism
+- taboo game
+- 'wiki: vertical integration (supply chain)'
+- Lamport hash schema (quantum-safe)
+- multilinear jigsaw puzzles
+- locality-sensitive hashing
