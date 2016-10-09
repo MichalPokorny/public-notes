@@ -1,3 +1,1 @@
-chaining comparison
-
 Python 3: private variables

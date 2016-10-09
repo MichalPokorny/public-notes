@@ -24,11 +24,8 @@ TODO: naucit se jak funguje Benchmark (nazpamet)
 
 - od 2.1.0 jde out-of-band garbage collection (to mozna umozni delat gc mezi requesty)
 
-#call syntactic sugar: x = lambda {|a,b| a+b}; x.(1,2) # 3
-
 FactoryGirl.lint pred vsemi testy!
 
-- Enumerable#flat_map
 - ruby hash: default_proc (da se predat v konstruktoru)
 
 - bbatsov/ruby-style-guide

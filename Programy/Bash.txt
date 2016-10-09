@@ -1,6 +1,3 @@
-Ctrl-S: i-search
-C-r: r-i-search
-
 bind -p: ukaze bindy
 
 prikaz `column`

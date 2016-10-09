@@ -10,17 +10,14 @@ title: Tidbits
 <h3>JavaScript</h3>
 - Kinetic.js
 - Socket.io
-- Node.js
 - Meteor (JS framework)
 - PureScript
 - intro.js
 - batman.js
-- d3 (data viz.)
 - sheetsee.js (Trix vizualizer)
 
 <h3>Ruby</h3>
 - rubycritic
-- `next` exits from block (*w/ return value*)
 - array decomposition in method args
 - TODO: 'guard'
 
@@ -31,10 +28,8 @@ title: Tidbits
 - VimTextObj: text objects for function args
 - vim-rspec
 TODO:
-- q: ==> command window
 - `\`\`` == jump between last marks
 - Ctrl-C/[ misto Esc
-- :!mkdir %:h
 
 identify most frequent actions, map to Leader, leader as space
 select pasted text: noremap gV `[v`]
@@ -131,8 +126,6 @@ http://shoup.net/ntb/ntb-v2.pdf: computational introduction to number theory & a
 
 - keto
 
-- XARF database -- zajimave
-
 - Habit RPG
 
 - density-dependent optimization landscape
@@ -148,7 +141,6 @@ http://dev.stephendiehl.com/hask/ (what i wish i knew when learning haskell 2.0)
 
 
 - http://madebyevan.com/obscure-cpp-features/
-- C++: branch on variable declaration
 
 chocolate pudding fruit
 'serene' = 'jasny' (serenessima repubblica di venezia)

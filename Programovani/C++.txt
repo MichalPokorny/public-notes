@@ -20,5 +20,4 @@ static_cast<>()
 
 s?printf parameter reordering
 
-if (auto x = ...) <- validni C++
 c++11 tie
