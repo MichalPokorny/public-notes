@@ -1,5 +1,3 @@
-Hostname prvak-pi.
-
 Custom unit soubory pro systemd v [[/etc/systemd.]]
 
 Vnejsi rozhrani: eth0, vnitrni rozhrani: eth1
@@ -7,37 +5,27 @@ Vnejsi rozhrani: eth0, vnitrni rozhrani: eth1
 Nejdriv se musi zapnout eth1 a nastavit IP adresa.
 	ip link set up dev eth1
 	ip addr add 10.0.0.1/8 dev eth1
-	
+
 [[/etc/sysctl.d/30-ipforward.conf]] nastavi IP forwarding.
 	# /etc/sysctl.d/30-ipforward.conf:
 	# net.ipv4.ip_forward=1
 	# net.ipv6.conf.default.forwarding=1
 	# net.ipv6.conf.all.forwarding=1
-	
+
 	sysctl net.ipv4.ip_forward=1
-	
+
 iptables konfigurace zapne maskaradu.
 	iptables -t nat -A POSTROUTING -o eth0 -j MASQUERADE
-	
+
 SSH demon posloucha jenom vevnitr.
 DHCP server by mel poslouchat jenom na vnitrnim rozhrani — je to nastavene v jeho unitu (v [[/etc/systemd]] — jsou tam overridy)
 
 Nainstalovany software:
 	dillo (chromium je uplne nepouzitelne, rekonq je taky pomaly)
 		alternativy: dwb, epiphany, arora (firefox neni v repech)
-		
+
 32 GB karty. Asi 8G je na system, zbytek skoro cely (az na [[/boot]]) primontovany v /data
-
-MAC adresa vnitrniho ethernetu: B8:27:EB:5A:EB:DB
-
-IP adresa: 10.0.0.1
-
-rpi: pokorny.kolej.mff.cuni.cz -p 12257
 
 /etc/X11/xdm/Xservers: -nolisten tcp
 
-ssh -X pi xterm
-
 NTP: chce /var/tmp;
-TODO: fail2ban je ted vypnuty: chce existenci logfilu
-"found no accessible config files for filter.d/ssh-iptables, have not found any log file for recidive jail"

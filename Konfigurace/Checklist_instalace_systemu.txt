@@ -2,9 +2,7 @@
 - nainstalovat xosdutil, xosdutilctl.
 **- aurvote vcetne nastaveni**
 
-Demoni:
-	alsa wicd postfix acpid
+Demoni: postfix
 
 - /etc/hosts aby obsahovalo hostname
 TODO: check spravnosti (ze dokazu vsechno spustit)
-plus "usb" do mkinitcpio kdyz instaluju na flashku

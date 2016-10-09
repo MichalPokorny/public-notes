@@ -12,8 +12,6 @@ TODO: ICE kontakt v mobilu
 TODO: nastavit na facebooku notifikace na zpravy od neznamych
 TODO: existuje neco jako 'remind at location'?
 TODO: procistit vnitrni pamet mobilu
-TODO: check out 'subtle' - ruby WM
-TODO: poradne se naucit zehlit
 TODO: zmerit delku 'hand span', vzdalenost natazenych rukou
 
 TODO: https://www.google.com/settings/u/0/account/inactive
@@ -40,7 +38,6 @@ learn docker
 naucit se nazpamet UTF-8 encoding?
 
 the 4-hour workweek (muse business)
-poridit si mail @mff.cuni.cz?
 
 cesky basnik: Skácel
 

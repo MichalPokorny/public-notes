@@ -1,10 +1,5 @@
 MAC: 3C:97:0E:C1:07:59
 
-Nekolik ruznych secretu:
-	~/.sis-credentials.yml
-	~/.btckit
-	~/.iks-portfolio.yml
-
 /root ma jine dotfily - specialne napriklad nema xosdutil reference a vim bundly
 	TODO: udelat z toho jinou variantu v gitu?
 
