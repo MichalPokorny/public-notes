@@ -13,12 +13,6 @@ zz = vertikalne vystred
 registr "=": aritmetika
 it = inside tag (textovy objekt)
 
-INSERT MODE:
-	C-w = odstran slovo
-	C-u = odstran do ^
-	C-o = udelej 1 norml mode command
-	C-r(registr) = paste
-
 \\(motion) = zakomentuj (pro commentary.vim - plugin)
 
 Editing text at the speed of thought: #52 (75/329)
@@ -30,40 +24,30 @@ Editing text at the speed of thought: #52 (75/329)
 - makeprg: muze obsahovat %, ktere se expanduje na soubor
 - !!date = na tenhle radek `date`
 - :R ls -la = scratchbuffer ls -la
-- :goto 300 = goto offset
-- :read !prikaz
 - :Sex = split explore
 - va( = vyber vsechno okolo ( vcetne, vi(  vyber vsechno uvnitr ( bez
 - :bufdo s/co/naco/ge
-- :r!ls ulozi vysledek prikazu do bufferu
 - :enew
 - ZZ
 - Ctrl-F = obrazovka dolu, Ctrl-B = obrazovka nahoru
 - 0 = na zacatek radku
 - 35| = prejdi na sloupec 35
 - Fx = predchozi x, Tx = za predchozi x, ; = opakuj posledni hledani na radku, , = v opacnem smeru
-- 30% = prejdi na 30% souboru
 - w, W = zacatek dalsiho,
-- ): na zacatek nejblizsi dalsi vety (., !, ?)
-- ): nejblizsi predchozi zacatek vety
 - }: nejblizsi dalsi konec odstavce
 - {: predchozi... (-> 3d})
 
 - U: undo na tomhle radku
-- gf: edituj soubor pod kurzorem
-- :w !program = prozen to programem
 
 - help: Ctrl-] = prejdi, Ctrl-T = zpet
 
 - :set textwidth=80
 - gq(pohyb) preformatuje
 - {gq} = reformatuj odstavec
-- qc ... ... ... q; -> @c
 - :marks
 - '' nebo ``: pred poslednim skokem
 - <> = zacatek/konec vizualni oblasti
 - C-N, C-P
-- 35 C-W _ = nastavit vysku
 
 Medved:
 	pomlcka misto mezery pred kterou nic neni
@@ -78,7 +62,6 @@ endif
 :scriptnames		show all scripts loaded upon startup
 :options
 :set patchmode=.orig	save original version
-:saveas xyz
 :qall			quit all windows
 :wall			save all windows
 :s///p			print all changed lines
@@ -91,32 +74,21 @@ ge			previous word end
 W, B, E, gE		the same for whitespace-separated words
 t, T			same as f, but stops before the character
 zz			center current line on screen
-C-O, C-I		older/newer position in position stack
-cc, C			like dd, D
 visual:o, O		edit other end (, corner) of selection
-mA..Z			file marks
 "A..Z			append to register (works even when recording)
-K, \K			looKup man, in window
 C-P, C-N		autocomplete previous, next
 C-X C-F			autocomplete file name (and many other such tricks)
-C-Y			insert character above cursor
 (ins) C-O		execute a single normal mode command
 gj, gk			move by visible lines
-gv			revive last selection
 /.../e			move to end of matching text (also e+1, e-1 etc.)
 /...\_s.../		match space or line break
 g?			rot-13
-ga			show ASCII
-g8			show UTF-8
 s			the same as cl
 S			the same as cc
 U			undo all changes on the same line
-50%			go to 50% of the file
-10|			cursor to column 10
 
 C-W p			goto previously active window
 C-W r/R			rotate windows
-C-W =			equalize windows
 [<num>] C-W +/-		increase/decrease window height
 [<num>] C-W >/<		increase/decrease window width
 <num> C-W _/|		set window height/width
@@ -137,9 +109,6 @@ C-W }			preview function def in other window
 gD, gd			goto definition, only in current function
 :cn			next error
 :cc			show whole error message
-:clist			list errors
-:copen			... in a new window
-:clist!			show whole make output
 
 text objects:
 a( = a) = ab		a parenthesized block
@@ -158,10 +127,6 @@ display=uhex,lastline	(unprintable are shown as <XX>, partial last line shown)
 === POUZIVAM ===
 - I = ^i
 
-b			previous word
-e			next word end
-H, go to home line of screen
-@@			repeat last @ command
 showmatch		show matching parentheses
 list, listchars		highlighting of trailing spaces, tabs etc.
 bg=dark
@@ -176,9 +141,8 @@ diw: leave whitespace, daw: kill whitespace
 & = repeat replace
 Command-T: fuzzy search in Vim
 :s, :g
-vim: \| v map?
+\| v map?
 :map xx ...
 :silent !echo ...
-Ctrl-^ == switch between files
 rails.vim: :A == switch production/test
 [m ]m == move by methods in structured language

@@ -735,7 +735,6 @@ brain emulation roadmap
 mitochondrialni mutace: oprava pres davani mitochondrialni dna do jadra bunky
 anxiety buffer disruption theory
 cognitive dissonance theory
-Flight from Death - film
 guesstimate
 hra: eclipse phase
 
@@ -895,8 +894,6 @@ od Jirky Novotneho:
 	http://satori.mysteria.cz/obsah.html  --  mentalni techniky
 
 logo Ukrajiny je trojzubec
-
-sh: `source` builtin uses PATH. bash: also $CWD.
 
 http://danluu.com/bimodal-compensation/
 
