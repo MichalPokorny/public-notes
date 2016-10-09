@@ -17,7 +17,6 @@ TODO: zmerit delku 'hand span', vzdalenost natazenych rukou
 TODO: https://www.google.com/settings/u/0/account/inactive
 TODO: papir "je mi 20"?
 TODO: zastavit se nekdy za kardiologem?
-NetHack hpmon
 Podivat se na:
 	http://www.kieser-training.cz/
 	http://www.youtube.com/user/scooby1961
@@ -26,19 +25,12 @@ Podivat se na:
 deltovy sval (vrsek ramena)
 cvicit si ramena!
 
-screensaver-unmount: zmeneno z intervalu 20 min na 1 hod
-
 "edit command line in editor": jak v zsh?
 linux: program 'spark' (console sparkcharts)
 
 cheatsheet: narozky, miry, veky, ...
 
 zjistit neco o beer brewing?
-learn docker
-naucit se nazpamet UTF-8 encoding?
-
-the 4-hour workweek (muse business)
-
 cesky basnik: Skácel
 
 lectures (combinatorics, set theory, etc.): https://www.reddit.com/tb/2xtojb
@@ -47,8 +39,6 @@ dysthymia
 contribute to Electronic Frontier Foundation
 coding with ETF (HTTPS everywhere, etc.)
 
-write-only...
-
 zmigrovat ((Digital Ocean))
 
 http://www.ifweassume.com/2013/08/the-de-evolution-of-my-laptop-battery.html -- napsat podle toho clanecek na stranku
@@ -56,7 +46,6 @@ http://www.ifweassume.com/2013/08/the-de-evolution-of-my-laptop-battery.html -- 
 http://mywiki.wooledge.org/BashGuide
 https://github.com/szilard/benchm-ml
 
-zjistit si pouziti ropy ve svete
 http://mrzool.cc/tex-boilerplates/
 
 TODO: cannot access ~/notes if it's not mounted
@@ -64,23 +53,18 @@ TODO: must not start Dropbox if it's not mounted
 
 TODO: vejit do tarifu s O2ckem?
 
-najit si diplomku Martina Balka - hledani erdos-szekeres pres SAT
-
 TODO: jaky je Dropbox SLA?
 create cold backup, not bound to dropbox?
 test that dropbox keeps extended attributes
 
-* public speaking class (ToastMasters?)
-* bucket list
+* write bucket list
 * konzole na mobil (pingovani, sshovani, ...)
 * nova zidle
 * sehnat ucetniho? (zrejme ~6k za trzni ceny)
 * find czech wordlist
 * life cost-benefit analysis
 * upcoming IPOs
-* hackersurfing
 * rychla navigace v souborech (jako ma DestroyAllSoftware)
-* refresh bitcoin backups; remove duplicate/empty wallets!
 * proc nefunguje odmontovavani crypta? proc se odmonotovava kdyz nema?
 	* reenable screensaver-unmount
 * prejit na vic one-click OS...
@@ -95,7 +79,6 @@ test that dropbox keeps extended attributes
 * Dragon:
 	* aktivovat FTP backup
 	* vyrobit instalacni skript? (Docker image?)
-* ThinkPad: heslo k HDD? fingerprint auth?
 * root: chci mit v dotfiles reference na vim bundles jenom kdyz jsem normalni uzivatel (root by mel mit spolehlivou konfiguraci)
 * whyday
 * poridit si vizitky?
@@ -120,8 +103,6 @@ future of humanity institude - visit?  (Ondra)
 
 stockton vypada nefunkcne!
 
-neural network + stacks/tapes
-
 koupit rozdvojku na audio
 
 nastudovat neurosis / neurotic
@@ -136,20 +117,13 @@ learn how to identify and solve problems
 soft skills are important
 learn how to teach
 
-Amazon Dynamo whitepaper
-
 rosseau: teorie obecneho blaha
-
-read list of AI safety papers
-https://docs.google.com/document/d/1BJzvwDTEzgv7YC100SA1LuqyDzTf1Gqe4QaOz-460gA/edit#
 
 TODO: urgovat zverejneni Fable of the Dragon-Tyrant na Bostromove strance
 
 unbreak kbcsvgrab.py
 
 fio osobni ucet
-
-http://www.sens.org/research/introduction-to-sens-research
 
 poridit lekarnicku, teplomer
 
@@ -159,19 +133,11 @@ test na facebook app listening
 
 zmerit moji vysku
 
-naucit se hrat sound of silence
-
 rozsirit delani screenshotu: dokazal bych potencialne nahravat vsechno, co delam s pocitacem? neco uzitecneho s tim delat?
-
-learning how to learn -- uc san diego na coursere
-
-naucit se hrat go
 
 prazdninova skola Lipnice, Velky vuz
 
 MIRI - do a workshop
-
-check out Clever Eating (effects of removing meat)
 
 investigate lifespan impact of vegetarianism
 	blood screen: risk factor na nemoci, impact na lifespan, B-12, D, omega-3
@@ -194,8 +160,6 @@ luminosity
 
 arguments for universal objective binding morality
 
-jak to vypada geograficky s "pasmem gazy"? neni to spojene s palestinou?
-
 dalsi KSP sraz
 
 "the terrible horrible ... ..." - 28/377, 1.2 two meanings of "moral"
@@ -203,12 +167,6 @@ dalsi KSP sraz
 join forums for LW, EA
 
 cerebrolysin
-
-udelat si IQ test
-
-CFAR for ML Researchers (CMLR) -- Aug 30-Sept 4 http://rationality.org/cfar-for-ml-researchers/
-
-povesit si postery
 
 mel bych zase zacit hubnout!
 
@@ -218,14 +176,9 @@ spend more time with family -- they might die while I'm gone
 
 sehnat houby, pozvat tomiho na vec
 
-book giveaway
-	Real World Haskell: Tomas Marius -- pred 12.5.
-	navrhove vzory v php: pro dominika kadlcka -- pred 12.5.
-
 emotional dependency
 
 http://log.or.cz/?cat=150
-http://www.deeplearningbook.org/
 https://iamaaditya.github.io/2016/04/visual_question_answering_demo_notebook
 http://www.effective-altruism.com/ea/vo/expected_value_estimates_you_can_maybe_take/
 
@@ -233,20 +186,6 @@ strategy of conflict: zbyva precist Part 4+
 
 dluzim kajovi par piv (za KFC z Polska)
 
-existuje nejaky argument proti antinatalistickemu pohledu?
-
-http://theuncertainfuture.com/
-
-http://lesswrong.com/lw/ur/crisis_of_faith/
-
-EA Global
-
-cryonics criticism: http://cryomedical.blogspot.com
-
-http://www.givewell.org/labs/causes/ai-risk
-http://blog.givewell.org/2015/03/11/open-philanthropy-project-update-global-catastrophic-risks/
-
-https://www.twilio.com/blog/2016/02/patrick-mckenzie-on-salary-negotiation-job-hunting.html
 Martin Fowler: sw engineer, author, international public speaker on SWE. smart guy. has blog.
 
 http://wiki.80000hours.org/index.php/AI_Safety_Research
@@ -267,13 +206,6 @@ TODO: stahnout 'find the music in you'
 
 Galibi deskovky
 
-precist: whole brain emulation: a roadmap
-nick bostrom: the future of human evolution
-
-Ingress
-
-lucid dreaming: reality checking
-
 http://apophis.cz/blog/
 
 existentialist play: No Exit
@@ -290,19 +222,11 @@ the unreality of time
 
 multi-armed bandit problem (Tomas Tunys z CVUT eClub media lab)
 
-clanek "rational actors or rational fools: implications of the affect heuristic for behavioral economics"
-
-precist Book of life
-
 listen to audiobooks at 2-3x normal speed
 
 koupit osusku
 
-teorie prospektu (kahneman a tversky)
-
 podivat se na eliezerovy stare maily z ~1997
-
-nahodny casovac - co ted sakra delam?
 
 vitamin D, B-12, omega-3, CoQ-10
 	vitaminy A + D: http://nakup.itesco.cz/cs-CZ/ProductDetail/ProductDetail/2001130322971
@@ -351,10 +275,6 @@ koupit vic kratasu
 dukkha: https://en.wikipedia.org/wiki/Dukkha
 	make a list of things you're grateful for
 
-ricardo's law of comparative advantage
-
-http://blog.keras.io/building-autoencoders-in-keras.html
-
 mel bych purgnout stary notebook
 
 existuje nejaky spravny zpusob, jak na kytaru davat nove struny?
@@ -385,9 +305,6 @@ http://www.asofterworld.com/index.php?id=428
 	mid-makeout move ever.
 
 let people finish their sentences
-toastmasters
-
-Lipa Musica
 
 vzit domu levanduli a dalsi masti
 
@@ -409,7 +326,6 @@ do therapy on yourself
 autocommit pri kazdem zavreni Vimu
 
 mapa Prahy nebo sveta na vnitrni strane dveri od zachoda
-diktafon na dokonalou pamet
 Spinalis zidle
 Viden - narodni opera
 
@@ -438,15 +354,13 @@ na LessWrong: perfect memory
 	- snazil se o to uz nekdo?
 	- kolik pameti je potreba na jake smysly?
 	- co vsechno bychom mohli vedet, kdybychom meli lepsi pristup k pameti?
+	diktafon na dokonalou pamet
 
 najit: draco telling harry to always be ready to give everything back
 
 zlozvyk: jedeni oboci
 
 my giving
-naucit se varit s nahrazkami masa
-
-E.C.Escher -- obrazek cloveka jak se diva na kouli a vidi v ni sam sebe
 
 right hemisphere dysfunction: https://medicalspeechpathology.wordpress.com/student-handbook/right-hemisphere-dysfunction/
 
@@ -454,8 +368,6 @@ RehaLand
 ortoped v Praze: Jakub Vranka (poliklinika)
 
 gratitude journal
-
-AI Safety Syllabus: https://docs.google.com/document/d/1B6KjyzeW_HpFi9GSgcLON2p9KcA-MqrrjEbFsuUqY00/edit#heading=h.dc8oimokjfao
 
 join myfitnesspal + beeminder + vaha.ods
 
@@ -468,19 +380,11 @@ vyresit mobilni internet O2 - po vycerpani se vypne
 spend more time in Mode 2
 Don’t wait until your deathbed to figure out what life is all about.
 
-koupit tempeh
-
 tarif? lepsi mobilni internet?
 
 test na anemii: anemie zpusobuje depresi
 
 https://www.reddit.com/r/theXeffect
-
-* jit na Galibi
-
-https://adeshpande3.github.io/adeshpande3.github.io/The-9-Deep-Learning-Papers-You-Need-To-Know-About.html
-
-podivat se na skorovaci systemy na Go
 
 http://www.paulgraham.com/vb.html
 
@@ -489,25 +393,9 @@ Praha: 2 ligy na 10k
 Vitkov, Branik -- standartni 10k kazdy mesic
 Loap prazska bezecka tour: http://www.vaseliga.cz/cz/sporty/behani/
 
-look for: critique of consequentialism, critique of moral realism
-
-service worker api
-koupit si propagandisticke plakaty
-
 visit stiftung for EA in Berlin
 
 apply to OpenAI
-
-zkusit Steem
-
-pouzivat Anki
-
-https://wiki.lesswrong.com/wiki/Creating_Friendly_AI
-TODO: Lipa Musica - program?
-
-how to create false memories?
-
-dual n-back test na zlepseni general cognitive ability
 
 TODO: ssh-agent on metacentrum
 
@@ -515,24 +403,11 @@ http://slideslive.com/casp/xiii-celostatni-konference-casp-laska-ve-21-stoleti
 
 get more money from work
 
-Hegel (world-spirit)
-
-Napsat povidku
-
 Budou nove dily Black Mirror (tenhle rok?)
 
 Jak by me slo presvedcit o tom, ze bych mel venovat na bezpecnost umele inteligence?
 
-Anime: Ajin; Geki no Souma; Haikyu
-
-Voltaire's Candide
-
-naucit se Crystal
-
 TODO: change swapfile location.
-
-https://nthlook.wordpress.com/2015/12/31/self-improve-in-10-years/
-http://tkipf.github.io/graph-convolutional-networks/
 
 Chrome ma moznost loadnout savenutou page
 

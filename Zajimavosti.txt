@@ -936,3 +936,4 @@ overfeat: CNN-based image classifier & feature extractor; participated in ImageN
 
 mindsets online: zrejme nejake veci na robotiku a tak
 
+NetHack: hpmon is included in nethack-patch AUR package

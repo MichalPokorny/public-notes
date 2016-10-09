@@ -203,7 +203,7 @@ nautilus
 ncdu
 ncurses5-compat-libs
 netctl
-nethack
+nethack-patch
 nethogs
 netpbm
 network-manager-applet
