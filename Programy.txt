@@ -1,7 +1,5 @@
-- firefox addon "stylish": vlastni stylovani ruznych URL
-
 - kiwix - offline wikipedia
-- Hydrogen - bubnove patterny (taky Trommler, Galan)
+- bubnove patterny (also Trommler, Galan)
 
 - Performous - obsahuje detekci tonu.
 
@@ -15,22 +13,16 @@
 	KDE frontent: Cantor
 	sage -n -> localhost:8000
 
-- hoodle: nahrada za xournal
 - avidemux (-gtk): jednoduche strihani
-- aalib: ascii art knihovna
 - hrani Go: gnugo
 - newsbeuter
 - slimrat
-- boost jam
-- pacgraph
 - centerim
 - arandr
 - mosh: lepsi ssh
-- ssh -C
 - key-mon (monitoruje klavesy)
 - KeyWatcher
 - GNU Expect
-- kompresor souboru: upx
 - ntp
 - libxslt -> xsltproc
 - http://jekyllboostrap.com
@@ -49,8 +41,6 @@
 - open text summarizer (http://libots.sourceforge.net)
 - Landell - streamovani a uprava videi
 - konversation: IRC klient pro KDE
-- Point Cloud Library (PCL) - rekonstrukce veci z point cloudu
-- Haskell IDE Leksah
 - kcachegrind
 
 - gprof2dot-git: graf z gprofu do dotu
@@ -58,24 +48,18 @@
 
 - Android Studio (nad IntelliJ IDEA)
 
-- fail2ban (umi mimo jine httpd, vsftpd, sshd)
-- sync && echo 3 > /proc/sys/vm/drop_caches ### dropne diskovou cache
 - gnuplot --persist
 
 - Android Lost - hlidac ztraceneho androidu
-
-- extrakce zvuku z YouTube videa: ffmpeg -i in.flv -vn -f mp3 out.mp3
 
 - xterm umi Shift+Num+ / Num- (zvetsuje/zmensuje pismo)
 - rubypython: pousteni Pythonu z Ruby
 
 - github leafo/sticky-kit -- na sticky elementy v JS
-- wireframy: pencil
 - nastaveni rate opakovani klaves: 'xset r rate 190 35'
 - less ma prikaz (F)ollow
 - zalohovani 'tarsnap' (Amazon EC3, hodne sifrovane)
 - vypnuti ulimitu: ulimit -St unlimited; ulimit -Ht unlimited
-- Zathura - vimovity prohlizec PDFek
 - common lines: `comm`
 - xiki
 - CLI 'spoje' - interface k Idosu
@@ -97,7 +81,6 @@ fish shell
 xvkbd
 avidemux
 ffmpeg2theora
-selenium server
 ruby-gnomecanvas
 
 lepsi Freetype fonty: infinality patchset (previewer: grip) (balik v AURu grip-git)
@@ -105,12 +88,7 @@ lepsi Freetype fonty: infinality patchset (previewer: grip) (balik v AURu grip-g
 
 ibam: dela si profil baterie
 
-ssss: shamir's secret sharing scheme
 vanitygen-git
-
-.NET Ant: 'nant'
-nunit
-monogame
 
 GL extension: volani bez bindingu, ARB_debug_output
 
@@ -118,7 +96,6 @@ xorg-xinput: ruzne parametry vstupnich zarizeni
 
 alsa-mixer: mezernik na vypnutem mikrofonu
 .gtk-bookmarks - soubor s GTK bookmarky
-gcov: code coverage
 fake-hwclock: nacitani a ukladani data kdyz nejsou hw hodiny
 dosfstools
 cppcheck
@@ -133,11 +110,7 @@ vyzkouset 'workrave'
 Vimperator: :dialog searchengines
 it's all text: mozilla plugin
 
-skript 'column -t'
 jot = command
-
-Alt-F,B: current word
-nmtui
 
 CircleCI
 Papertrail logs
@@ -163,11 +136,8 @@ hopper-v3 == dekompilator (nainstalovany)
 
 base16-builder = univerzalni stylovac
 
-ncdu = disk usage in ncurses
-
 js-beautify
 
-- `hydrogen` - drum machine
 - terminator
 - meld
 
@@ -199,18 +169,13 @@ tyls, ... (ty\*) == "terminology \*"
 - ESALib - semantic analysis
 - nltk
 - ScalaZ: "making Scala more functional"
-- pocketsphinx
 - git ready (git tutorialy)
-- Selenium
 - mirage
 - GNU Guile
 - FLTK
 - Beamer
-- Recast -- navigation in 3D
 - Pomodoro technique
-- Yesod: Haskell web framework
 - Flask
-- Xamarin (C# everywhere)
 - Emscripten QT
 gtk-recordMyDesktop
 

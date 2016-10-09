@@ -18,7 +18,6 @@ static_cast<>()
 
 ^ C++ brace-initialization
 
-unistd: pread
 s?printf parameter reordering
 
 if (auto x = ...) <- validni C++

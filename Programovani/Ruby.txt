@@ -15,8 +15,6 @@ TODO: naucit se jak funguje Benchmark (nazpamet)
 
 - Nemusim byt jediny, kdo pretezuje method_missing. Musim volat super. (podobne pri respond_to?)
 
-- Mirah -- jazyk kompilovany do Javy (Mirah je hodne podobny Ruby)
-
 - slideshow gem
 
 - 2D fyzika: chipmunk-physics. ma to Ruby FFI bindingy.
