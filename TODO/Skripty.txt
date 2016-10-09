@@ -1,6 +1,6 @@
 TODO: naucit test-server zkusit to pozdeji znovu?
 TODO: mute sound after suspend
-TODO: vim: write & buffer delete
+TODO: vim write & buffer delete
 TODO: co se stane, kdyz odeberu notebook z doku zatimco spi? chci aby pochopil ze uz neni v doku...
 TODO: timidity mi zere baterku... je potreba?
 TODO: crypto header backup - cryptsetup luksHeaderBackup --header-backup-file <file> <device>
@@ -10,8 +10,6 @@ TODO: tweaky, co dela powertop, by se mely delat automaticky.
 TODO: suspend on lid switch unless mounted
 TODO: proc xosdutil tak rychle skonci pri acpi?
 TODO: opravit funkce suspendovacich tlacitek
-TODO: neni pomalu cas na full-disk encryption?
-TODO: mpd ma hooks (v ~/.mpd) - neslo by je nejak vyuzit?
 TODO: zrychlit rubyovske skripty
 
 TODO: screensaver-unmount si neumi detekovat displej, ktery je otevreny
@@ -21,12 +19,10 @@ TODO: screensaver-unmount si neumi detekovat displej, ktery je otevreny
 TODO: zalohovat nekam moje konfiguraky Dragonu (a vubec cely Dragon)
 TODO: crypto backup. a vubec lepsi zalohovani. (hesla a tak)
 TODO: backup - .nobackup pro adresare, ktere fakt nechci zalohovat
-TODO: "cryptoZIM", nebo aspon "cryptolidi"
 TODO: pridat k `ovec` moznost konfigurace vlnkovanych vyrazu
 TODO: skript co dela powertop optimalizace mi zabijel sitovku... :(
 TODO: zalohovani fotek!
 
-- xosdutil mpd
 - acpi hook xosdutil
 - vim skeletons
 
@@ -40,7 +36,7 @@ TODO: automaticky mail-pingovaci skript
 TODO: xmonad-contrib: chci tam mit ten svuj patch, nebo pouzivat svuj layout
 TODO: vypnout xoff/xon
 TODO: jak naucit zsh aby disownoval joby?
-TODO: vim: vypnout v ...?-line upozorneni na mixed-indent
+TODO: vim -- vypnout v ...?-line upozorneni na mixed-indent
 TODO: nedovolit move-to-crypto kdyz neni crypto mounted
 TODO: napad: aplikace na to, ze jsem si zamkl
 TODO: cryptounmount -- nerestartuje

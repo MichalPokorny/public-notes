@@ -33,3 +33,5 @@ attempted telekinesis
 
 try to make decisions in a neutral environment
 implicit association test
+
+"ugh field": actively look out for the flinch

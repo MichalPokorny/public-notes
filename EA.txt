@@ -23,8 +23,6 @@ TODOs:
 	Beyond Meat: vegetarian fake chicken strips
 	animal equality: 11 animal lives saved per dollar
 
-saving 1 life: $3400 (2015 figure, AMF)
-
 neglectedness: compare marginal costs
 cancer: 8.2M deaths/year, 7.6% QALYs lost
 malaria: 3.3% QALYs lost

@@ -108,7 +108,6 @@ koupit rozdvojku na audio
 nastudovat neurosis / neurotic
 
 study synthetic biology existential risks
-http://www.existential-risk.org/faq.html
 
 join ACM? (policy-affecting)
 
@@ -127,8 +126,6 @@ fio osobni ucet
 
 poridit lekarnicku, teplomer
 
-study free will & determinism
-
 test na facebook app listening
 
 zmerit moji vysku
@@ -143,8 +140,6 @@ investigate lifespan impact of vegetarianism
 	blood screen: risk factor na nemoci, impact na lifespan, B-12, D, omega-3
 
 TODO: backupy na vsechny textove materialy s historii -- dropbox mista na to mam nejspis zcela dost
-
-clanek 'how robust is the wisdom of crowds'
 
 memics.cz: CS konference
 
@@ -188,15 +183,11 @@ dluzim kajovi par piv (za KFC z Polska)
 
 Martin Fowler: sw engineer, author, international public speaker on SWE. smart guy. has blog.
 
-http://wiki.80000hours.org/index.php/AI_Safety_Research
-
 Jerry Fodor (philosopher)
 
 pridat do CV: spring school of combinatorics 2014 stuff
 
 clovek: David Chalmers
-
-gantt charts
 
 throw out all socks, get 30 identical pairs
 
@@ -217,8 +208,6 @@ webpage: hodit tam prezentaci o Bazelu
 vzit si z Bloxu VGA kabel
 
 Pasky - portfolio algoritmu
-
-the unreality of time
 
 multi-armed bandit problem (Tomas Tunys z CVUT eClub media lab)
 
@@ -267,8 +256,6 @@ Go klub (MFF)
 Argunet (software na argument mapping)
 
 http://searchwarp.com/swa267806.htm
-
-"ugh field": actively look out for the flinch
 
 koupit vic kratasu
 

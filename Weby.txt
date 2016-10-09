@@ -14,8 +14,6 @@ modx CMS
 
 merb framework (Ruby)
 
-Prohlizece necachuji URL s query stringem
-
 ThemeForest
 
 Toggl (time tracker)
