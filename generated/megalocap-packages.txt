@@ -115,7 +115,6 @@ go-tools
 google-chrome
 google-earth
 google-talkplugin
-gparted
 gprof2dot-git
 gptfdisk
 graphviz
@@ -129,7 +128,6 @@ gzip
 hamster-time-tracker
 happy
 homebank
-hopperv3
 htop
 hugin
 hydrogen

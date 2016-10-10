@@ -22,15 +22,11 @@
 - key-mon (monitoruje klavesy)
 - KeyWatcher
 - GNU Expect
-- ntp
 - libxslt -> xsltproc
 - http://jekyllboostrap.com
-- foremost, ddrescue
 - HDR: luminancehdr; s Hugin-em umi automaticky zarovnavat (hugin je na panoramata)
-- libcanberra: zvuky
 - xvidcap: capture obrazovky (/istanbul)
 - CoachPotato: automaticke stahovani torrentu
-- dwb - bacha, pamatuje si historii. - chce to zasifrovat .config/dwb, .cache/dwb
 
 - krdc, rdesktop, remmina, tightvnc, realvnc, vinagre : VNC / Remote Desktop
 	TIGERVNC!
@@ -62,10 +58,6 @@
 - xiki
 - 'qalc': doporuceno FS - umi jednotky vcetne ruznych men
 
-== Zajimave programy, ktere mam ==
-gparted??? (mam ho mit?)
-rrdtool
-
 heap-shot-git (heap profiling pro mono)
 
 hostapd, dnsmasq
@@ -88,7 +80,6 @@ xorg-xinput: ruzne parametry vstupnich zarizeni
 alsa-mixer: mezernik na vypnutem mikrofonu
 .gtk-bookmarks - soubor s GTK bookmarky
 fake-hwclock: nacitani a ukladani data kdyz nejsou hw hodiny
-dosfstools
 cppcheck
 
 Exolutio: XML konceptualni modeling
@@ -107,7 +98,6 @@ Papertrail logs
 Pivotal Tracker
 
 pachyderm (open MapReduce)
-gRPC (Proto3 + Stubby over HTTP/2)
 review board (open-source)
 
 disown
@@ -119,16 +109,13 @@ GNU datamash
 
 ledger
 
-hopper-v3 == dekompilator (nainstalovany)
-
 'google XYZZYFOO' -- mam nainstalovany googlici CLI nastroj
 
-base16-builder = univerzalni stylovac
+base16-builder = univerzalni stylovac -- generates themes for your favorite CLI programs
 
 js-beautify
 
 - terminator
-- meld
 
 <h3>Terminology</h3>
 Pretty cool terminal - has images, video, OpenGL...
@@ -140,7 +127,7 @@ TODO: try again later.
 tyls, ... (ty\*) == "terminology \*"
 
 - Contiki: Internet of Things OS
-- piorekf: plug
+- piorekf/plug
 - xowa: offline wikipedia
 - mosh (alternative ssh)
 
@@ -148,7 +135,6 @@ tyls, ... (ty\*) == "terminology \*"
 - net/http cheat sheet
 - logwatch
 - undistract-me
-- libnotify
 - GPUMlib: GPU machine learning (C++)
 - ilog scheduler
 - CellWriter
