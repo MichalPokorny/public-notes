@@ -1,7 +1,5 @@
 - kazdy rok zadost o ubytovaci stipendium
 
-NMFM535: ocenovani akcii (ma to Janecek)
-
 Ke statnicim:
 	1. Reprezentace znalosti
 	2. Reseni uloh a planovani
@@ -12,10 +10,7 @@ Ke statnicim:
 		1. Strojove uceni a jeho aplikace
 		2. Neuronove site (chtelo by ATNS, EVR)
 
-Techniky vizualizace dat: nejdou, protoze utery
-
-Aproximacni a online algoritmy NDMI018
-Seminar z online a aproximacnich algoritmu NTIN072
+NMFM535: ocenovani akcii (ma to Janecek)
 Zaklady prenosu a zpracovani informace NTIN100
 Zakladni seminar k pocitacove simulaci cinnosti bunek NAIL019
 Topologicke metody v kombinatorice NDMI014
@@ -24,13 +19,9 @@ Kombinatoricky seminar NDMI022
 Geometricke reprezentace grafu I NDMI037
 Kombinatoricky seminar pro pokrocile NDMI041
 Analyticka a kombinatoricka teorie cisel NDMI045
-Problemovy seminar z kombinaotriky NDMI052
+Problemovy seminar z kombinatoriky NDMI052
 Seminar z grafovych algoritmu NDMI057
-Vybrane kapitoly z teorie grafu NDMI070
 Vybrane kapitoly z diskretni matematiky NDMI075
-Algoritmy pro specificke tridy grafu NDMI077
-Grafove algoritmy II NDMI088
-Bioinformaticky seminar NDMI090
 Topologicke a algebraicke metody NMAI066
 Matematicka ekonomie NOPT013
 Seminar z vypocetni slozitosti NTIN050
@@ -39,14 +30,10 @@ Crash dump analyza NPRG050
 Pokrocile programovani pro .NET II NPRG057
 Specifikace pozadavku na SW produkt NSWI028
 Moderni trendy v informatice NSWI029
-SWE pro spolehlive systemy NSWI054
 Middleware NSWI080
 Analyza programu a verifikace kodu NSWI132
 
-KJP:
-	NDZK001 Anglictina pro doktorske studium
-	NJAZ012 Anglicky jazyk pro informatiky
-	+ francouzstina?
+KJP: NDZK001 Anglictina pro doktorske studium
 
 NMMA334 Uvod do parcialnich diferencialnich rovnic
 NMMA338 Komplexni analyza 1
@@ -55,7 +42,6 @@ NMNM336 Uvod do metody konecnych prvku
 NOPT046 Diskretni a spojita optimalizace
 
 Matematicke problemy nematematiku NMAT100
-Ekonometric NMEK432
 Optimalizace s aplikaci ve financich NMEK532
 Kapitoly z moderni optimalizace a ekvilibrii NMEK606
 Dynamicka ekonomie a ekonometrie NMEK612
@@ -86,7 +72,6 @@ Techniky vizualizace dat NDBI042
 Dotazovani s preferencemi NDBI021
 Transakce NDBI016
 Technologie XML NPRG036
-Bioinformaticky projekt NPRG061
 Pokrocile aspekty SWE NSWI026
 Uvod do SWE NSWI041
 Konstrukce prekladacu NSWI109
@@ -96,23 +81,15 @@ Vyvoj cloudovych aplikaci NSWI152
 
 Seminar z umelych bytosti NAIL082
 Virtualni realita NPGR012
-HW pro CG NPGR019
-Shading languages NPGR027
-Grafika pro poc. hry NPGR033
 Metodika pr. a filoz. progr. jazyku NPRG003
 Seminar ze stringologie a kompr. dat NSWI100
 Seminar z poc. her NSWI158
 Praktikum z vyvoje poc. her NSWI159
 
 Teorie mnozin NAIL063
-Seminar ze splnitelnosti NAIL092
 Seminar str. uceni a modelovani II NAIL100
-Pravd. robotika NAIL101
 Filos. probl. informatiky NAIL102
-Mobilni robotika NAIL108
-Prakt. z robotiky NAIL110
 Zaklady teorie metrickych prostoru NMMA262
-Rozhr. pro robotiku NPRG025
 Seminar o dynamickych dat. strukturach NTIN032
 Slozitost NTIN063
 Vycislitelnost NTIN064
@@ -121,14 +98,8 @@ Alg. nahodnost NTIN088
 Seminar z Booleovskych funkci II NTIN094
 Alg. aspekty booleovskych funkci a par. slozitost NTIN099
 
-Uvod do teorie Lieovych grup NMAG334
-Fraktaly NMAG451
-Progr. pro X window system NSWI079
-
 Synt. analyza cestiny NPFL024
 Seminar z form. lingvistiky NPFL004
-Zdroje lingv. dat NPFL070
-Prazsky zav. korpus NPFL075
 Algoritmy rozp. mluvene reci NPFL079
 Inform. struktura vety a vystavba diskurzu NPFL082
 Lingv. teorie a gram. formalismy NPFL083

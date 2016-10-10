@@ -11,8 +11,6 @@ samizdat.mines.edu/howto/HowToBeAProgrammer.html
 sandboxed apps (gnome3)
 capital asset pricing model
 "look at callers for testing inspiration"
-strange loop conference
-bash: <(prikaz) >(prikaz) <<-- funguje jako cesta
 
 somebod.com (== courbet@)
 producthunt.com
@@ -44,9 +42,6 @@ The* == global singleton (Carmack)
 
 brunoloff.wordpress.com/c-expressions
 materialup.com
-papers-we-love
-
-https://code.google.com/hosting/search?q=label:Google%20label:cplusplus&filter=0&mode=&start=0
 
 artoo - ruby on robots
 
@@ -98,13 +93,10 @@ dogtail gui testing
 
 cicada 3301: january 5
 
-OpenShift (golang-prvak.rhcloud.com)
-
 bubble.is
 
 "rozvijej svuj klid" <- odkud to je? (twitter ma error page "420 Enhance your calm", maybe?)
 
-LMM Algorithmic Trading (? -- proc o tom mam v mobilu poznamku?)
 https://karpathy.github.io/2015/05/21/rnn-effectiveness/
 http://www.paulgraham.com/articles.html
 littlebits.com: elektro stavebnice
@@ -160,26 +152,15 @@ wakatime
 
 biosbits.org
 FFI interfaces (e.g. screen stuff)
-http://playgo.to/iwtg/en/ (go tutorial)
-
-EFF: Privacy Badger, HTTPS Everywhere
 
 therealsfmap = mapa SF s lidmi z firem, ktere me zajimaji
 google trends visualizer
 OSDev wiki
 noscript plugin (je velmi secure)
 
-Password managery:
-	www.passwordstore.org
-	www.keepassx.org
-
 fakena.me/random-real-address
 
 navlio
-
-long short-term memory units
-restricted boltzmann machine
-deep belief network
 
 livesimple.io
 
@@ -218,9 +199,7 @@ big think slavoj zizek
 
 Google TensorFlow!
 	https://tensortalk.com/?h
-	https://github.com/tensorflow
 	tensorflow/skflow: skflow/examples/resnet.py
-	tensorflow tutorial
 	neural turing machine in tensorflow: https://github.com/carpedm20/NTM-tensorflow
 	https://github.com/LeavesBreathe/tensorflow_with_latest_papers
 
@@ -332,20 +311,13 @@ http://servis.idnes.cz/GetFile.aspx?type=idneskindle: returns idnes.mobi
 
 CPU microcode is in silicon, but patch RAM exists (interesting...)
 
-https://wiki.lesswrong.com/wiki/The_Hanson-Yudkowsky_AI-Foom_Debate
-https://wiki.lesswrong.com/wiki/The_Science_of_Winning_at_Life
-https://wiki.lesswrong.com/wiki/No-Nonsense_Metaethics
-https://wiki.lesswrong.com/wiki/Free_will_(solution)
-https://wiki.lesswrong.com/wiki/Highly_Advanced_Epistemology_101_for_Beginners
 bostrom's exploration of anthropic principle
 sleeping beauty problem
 guesstimate
 
 http://www.trinity.edu/cbrown/bayesweb/
 https://faces.ethz.ch/
-https://en.wikipedia.org/wiki/Bayes'_theorem
 decision theory: all sane decision rules equivalent to bayes
-coefficient of determination (R squared)
 http://poetrychina.net/Story_of_Zen/zenstory3a.htm
 
 frequentist probability vs. bayesian probability
@@ -362,18 +334,11 @@ I can tolerate anything except the outgroup (red and blue tribe): http://slatest
 counterfactuals (what is the counterfactural to intervention?): http://theincidentaleconomist.com/wordpress/counterfactuals/
 comparative advantage: http://www.econlib.org/library/Topics/Details/comparativeadvantage.html
 
-https://80000hours.org/2015/09/join-us-as-product-engineer-build-our-interactive-career-guide-and-help-millions-of-graduates-have-a-greater-social-impact-1000-for-referrals/
-
-http://globalprioritiesproject.org/2015/10/three-areas-of-research-on-the-superintelligence-control-problem/
-https://intelligence.org/workshops/ (attend a workshop)
-
 reinforcement learning: an introduction
 http://futureoflife.org/data/documents/research_priorities.pdf
 
-Schelling's Model of Segregation
 clearerthinking.org: calculator of value of your time
 arugula (rukola)
-80000 hours: sharing offices with Future of Humanity Institute
 
 glassbowl.info
 chooseyourstory.com

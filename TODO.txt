@@ -73,12 +73,8 @@ test that dropbox keeps extended attributes
 * if-found wallpaper for phone
 * add wallet-btc to BTC backups
 * soukromy skladovy skript?
-* jak dlouho budou existovat nahradni dily na X230?
 * seridit kolo
 * pridat moje gemy do ruby toolbox?
-* Dragon:
-	* aktivovat FTP backup
-	* vyrobit instalacni skript? (Docker image?)
 * root: chci mit v dotfiles reference na vim bundles jenom kdyz jsem normalni uzivatel (root by mel mit spolehlivou konfiguraci)
 * whyday
 * poridit si vizitky?
@@ -135,78 +131,37 @@ rozsirit delani screenshotu: dokazal bych potencialne nahravat vsechno, co delam
 investigate lifespan impact of vegetarianism
 	blood screen: risk factor na nemoci, impact na lifespan, B-12, D, omega-3
 
-luminosity
-	let there be light: start with psych studies, personality tests, feedback
-	myers-briggs, big five (tests)
-	http://skyview.vansd.org/lschmidt/Projects/The%20Nine%20Types%20of%20Intelligence.htm
-	book: love language
-	affect, behavior, circumstance
-	frequent agressive introspection
-	stream of consciousness, 5-10 minutes
-	city of lights (multiagency)
-
 arguments for universal objective binding morality
-
 dalsi KSP sraz
-
 "the terrible horrible ... ..." - 28/377, 1.2 two meanings of "moral"
-
 join forums for LW, EA
-
 cerebrolysin
-
 mel bych zase zacit hubnout!
-
 je sance, ze jeste existuji moje zaznamy od psycholozky, kdyz jsem tam byl?
-
 spend more time with family -- they might die while I'm gone
-
 sehnat houby, pozvat tomiho na vec
-
 emotional dependency
-
 http://log.or.cz/?cat=150
-
 strategy of conflict: zbyva precist Part 4+
-
 dluzim kajovi par piv (za KFC z Polska)
-
 Martin Fowler: sw engineer, author, international public speaker on SWE. smart guy. has blog.
-
 Jerry Fodor (philosopher)
-
 pridat do CV: spring school of combinatorics 2014 stuff
-
 throw out all socks, get 30 identical pairs
-
 TODO: zazalohovat Dropbox 2FA one-time access codes
-
 TODO: stahnout 'find the music in you'
-
 Galibi deskovky
-
 http://apophis.cz/blog/
-
 Pasky - portfolio algoritmu
-
 multi-armed bandit problem (Tomas Tunys z CVUT eClub media lab)
-
 listen to audiobooks at 2-3x normal speed
-
 koupit osusku
-
 podivat se na eliezerovy stare maily z ~1997
-
 change diet, work out in the morning, maximize health, maximize physical attractiveness
-
 agentyduck.blogspot.com
-
 brazilian jiu jitsu
-
 build self-worth
-
 relationship advice thread z order of the stick
-
 Inspiration Manifestation: Rarity se tam uklidnuje jedenim zmrzliny :D
 
 knizka, ve ktere hlavni hrdina ma rozdelene hemisfery
@@ -214,109 +169,62 @@ stalo se mu to asi na mesici jestli si dobre vzpominam
 komunikovaly spolu pomoci morseovky
 
 kosik.cz
-
 Go klub (MFF)
-
 Argunet (software na argument mapping)
-
 koupit vic kratasu
-
 dukkha: https://en.wikipedia.org/wiki/Dukkha
 	make a list of things you're grateful for
-
+	gratitude journal
 existuje nejaky spravny zpusob, jak na kytaru davat nove struny?
 	zrejme jsem to posledne udelal dost divne.
-
 opravit na kytare takovy ten "jezdici plast" na leve strane hmatniku
-
 let people finish their sentences
-
 vzit domu levanduli a dalsi masti
-
-https://www.samharris.org/blog/item/taming-the-mind
-
 liska bystrouska
-
 koupit si jesterku az budu mit trvaly byt
-
 behani: http://www.kpo.cz/fyziologie/fyziologie.htm
-
 https://web.archive.org/web/20141013084825/http://kruel.co/2013/01/07/why-you-should-be-wary-of-the-singularity-institute/#sthash.5uZCbQRI.dpbs
 https://web.archive.org/web/20141013084617/http://kruel.co/2013/01/10/the-singularity-institute-how-they-brainwash-you/#sthash.1Tc1wW5U.dpbs
-
 check for vitamin deficiencies, anaemia, hypothyroidism
 do therapy on yourself
-
 mapa Prahy nebo sveta na vnitrni strane dveri od zachoda
-Spinalis zidle
 Viden - narodni opera
-
 david hume
-
 cached selves
 consider the opposite: "what are some reasons that my initial judgement might be wrong?"
 cognitive override: notice when speaking/acting on intuitive judgement
-
 commitment and consistency effects: any random thing you say or do in the absence of obvious outside pressure can hijack your self-concept for the medium- to long-term future
-
 visualize your life as something you just inherited from someone else
-
 before the battle: leave a line of retreat
 during the battle: call out flinching reactions
-
 envision what could go badly if you come to false beliefs
-
 http://www.marcandangel.com/2011/12/11/30-things-to-stop-doing-to-yourself/
-
 koupit vahu, co umi automaticky logovat vahu do webservice po wifi
-
 na LessWrong: perfect memory
 	- snazil se o to uz nekdo?
 	- kolik pameti je potreba na jake smysly?
 	- co vsechno bychom mohli vedet, kdybychom meli lepsi pristup k pameti?
 	diktafon na dokonalou pamet
-
 najit: draco telling harry to always be ready to give everything back
-
 zlozvyk: jedeni oboci
-
 right hemisphere dysfunction: https://medicalspeechpathology.wordpress.com/student-handbook/right-hemisphere-dysfunction/
-
 RehaLand
 ortoped v Praze: Jakub Vranka (poliklinika)
-
-gratitude journal
-
 vyresit mobilni internet O2 - po vycerpani se vypne
-
 spend more time in Mode 2
 Don’t wait until your deathbed to figure out what life is all about.
-
 tarif? lepsi mobilni internet?
-
 test na anemii: anemie zpusobuje depresi
-
 https://www.reddit.com/r/theXeffect
-
 http://www.paulgraham.com/vb.html
-
 rungo.cz: terminovka   http://rungo.idnes.cz/terminovka.aspx
 Praha: 2 ligy na 10k
 Vitkov, Branik -- standartni 10k kazdy mesic
 Loap prazska bezecka tour: http://www.vaseliga.cz/cz/sporty/behani/
-
 apply to OpenAI
-
 TODO: ssh-agent on metacentrum
-
 http://slideslive.com/casp/xiii-celostatni-konference-casp-laska-ve-21-stoleti
-
-get more money from work
-
 Jak by me slo presvedcit o tom, ze bych mel venovat na bezpecnost umele inteligence?
-
 TODO: change swapfile location.
-
 Chrome ma moznost loadnout savenutou page
-
 mind hacking
