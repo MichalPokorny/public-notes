@@ -1,22 +1,11 @@
-@font-face
-CSS3 transitions
-
 jQuery icon list: http://www.petefreitag.com/cheatsheets/jqueryui-icons/
-CSS3 calc(), flex, attr(); datalist
 HTML5 FS API -> filter.js
 web workers; postMesssage
 
-Travis CI, Jenkins CI
-
-Initializr
-
 modx CMS
-
-merb framework (Ruby)
 
 ThemeForest
 
-Toggl (time tracker)
 krakonos.org
 documentaryheaven.com
 asoftmurmur.com

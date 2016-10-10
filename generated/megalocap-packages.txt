@@ -1,5 +1,4 @@
 602xmlfiller
-abcde
 acpi
 acroread
 alsa-oss

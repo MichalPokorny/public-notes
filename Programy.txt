@@ -65,7 +65,6 @@ racket - lisp
 
 fish shell
 
-xvkbd
 avidemux
 ffmpeg2theora
 ruby-gnomecanvas
@@ -79,23 +78,16 @@ xorg-xinput: ruzne parametry vstupnich zarizeni
 
 alsa-mixer: mezernik na vypnutem mikrofonu
 .gtk-bookmarks - soubor s GTK bookmarky
-fake-hwclock: nacitani a ukladani data kdyz nejsou hw hodiny
 cppcheck
 
 Exolutio: XML konceptualni modeling
 
 form filler 602: filler.sh (Wine, pomale a otravne)
 
-vyzkouset 'workrave'
-
 Vimperator: :dialog searchengines
 it's all text: mozilla plugin
 
 jot = command
-
-CircleCI
-Papertrail logs
-Pivotal Tracker
 
 pachyderm (open MapReduce)
 review board (open-source)
@@ -142,12 +134,10 @@ tyls, ... (ty\*) == "terminology \*"
 - ESALib - semantic analysis
 - nltk
 - ScalaZ: "making Scala more functional"
-- git ready (git tutorialy)
 - mirage
 - GNU Guile
 - FLTK
 - Beamer
-- Pomodoro technique
 - Emscripten QT
 gtk-recordMyDesktop
 

@@ -14,8 +14,6 @@ xset fp rehash
 nejstarsi notebook (asrock): feynmann, HP 4530s: vakarian, X230: megalocap
 server: dragon
 
-Vimperator mel ve verzi 3.7 par problemu s modernim Firefoxem. Upgrade na 3.8pre z Githubu.
-
 Generic mapping!!! (musim testovat, ze funguje dobre)
 	GENERIC na serveru i na notebooku!
 

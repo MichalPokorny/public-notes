@@ -4,12 +4,9 @@ MAC: 3C:97:0E:C1:07:59
 	TODO: udelat z toho jinou variantu v gitu?
 
 Log:
-	- installed powertop
-	- xf86-video-intel
+	- installed powertop, xf86-video-intel, autoconf, automake
 
-	- enabled atd
-	- autoconf, automake
-
+	- enabled atd, cronie
 	- zkopirovano .mozilla
 
 	- syslog-ng
@@ -18,8 +15,6 @@ Log:
 	- lid no suspend
 
 	- x11: nolisten tcp
-
-	- enable cronie
 
 	- updatedb.conf pruning
 
@@ -34,11 +29,6 @@ Log:
 	- bison (abych mel yacc)
 
 	- anki flashcards
-
-	- abcde cd ripper
-		- perl-musicbrainz-discid
-
-	- fortune-mod
 
 	- enable multilib for wine
 

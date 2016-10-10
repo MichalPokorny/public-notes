@@ -1,6 +1,6 @@
 -
         group: Programming languages
-        topics:
+        items:
                 - Objective-C
                 - Node.js
                 - Swift
@@ -30,12 +30,12 @@
 - Greek alphabet
 -
         group: Algorithms
-        topics:
+        items:
                 - Burrougs-Wheeler-transform (setrid vsechny rotace retezce, vrat posledni sloupec)
                 - Bentley-saxe trick (static data structure dynamization)
 -
         group: Data structures
-        topics:
+        items:
                 - Heavy-Light decomposition
                 - Merkle tree
                 - Gap buffer
@@ -47,7 +47,7 @@
                 - Splay trees
 -
         group: CS
-        topics:
+        items:
                 - AKS primality test
                 - Cache coherence algorithms
                 - O(N) planarity testing
@@ -68,7 +68,7 @@
 - 3D modeling in Blender
 -
         group: Math
-        topics:
+        items:
                 - Markov decision processes
                 - Central limit theorem and its proof
                 - Definition of exp(x)
@@ -107,7 +107,7 @@
 - 'Ethics: pasadena paradox, heaven and hell problem'
 -
         group: Philosophy
-        topics:
+        items:
                 - hyperreality
                 - allegory of the cave
                 - authenticity (philosophy)
@@ -122,3 +122,14 @@
 - locality-sensitive hashing
 - AdaGrad, AdaDelta
 - Kegan stages of moral development
+-
+        group: Web development
+        items:
+                - CSS3 transitions
+                - CSS3 calc()
+                - CSS3 flex
+                - CSS3 attr()
+                - CSS3 datalist
+                - @font-face in CSS
+                - merb framework (Ruby)
+                - Initializr

@@ -1,15 +1,5 @@
 KROK 1) Kopiruju stary server k sobe na disk.
 
-	Z passwd, gpasswd by mel zmizet b4f-crm, crm-b4f (jeden z tehle) a pi-tunnel.
-
-	mine-tunnel: urceno k tunelovani z Tezitka
-
-UPRAVY:	vypnuto magic.rny.cz, protoze to uz nema smysl.
-	vypnuto priv.rny.cz, tmp.rny.cz, work.rny.cz, pub.rny.cz (pripadne zapnu pozdejs)
-	vypnuto podnikani.rny.cz
-	odebrano /srv/rails/ordinace, dano do zaloh
-	SVN jch, tomi odebrano
-
 Seznam sluzeb na serveru:
 	* Tomiho idnesMailer
 		-- ono to uklada kopie do 'sent'... to je ale blbost...
@@ -24,7 +14,6 @@ Priority:
 	1) mail (SMTP & POP3 & IMAP)
 	2) ordinace
 	3) osobni web
-	4) penezotron
 
 
 Seznam explicitne nainstalovanych baliku, co nejsou nicim requirenute:
@@ -57,8 +46,6 @@ Seznam explicitne nainstalovanych baliku, co nejsou nicim requirenute:
 	licenses 20130203-1
 	lvm2 2.02.105-2
 	make 4.0-2
-	man-pages-de 1.4-1
-	man-pages-it 3.60-1
 	mariadb 5.5.36-1
 	mc 4.8.12-1
 	mdadm 3.3-2
@@ -89,7 +76,6 @@ Seznam explicitne nainstalovanych baliku, co nejsou nicim requirenute:
 	screen 4.0.3-15
 	smartmontools 6.2-1
 	strace 4.8-1
-	subversion 1.8.8-1
 	sudo 1.8.10.p2-1
 	syslog-ng 3.5.3-1
 	systemd-sysvcompat 212-1
@@ -160,16 +146,6 @@ PLAN OPERACE:
 	5)	zahajit restoraci z FTP -- nakopirovat nekam do vhodneho mista a soubor po souboru narovnavat
 	6) Postfix, Dovecot, peclive otestovat ze to funguje vcetne SSL
 
-Nechci nikdy zalohovat .swp, .swo, ...
-	*.o a spustitelny?
-	*.hi a je soubor *.hs?
-	*.exe?
-
-	*.aux? *.log? (development.log)
-
-- temp / tmp: vycistit
-- cache
-- vydiffovat stare backupy
 - vituv stary web ('web vp')
 
 	1) 00:03: spustena reinstalace serveru
@@ -301,17 +277,6 @@ passenger
 
 pacman -S make
 
-symlink na bundle v penezotronu, vsechno patri railsum, Directory v apache konfiguraci
-ln -s /srv/rails/penezotron/shared/database.yml database.yml
-
-pacman -S mariadb
-(nakopirovani SQL databaze)
-
-systemctl restart mysqld
-systemctl enable mysqld httpd
-
-Funguje mi penezotron.
-
 obnovuju obsah /root.
 	.bash_profile
 	.bashrc
@@ -323,12 +288,7 @@ pacman -S colordiff mlocate
 
 cron.hourly: rezervace_tick
 
-mysqld: skip-networking
-
 systemctl enable fail2ban, start fail2ban
 
 -- fail2ban si stezuje v logu na spatnou syntaxi iptables --
 -- zmenen defaultni jail aby to fungovalo --
-
-(4.5.2014)
-	5) FTP na ordinaci, user 'pp'
