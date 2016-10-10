@@ -1,3 +1,5 @@
+http://www.succeedsocially.com/socialmodes
+
 two modes: Regular Logical Mode, and Light Fun Mode
 
 success:
@@ -5,4 +7,44 @@ success:
 		to know someone better, having an interesting conversation
 	light fun mode: having fun, feeling good, coming out feeling closer to
 		your friends, adventures
-	
+occurrences:
+	logical mode: work, day-to-day life, 1-on-1 discussion, quiet evening at
+		home
+	light fun mode: parties, lively group meals, bars and clubs
+participants:
+	logical mode: friends who know each other, people getting to know each
+		other, family
+	light fun mode: joking around, acquaintances, friends of friends
+getting along with other people:
+	logical mode: whether you have rapport, common interests, can have a
+	good discussion
+	light fun mode: how much fun can you have with each other
+personality revealed:
+	regular logical mode: 'normal', regular self
+	light fun mode: excuses for 'playing a character' (alcohol / caught up
+	in the moment)
+reaction to people in the other mode:
+	regular logical: hyper, loud, unfocused, obnoxious
+	light fun: boring, uptight
+benefits for shier, more cerebral people:
+	regular logical: their element
+	light fun: less serious => might do better if playing a character
+pitfalls for shier, more cerebral people:
+	regular logical: too focused on topic, ignore people we're with, can
+	ignore human element
+	light fun: too inhibited to function in this mindset, annoyed at
+	everyone, over-stimulated, knock to self-esteem
+
+where intellectual, serious types can go wrong:
+	* being one-sided and only comfortable in logical mode
+	* frustrated with people in fun mode
+	* TRYING TO SHOEHORN INTERACTIONS INTO LOGICAL MODE FRAMEWORK (E.G.,
+	  TRYING TO TALK POLITICS)
+	* LOSING CONFIDENCE IN ABILITY TO RELATE TO PEOPLE & LIKABILITY BECAUSE
+	  THEY CAN'T RELATE TO PEOPLE IN FUNMODE
+	* RESENT PEOPLE IN FUNMODE
+	* UNDERDEVELOPMENT IN THRIVING IN FUNMODE
+
+=> accept that there's nothing wrong with wanting to have fun / act non-serious
+=> realize one mode isn't better than the other
+=> go with the flow
