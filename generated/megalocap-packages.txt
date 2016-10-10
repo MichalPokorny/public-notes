@@ -148,6 +148,7 @@ jabref
 jdk7-openjdk
 jdk8-openjdk
 jre7-openjdk
+js
 jshon
 jslint
 kdesdk-kcachegrind
