@@ -32,3 +32,5 @@ Jak se vytvareji falesne vzpominky?
 critique of consequentialism, critique of moral realism?
 
 existuje nejaky argument proti antinatalistickemu pohledu?
+
+Proc jsou CSP solvery pomalejsi na velke problemy nez SAT solvery?

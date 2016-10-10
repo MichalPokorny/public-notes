@@ -14,7 +14,6 @@
 	sage -n -> localhost:8000
 
 - avidemux (-gtk): jednoduche strihani
-- hrani Go: gnugo
 - newsbeuter
 - slimrat
 - centerim
@@ -57,7 +56,6 @@
 
 - github leafo/sticky-kit -- na sticky elementy v JS
 - nastaveni rate opakovani klaves: 'xset r rate 190 35'
-- less ma prikaz (F)ollow
 - zalohovani 'tarsnap' (Amazon EC3, hodne sifrovane)
 - vypnuti ulimitu: ulimit -St unlimited; ulimit -Ht unlimited
 - common lines: `comm`
@@ -73,7 +71,6 @@ rrdtool
 heap-shot-git (heap profiling pro mono)
 
 hostapd, dnsmasq
-zenity -- 'dialog', ale hezci
 racket - lisp
 
 fish shell
@@ -87,8 +84,6 @@ lepsi Freetype fonty: infinality patchset (previewer: grip) (balik v AURu grip-g
 	fontconfig-infinality ==> infctl setstyle
 
 ibam: dela si profil baterie
-
-vanitygen-git
 
 GL extension: volani bez bindingu, ARB_debug_output
 
@@ -123,7 +118,6 @@ review board (open-source)
 disown
 units
 pipe through SSH
-fc (open => edit)
 vimb -- browser
 
 GNU datamash
@@ -150,7 +144,6 @@ TODO: try again later.
 
 tyls, ... (ty\*) == "terminology \*"
 
-- Apache Mahout
 - Contiki: Internet of Things OS
 - MariaDB - drop-in MySQL replacement
 - piorekf: plug

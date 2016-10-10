@@ -7,7 +7,6 @@ Narosan Orange
 
 reza aslan
 samizdat.mines.edu/howto/HowToBeAProgrammer.html
-"dunning-kruger effect" paper
 "curry on" konference
 sandboxed apps (gnome3)
 capital asset pricing model
@@ -49,7 +48,6 @@ papers-we-love
 
 https://code.google.com/hosting/search?q=label:Google%20label:cplusplus&filter=0&mode=&start=0
 
-ganbaru
 artoo - ruby on robots
 
 sourcegraph.com
@@ -60,7 +58,6 @@ Alfred service ("universal butler")
 
 Vim ma Ruby rozhrani
 pickcrew.com
-microsoft z3 theorem prover
 Apollo/Skylab A7L spacesuit
 
 Deep learning =
@@ -133,7 +130,6 @@ http://blog.andreascarpino.it/cleaning-an-arch-linux-installation/
 jacques brel: chansonier
 
 android: prikaz 'input'
-http://arslan.io/ten-useful-techniques-in-go
 
 clifford algebra
 
@@ -142,12 +138,10 @@ Lulu.com
 jobstart
 
 kdovolal.cz aplikace
-https://github.com/jlevy/the-art-of-command-line
 
 hackjobio.herokuapp.com
 
 google/deepdream
-http://algorithmicassertions.com/computer-science/2015/07/05/Things-I-Cant-Solve-Multiplication.html
 
 chordify
 
@@ -158,20 +152,15 @@ CCAN
 
 insider trading hack
 
-http://www.hexahedria.com/2015/08/03/composing-music-with-recurrent-neural-networks/
-
 enneagram
 
 jq; csvsql
 
 wakatime
 
-Python: import this
 biosbits.org
 FFI interfaces (e.g. screen stuff)
 http://playgo.to/iwtg/en/ (go tutorial)
-http://www.hexahedria.com/2015/08/03/composing-music-with-recurrent-neural-networks/
-http://firstround.com/review/this-90-day-plan-turns-engineers-into-remarkable-managers/
 
 EFF: Privacy Badger, HTTPS Everywhere
 
@@ -185,9 +174,6 @@ Password managery:
 	www.keepassx.org
 
 fakena.me/random-real-address
-http://jvns.ca/blog/2013/12/30/questions-im-asking-in-interviews/
-
-http://www.skeptictank.org/hs/vanish.htm
 
 navlio
 
@@ -199,10 +185,7 @@ livesimple.io
 
 the role of the state and the hierarchy of money
 
-http://book.mixu.net/distsys/
 r/subredditsimulator
-
-Proc jsou CSP solvery pomalejsi na velke problemy nez SAT solvery?
 
 markmanson.net
 
@@ -220,8 +203,6 @@ the ungame
 
 Dating app: Coffee meets bagel
 
-AdaGrad, AdaDelta
-
 skulpt: python in browser
 
 markmanson.net
@@ -231,16 +212,10 @@ actuary table: www.ssa.gov/oact/STATS/table4c6.html
 
 github yaronn/wopr
 
-https://docs.python.org/3/reference/datamodel.html
-
 playbook.samaltman.com
 
 big think slavoj zizek
 
-Kegan stages of moral development
-
-https://github.com/prakhar1989/awesome-courses
-https://github.com/sindresorhus/awesome
 Google TensorFlow!
 	https://tensortalk.com/?h
 	https://github.com/tensorflow
@@ -917,11 +892,7 @@ http://reducing-suffering.org/altruists-focus-reducing-short-term-far-future-suf
 https://80000hours.org/career-guide/career-capital/?source=fb
 career decision tool: https://80000hours.org/career-decision/process/
 
-https://www.analogsf.com/0310/cookie.shtml
-
-Paulie: Learning how to learn
-	https://www.coursera.org/learn/learning-how-to-learn
-	http://www.growjob.com/uvod/ (GrowJOB Institute)
+Paulie: http://www.growjob.com/uvod/ (GrowJOB Institute)
 Chi Running: http://www.chirunning.com/
 http://www.growjob.com/clanky-personal/inspirativni-videa-u-kterych-mrazi-v-zadech/
 

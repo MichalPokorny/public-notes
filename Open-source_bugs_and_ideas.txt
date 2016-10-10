@@ -52,3 +52,5 @@ simian deduplicator over merkaartor
 - gem money: some silliness about i18n
 
 - goodnight: flag to run unkolej
+
+- open source: libfprint uklada data o otistich nesifrovane!!!

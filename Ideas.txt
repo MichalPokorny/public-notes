@@ -1,8 +1,5 @@
-- Try something for 30 days.
 - prekladac hudby do tabu
 	- 2 casti: jedna bude urcovat podobnost, druha tam bude cpat pokusy o vytabovani
-- malovani
-- couch surfing
 - xmonad Shell modul na trideni podle pouzivani
 - preventor duplikatu
 	inotify, QFileSystemWatcher
@@ -26,11 +23,6 @@
 **Drobnosti:**
 	- muzu mit na dragonu vlastni named.
 	- hodne vtipne by bylo pohrat si s crypto-autentizaci flashkou
-	- Xyzzy Foo bar
-
-- open source: libfprint uklada data o otistich nesifrovane!!!
-- vyukovy text o splay stromech
-- laser tag date
 
 ruby: .tap {...} ==> .use { |x| ... }
 
@@ -49,7 +41,6 @@ Go vs. C performance
 startup/produkt na ulehceni citovani v texu
 gdb: prijimej argumenty pro debugovany program
 C++ code smell detector?
-code ctrl-c ctrl-v detector?
 https + caching?
 
 GitHub recommendation system

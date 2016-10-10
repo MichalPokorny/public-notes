@@ -79,15 +79,7 @@
                 - Group representations (ureddit)
 - Ironing (properly)
 - Neural nets with stacks/tapes
--
-        group: Guitar
-        topics:
-                - Play harmonics
-                - Play Sound of Silence
-                - Play Muse - MK Ultra
-                - Play Muse - Resistance
-                - Play Muse - Starlight
-- Learning How to Learn (UC San Diego on Coursera)
+- Learning How to Learn (UC San Diego on Coursera) https://www.coursera.org/learn/learning-how-to-learn + Paulie
 - Playing Go
 - Prospect theory (Kahneman & Tversky)
 - Service Worker API
@@ -128,3 +120,5 @@
 - Lamport hash schema (quantum-safe)
 - multilinear jigsaw puzzles
 - locality-sensitive hashing
+- AdaGrad, AdaDelta
+- Kegan stages of moral development
