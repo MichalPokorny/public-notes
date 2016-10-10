@@ -338,6 +338,7 @@ ttf-liberation
 ttf-microsoft-arial
 ttf-ms-fonts
 ttf-powerline-fonts-git
+ttf-roboto-slab
 ttf-vista-fonts
 ttyrec
 tuxguitar
