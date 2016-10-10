@@ -1,0 +1,8 @@
+two modes: Regular Logical Mode, and Light Fun Mode
+
+success:
+	logical mode: learning something new, connecting with someone, getting
+		to know someone better, having an interesting conversation
+	light fun mode: having fun, feeling good, coming out feeling closer to
+		your friends, adventures
+	
