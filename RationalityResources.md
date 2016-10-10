@@ -39,7 +39,3 @@ Existential risk and AI safety
 
 Organizations aiming to develop strong AI: Google (DeepMind), IBM, GoodAI,
 OpenAI, OpenCog
-
-Anthropic reasoning
-==
-TODO: Anthropic reasoning

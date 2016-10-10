@@ -60,9 +60,7 @@
 - vypnuti ulimitu: ulimit -St unlimited; ulimit -Ht unlimited
 - common lines: `comm`
 - xiki
-- CLI 'spoje' - interface k Idosu
 - 'qalc': doporuceno FS - umi jednotky vcetne ruznych men
-- P2P sdileni muziky: soulseek (program 'nicotine')
 
 == Zajimave programy, ktere mam ==
 gparted??? (mam ho mit?)
@@ -83,8 +81,6 @@ ruby-gnomecanvas
 lepsi Freetype fonty: infinality patchset (previewer: grip) (balik v AURu grip-git)
 	fontconfig-infinality ==> infctl setstyle
 
-ibam: dela si profil baterie
-
 GL extension: volani bez bindingu, ARB_debug_output
 
 xorg-xinput: ruzne parametry vstupnich zarizeni
@@ -94,7 +90,6 @@ alsa-mixer: mezernik na vypnutem mikrofonu
 fake-hwclock: nacitani a ukladani data kdyz nejsou hw hodiny
 dosfstools
 cppcheck
-wkhtmltopdf: Arch ma v AURu starou verzi. Nainstaloval jsem staticky zbuildenou novou.
 
 Exolutio: XML konceptualni modeling
 
@@ -145,7 +140,6 @@ TODO: try again later.
 tyls, ... (ty\*) == "terminology \*"
 
 - Contiki: Internet of Things OS
-- MariaDB - drop-in MySQL replacement
 - piorekf: plug
 - xowa: offline wikipedia
 - mosh (alternative ssh)
@@ -168,7 +162,6 @@ tyls, ... (ty\*) == "terminology \*"
 - FLTK
 - Beamer
 - Pomodoro technique
-- Flask
 - Emscripten QT
 gtk-recordMyDesktop
 

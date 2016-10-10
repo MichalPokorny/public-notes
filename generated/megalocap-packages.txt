@@ -209,7 +209,6 @@ netpbm
 network-manager-applet
 networkmanager
 nginx
-nicotine
 nim
 nmap
 nodejs

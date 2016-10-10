@@ -1,9 +1,6 @@
 - kazdy rok zadost o ubytovaci stipendium
-- v mense se pres prazdniny nevari.
 
 NMFM535: ocenovani akcii (ma to Janecek)
-
-compute cluster: Metacentrum
 
 Ke statnicim:
 	1. Reprezentace znalosti
