@@ -10,7 +10,6 @@ set iskeyword-=_ zpusobi, ze _ oddeluje 'slova'
 
 aw = "predchozi slovo"
 zz = vertikalne vystred
-registr "=": aritmetika
 it = inside tag (textovy objekt)
 
 \\(motion) = zakomentuj (pro commentary.vim - plugin)
@@ -22,18 +21,12 @@ Editing text at the speed of thought: #52 (75/329)
 - Nerd Commenter
 
 - makeprg: muze obsahovat %, ktere se expanduje na soubor
-- !!date = na tenhle radek `date`
 - :R ls -la = scratchbuffer ls -la
 - :Sex = split explore
-- va( = vyber vsechno okolo ( vcetne, vi(  vyber vsechno uvnitr ( bez
 - :bufdo s/co/naco/ge
 - :enew
 - ZZ
 - Ctrl-F = obrazovka dolu, Ctrl-B = obrazovka nahoru
-- 0 = na zacatek radku
-- 35| = prejdi na sloupec 35
-- Fx = predchozi x, Tx = za predchozi x, ; = opakuj posledni hledani na radku, , = v opacnem smeru
-- w, W = zacatek dalsiho,
 - }: nejblizsi dalsi konec odstavce
 - {: predchozi... (-> 3d})
 
@@ -51,13 +44,8 @@ Editing text at the speed of thought: #52 (75/329)
 
 Medved:
 	pomlcka misto mezery pred kterou nic neni
-0^$
 
 :set cinoptions
-
-if &term =~ "rxvt"
-	set ttymouse=xterm
-endif
 
 :scriptnames		show all scripts loaded upon startup
 :options
@@ -76,7 +64,6 @@ t, T			same as f, but stops before the character
 zz			center current line on screen
 visual:o, O		edit other end (, corner) of selection
 "A..Z			append to register (works even when recording)
-C-P, C-N		autocomplete previous, next
 C-X C-F			autocomplete file name (and many other such tricks)
 (ins) C-O		execute a single normal mode command
 gj, gk			move by visible lines
@@ -107,8 +94,6 @@ C-W }			preview function def in other window
 [(, ])			prev, next subexpression
 [/, ]/			start of comment, end of comment
 gD, gd			goto definition, only in current function
-:cn			next error
-:cc			show whole error message
 
 text objects:
 a( = a) = ab		a parenthesized block
@@ -125,19 +110,13 @@ display=uhex,lastline	(unprintable are shown as <XX>, partial last line shown)
 :set spell => [s ]s zg(add to dict) z=(suggest correctly spelled words)
 
 === POUZIVAM ===
-- I = ^i
 
-showmatch		show matching parentheses
 list, listchars		highlighting of trailing spaces, tabs etc.
-bg=dark
 "r <Enter>" je priblizne opak J
 
 vim-commentary
 vim-fugitive: blame (Git)
 
-Vim keys: normal -> shift -> control (descending order of frequency) (nebo taky treba &, ...)
-vim reference: moving
-diw: leave whitespace, daw: kill whitespace
 & = repeat replace
 Command-T: fuzzy search in Vim
 :s, :g

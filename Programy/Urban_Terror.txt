@@ -1,4 +1,0 @@
-boa, cheetah, chicken, cobra, cockroach,
-cougar, goose, mantis, penguin, puma, python,
-raven, scarab, scorpion, tiger, widow
-[[/addbot]] (xxx) (level 1-5) (Blue|Red) (jmeno)

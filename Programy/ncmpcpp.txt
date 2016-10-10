@@ -1,4 +1,0 @@
-` = pridat nahodne
-F = fetch lyrics on background
-G = locate in browser
-V = deselect

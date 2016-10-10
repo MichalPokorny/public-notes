@@ -1,1 +1,0 @@
-- obcas v [[/var/run/lighttpd/lighttpd-angel.pid]] zustane stale pidfile, takze to pak bez chyby nenabehne.
