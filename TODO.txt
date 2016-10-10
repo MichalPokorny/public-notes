@@ -132,16 +132,8 @@ zmerit moji vysku
 
 rozsirit delani screenshotu: dokazal bych potencialne nahravat vsechno, co delam s pocitacem? neco uzitecneho s tim delat?
 
-prazdninova skola Lipnice, Velky vuz
-
-MIRI - do a workshop
-
 investigate lifespan impact of vegetarianism
 	blood screen: risk factor na nemoci, impact na lifespan, B-12, D, omega-3
-
-TODO: backupy na vsechny textove materialy s historii -- dropbox mista na to mam nejspis zcela dost
-
-memics.cz: CS konference
 
 luminosity
 	let there be light: start with psych studies, personality tests, feedback
@@ -174,8 +166,6 @@ sehnat houby, pozvat tomiho na vec
 emotional dependency
 
 http://log.or.cz/?cat=150
-https://iamaaditya.github.io/2016/04/visual_question_answering_demo_notebook
-http://www.effective-altruism.com/ea/vo/expected_value_estimates_you_can_maybe_take/
 
 strategy of conflict: zbyva precist Part 4+
 
@@ -187,8 +177,6 @@ Jerry Fodor (philosopher)
 
 pridat do CV: spring school of combinatorics 2014 stuff
 
-clovek: David Chalmers
-
 throw out all socks, get 30 identical pairs
 
 TODO: zazalohovat Dropbox 2FA one-time access codes
@@ -198,14 +186,6 @@ TODO: stahnout 'find the music in you'
 Galibi deskovky
 
 http://apophis.cz/blog/
-
-existentialist play: No Exit
-
-LessWrong CZ: EA propagace
-
-webpage: hodit tam prezentaci o Bazelu
-
-vzit si z Bloxu VGA kabel
 
 Pasky - portfolio algoritmu
 
@@ -217,13 +197,6 @@ koupit osusku
 
 podivat se na eliezerovy stare maily z ~1997
 
-vitamin D, B-12, omega-3, CoQ-10
-	vitaminy A + D: http://nakup.itesco.cz/cs-CZ/ProductDetail/ProductDetail/2001130322971
-		D3, A
-	vitamin B (bez 12) + vitamin C: http://nakup.itesco.cz/cs-CZ/ProductDetail/ProductDetail/2001120814554
-	omega 3: http://nakup.itesco.cz/cs-CZ/ProductDetail/ProductDetail/2001018301095
-	koenzym Q10: http://nakup.itesco.cz/cs-CZ/ProductDetail/ProductDetail/2001130559303
-
 change diet, work out in the morning, maximize health, maximize physical attractiveness
 
 agentyduck.blogspot.com
@@ -232,16 +205,7 @@ brazilian jiu jitsu
 
 build self-worth
 
-https://blog.gregbrockman.com/my-path-to-openai
-
 relationship advice thread z order of the stick
-http://lesswrong.com/lw/m78/strategies_and_tools_for_getting_through_a_break/
-
-Alicorn - Rationalist Gothic
-
-pridat denik do Dropboxu; uchovavat si ho nejak strukturovane
-
-fixnout na mobilu muziku (album Built to Spill - You in Reverse)
 
 Inspiration Manifestation: Rarity se tam uklidnuje jedenim zmrzliny :D
 
@@ -255,41 +219,15 @@ Go klub (MFF)
 
 Argunet (software na argument mapping)
 
-http://searchwarp.com/swa267806.htm
-
 koupit vic kratasu
 
 dukkha: https://en.wikipedia.org/wiki/Dukkha
 	make a list of things you're grateful for
 
-mel bych purgnout stary notebook
-
 existuje nejaky spravny zpusob, jak na kytaru davat nove struny?
 	zrejme jsem to posledne udelal dost divne.
 
 opravit na kytare takovy ten "jezdici plast" na leve strane hmatniku
-
-http://www.asofterworld.com/index.php?id=1199
-	I wish being in love was enough. I wish it counted for anything at all.
-http://www.asofterworld.com/index.php?id=1045
-	I wish I could give you everything you want and still be me.
-http://www.asofterworld.com/index.php?id=1033
-	Ah, unrequited love. When your best isn't enough.
-http://www.asofterworld.com/index.php?id=1000
-	Nothing can change the way I feel about you. I wish it could.
-http://www.asofterworld.com/index.php?id=765
-	You were my everything, which, upon reflection, was probably the problem.
-http://www.asofterworld.com/index.php?id=603
-	I know that I don't deserve you, but that's okay. Life's not fair.
-http://www.asofterworld.com/index.php?id=539
-	Unrequited love is a waste of time. Just walk it off. There. I said it.
-http://www.asofterworld.com/index.php?id=430
-	Ah, love at first sight. When you see someone so beautiful that you
-	forget they aren't there just for you.
-http://www.asofterworld.com/index.php?id=428
-	When Kurt Vonnegut suggested that you stop once in a while to say,
-	"If this isn't nice, I don't know what is." He was giving you the best
-	mid-makeout move ever.
 
 let people finish their sentences
 
@@ -305,12 +243,9 @@ behani: http://www.kpo.cz/fyziologie/fyziologie.htm
 
 https://web.archive.org/web/20141013084825/http://kruel.co/2013/01/07/why-you-should-be-wary-of-the-singularity-institute/#sthash.5uZCbQRI.dpbs
 https://web.archive.org/web/20141013084617/http://kruel.co/2013/01/10/the-singularity-institute-how-they-brainwash-you/#sthash.1Tc1wW5U.dpbs
-https://wiki.lesswrong.com/wiki/Roko's_basilisk
 
 check for vitamin deficiencies, anaemia, hypothyroidism
 do therapy on yourself
-
-autocommit pri kazdem zavreni Vimu
 
 mapa Prahy nebo sveta na vnitrni strane dveri od zachoda
 Spinalis zidle
@@ -318,14 +253,12 @@ Viden - narodni opera
 
 david hume
 
-sophistication effect: greater ammunition to shoot down facts
 cached selves
 consider the opposite: "what are some reasons that my initial judgement might be wrong?"
 cognitive override: notice when speaking/acting on intuitive judgement
 
 commitment and consistency effects: any random thing you say or do in the absence of obvious outside pressure can hijack your self-concept for the medium- to long-term future
 
-positive hypocricy: speak and act like the person you wish you were
 visualize your life as something you just inherited from someone else
 
 before the battle: leave a line of retreat
@@ -347,20 +280,12 @@ najit: draco telling harry to always be ready to give everything back
 
 zlozvyk: jedeni oboci
 
-my giving
-
 right hemisphere dysfunction: https://medicalspeechpathology.wordpress.com/student-handbook/right-hemisphere-dysfunction/
 
 RehaLand
 ortoped v Praze: Jakub Vranka (poliklinika)
 
 gratitude journal
-
-join myfitnesspal + beeminder + vaha.ods
-
-issue on deadlock empire
-
-TODO: fix na to ze Dropbox se nestartuje sam!
 
 vyresit mobilni internet O2 - po vycerpani se vypne
 
@@ -380,8 +305,6 @@ Praha: 2 ligy na 10k
 Vitkov, Branik -- standartni 10k kazdy mesic
 Loap prazska bezecka tour: http://www.vaseliga.cz/cz/sporty/behani/
 
-visit stiftung for EA in Berlin
-
 apply to OpenAI
 
 TODO: ssh-agent on metacentrum
@@ -389,8 +312,6 @@ TODO: ssh-agent on metacentrum
 http://slideslive.com/casp/xiii-celostatni-konference-casp-laska-ve-21-stoleti
 
 get more money from work
-
-Budou nove dily Black Mirror (tenhle rok?)
 
 Jak by me slo presvedcit o tom, ze bych mel venovat na bezpecnost umele inteligence?
 

@@ -2,3 +2,10 @@ kale
 vitamin D, vitamin B-12
 get B-12 supplement, iron supplement, other?, omega-3
 	omega-3: tablespoon of flax seeds
+
+vitamin D, B-12, omega-3, CoQ-10
+	vitaminy A + D: http://nakup.itesco.cz/cs-CZ/ProductDetail/ProductDetail/2001130322971
+		D3, A
+	vitamin B (bez 12) + vitamin C: http://nakup.itesco.cz/cs-CZ/ProductDetail/ProductDetail/2001120814554
+	omega 3: http://nakup.itesco.cz/cs-CZ/ProductDetail/ProductDetail/2001018301095
+	koenzym Q10: http://nakup.itesco.cz/cs-CZ/ProductDetail/ProductDetail/2001130559303
