@@ -147,9 +147,6 @@ Yours sincerely: kdyz ano
 - Krylov subspace; power method; krylov subspace methods
 - conjugate gradient method (works for PD matrix)
 
-- Benford's law -- "first-digit law"
-- semantic highlighting
-
 - Klee LLVM tester (klee.github.io)
 
 - Redbooth (teambox)
@@ -226,7 +223,6 @@ Cube 2
 - Solarized color scheme
 - Creators handbook
 - http://mechanitis.blogspot.co.uk/2013/02/staying-ahead-of-curve.html
-- pinterest
 - gv.com/library
 - assimp-net
 - hakyll
@@ -310,7 +306,6 @@ http://en.wikipedia.org/wiki/Lord\_British
 - http://nplusonemag.com/
 - Sweet Home 3D
 
-- haskell - scotty: webovy framework
 - github.com/vmg/clar: minimalisticky C unit testing framework
 - perlorodky s perlami
 - haveibeenpwned

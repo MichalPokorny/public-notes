@@ -6,11 +6,6 @@
 9.3.2014: 85.9 kg
 9.8.2014: 82.8 kg
 
-BMI:
-	underweight: < 18.5
-	normal weight: 18.5 - 24.9 (tj. 64.7 - 87.4 kg)
-	overweight: 25 - 29.9 (tj. 87.4 - 104.9 kg)
-
 body fat:
 	5-10: athletic
 	11-14: good

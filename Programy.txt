@@ -69,9 +69,6 @@ avidemux
 ffmpeg2theora
 ruby-gnomecanvas
 
-lepsi Freetype fonty: infinality patchset (previewer: grip) (balik v AURu grip-git)
-	fontconfig-infinality ==> infctl setstyle
-
 GL extension: volani bez bindingu, ARB_debug_output
 
 xorg-xinput: ruzne parametry vstupnich zarizeni
