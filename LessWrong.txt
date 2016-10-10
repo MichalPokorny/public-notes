@@ -1,9 +1,5 @@
 verifikace programu je jeden z pozadavku MIRI
 
-http://lesswrong.com/lw/3nn/scientific_selfhelp_the_state_of_our_knowledge/
-
-logical rudeness: http://legacy.earlham.edu/~peters/writing/rudeness.htm
-
 adopt goals for instrumental reasons
 
 "not this again. listen, you're in a horror movie, if you split up, you die."
@@ -12,6 +8,3 @@ going in circles => find concrete different prediction
 attempted telekinesis
 
 try to make decisions in a neutral environment
-implicit association test
-
-"ugh field": actively look out for the flinch

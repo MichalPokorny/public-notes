@@ -4,7 +4,6 @@ title: Tidbits
 
 <h3>C/++</h3>
 - GenericMakefile
-- strtoull!
 - frama-c: C verifikator
 
 <h3>JavaScript</h3>
@@ -12,7 +11,6 @@ title: Tidbits
 - Socket.io
 - Meteor (JS framework)
 - PureScript
-- intro.js
 - batman.js
 - sheetsee.js (Trix vizualizer)
 
@@ -41,13 +39,10 @@ select pasted text: noremap gV `[v`]
 - perfect hashing: BZD / CHD
 - raytracing
 - paritni funkce vyzaduje exponencialne mnoho hradel
-- existuje nerozhodnutelny turingac? (nejaky, o kterem se neda zjistit, jestli se zastavi)
 - Postuv korespondencni problem: nevi se, jestli je nerozhodnutelny pro n vetsi nez 2 a mensi nez 7
 - jde napsat v haskellu hledani prvniho nepritomneho prvku bez pole, ciste funkcionalne, v O(N).
 
 Merkle puzzles:
-	Merkle puzzle
-
 	Alice: 2^32 puzzlu
 		kazdy: nahodny 32bit Pi (32b), xi, ki (128b)
 		puzzle I = E(0^96 Pi, "Puzzle #xi" || ki)
@@ -59,8 +54,6 @@ Zajimavost: O(n^2) gap je best kdyz je sifra black box oracle...
 	IR'89, [[BM'09]] (Merkle puzzles are optimal)
 
 exponential gap: diffie-helmann
-
-http://shoup.net/ntb/ntb-v2.pdf: computational introduction to number theory & algebra
 
 <h2>Math</h2>
 - knot theory
@@ -95,7 +88,6 @@ http://shoup.net/ntb/ntb-v2.pdf: computational introduction to number theory & a
 <h2>Various</h2>
 - Magnesium supplement
 - Leiden mutation (thrombosis)
-- na koleji funguje IPv6
 - Phusion Passenger
 - RadRails: IDE pro Railsy
 - kaggle.com/competitions
@@ -109,7 +101,6 @@ http://shoup.net/ntb/ntb-v2.pdf: computational introduction to number theory & a
 - "LED ball"
 
 - font OCR-A
-- paamayim nekudotayim
 - life review
 - loevinder stages of ego
 
@@ -123,22 +114,15 @@ http://shoup.net/ntb/ntb-v2.pdf: computational introduction to number theory & a
 - kurz C++ Grandmaster Certification
 - earthship
 - ambient + police scanner = youarelisteningto.org
-
-- keto
-
 - Habit RPG
-
 - density-dependent optimization landscape
-
 - Luby-Rackoff theorem
-
 - google translate CLI
 - google.com/designer
 
 Counterscript: http://egbg.home.xs4all.nl/counterscript.html
 
 http://dev.stephendiehl.com/hask/ (what i wish i knew when learning haskell 2.0)
-
 
 - http://madebyevan.com/obscure-cpp-features/
 
@@ -162,8 +146,6 @@ Yours sincerely: kdyz ano
 
 - Krylov subspace; power method; krylov subspace methods
 - conjugate gradient method (works for PD matrix)
-
-- gdb 7+ umi reverse debugging
 
 - Benford's law -- "first-digit law"
 - semantic highlighting
@@ -323,12 +305,10 @@ http://en.wikipedia.org/wiki/Lord\_British
 - skryty puvab byrokracie
 - paralelni polis
 
-- trenovani chuze pres neuronove site
 - variable size bin packing problem
 - 'a' ^ ' ' == 'A' atd.
 - http://nplusonemag.com/
 - Sweet Home 3D
-- entropie obrazku a generovani thumbnailu
 
 - haskell - scotty: webovy framework
 - github.com/vmg/clar: minimalisticky C unit testing framework
@@ -359,8 +339,6 @@ http://en.wikipedia.org/wiki/Lord\_British
 - Linux na 8bitovem jednocipu: http://dmitry.gr/index.php?r=05.Projects&proj=07.%20Linux%20on%208bit
 - exolutio: konceptualni modelovani
 - freggio (scar)
-- Heroku
-- maori: haka
 - http://www.youtube.com/watch?v=5q-BH-tvxEg: ozubena kola koncici betonem
 - asciidoc
 slavoj zizek - less than nothing
