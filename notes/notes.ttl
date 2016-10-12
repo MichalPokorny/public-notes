@@ -42,3 +42,6 @@ wiki:Digital_immortality :note """
 	""" .
 
 yt:SR-tzgU07XY :title "the experiencing self / the remembering self" .
+
+<http://www.ifweassume.com/2013/08/the-de-evolution-of-my-laptop-battery.html>
+	:todo "napsat podle toho clanecek na stranku" .

@@ -216,3 +216,28 @@ TUI: Ctrl-A X, then repaint with Ctrl-L
 	python prettyprinters
 """ .
 
+("octave") :note """
+		b = 'hi';
+
+		randn(1,3); % Gaussian
+
+		w = sqrt(10) * randn(1,10000)
+		hist(w) % histogram
+	""" ;
+	:note "pwd" ;
+	:note "cd ..." ;
+	:note "load featuresX.dat % (nebo load('featureX.dat');)" ;
+	:note "save hello.mat v % ulozi v" ;
+	:note "clear % zabije vsechno" ;
+	:note "save hello.txt v -ascii % ASCII format, ne binarni" ;
+	:note "max(a); min(a); avg(a);" ;
+	:note "[val, ind] = max(a); % val = hodnota, ind = index; na matici columnwise maximum" ;
+	:note "[r,c] = find(A>=7), kde A=magic(3): vrati pary row-column" ;
+	:note "floor(a), ceil(a)" ;
+	:note "max(A,B): matice s maximy z elementu A a B" ;
+	:note "max(A,[],1): maxima ze sloupcu" ;
+	:note "max(A,[],2): rowwise" ;
+	:note "flipud: vertikalni flip" ;
+	:note """for i = 1:10
+		disp("Ahoj!");
+	endfor""" .

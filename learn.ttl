@@ -232,3 +232,6 @@
 ("@font-face in CSS") :under :learn-webdev .
 ("merb framework (Ruby)") :under :learn-webdev .
 ("Initializr") :under :learn-webdev .
+
+("portfolio algoritmu") :under :learn ;
+	:from :pasky .

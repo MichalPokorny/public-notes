@@ -96,3 +96,8 @@ You've Been Hurt So Many Times Before?')> :under :read .
 ("Transhumanism as Simplified Humanism") :under :read .
 ("Whole Brain Emulation: A Roadmap") :under :read .
 ("Rieger and Hans - How Time Preferences Differ") :under :read .
+("paper o waterfall modelu") :under :read .
+("hannes grassegger - das kapital bin ich") :under :read .
+("http://mywiki.wooledge.org/BashGuide") :under :read .
+("https://github.com/szilard/benchm-ml") :under :read .
+("http://mrzool.cc/tex-boilerplates/") :under :read .

@@ -1,13 +1,6 @@
-MOZNA SI BUDU MOCT UKRADNOUT prvak.cz!
-	- prvak.cz
-	- pokorny.name
-	- prvak.name
-	- prvak.info
-
 TODO: zalozit si seznam narozenin a svatku
 TODO: sada na opravu duse?
 TODO: sehnat stop-motion videa z K-SCUKu (Lukas mi poslal neco jineho...)
-TODO: POSTFIX BOUNCES POSILEJ NA POK@RNY.CZ!
 TODO: ICE kontakt v mobilu
 TODO: nastavit na facebooku notifikace na zpravy od neznamych
 TODO: procistit vnitrni pamet mobilu
@@ -16,6 +9,7 @@ TODO: zmerit delku 'hand span', vzdalenost natazenych rukou
 TODO: https://www.google.com/settings/u/0/account/inactive
 TODO: papir "je mi 20"?
 TODO: zastavit se nekdy za kardiologem?
+
 Podivat se na:
 	http://www.kieser-training.cz/
 	http://www.youtube.com/user/scooby1961
@@ -35,27 +29,10 @@ cesky basnik: Skácel
 lectures (combinatorics, set theory, etc.): https://www.reddit.com/tb/2xtojb
 dysthymia
 
-contribute to Electronic Frontier Foundation
-coding with ETF (HTTPS everywhere, etc.)
-
-zmigrovat ((Digital Ocean))
-
-http://www.ifweassume.com/2013/08/the-de-evolution-of-my-laptop-battery.html -- napsat podle toho clanecek na stranku
-
-http://mywiki.wooledge.org/BashGuide
-https://github.com/szilard/benchm-ml
-http://mrzool.cc/tex-boilerplates/
-
-TODO: cannot access ~/notes if it's not mounted
-TODO: must not start Dropbox if it's not mounted
+contribute to Electronic Frontier Foundation (HTTPS everywhere, etc.)
 
 TODO: vejit do tarifu s O2ckem?
 
-TODO: jaky je Dropbox SLA?
-create cold backup, not bound to dropbox?
-test that dropbox keeps extended attributes
-
-* write bucket list
 * konzole na mobil (pingovani, sshovani, ...)
 * nova zidle
 * sehnat ucetniho? (zrejme ~6k za trzni ceny)
@@ -108,8 +85,6 @@ rosseau: teorie obecneho blaha
 
 TODO: urgovat zverejneni Fable of the Dragon-Tyrant na Bostromove strance
 
-unbreak kbcsvgrab.py
-
 fio osobni ucet
 
 poridit lekarnicku, teplomer
@@ -139,7 +114,6 @@ throw out all socks, get 30 identical pairs
 TODO: stahnout 'find the music in you'
 Galibi deskovky
 http://apophis.cz/blog/
-Pasky - portfolio algoritmu
 listen to audiobooks at 2-3x normal speed
 koupit osusku
 podivat se na eliezerovy stare maily z ~1997

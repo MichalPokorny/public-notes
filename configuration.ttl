@@ -16,7 +16,22 @@ Generic mapping!!! (musim testovat, ze funguje dobre)
 
 :megalocap :note "/etc/acpid: obsahuje eventy na lenovo dock a undock kvuli koleji".
 
-:configuration :note "available: prvak.name (6.4 eur na rok), prvak.info (7.4 eur na rok)" .
+:configuration :note """
+	available: prvak.name (6.4 eur na rok),
+	prvak.info (7.4 eur na rok)
+MOZNA SI BUDU MOCT UKRADNOUT prvak.cz!
+	- pokorny.name
+	- prvak.name
+	- prvak.info
+""" .
+
+:configuration :todo "POSTFIX BOUNCES POSILEJ NA POK@RNY.CZ!" ;
+	:todo "cannot access ~/notes if it's not mounted" ;
+	:todo "must not start Dropbox if it's not mounted" ;
+	:todo "create cold backup, not bound to dropbox?" ;
+	:todo "test that dropbox keeps extended attributes" ;
+	:todo "unbreak kbcsvgrab.py" ;
+	:todo "jaky je Dropbox SLA?" .
 
 :megalocap :note """
 	Checklist:
