@@ -106,7 +106,6 @@ lol language. "chub rub"
 google polymer 1.0
 Android Studio 1.0, with C/C++
 
-github 0xAX/linux-insides
 startupdeveloperjobs.com
 
 aukce po exekucich
@@ -178,7 +177,6 @@ cassava cake (Japanese sweet)
 
 markitondemand
 
-https://github.com/mnielsen/neural-networks-and-deep-learning
 
 the ungame
 
@@ -190,8 +188,6 @@ markmanson.net
 
 HISTFILE="${HOME}/.history/$(date -u +%Y/%m/%d.%H.%M.%S)_${HOSTNAME_SHORT}_$$"
 actuary table: www.ssa.gov/oact/STATS/table4c6.html
-
-github yaronn/wopr
 
 playbook.samaltman.com
 
@@ -220,14 +216,11 @@ http://www.payne.org/index.php/Startup_Equity_For_Employees
 
 real-parameter black-box optimization benchmarking functions
 
-github.com/ariya: phantomjs guy
-
 ebay elektro: http://stores.ebay.com/Thai-Shop-Etc
 
 TODO: "moral hazard"?
 
 appka 'spoje'
-https://github.com/MaximAbramchuck/awesome-interviews
 
 ucontext: getcontext, setcontext, makecontext, swapcontext
 
@@ -240,7 +233,6 @@ confucianism
 aktivni a reaktivni cile (Karryina prednaska o sebeorganizaci)
 
 wiki.hackerspaces.org/Hackbase
-https://github.com/MaximAbramchuck/awesome-interviews
 
 heroforge.com: custom dnd miniatures
 http://totalgarb.tumblr.com/tagged/startupbullshit
@@ -257,12 +249,7 @@ http://danluu.com/startup-tradeoffs/
 
 eclipse code recommenders
 Eclipse Phase
-https://github.com/raulmur/ORB_SLAM
 laplace's rule of succession
-
-tiling WM for Mac OS X: https://github.com/koekeishiya/kwm
-
-Oggyho akciovy robot: https://github.com/leftys/trading
 
 python: joblib
 	folium: geo visualization
@@ -285,7 +272,6 @@ papers by nick bostrom
 https://intelligence.org/research/
 100-10-1 open source
 http://www.linusakesson.net/programming/tty/index.php
-https://github.com/avelino/awesome-go#gui
 http://celandine13.livejournal.com/72711.html
 http://mcntyr.com/52-concepts-cognitive-toolkit/
 
@@ -346,10 +332,7 @@ peek.usertesting.com
 
 naucit se predikce (x% by melo byt spravne, 100-x% spatne)
 
-https://github.com/jlevy/og-equity-compensation
-
 captain awkward blog
-https://github.com/Lasagne/Lasagne
 
 v-rap robot simulator (http://www.coppeliarobotics.com/)
 
@@ -364,7 +347,6 @@ kudaviforest.com
 
 Facebook Purity
 think about risk around bitcoin
-Baidu Research thingie for speech to text: https://github.com/baidu-research/warp-ctc
 https://www.readthetpp.com/
 modafinil
 http://agentyduck.blogspot.cz/2014/02/lobs-theorem-cured-my-social-anxiety.html
@@ -438,8 +420,6 @@ http://juokaz.com/blog/how-are-you-doing.html
 Beaker
 Google Cloud Platform
 
-https://github.com/josephmisiti/awesome-machine-learning
-
 startupaid, startupboat; social entrepreneurs on refugee crisis
 
 whitetruffle: hiring matching
@@ -454,10 +434,6 @@ new sincerity
 
 primaeval (petova hra)
 https://mobile.twitter.com/stevenkaas
-
-http://pasky.or.cz/anime/
-
-https://github.com/pasky/speedread (Paskyho speedreader)
 
 Augur project: decentralized open-source prediction market platform
 

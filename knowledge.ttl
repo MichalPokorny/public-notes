@@ -1,0 +1,81 @@
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#> .
+@prefix github: <https://github.com/> .
+@prefix wiki: <https://en.wikipedia.org/wiki/> .
+
+<#akce> rdfs:label "Akce"
+
+<#challenge-24> rdfs:label "Challenge 24" ;
+	<#note> "Zřejmě někdy v únoru." ;
+	<#under> <#akce> .
+
+<#velky-vuz> rdfs:label "Velký vůz" ;
+	<#note> "Mají spoustu různých akcí." ;
+	<#under> <#akce> .
+
+<#galibi> rdfs:label "GALIBI" ;
+	<#note> "Každou druhou středu mají v 20 hodin sraz." ;
+	<#under> <#akce> .
+
+<#vlajkova> rdfs:label "Vlajková" ;
+	<#note> "Poslední víkend v září." ;
+	<#website> <http://www.vlajkova.cz/> ;
+	<#under> <#akce> .
+
+<#tidbits> rdfs:label "Tidbits" .
+
+<#how-to-avoid-huge-ships> rdfs:label "How to Avoid Huge Ships" ;
+	<#under> <#tidbits> .
+
+github:cheeaun/life <#under> <#tidbits> .
+github:papers-we-love/papers-we-love <#under> <#tidbits> .
+github:bolshcikov/js-must-watch <#under> <#tidbits> .
+github:tripit/slate <#under> <#tidbits> .
+github:asciimoo/ListOfGithubLists <#under> <#tidbits> .
+github:binarylogic/memorylogic <#under> <#tidbits> .
+
+github:vitstradal/opraf <#under> <#tidbits> ;
+	rdfs:label "Pikomatí Opraf" .
+
+github:vmg/clar <#under> <#tidbits> ;
+	rdfs:label "Minimalisticky C unit testing framework" .
+
+github:SamyPesse/How-to-Make-a-Computer-Operating-System <#under> <#tidbits> .
+
+<http://dmitry.gr/index.php?r=05.Projects&proj=07.%20Linux%20on%208bit> <#under> <#tidbits> ;
+	rdfs:label "Linux na 8-bitovém jednočipu" .
+
+<http://www.youtube.com/watch?v=5q-BH-tvxEg> <#under> <#tidbits> ;
+	rdfs:label "ozubena kola koncici betonem" .
+
+"haveibeenpwned" <#under> <#tidbits> .
+"funtenna" <#under> <#tidbits> .
+"perlorodky s perlami" <#under> <#tidbits> .
+"Fontello" <#under> <#tidbits> .
+"scrollorama" <#under> <#tidbits> .
+"the app clinic" <#under> <#tidbits> .
+"server monitoring: monitorix" <#under> <#tidbits> .
+
+<#zajimavosti> rdfs:label "Zajímavosti"
+
+github:0xAX/linux-insides <#under> <#zajimavosti> .
+github:mnielsen/neural-networks-and-deep-learning <#under> <#zajimavosti> .
+github:yaronn/wopr <#under> <#zajimavosti> .
+github:ariya <#under> <#zajimavosti> ;
+	rdfs:label "phantomjs guy" .
+github:MaximAbramchuck/awesome-interviews <#under> <#zajimavosti> .
+github:raulmur/ORB_SLAM <#under> <#zajimavosti> .
+github:koekeishiya/kwm <#under> <#zajimavosti> ;
+	rdfs:label "tiling WM for Mac OS X" .
+github:leftys/trading <#under> <#zajimavosti> ;
+	rdfs:label "Oggyho akciovy robot" .
+github:avelino/awesome-go#gui <#under> <#zajimavosti> .
+github:jlevy/og-equity-compensation <#under> <#zajimavosti> .
+github:Lasagne/Lasagne <#under> <#zajimavosti> .
+github:baidu-research/warp-ctc <#under> <#zajimavosti> ;
+	rdfs:label "Baidu Research thingie for speech to text" .
+github:josephmisiti/awesome-machine-learning <#under> <#zajimavosti> .
+github:pasky/speedread <#under> <#zajimavosti> ;
+	<#by> <#pasky> ;
+	rdfs:label "Paskyho speedreader" .
+<http://pasky.or.cz/anime/> <#under> <#zajimavosti> ;
+	<#by> <#pasky> .

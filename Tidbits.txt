@@ -130,11 +130,8 @@ chocolate pudding fruit
 'serene' = 'jasny' (serenessima repubblica di venezia)
 	'pax tibi, marce, evangelista meus' (lev s knihou)
 
-- du -Sa | sort -n: easy nejvetsi podadresare
-
 Yours faithfully: kdyz neznam osobne adresata
 Yours sincerely: kdyz ano
-'bless your heart'
 
 - http://alexnisnevich.github.io/untrusted/
 - http://code.google.com/p/word2vec/
@@ -168,8 +165,6 @@ you're welcome: "polite", no problem: "friendly"
 
 the money chant
 
-https://github.com/bolshchikov/js-must-watch
-
 Voroň = havran
 
 booking.com
@@ -186,10 +181,6 @@ ruby: Array.assoc
 - http://redditgifts.com/gallery/secret-santa-2010/gift/8-secret-envelopes/?source=giftblog
 
 - "arbing" = open hand signalling
-
-Google Guava
-Google: Udacity: Android Fundamentals
-
 - diceware -- password generator
 - lockpicking
 
@@ -213,13 +204,11 @@ Google: Udacity: Android Fundamentals
 - jak funguje v chromeboocich offline auth?
 
 http://motherboard.vice.com/read/new-nsa-funded-programming-language-is-all-programming-languages-in-one
-https://github.com/tripit/slate
 
 Cube 2
 
 - Google web starter kit
 - Mensa dating
-- https://github.com/asciimoo/ListOfGithubLists
 - Solarized color scheme
 - Creators handbook
 - http://mechanitis.blogspot.co.uk/2013/02/staying-ahead-of-curve.html
@@ -229,12 +218,11 @@ Cube 2
 - kanban
 - r/workonline
 
-https://github.com/binarylogic/memorylogic
 http://www.markshuttleworth.com/archives/123
 
 Facebook: Pokusni kralici
 http://www.targetprocess.com/articles/speed-in-software-development.html
-http://en.wikipedia.org/wiki/Lord\_British
+http://en.wikipedia.org/wiki/Lord_British
 
 - spreeded: flash speed-reading
 
@@ -258,7 +246,6 @@ http://en.wikipedia.org/wiki/Lord\_British
 - alza interchange url: http://interchange.alza.cz/jyxo.xml, seznam.xml, heureka.xml
 - GitHub resume: http://resume.github.io
 - wiki: priority call
-- how to avoid huge ships :)
 - Emil Leon Post - smrt na infarkt pri elektricke lecbe deprese
 - Google Sets
 - change ringing
@@ -267,8 +254,7 @@ http://en.wikipedia.org/wiki/Lord\_British
 - StorJ - Bitcoin digital lifeform
 - desert bus - hra
 - the wanderers' library
-- github search - vulnerable code (mysql\_query + $\_GET)
-- pikomati Opraf: https://github.com/vitstradal/opraf
+- github search - vulnerable code (mysql_query + $_GET)
 
 - git umi mediawiki remote
 - list of occupations
@@ -306,15 +292,6 @@ http://en.wikipedia.org/wiki/Lord\_British
 - http://nplusonemag.com/
 - Sweet Home 3D
 
-- github.com/vmg/clar: minimalisticky C unit testing framework
-- perlorodky s perlami
-- haveibeenpwned
-- funtenna
-
-- Fontello
-- scrollorama
-- the app clinic
-- server monitoring: monitorix
 - Kivy
 - plackomat
 - Pink noise
@@ -323,18 +300,14 @@ http://en.wikipedia.org/wiki/Lord\_British
 - hovor s robotem: \*, #, nebo 1
 
 - leveldb - key/value databaze
-- https://github.com/SamyPesse/How-to-Make-a-Computer-Operating-System
-- cheeaun/life github
 - malte spitz data retention (tell-all telephone)
 - cex.io
 - fight club + the bends -- spustit jak skonci logo 21st century fox
 
 - gaze tracking library
 - Whisky: bourbon (USA) / scotch / rye
-- Linux na 8bitovem jednocipu: http://dmitry.gr/index.php?r=05.Projects&proj=07.%20Linux%20on%208bit
 - exolutio: konceptualni modelovani
 - freggio (scar)
-- http://www.youtube.com/watch?v=5q-BH-tvxEg: ozubena kola koncici betonem
 - asciidoc
 slavoj zizek - less than nothing
 indexovane gramatiky; openccg
@@ -346,8 +319,6 @@ goldfish teabag
 letsrevolutionizetesting.com
 
 workflowy app
-
-https://github.com/papers-we-love/papers-we-love
 
 stable marriage problem
 CountMin sketch, Count sketch
