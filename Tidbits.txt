@@ -7,14 +7,8 @@ title: Tidbits
 - frama-c: C verifikator
 
 <h2>CS</h2>
-- Time-delay neural network
 - hra Facade
-- log-structured FS
-- perfect hashing: BZD / CHD
-- raytracing
-- paritni funkce vyzaduje exponencialne mnoho hradel
 - Postuv korespondencni problem: nevi se, jestli je nerozhodnutelny pro n vetsi nez 2 a mensi nez 7
-- jde napsat v haskellu hledani prvniho nepritomneho prvku bez pole, ciste funkcionalne, v O(N).
 
 Merkle puzzles:
 	Alice: 2^32 puzzlu
@@ -82,7 +76,6 @@ exponential gap: diffie-helmann
 - ambient + police scanner = youarelisteningto.org
 - Habit RPG
 - density-dependent optimization landscape
-- Luby-Rackoff theorem
 - google translate CLI
 - google.com/designer
 

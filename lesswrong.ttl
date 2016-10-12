@@ -64,3 +64,16 @@ yt:pL3DW6-xzLc
 	going in circles => find concrete different prediction
 	""" ;
 	:note "attempted telekinesis" .
+	:note """
+		cached selves
+		consider the opposite: "what are some reasons that my initial judgement might be wrong?"
+		cognitive override: notice when speaking/acting on intuitive judgement
+		commitment and consistency effects: any random thing you say or do in the absence of obvious outside pressure can hijack your self-concept for the medium- to long-term future
+		visualize your life as something you just inherited from someone else
+		before the battle: leave a line of retreat
+		during the battle: call out flinching reactions
+		envision what could go badly if you come to false beliefs
+	""" .
+
+:lesswrong :note <https://web.archive.org/web/20141013084825/http://kruel.co/2013/01/07/why-you-should-be-wary-of-the-singularity-institute/> ;
+	:note <https://web.archive.org/web/20141013084617/http://kruel.co/2013/01/10/the-singularity-institute-how-they-brainwash-you/> .

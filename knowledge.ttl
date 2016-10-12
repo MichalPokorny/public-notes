@@ -108,6 +108,15 @@
 
 ("elementary s03e04") :note "something rational-ish" .
 
-("Derek Parfit") note "(Reasons and Persons)" ;
+("Derek Parfit") :note "(Reasons and Persons)" ;
 	:note "derek parfit has few memories of his past and almost never thinks about it, a fact he attributes to an inability to form mental images" ;
 	:note "cool idea: 'monks memorized and chanted reasons and persons'" .
+
+# Memy
+("on mu ji zabalil a usek") :from :mirek-kaufmann ;
+	:note "Cimrmanove: hospoda na mytince (\"no zkratka ten cetnik mu ji zabalil a usek\")" .
+
+("analyza dokazala hovno") :note "Slobodna Europa - analyza" ;
+	:note yt:Gb1TMPXi_Ss .
+("TODO: odkud je 'sportem k trvale invalidite'?") :under :do .
+("woozaa") :note "bad boys 2" .

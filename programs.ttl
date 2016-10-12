@@ -320,3 +320,27 @@ TUI: Ctrl-A X, then repaint with Ctrl-L
 	""" ;
 	:note "s?printf parameter reordering" ;
 	:note "c++11 tie" .
+
+("moustache") :note """
+		{{interpolation}}
+		{{>subtemplate}}
+		{{{unescaping}}}
+
+		{{#conditional}}
+		render if true
+		{{/conditional}}
+
+		{{#enumeration}}
+		each {{item}} ...
+		{{/enumeration}}
+
+		{{#nestedObject}}
+		dereferenced {{property}}
+		{{/nestedObject}}
+
+		Je hodne rychly.
+
+		HAML ma JS implementaci.
+
+		I18n: ???
+	""" .

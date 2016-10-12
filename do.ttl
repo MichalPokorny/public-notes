@@ -16,3 +16,66 @@
 ("fio osobni ucet") :under :do .
 ("procistit vnitrni pamet mobilu") :under :do .
 ("mapa Prahy nebo sveta na vnitrni strane dveri od zachoda") :under :do .
+("zalozit si seznam narozenin a svatku") :under :do .
+("sada na opravu duse?") :under :do .
+("sehnat stop-motion videa z K-SCUKu (Lukas mi poslal neco jineho...)") :under :do .
+("ICE kontakt v mobilu") :under :do .
+("nastavit na facebooku notifikace na zpravy od neznamych") :under :do .
+("cheatsheet: miry, veky, ...") :under :do .
+("AndroidLost admin rights") :under :do .
+("soukromy skladovy skript?") :under :do .
+("seridit kolo") :under :do .
+("pridat moje gemy do ruby toolbox?") :under :do .
+("poridit lekarnicku, teplomer") :under :do .
+("koupit vahu, co umi automaticky logovat vahu do webservice po wifi") :under :do .
+("najit: draco telling harry to always be ready to give everything back") :under :do .
+("zlozvyk: jedeni oboci") :under :do .
+("linux: program 'spark' (console sparkcharts)") :under :do .
+("zjistit neco o beer brewing?") :under :do .
+("cesky basnik: Skácel") :under :do .
+("lectures (combinatorics, set theory, etc.): https://www.reddit.com/tb/2xtojb") :under :do .
+("dysthymia") :under :do .
+("prejit na vic one-click OS...") :under :do .
+("find czech wordlist") :under :do .
+("nova zidle") :under :do .
+("sehnat ucetniho? (zrejme ~6k za trzni ceny)") :under :do .
+("deltovy sval (vrsek ramena) -- cvicit si ramena!") :under :do .
+("study synthetic biology existential risks") :under :do .
+("stockton vypada nefunkcne!") :under :do .
+("nastudovat neurosis / neurotic") :under :do .
+("3000 work Pomodoros, 500 study Pomodoros, 500 personal Pomodoros") :under :do .
+("rosseau: teorie obecneho blaha") :under :do .
+("http://slideslive.com/casp/xiii-celostatni-konference-casp-laska-ve-21-stoleti") :under :do .
+("http://www.paulgraham.com/vb.html") :under :do .
+("http://www.marcandangel.com/2011/12/11/30-things-to-stop-doing-to-yourself/") :under :do .
+("Podivat se na: http://www.kieser-training.cz/ http://www.youtube.com/user/scooby1961 https://www.youtube.com/watch?v=pIrcgwf_kUo") :under :do .
+("contribute to Electronic Frontier Foundation (HTTPS everywhere, etc.)") :under :do .
+("zastavit se nekdy za kardiologem?") :under :do .
+("focus on health; learn how to identify and solve problems; soft skills are important; learn how to teach") :under :do .
+("proc nefunguje odmontovavani crypta? proc se odmonotovava kdyz nema? * reenable screensaver-unmount") :under :do .
+("vejit do tarifu s O2ckem?") :under :do ;
+	:note "tarif? lepsi mobilni internet?" .
+("zmerit delku 'hand span', vzdalenost natazenych rukou") :under :do .
+("poridit si vizitky?") :under :do .
+("add wallet-btc to BTC backups") :under :do .
+("if-found wallpaper for phone") :under :do .
+("get better handle? move GitHub?") :under :do ;
+	:note "requires link updating :(" .
+("rychla navigace v souborech (jako ma DestroyAllSoftware)") :under :do .
+("root: chci mit v dotfiles reference na vim bundles jenom kdyz jsem normalni uzivatel (root by mel mit spolehlivou konfiguraci)") :under :do .
+
+("RehaLand; ortoped v Praze: Jakub Vranka (poliklinika)") :under :do .
+("https://www.reddit.com/r/theXeffect") :under :do .
+("listen to audiobooks at 2-3x normal speed") :under :do .
+("podivat se na eliezerovy stare maily z ~1997") :under :do .
+("change diet, work out in the morning, maximize health, maximize physical attractiveness") :under :do .
+("dluzim kajovi par piv (za KFC z Polska)") :under :do .
+("mel bych zase zacit hubnout!") :under :do .
+("dalsi KSP sraz") :under :do .
+("future of humanity institude - visit?  (Ondra)") :under :do .
+("Martin Fowler: sw engineer, author, international public speaker on SWE. smart guy. has blog.") :under :do .
+("Jerry Fodor (philosopher)") :under :do .
+("pridat do CV: spring school of combinatorics 2014 stuff") :under :do .
+("throw out all socks, get 30 identical pairs") :under :do .
+("Galibi deskovky") :under :do .
+

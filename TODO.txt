@@ -1,59 +1,10 @@
-TODO: zalozit si seznam narozenin a svatku
-TODO: sada na opravu duse?
-TODO: sehnat stop-motion videa z K-SCUKu (Lukas mi poslal neco jineho...)
-TODO: ICE kontakt v mobilu
-TODO: nastavit na facebooku notifikace na zpravy od neznamych
-TODO: zmerit delku 'hand span', vzdalenost natazenych rukou
 
 TODO: https://www.google.com/settings/u/0/account/inactive
 TODO: papir "je mi 20"?
-TODO: zastavit se nekdy za kardiologem?
 
-Podivat se na:
-	http://www.kieser-training.cz/
-	http://www.youtube.com/user/scooby1961
-	https://www.youtube.com/watch?v=pIrcgwf_kUo
-
-deltovy sval (vrsek ramena)
-cvicit si ramena!
-
-"edit command line in editor": jak v zsh?
-linux: program 'spark' (console sparkcharts)
-
-cheatsheet: narozky, miry, veky, ...
-
-zjistit neco o beer brewing?
-cesky basnik: Skácel
-
-lectures (combinatorics, set theory, etc.): https://www.reddit.com/tb/2xtojb
-dysthymia
-
-contribute to Electronic Frontier Foundation (HTTPS everywhere, etc.)
-
-TODO: vejit do tarifu s O2ckem?
-
-* konzole na mobil (pingovani, sshovani, ...)
-* nova zidle
-* sehnat ucetniho? (zrejme ~6k za trzni ceny)
-* find czech wordlist
 * life cost-benefit analysis
-* upcoming IPOs
-* rychla navigace v souborech (jako ma DestroyAllSoftware)
-* proc nefunguje odmontovavani crypta? proc se odmonotovava kdyz nema?
-	* reenable screensaver-unmount
-* prejit na vic one-click OS...
-* get better handle? move GitHub?
-	* requires link updating :(
-* if-found wallpaper for phone
-* add wallet-btc to BTC backups
-* soukromy skladovy skript?
-* seridit kolo
-* pridat moje gemy do ruby toolbox?
-* root: chci mit v dotfiles reference na vim bundles jenom kdyz jsem normalni uzivatel (root by mel mit spolehlivou konfiguraci)
 * whyday
-* poridit si vizitky?
 * check out 'owncloud' - mohla by se hodit tvrda zaloha
-* AndroidLost admin rights
 * bezpecnejsi login? co kdyz prijdu o klic? hesla by nemela stacit...
 
 rewrite deduplicator in go
@@ -62,57 +13,27 @@ TODO: vyresit /stara cdcka, /from-crypto
 
 rescuetime: stop collecting window + document titles?
 
-3000 work Pomodoros, 500 study Pomodoros, 500 personal Pomodoros
-
 hnuti brontosaurus
-future of humanity institude - visit?  (Ondra)
-
-stockton vypada nefunkcne!
-
-nastudovat neurosis / neurotic
-
-study synthetic biology existential risks
 
 join ACM? (policy-affecting)
 
-focus on health
-learn how to identify and solve problems
-soft skills are important
-learn how to teach
-
-rosseau: teorie obecneho blaha
-
-poridit lekarnicku, teplomer
-
-test na facebook app listening
-
+test na facebook app listening 
 investigate lifespan impact of vegetarianism
 	blood screen: risk factor na nemoci, impact na lifespan, B-12, D, omega-3
 
 arguments for universal objective binding morality
-dalsi KSP sraz
 "the terrible horrible ... ..." - 28/377, 1.2 two meanings of "moral"
 join forums for LW, EA
 cerebrolysin
-mel bych zase zacit hubnout!
 je sance, ze jeste existuji moje zaznamy od psycholozky, kdyz jsem tam byl?
 spend more time with family -- they might die while I'm gone
 sehnat houby, pozvat tomiho na vec
 emotional dependency
 http://log.or.cz/?cat=150
 strategy of conflict: zbyva precist Part 4+
-dluzim kajovi par piv (za KFC z Polska)
-Martin Fowler: sw engineer, author, international public speaker on SWE. smart guy. has blog.
-Jerry Fodor (philosopher)
-pridat do CV: spring school of combinatorics 2014 stuff
-throw out all socks, get 30 identical pairs
 TODO: stahnout 'find the music in you'
-Galibi deskovky
 http://apophis.cz/blog/
-listen to audiobooks at 2-3x normal speed
 koupit osusku
-podivat se na eliezerovy stare maily z ~1997
-change diet, work out in the morning, maximize health, maximize physical attractiveness
 agentyduck.blogspot.com
 brazilian jiu jitsu
 build self-worth
@@ -137,37 +58,17 @@ vzit domu levanduli a dalsi masti
 liska bystrouska
 koupit si jesterku az budu mit trvaly byt
 behani: http://www.kpo.cz/fyziologie/fyziologie.htm
-https://web.archive.org/web/20141013084825/http://kruel.co/2013/01/07/why-you-should-be-wary-of-the-singularity-institute/#sthash.5uZCbQRI.dpbs
-https://web.archive.org/web/20141013084617/http://kruel.co/2013/01/10/the-singularity-institute-how-they-brainwash-you/#sthash.1Tc1wW5U.dpbs
 check for vitamin deficiencies, anaemia, hypothyroidism
 do therapy on yourself
 Viden - narodni opera
 david hume
-cached selves
-consider the opposite: "what are some reasons that my initial judgement might be wrong?"
-cognitive override: notice when speaking/acting on intuitive judgement
-commitment and consistency effects: any random thing you say or do in the absence of obvious outside pressure can hijack your self-concept for the medium- to long-term future
-visualize your life as something you just inherited from someone else
-before the battle: leave a line of retreat
-during the battle: call out flinching reactions
-envision what could go badly if you come to false beliefs
-http://www.marcandangel.com/2011/12/11/30-things-to-stop-doing-to-yourself/
-koupit vahu, co umi automaticky logovat vahu do webservice po wifi
-najit: draco telling harry to always be ready to give everything back
-zlozvyk: jedeni oboci
 right hemisphere dysfunction: https://medicalspeechpathology.wordpress.com/student-handbook/right-hemisphere-dysfunction/
-RehaLand
-ortoped v Praze: Jakub Vranka (poliklinika)
 vyresit mobilni internet O2 - po vycerpani se vypne
 spend more time in Mode 2
 Don’t wait until your deathbed to figure out what life is all about.
-tarif? lepsi mobilni internet?
 test na anemii: anemie zpusobuje depresi
-https://www.reddit.com/r/theXeffect
-http://www.paulgraham.com/vb.html
 apply to OpenAI
 TODO: ssh-agent on metacentrum
-http://slideslive.com/casp/xiii-celostatni-konference-casp-laska-ve-21-stoleti
 Jak by me slo presvedcit o tom, ze bych mel venovat na bezpecnost umele inteligence?
 TODO: change swapfile location.
 Chrome ma moznost loadnout savenutou page

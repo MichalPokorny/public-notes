@@ -1,7 +1,0 @@
-%a(title=@title){attr: "widget_#{number}"}
-%script(type='text/javascript'
-        src='javascript.js')
-
-ID: %div#a{id: 'b'} <--> %div{id: "a_b"} (['a', 'b'])
-
-HAML: #{...} v filtrech (:javascript etc.) neni HTML-escapovany

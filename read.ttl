@@ -101,3 +101,94 @@ You've Been Hurt So Many Times Before?')> :under :read .
 ("http://mywiki.wooledge.org/BashGuide") :under :read .
 ("https://github.com/szilard/benchm-ml") :under :read .
 ("http://mrzool.cc/tex-boilerplates/") :under :read .
+:read :note """
+	(Shakespeare: Caliban)
+	soft skills smashing book #4
+	David Weekly - an introduction to stock & options for the tech entrepreneur or startup employee
+	architecture of opensource applications, volume >=3
+	performance of opensource applications
+	PhD thesis: The Terrible, Horrible, No Good, Very Bad Truth About Morality and What To Do About It
+	David mckay - His course on information theory, pattern recognition and neural networks
+	nate soares / minding our way (blog)
+	robin hanson / overcoming bias (blog)
+	TODO: jean jacques rosseau
+	Tsukihime
+	http://obchod.portal.cz/citova-zavislost/
+	Heinz-Peter Rohr - Zavisle vztahy
+	http://obchod.portal.cz/sexualita-a-sexualni-identita/
+	Zdenka Bechova - Osudovy partner
+""" .
+
+:read :note """
+	K PRECTENI
+	==========
+
+	A few audio gems by C. Darwin, R. Dawkins, R. Feynman & C. Sagan
+	for learning, awe, fun & acquiring a deeper understanding of the world
+	while walking, cleaning up or any other boring activity ;-)
+
+	C. Darwin - On the Origin of Species (read by R. Dawkins)
+	http://www.youtube.com/watch?v=rvxr9C5_haA
+
+	C. Darwin - The Descent of Man (librivox audiobook)
+	https://librivox.org/the-descent-of-man-and-selection-in-relation-to-sex-part-1-by-charles-darwin/
+	https://librivox.org/the-descent-of-man-and-selection-in-relation-to-sex-part-2-by-charles-darwin/
+	https://librivox.org/descent-of-man-and-selection-in-relation-to-sex-the-part-3-by-charles-darwin/
+
+	R. Dawkins audiobooks
+	http://uloz.to/xWvXmff/richard-dawkins-the-selfish-gene-audiobook-rar
+	http://uloz.to/xcF5bHPD/richard-dawkins-river-out-of-eden-audiobook-rar
+	http://uloz.to/xpEJreE/richard-dawkins-the-ancestors-tale-audiobook-rar
+	http://uloz.to/xxxGZYD/richard-dawkins-the-blind-watchmaker-audiobook-rar
+	http://uloz.to/x2dZhvv/richard-dawkins-the-god-delusion-audiobook-rar
+
+	R. Dawkins - An Appetite for Wonder (autobiography) - audiobook
+	http://ul.to/ts5lbsxn/Richard
+	http://ul.to/dm8zrgp1/Richard
+	http://ul.to/kynznrts/Richard
+
+	R. Dawkins - Unveawing the Rainbow e-book (on the poetry of science)
+	http://uloz.to/xRCSCHPD/richard-dawkins-unweaving-the-rainbow-rar
+
+	Surely You're Joking, Mr Feynman - audiobook
+	(A must-read. Period. You'll be laughing, amazed and inspired cover to cover.)
+	http://www.filefactory.com/file/d0b420/n/
+	http://www.filefactory.com/file/b2ce9e/n/
+	http://www.filefactory.com/file/285a2b/n/
+	http://www.filefactory.com/file/56c58d/n/
+
+	R. Feynman - The Character of Physical Law (recorded lectures)
+	http://www.youtube.com/playlist?list=PL7BF07F016E2BF97E
+
+	R. Feynman - Fun to Imagine | Using physics to explain how the world works (1983)
+	http://www.youtube.com/watch?v=aXtnYnoutKk
+
+	Feynman's lectures on physics (complete audio recordings)
+	http://uploaded.net/file/7nwulwqw/The_Feynman_Lectures_on_Physics.part1.rar
+	http://uploaded.net/file/8ietaj4r/The_Feynman_Lectures_on_Physics.part2.rar
+	http://uploaded.net/file/5zsxojy4/The_Feynman_Lectures_on_Physics.part3.rar
+
+	Lectures on Physics e-book
+	http://uloz.to/xz6mAQE/feynman-lectures-on-physics-complete-volumes-1-2-3-pdf
+
+	R. Feynman - Take the World from Another Point of View (interview)
+	http://www.youtube.com/playlist?list=PL89334FC0EFCF210D
+
+	Carl Sagan's Cosmos series
+	http://www.youtube.com/playlist?list=PLBA8DC67D52968201
+
+	Carl Sagan - ebooks
+	http://uloz.to/xvYHipX/00-carl-sagan-cosmos-pdf
+	hhttp://ulozto.net/xUbqTiv/carl-sagan-pale-blue-dot-rar
+	http://uloz.to/xCDZVV8/carl-sagan-billions-and-billions-rar
+	http://uloz.to/xBqvWxJ/carl-sagan-the-dragons-of-eden-rar
+	http://uloz.to/xaEtepG/carl-sagan-the-cosmic-connection-rar
+	http://uloz.to/xstYwdS/carl-sagan-the-varieties-of-scientific-experience-rar
+	http://uloz.to/xhsUSnE/carl-sagan-cosmos-rar
+	http://uloz.to/xgcHpSz/carl-sagan-brocas-brain-rar
+	http://uloz.to/xWzogs2/carl-sagan-the-demon-haunted-world-rar
+	http://uloz.to/x1xZB9U8/contactsagan-carl-ebook-rar
+
+	Carl Sagan - audiobooks
+	http://www.filefactory.com/file/479sa6g4nlrl/Carl.Sagan-Pale.Blue.Dot.Audiobook.rar
+""" .
