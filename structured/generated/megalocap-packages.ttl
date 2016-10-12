@@ -1,5 +1,4 @@
 @prefix : <http://rny.cz/knowledge#> .
-
 :602xmlfiller :installed-on :megalocap .
 :acpi :installed-on :megalocap .
 :acroread :installed-on :megalocap .

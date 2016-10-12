@@ -1,8 +1,0 @@
-**- konfigurak k postfixu**
-- nainstalovat xosdutil, xosdutilctl.
-**- aurvote vcetne nastaveni**
-
-Demoni: postfix
-
-- /etc/hosts aby obsahovalo hostname
-TODO: check spravnosti (ze dokazu vsechno spustit)
