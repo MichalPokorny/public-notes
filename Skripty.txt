@@ -10,7 +10,6 @@ TODO: tweaky, co dela powertop, by se mely delat automaticky.
 TODO: suspend on lid switch unless mounted
 TODO: proc xosdutil tak rychle skonci pri acpi?
 TODO: opravit funkce suspendovacich tlacitek
-TODO: zrychlit rubyovske skripty
 
 TODO: screensaver-unmount si neumi detekovat displej, ktery je otevreny
 	- muzu si zjistit PID xscreensaveru a pak se podivat do /proc/#{pid_xscreensaveru}/environ :D
@@ -27,7 +26,6 @@ TODO: zalohovani fotek!
 - vim skeletons
 
 TODO: suspend: 'in 30 minutes'
-TODO: dup command: duplikuj soucasne okno xtermu?
 TODO: ovec: seznam prikazu, ve kterych nevlnkovat, by mel byt nastavitelny ("najdi si .ovecrc v parentech")
 TODO: goodnight by mel vypinat zvuk
 TODO: nejak upozornovat ze nemam namontovane crypto
@@ -40,4 +38,3 @@ TODO: vim -- vypnout v ...?-line upozorneni na mixed-indent
 TODO: nedovolit move-to-crypto kdyz neni crypto mounted
 TODO: napad: aplikace na to, ze jsem si zamkl
 TODO: cryptounmount -- nerestartuje
-TODO: upstream bank umoznit moje extra funkce

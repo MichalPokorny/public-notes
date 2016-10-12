@@ -95,6 +95,7 @@
 ("hostapd, dnsmasq") :under :programs .
 ("racket") :under :programs ; :purpose "a lisp implementation" .
 ("fish") :under :programs ; :purpose "a shell" .
+("gollum") :under :programs; :purpose "git-powered wiki" .
 
 :terminology :under :programs ;
 	rdfs:label "Terminology" ;
@@ -148,6 +149,12 @@
 	:note "command <<< 'some text': jako echo |" ;
 	:note "^ = sed-like replace (^docs^web^)" ;
 	:note "Esc-. = fetch last arg" .
+	:note """
+		%1 / %2: bring up specific job
+		bg %1: resume the process, but don't put it in background
+			(sleep loop)
+	""" ;
+	:note "pushd, popd" .
 
 ("mutt") :under :programs ;
 	:note "; = tag-prefix" ;
@@ -241,3 +248,75 @@ TUI: Ctrl-A X, then repaint with Ctrl-L
 	:note """for i = 1:10
 		disp("Ahoj!");
 	endfor""" .
+
+:git rdfs:label "git" ;
+	:under :programs ;
+	:note "git notes edit (sha1): poznamky ke commitu — jde to automatizovat, ale nejde to efektivne sdilet (hodi se pro CI atd.)" ;
+	:note """
+	git filter-branch --index-filter 'git rm --cached --ignore-unmatch MujCitlivySoubor' \
+	  --prune-empty --tag-name-filter cat -- --all
+		(=git purge-file)
+	""" ;
+	:note """
+	git as a graph database:
+		tree: git update-index --add --cacheinfo 100644 (sha1) my-key.json
+			git write-tree ⇒ (tree-ish)
+	""" ;
+	:note """
+		commit: record of change: echo 'store some json' | git commit-tree (tree-ish)
+	""" ;
+	:note "annotated tag: objekty v git databazi (changelog, podpis, ...)" ;
+	:note """
+		gem [[GitModel]] (trochu jako [[ActiveRecord]] - superfajn :) -- git model
+	""" ;
+	:note "git rev-list (vypise parents)" ;
+	:note "git ls-tree" .
+
+("grep") :note "\b: word boundary" .
+
+("tar") :note "tar -c . === vyrobeni taru" ;
+	:note "tar -xp === rozbaleni & preserve" ;
+	:note "tarpipe" .
+
+("python") :note "__method__, __callee__" ;
+	:note "def f(x=Bad); end <-- OK, evaluated at compile-time" .
+
+("haskell") :note """
+	//Yesod//
+		(cabal update, cabal install yesod cabal-dev)
+
+		$ yesod init
+		-> cd, cabal-dev install && yesod --dev devel
+	""" .
+	:note "hlint" ;
+	:note """QuickCheck:
+		import Test.QuickCheck
+		quickCheck (\x -> ..., kde to je typu :: A -> Bool)
+	""" ;
+	:note "State, Reader, Writer monady" ;
+	:note """
+		`{-# LANGUAGE OverloadedStrings #-}`: syntactic sugar.
+		type of 1 is "Num x => x", type of "hello" is [Char] ==> "IsString" typeclass.
+	""" ;
+	:note "cabal: --global" .
+
+("c++") :note """
+	C++: operator&: zpusobuje, ze nejde udelat bezpecnou forward deklaraci!
+	operator"": user literals
+	operator=: insidious :)
+
+	initializer_list""" ;
+	:note "delegating constructors: using Base::Base -- redeklaruje stare konstruktory" ;
+	:note "namespace fbb = foo::bar::baz;" ;
+	:note "c++: string _name{\"abc\"};" ;
+	:note """
+		scoped_ptr, scoped_array
+		std::exception_ptr, std::nested_exception
+
+		static_cast<>()
+			conversion: (int)3.5, cast: (int)"hello"
+			const_cast, reinterpret_cast
+		^ C++ brace-initialization
+	""" ;
+	:note "s?printf parameter reordering" ;
+	:note "c++11 tie" .

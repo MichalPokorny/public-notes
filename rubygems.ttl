@@ -50,3 +50,5 @@
 	:purpose "zabije zbytecny backtrace v rake testech" .
 ("ruby-ares") :under :rubygems;
 	:purpose "ARES access" .
+("phony") :under :rubygems ;
+	:purpose "validace a standardizace telefonnich cisel" .

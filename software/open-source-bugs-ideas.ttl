@@ -37,3 +37,6 @@
 ("add a true wmii layout") :under :xmonad-improvements ;
 	:note "set minimum window size to some reasonable small constant, say 5 px" .
 ("shell duplication shortcut; is it even possible, btw?") :under :xmonad-improvements .
+
+("upstream bank umoznit moje extra funkce") :under :os-bugs-ideas .
+("dup command: duplikuj soucasne okno xtermu?") :under :os-bugs-ideas .

@@ -3,7 +3,6 @@ TODO: sada na opravu duse?
 TODO: sehnat stop-motion videa z K-SCUKu (Lukas mi poslal neco jineho...)
 TODO: ICE kontakt v mobilu
 TODO: nastavit na facebooku notifikace na zpravy od neznamych
-TODO: procistit vnitrni pamet mobilu
 TODO: zmerit delku 'hand span', vzdalenost natazenych rukou
 
 TODO: https://www.google.com/settings/u/0/account/inactive
@@ -83,10 +82,6 @@ learn how to teach
 
 rosseau: teorie obecneho blaha
 
-TODO: urgovat zverejneni Fable of the Dragon-Tyrant na Bostromove strance
-
-fio osobni ucet
-
 poridit lekarnicku, teplomer
 
 test na facebook app listening
@@ -146,7 +141,6 @@ https://web.archive.org/web/20141013084825/http://kruel.co/2013/01/07/why-you-sh
 https://web.archive.org/web/20141013084617/http://kruel.co/2013/01/10/the-singularity-institute-how-they-brainwash-you/#sthash.1Tc1wW5U.dpbs
 check for vitamin deficiencies, anaemia, hypothyroidism
 do therapy on yourself
-mapa Prahy nebo sveta na vnitrni strane dveri od zachoda
 Viden - narodni opera
 david hume
 cached selves

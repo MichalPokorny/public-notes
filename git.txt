@@ -1,6 +1,0 @@
-git notes edit (sha1): poznamky ke commitu — jde to automatizovat, ale nejde to efektivne sdilet (hodi se pro CI atd.)
-
-git filter-branch --index-filter 'git rm --cached --ignore-unmatch MujCitlivySoubor' \
-  --prune-empty --tag-name-filter cat -- --all
-
-	(=git purge-file)

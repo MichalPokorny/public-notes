@@ -1,0 +1,99 @@
+("rails") :note "bootstrap → Bootswatch - temata pro Bootstrap" ;
+	:note "Cucumber" ;
+	:note "SimpleNavigation" ;
+	:note "CanCan" ;
+	:note "Views -> Cells" ;
+	:note "rails s + gem debugger -> kdekoliv dam breakpoint pomoci 'debugger'." ;
+	:note "rake -T: list tasks" ;
+	:note "Postgres: umi se chovat jako NoSQL pres HSTORE" ;
+	:note "rails-recurly-subscription-saas" ;
+	:note "hodilo by se umet psat rychlejsi testy." ;
+	:note "Pry REPL" ;
+	:note "Model.scoped misto Model.all" ;
+	:note "Rails - mozna umi neco jako info" ;
+	:note "pdfkit: html -> pdf (asi pres virtualni browser? :)" ;
+	:note "log tagging" ;
+	:note "bundle install --deployment" ;
+	:note "template inlining - zrychleni" ;
+	:note "capistrano: set :use_sudo, false" ;
+	:note "vytvoreni noveho gemu: bundle gem" ;
+	:note "bootstrap-sass: config.assets.precompile += %w(*.png *.jpg *.jpeg *.gif) >>> neni to potreba???" ;
+	:note ".gemrc: gem: --local" ;
+	:note "bundle --path /home/prvak/.gem/ruby/2.0.0" ;
+	:note "integracni testy jsou zajimave" ;
+	:note "cap -s branch=... deploy" ;
+	:note "ruby-prof -p graph_html -f profil.html, a vubec: ruby-prof (je to gem)" ;
+	:note "bundler ma od nejake docela moderni verze flag (-j) --- umi paralelizovat!" ;
+	:note "cap deploy:migrations: podobne jako deploy, ale sebehnou i migrace" ;
+	:note "yard server -g" ;
+	:note "rails bundler require: odebrat ze skeletonu!?" ;
+	:note "interpolace symbolu funguje i bez explicitniho prevodu na string" ;
+	:note "active extensions: extract_options!" ;
+	:note """
+		belongs_to :customer ==> #create_customer!; bez !; build_...
+		relations: validate: true vypada uzitecne
+		Rails: assoc "readonly" -- muze byt uzitecne - freezne ten objekt
+		belongs_to x.y=z ==> neuklada
+		nemame has_one s NULLy? dependent: :restrict_with_exception?
+		has_one: x.y=z ==> z is automatically saved (to update FK). old object is saved, too (to update FK). validation errors => assg. stmt. returns false, assignment cancelled (unless parent unsaved -- then saved when parent saved)
+		@campaign.orders.destroy(@order1); ALWAYS will be removed, ignoring :dependent
+		@campaign.order_ids
+		has_many.clear ==> dependent: :destroy => destroy; :delete_all => delete from db
+		collection.empty?
+		dependent: :restrict_with_exception: zakaz smazani parenta pokud existuji associated objects
+		has_many: ma defaultne validate: true!!! to znamena ze kdyz ukladame kampan, tak to validuje vsechny ordery!!! FAIL!
+		-> { uniq } ====> -> { distinct }
+		has_many <<: automatically saved to update FK
+		parent record new_record? ==> members will be autosaved when parent is saved
+		has_many: :before_add, :after_add, :before_remove, :after_remove
+		has_many :orders do ... end:: muzu tam pridefinovat (priextendovat) libovolny blok; jde to grupovat: -> { extending(FindRecentExtension) }
+		^- proxy_association.owner; proxy_association.reflection; proxy_association.target
+		ruby: spring
+		Rails.application.message_verifier(:remember_me)
+		^^- vypada fakt hezky
+
+		https://github.com/rails/spring/blob/master/README.md
+		X-Request-ID, ActionDispatch::Request#uuid by se mohlo hodit (ActionDispatch::RequestId middleware)
+		(pry)
+		ActionDispatch::Http::ParameterFilter
+
+		na spravnejsi nelogovani klice: http://stackoverflow.com/questions/6152388/manually-filter-parameters-in-rails
+		config.action_dispatch.signed_cookie_salt, encrypted_cookie_salt. VISIT JE SIGNED, NE ENCRYPTED! encrypted_signed_cookie_salt
+		activsupport taggedlogging
+
+		rails: blank? string === obsahuje jenom whitespace
+		0, 0.0 nejsou blank
+		.presence = present? or nil
+		.try { |p| ... }
+	""" ;
+	:note """
+		'bundle check' => 'bundle': nemusi hitovat gem cache! :)
+
+		lib directory ==> "service objects"
+
+		bundle exec rspec je mnohem pomalejsi nez rspec
+
+		require 'spec_helper': hodne, hodne, hodne, hodne, hodne pomale specy!!!
+
+		https://github.com/garybernhardt/destroy-all-software-extras/blob/master/das-0010-fast-tests-with-and-without-rails/test
+	""" ;
+	:note "to_param." ;
+	:note """
+		rspec: stub(a: ..., b: ...)
+		x, y = stub, stub
+
+		rspec/mocks/standalone
+			'stub == mock'
+			mock: put a message expectation
+			x.as_null_object: destructive, returns self
+
+			stub(x: :y).extend(SomeModel)
+
+			incidental/essential interaction: null object/stub
+
+			Test doubles are:
+				- dummies: passed around, but never used
+				- fakes: working implementation, but has shortcut (in-memory db, stripe, ...)
+				- stubs: canned answers, records, ...
+				- mocks: expectations, pre-programmed objects
+	""" .
