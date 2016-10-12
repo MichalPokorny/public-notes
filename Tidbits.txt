@@ -262,7 +262,6 @@ http://en.wikipedia.org/wiki/Lord_British
 - Namecoin, Bitcoin, Litecoin
 - zajimavy clovek: fabrice bellard
 - dlsym
-- novomestske nefiltrovane pivo
 - quantified self
 - gittip
 - ConceptNet 5

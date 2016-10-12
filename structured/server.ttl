@@ -1,0 +1,7 @@
+@prefix : <http://rny.cz/knowledge#> .
+
+:server rdfs:label "Server" .
+
+:server :note "OVH: `rtm` is their monitoring script." .
+:server :note "Stoji 454 Kc/mesic." .
+:server :note "/etc/cron.weekly/renew-certificates" .

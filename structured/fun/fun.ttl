@@ -68,3 +68,7 @@
 :poetry rdfs:label "Poetry" ; :under :fun .
 ("allen ginsberg - howl") :under :poetry .
 ("Guillaume Apollinaire - Zla je nadeje") :under :poetry .
+
+:beer rdfs:label "Beer" ; :under :fun .
+("Porter 19") :under :beer .
+("Novomestske nefiltrovane pivo") :under :beer .

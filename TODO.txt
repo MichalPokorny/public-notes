@@ -45,7 +45,6 @@ http://www.ifweassume.com/2013/08/the-de-evolution-of-my-laptop-battery.html -- 
 
 http://mywiki.wooledge.org/BashGuide
 https://github.com/szilard/benchm-ml
-
 http://mrzool.cc/tex-boilerplates/
 
 TODO: cannot access ~/notes if it's not mounted

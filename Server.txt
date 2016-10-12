@@ -1,5 +1,0 @@
-OVH: `rtm` is their monitoring script.
-
-Stoji 454 Kc/mesic
-
-/etc/cron.weekly/renew-certificates

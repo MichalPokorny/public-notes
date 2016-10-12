@@ -1,0 +1,32 @@
+@prefix : <http://rny.cz/knowledge#> .
+
+:san-francisco rdfs:label "San Francisco"
+
+("Sourcegraph hacker meetup") :under :san-francisco .
+("SF nike sites") :under :san-francisco ;
+	:note "first sat/sun? in month = guided tour at Marin Headlands site" .
+("hardly strictly bluegrass festival") :under :san-francisco .
+
+cena listku San Francisco -- Praha (zpatecni): ~$1100
+el farolito -- mission
+
+Lars Ros (nejaka fajn restaurace)
+liquid nitrogen ice cream
+
+use Getaround
+
+* Rooftop Park (835 Market)
+* Chloe's Cafe
+* Chocolate Lab
+* lanova tramvaj
+
+* Castro theatre
+* Filmore street shopping
+* Magpie and rye
+* Amoeba records
+* Nightlife @ Academy of Sciences
+* Amnesia
+* Film night at Golden Gate park
+
+bayrationality.com
+

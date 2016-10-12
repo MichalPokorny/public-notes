@@ -1,0 +1,137 @@
+@prefix : <http://rny.cz/knowledge#> .
+
+:programs rdfs:label "Programy" .
+
+:offline-wiki rdfs:label "Offline wikipedia" .
+("kiwix") :under :programs ; :purpose :offline-wiki .
+("xowa") :under :programs ; :purpose :offline-wiki .
+("Trommler, Galan") :under :programs ; :purpose "bubnove patterny" .
+("mb2md.pl") :under :programs ; :purpose "konverze Mbox -> maildir" ;
+	:aur-package "md2md" .
+("W3C Slidy") :under :programs .
+("newsbeuter") :under :programs .
+("slimrat") :under :programs .
+("centerim") :under :programs .
+("arandr") :under :programs .
+("KeyWatcher") :under :programs .
+("GNU Expect") :under :programs .
+("avidemux") :under :programs .
+("ffmpeg2theora") :under :programs .
+("ruby-gnomecanvas") :under :programs .
+("mirage") :under :programs .
+("GNU Guile") :under :programs .
+("FLTK") :under :programs .
+("Beamer") :under :programs .
+("Emscripten QT") :under :programs .
+("logwatch") :under :programs .
+("undistract-me") :under :programs .
+("disown") :under :programs .
+("units") :under :programs .
+("nltk") :under :programs .
+("CellWriter") :under :programs .
+("Google Prediction API") :under :programs .
+("xiki") :under :programs .
+:ocr rdfs:label "OCR" .
+("cuneiform") :under :programs ; :purpose :ocr .
+("GNU datamash") :under :programs .
+("ledger") :under :programs .
+("gtk-recordMyDesktop") :under :programs .
+
+("Performous") :under :programs ;
+	:note "obsahuje detekci tonu" .
+("gcov") :under :programs ;
+	:purpose ("code coverage") ;
+	:note "gcc -fprofile-args -ftest-coverage" .
+("avidemux") :under :programs ;
+	:purpose ("jednoduche strihani") ;
+	:note "avidemux (-gtk)"
+("mosh") :under :programs ;
+	:purpose "lepsi ssh" .
+("key-mon") :under :programs ;
+	:purpose "monitoruje klavesy" .
+("libxslt -> xsltproc") :under :programs .
+<http://jekyllboostrap.com> :under :programs .
+("luminancehdr") :under :programs ;
+	:purpose "HDR" ;
+	:note "s Hugin-em umi automaticky zarovnavat (hugin je na panoramata)" .
+:screen-capture rdfs:label "Capture obrazovky" .
+("xvidcap") :under :programs ;
+	:purpose :screen-capture .
+("istanbul") :under :programs ;
+	:purpose :screen-capture .
+("CoachPotato") :under :programs ;
+	:purpose "automaticke stahovani torrentu" .
+("sage") :under :program;
+	:note "KDE frontent: Cantor";
+	:note "sage -n -> localhost:8000" .
+:vnc rdfs:label "Remote desktop / VNC" .
+("krdc") :under :programs ; :purpose :vnc .
+("rdesktop") :under :programs ; :purpose :vnc .
+("remmina") :under :programs ; :purpose :vnc .
+("tightvnc") :under :programs ; :purpose :vnc .
+("realvnc") :under :programs ; :purpose :vnc .
+("vinagre") :under :programs ; :purpose :vnc .
+("TigerVNC") :under :programs ; :purpose :vnc ; note: "TIGERVNC!" .
+<http://libots.sourceforge.net> :under :programs ; :purpose "open text summarizer" .
+("Landell") :under :programs ; :purpose "streamovani a uprava videi" .
+("konversation") :under :programs ; :purpose "IRC klient pro KDE" .
+("kcachegrind") :under :programs .
+("gprof2dot") :under :programs ;
+	:aur-package "gprof2dot-git" ; :purpose "graf z gprofu do dotu" ; :note "gprof program gmon.out | gprof2dot"
+("Android Studio") :under :programs ; :note "nad IntelliJ IDEA" .
+("gnuplot --persist") :under :programs .
+("Android Lost") :under :programs ; :purpose "hlidac ztraceneho androidu" .
+("xterm umi Shift+Num+ / Num- (zvetsuje/zmensuje pismo)") :under :programs .
+("rubypython: pousteni Pythonu z Ruby") :under :programs .
+("github leafo/sticky-kit -- na sticky elementy v JS") :under :programs .
+("nastaveni rate opakovani klaves: 'xset r rate 190 35'") :under :programs .
+("zalohovani 'tarsnap' (Amazon EC3, hodne sifrovane)") :under :programs .
+("vypnuti ulimitu: ulimit -St unlimited; ulimit -Ht unlimited") :under :programs .
+("common lines: `comm`") :under :programs .
+("qalc") :under :programs ;
+	:note "umi jednotky vcetne ruznych men" ;
+	:by :filip-stedronsky .
+("heap-shot-git") :under :programs ; :note "heap profiling pro mono" .
+("hostapd, dnsmasq") :under :programs .
+("racket") :under :programs ; :purpose "a lisp implementation" .
+("fish") :under :programs ; :purpose "a shell" .
+
+:terminology :under :programs ;
+	rdfs:label "Terminology" ;
+	:purpose "Pretty cool terminal - has images, video, OpenGL..." ;
+	:note "Doesn't really get my fonts and colors, through :(" ;
+	:note "TODO: Try again later." ;
+	:note "terminology -f=terminus-14 => : problem: can't do non-bold text?!" ;
+	:note "tyls, ... (ty\*) == 'terminology \*'" .
+
+("cppcheck") :under :programs .
+("form filler 602") :under :programs ;
+	:note "filler.sh (Wine, pomale a otravne)" .
+("Exolutio") :under :programs; :purpose "XML konceptualni modeling" .
+
+:vimperator :under :programs ;
+	rdfs:label "Vimperator" ;
+	:note ":dialog searchengines" .
+
+("it's all text") :under :programs; :note "mozilla plugin" .
+("pachyderm") :under :programs ; :purpose "open MapReduce" .
+("review board") :under :programs ; :note "open-source" .
+("vimb") :under :programs; :purpose "browser" .
+("js-beautify") :under :programs .
+("terminator") :under :programs .
+("Contiki") :under :programs ; :purpose "Internet of Things OS" .
+("piorekf/plug") :under :programs ; :purpose "nahravani z meho komba" .
+("mosh") :under :programs ; :purpose "alternative ssh" .
+("epylog") :under :programs ; :purpose "sledovac logu" .
+("GPUMlib") :under :programs ; :purpose "GPU machine learning (C++)" .
+("ilog scheduler") :under :programs .
+("ESALib") :under :programs ; :purpose "semantic analysis" .
+("ScalaZ") :under :programs ; :purpose "making Scala more functional" .
+
+("xorg-xinput") :under :programs ;
+	:purpose "ruzne parametry vstupnich zarizeni" .
+("alsa-mixer") :under :programs ;
+	:note "mezernik na vypnutem mikrofonu" .
+("jrnl") :under :programs ;
+	:purpose "journal command-line thingie" .
+("jot") :under :programs .
