@@ -1,0 +1,44 @@
+@prefix : <http://rny.cz/knowledge#> .
+
+:learn rdfs:label "Learn" .
+
+:learn-lang rdfs:label "Learn - Programming language"
+:learn-lang :under :learn
+("Objective-C") :under :learn-lang .
+("Node.js") :under :learn-lang .
+("Swift") :under :learn-lang .
+("Rust") :under :learn-lang .
+("Closure") :under :learn-lang .
+("Scala") :under :learn-lang .
+("F#'") :under :learn-lang .
+("Erlang") :under :learn-lang .
+("GNU R") :under :learn-lang .
+("Asymptote") :under :learn-lang .
+("Metapost") :under :learn-lang .
+("Google Dart (and Dart Editor)") :under :learn-lang .
+("Opa") :under :learn-lang .
+("XPath") :under :learn-lang .
+("Clojure") :under :learn-lang .
+("Oz") :under :learn-lang .
+("D") :under :learn-lang .
+("Tcl") :under :learn-lang .
+("Elixir") :under :learn-lang .
+("MIT Scheme") :under :learn-lang .
+("Groovy") :under :learn-lang .
+("Grails") :under :learn-lang .
+
+:learn-memo rdfs:learn "Learn - Memorize"
+("Kegan stages of moral development") :under :learn-memo .
+("base64 encoding") :under :learn-memo .
+("speed of light") :under :learn-memo .
+("e") :under :learn-memo .
+("pi") :under :learn-memo .
+("Julia Galef") :under :learn-memo .
+("Julia Wise") :under :learn-memo .
+("Brian Tomasik") :under :learn-memo .
+("Go scoring") :under :learn-memo .
+("Go handicap system") :under :learn-memo .
+("Value of 1 life in DALYs") :under :learn-memo .
+("ASCII table organization") :under :learn-memo .
+("chemical elements") :under :learn-memo .
+("Greek alphabet") :under :learn-memo .

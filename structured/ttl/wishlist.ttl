@@ -1,0 +1,35 @@
+@prefix : <http://rny.cz/knowledge#> .
+
+:wish rdfs:label "Wishlist" .
+
+("Glasses for cycling") :under :wish .
+("tibetskou misu") :under :wish .
+("poradny mikrofon") :under :wish .
+("bryle k pocitaci") :under :wish .
+("plakat kali, ganesha") :under :wish .
+("USB WiFi stick that supports master mode (can act as an AP)") :under :wish .
+<http://www.cafepress.com/abstrusegoose.403455925> :under :wish .
+("Ukulele") :under :wish .
+("rozdvojku na sluchatka") :under :wish .
+("hamaka (houpaci sit)") :under :wish .
+("pansexual pride flag") :under :wish .
+("Gerald Scarfe art") :under :wish .
+("propaganda posters") :under :wish .
+("go deska (9x9, 13x13, 19x19)") :under :wish .
+("I like this idea: https://en.wikipedia.org/wiki/Engineer's_Ring, https://en.wikipedia.org/wiki/Iron_Ring") :under :wish .
+
+:wish-clothes rdfs:label "Wishlist - Clothes" .
+("kosile/kravata (kravata: cerna, zluta, oranzova, kosile: cerna, modra, cervena, bila)") :under :wish-clothes .
+("vic serioznich kosil -- na interview a tak") :under :wish-clothes .
+("kotnikove boty (pohory)") :under :wish-clothes .
+("kozene boty") :under :wish-clothes .
+("trochu stylovejsi brasnu na notebook (asi kozenou)") :under :wish-clothes .
+("vesta k saku") :under :wish-clothes .
+
+:wish-util rdfs:label "Wishlist - Utilities"
+("stlaceny vzduch") :under :wish-util .
+("predlozku do koupelny") :under :wish-util .
+("slozitelne krabice") :under :wish-util .
+("lepici pasku") :under :wish-util .
+<http://www.amazon.com/gp/product/B0031Q8U9S/ref=oh_details_o03_s01_i00> :under :wish-util .
+("sadu na lepeni duse") :under :wish-util .

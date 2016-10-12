@@ -1,0 +1,97 @@
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#> .
+@prefix : <http://rny.cz/knowledge#> .
+
+:read rdfs:label "To read" .
+
+<http://algorithmicassertions.com/computer-science/2015/07/05/Things-I-Cant-Solve-Multiplication.html> :under :read .
+<http://arslan.io/ten-useful-techniques-in-go> :under :read .
+<http://blog.givewell.org/2011/08/18/why-we-cant-take-expected-value-estimates-literally-even-when-theyre-unbiased/> :under :read .
+<http://blog.givewell.org/2015/03/11/open-philanthropy-project-update-global-catastrophic-risks/> :under :read .
+<http://blog.keras.io/building-autoencoders-in-keras.html> :under :read .
+<http://book.mixu.net/distsys/ (distributed systems)> :under :read .
+<http://firstround.com/review/this-90-day-plan-turns-engineers-into-remarkable-managers/> :under :read .
+<http://futureoflife.org/2016/02/29/introductory-resources-on-ai-safety-research/> :under :read .
+<http://globalprioritiesproject.org/2015/10/three-areas-of-research-on-the-superintelligence-control-problem/> :under :read .
+<http://jvns.ca/blog/2013/12/30/questions-im-asking-in-interviews/> :under :read .
+<http://lesswrong.com/lw/3nn/scientific_selfhelp_the_state_of_our_knowledge/> :under :read .
+<http://lesswrong.com/lw/4z7/the_neuroscience_of_desire/> :under :read .
+<http://lesswrong.com/lw/llw/immortality_a_practical_guide/> :under :read .
+<http://lesswrong.com/lw/m78/strategies_and_tools_for_getting_through_a_break/> :under :read .
+<http://lesswrong.com/lw/s5/rebelling_within_nature/> :under :read .
+<http://lesswrong.com/lw/ur/crisis_of_faith/> :under :read .
+<http://lesswrong.com/r/discussion/lw/gpl/imitation_is_the_sincerest_form_of_argument/> :under :read .
+<http://producingoss.com/en/index.html (producing open-source software)> :under :read .
+<http://rationality.org/reading/> :under :read .
+<https://adeshpande3.github.io/adeshpande3.github.io/The-9-Deep-Learning-Papers-You-Need-To-Know-About.html> :under :read .
+<https://blog.gregbrockman.com/my-path-to-openai> :under :read .
+<https://brainstormers.wordpress.com/2010/10/18/altruistic-awesomeness-your-challenge/> :under :read .
+<https://diegocaleiro.com/2013/07/08/first-challenge-stop-learning-start-doing/> :under :read .
+<https://docs.python.org/3/reference/datamodel.html> :under :read .
+<http://searchwarp.com/swa267806.htm ('How Do You Create A Relationship When
+You've Been Hurt So Many Times Before?')> :under :read .
+<https://github.com/jlevy/the-art-of-command-line> :under :read .
+<https://github.com/prakhar1989/awesome-courses> :under :read .
+<https://github.com/sindresorhus/awesome> :under :read .
+<http://shoup.net/ntb/ntb-v2.pdf - computational introduction to number theory & algebra> :under :read .
+<https://iamaaditya.github.io/2016/04/visual_question_answering_demo_notebook> :under :read .
+<https://intelligence.org/2016/04/21/two-new-papers-uniform/> :under :read .
+<https://nthlook.wordpress.com/2015/12/31/self-improve-in-10-years/> :under :read .
+<https://sploitfun.wordpress.com/2015/02/10/understanding-glibc-malloc/> :under :read .
+<https://web.archive.org/web/20140618083128/http://www.reddit.com/r/LessWrong/comments/17y819/lw_uncensored_thread/c8blnyz?context=1> :under :read .
+<https://web.archive.org/web/20140626092902/http://www.reddit.com/r/HPMOR/comments/28yjbx/some_strangely_vehement_criticism_of_hpmor_on_a/cifxmzb> :under :read .
+<https://wiki.lesswrong.com/wiki/Creating_Friendly_AI> :under :read .
+<https://wiki.lesswrong.com/wiki/Free_will_(solution)> :under :read .
+<https://wiki.lesswrong.com/wiki/Highly_Advanced_Epistemology_101_for_Beginners> :under :read .
+<https://wiki.lesswrong.com/wiki/No-Nonsense_Metaethics> :under :read .
+<https://wiki.lesswrong.com/wiki/The_Craft_and_the_Community> :under :read .
+<https://wiki.lesswrong.com/wiki/The_Hanson-Yudkowsky_AI-Foom_Debate> :under :read .
+<https://wiki.lesswrong.com/wiki/The_Science_of_Winning_at_Life> :under :read .
+<https://www.fightaging.org/> :under :read .
+<https://www.reddit.com/r/LessWrong/comments/17y819/lw_uncensored_thread/> :under :read .
+<https://www.reddit.com/r/LessWrong/comments/17y819/lw_uncensored_thread/c8biu0v> :under :read .
+<https://www.technologyreview.com/s/542371/a-tale-of-do-it-yourself-gene-therapy/> :under :read .
+<https://www.twilio.com/blog/2016/02/patrick-mckenzie-on-salary-negotiation-job-hunting.html> :under :read .
+<http://theuncertainfuture.com/> :under :read .
+<http://tkipf.github.io/graph-convolutional-networks/> :under :read .
+<http://wiki.80000hours.org/index.php/AI_Safety_Research> :under :read .
+<http://www.anthropic-principle.com> :under :read .
+<http://www.anthropic-principle.com/preprints/cau/paradoxes.html> :under :read .
+<http://www.effective-altruism.com/ea/vo/expected_value_estimates_you_can_maybe_take/> :under :read .
+<http://www.existential-risk.org/faq.html> :under :read .
+<http://www.givewell.org/labs/causes/ai-risk> :under :read .
+<http://www.hexahedria.com/2015/08/03/composing-music-with-recurrent-neural-networks/> :under :read .
+<http://www.ribbonfarm.com/2012/11/27/patterns-of-refactored-agency/> :under :read .
+<http://www.sens.org/research/introduction-to-sens-research> :under :read .
+<http://www.skeptictank.org/hs/vanish.htm> :under :read .
+<http://www.sl4.org/shocklevels.html> :under :read .
+<https://docs.google.com/document/d/1B6KjyzeW_HpFi9GSgcLON2p9KcA-MqrrjEbFsuUqY00/edit#heading=h.dc8oimokjfao> :under :read ;
+	rdfs:label "AI Safety Syllabus" .
+("Amazon Dynamo whitepaper") :under :read .
+("Book of life") :under :read .
+("check out Clever Eating (effects of removing meat)") :under :read .
+<http://cryomedical.blogspot.com> :under :read ;
+	rdfs:label "cryonics criticism" .
+<http://lesswrong.com/lw/jne/a_fervent_defense_of_frequentist_statistics/> :under :read ;
+	rdfs:label "defense of frequentist statistics" .
+("diplomku Martina Balka - hledani erdos-szekeres pres SAT") :under :read .
+("dunning-kruger effect paper") :under :read .
+("Hegel (world-spirit)") :under :read .
+("How robust is the wisdom of crowds (paper)") :under :read .
+("LessWrong: Fun Theory sequence") :under :read .
+("LessWrong - How to Be Happy") :under :read .
+("LessWrong: Immortality: A Practical Guide") :under :read .
+("LessWrong: Lifestyle Interventions for Longevity") :under :read .
+("mailing lists: extropians, SL4") :under :read .
+("Nick Bostrom: The Future of Human Evolution") :under :read .
+("plant-based diet benefits (Dr. Michael Greger, nutritionfacts.org -- nepusobi uplne verohodne, Google talk") :under :read .
+<http://ddili.org/ders/d.en/index.html> :under :read ;
+	rdfs:label "Programming in D-lang" .
+("Rational actors or rational fools: implications of the affect heuristic for behavioral economics") :under :read .
+<https://docs.google.com/document/d/1BJzvwDTEzgv7YC100SA1LuqyDzTf1Gqe4QaOz-460gA/edit#> :under :read ;
+	rdfs:label "List of AI safety papers" .
+("study free will & determinism") :under :read .
+("The Argument for the Unreality of Time") :under :read .
+("The Transhumanist Declaration") :under :read .
+("Tony Hoare: communicating sequential processes") :under :read .
+("Transhumanism as Simplified Humanism") :under :read .
+("Whole Brain Emulation: A Roadmap") :under :read .
