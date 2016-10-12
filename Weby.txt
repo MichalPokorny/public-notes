@@ -1,9 +1,0 @@
-jQuery icon list: http://www.petefreitag.com/cheatsheets/jqueryui-icons/
-HTML5 FS API -> filter.js
-web workers; postMesssage
-
-modx CMS
-
-ThemeForest
-
-Stephen ma blog

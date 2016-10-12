@@ -1,0 +1,37 @@
+@prefix : <http://rny.cz/knowledge#> .
+
+:games rdfs:label "Games to play" ;
+	:under :fun .
+
+("Dishonored") :under :games .
+("World in Conflict") :under :games .
+("Bioshock Infinite") :under :games .
+("SCP Containment Breach") :under :games .
+("Gothic 2") :under :games .
+("The Light") :under :games .
+("COD Ghosts") :under :games .
+("Diablo") :under :games .
+("Survarium") :under :games .
+("starcraft 1, 2") :under :games .
+("system shock") :under :games .
+("half life 2: dystopia") :under :games .
+("beneath a steel sky") :under :games .
+("vietcong 2, far cry") :under :games .
+("FEAR 2 (nefunguje pod winem)") :under :games .
+("FEAR 3") :under :games .
+("xcom: enemy unknown") :under :games .
+("the witcher: wild hunt") :under :games .
+("far cry 4") :under :games .
+("bioshock triple pack") :under :games .
+("wolfenstein the new order") :under :games .
+("planescape torment") :under :games .
+("Stick of Truth") :under :games .
+("XCOM 2") :under :games ;
+	:from :petr-hudecek .
+("Mass Effect: Andromeda") :under :games ;
+	:from :petr-hudecek ;
+	:note "odlozeno na 2017" .
+("crusader kings 2") :under :games ;
+	:from :jacob-pekarek .
+("Undertale") :under :games .
+("Dark Souls") :under :games .

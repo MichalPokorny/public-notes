@@ -1,3 +1,15 @@
+:mff rdfs:label "Studium na MFF" ;
+	:note "kazdy rok zadost o ubytovaci stipendium" .
+	:note "kniharstvi na diplomku: http://www.kniharstvi-cap.cz/" .
+
+:statnice :under :mff ;
+	rdfs:label "Mgr statnice" .
+	:note "1. Reprezentace znalosti
+		2. Reseni uloh a planovani
+		3. Ze strojoveho uceni:
+		a) Strojove uceni a jeho aplikace
+		b) Neuronove site (chtelo by ATNS, EVR)" .
+
 :mff-subjects rdfs:label "MFF - zajimave predmety" .
 
 :NAIL019 rdfs:label "Zakladni seminar k pocitacove simulaci cinnosti bunek" :under :mff-subjects .
