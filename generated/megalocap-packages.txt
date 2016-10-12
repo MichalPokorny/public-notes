@@ -241,6 +241,7 @@ postgresql
 powertop
 procmail
 procps-ng
+protege
 psmisc
 pulseaudio
 pulseaudio-alsa
