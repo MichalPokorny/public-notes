@@ -10,7 +10,7 @@
 	:note "{{#FieldName}} ... {{/FieldName}}: shown only if FieldName is non-empty" ;
 	:note "{{^FieldName}} ... {{/...}} : only if FieldName empty" ;
 	:note "{{hint:MyField}}" ;
-	:note "special fields: {{Tags}}, {{Type}}, {{Deck}}, {{Subdeck}}, {{Card}}, {{FrontSide}}" .
+	:note "special fields: {{Tags}}, {{Type}}, {{Deck}}, {{Subdeck}}, {{Card}}, {{FrontSide}}" ;
 	:note """
 	tags
 

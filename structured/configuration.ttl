@@ -29,199 +29,112 @@ Generic mapping!!! (musim testovat, ze funguje dobre)
 	TODO: check spravnosti (ze dokazu vsechno spustit)
 """ .
 
+:megalocap :note """
+	MAC: 3C:97:0E:C1:07:59
+	/root ma jine dotfily - specialne napriklad nema xosdutil reference a vim bundly
+		TODO: udelat z toho jinou variantu v gitu?
+	Log:
+		- installed powertop, xf86-video-intel, autoconf, automake
+		- enabled atd, cronie
+		- zkopirovano .mozilla
+		- syslog-ng
+		- sudoers
+		- lid no suspend
+		- x11: nolisten tcp
+		- updatedb.conf pruning
+		- enable smartd (+warning)
+		- mergnut postfix, aktivovan smartd
+		- add prvak to wireshark
+		- install fakeroot (abych mohl buildovat yaourt baliky pod rootem)
+		- bison (abych mel yacc)
+		- enable multilib for wine
+		- xvidcap (+rarian)
+	""" ;
+	:note "Dokovaci stanice: potreba klicem pohnout kousek na druhou stranu pred za/odmykanim" ;
+	:note """
+	LED diody:
+		/proc/acpi/ibm/led
+
+		echo "0 off/on/blink"
+		0: dioda na zapinacim tlacitku
+		7: mesicek na zadni strane
+		12: ???
+	""" ;
+	:note "ebay: 40 usd za 9clankovou baterii, 80 usd za pridavnou 6-clankovou" ;
+	:note "vypnuti touchpadu: synclient TouchpadOff=1 (nebo 0)" .
+
 :dragon :note """
-	pacman -Syu	# neproslo hned
-	pacman -Syu --ignore bash,filesystem
-	pacman -S bash
-	pacman -Su (filesystem; presunul jsem soubory v /sbin)
-
-	NEPROSLO: pak to nebootuje.
-
-	pacman -Syu --ignore bash,filesystem
 	systemctl enable sshd
 	reboot
-
 	-----
-
 	pacman -S postfix
 	(chybi libsasl2)
 	pacman -S libsasl
-
 	reboot
-
 	(ssh funguje)
 	(nakopceni souboru)
-
 	useradd prvak
 	mkdir ~prvak
 	chmod -R 755 ~prvak; chown prvak:prvak ~prvak -R
-
 	pacman -S mc vim htop mlocate
-
-	postfix: update myhostname, mydomain, myorigin, inet_interfaces, mydestination, home_mailbox, 
+	postfix: update myhostname, mydomain, myorigin, inet_interfaces, mydestination, home_mailbox,
 		(sendmail path), velky chunk na konci, master.cf port;
-
 	virtual; postmap virtual: porad tomu vadi libsasl2.so.2!!!
-
 	updatedb
-
 	pacman -Sy
 	pacman -Su postfix --ignore bash,filesystem
-
 	(reinstall postfix)
-
-	(nejde to :( )
-	pacman -Syu --ignore bash,filesystem
-
-	mv sbin old-sbin
-	pacman -S bash
-	pacman -Su filesystem
-
-	IT WORKS :)
-
 	============================================
-
 	systemctl enable postfix
 	pacman -S dovecot
-
 	systemctl enable dovecot
-
-	postmap virtual
-
 	(aliases)
-
 	postalias aliases
-
 	postmap virtual
-
 	systemctl start postfix dovecot (fail): open directory defer: permission denied
 	(otoceni instalace postfixu)
-
 	(presunuti pacsave zpatky - virtual, aliases)
-
 	systemctl start postfix: OK
-
 	systemctl enable syslog-ng
-
 	(chybi SSL certifikat - kopiruji vcetne klicu pro dovecot a postfix)
-
 	(copy dovecot config)
-
 	systemctl restart postfix dovecot
-
 	reboot
-
 	ssh OK.
-
 	(kopiruju vimrc, odstranuju pathogen referenci, syntastic referenci)
-
 	(chybi dovecot certifikat a je chyba v configu)
-
 	(OK, dovecot startuje)
-
 	(auth failed - /etc/pam.d/dovecot missing)
-
 	(restart dovecot)
-
 	(heslo pro prvaka)
-
 	OK :)
-
 	TODO: naucit zalohovat pravidelne vlastni etccka
-
 	(nakopiruju bashrc, bash_profile)
-
-	(instaluju ruby)
-
 	OK
-
 	nakopirovavam puvodni obsah http
-
-
 	ssh-copy-id prvak@rny.cz
-
 	TODO: zakazat cteni secrets ostatnim na serveru!
-
-	kopirovani obsahu homu - .ssh hlavne, bin (btckit); secrets; konfiguraky
-
-	presunuti ~/git
-
+	kopirovani obsahu homu - .ssh hlavne, secrets; konfiguraky
 	pacman -S ack
-
-	useradd b4f-crm; mkdir ~b4f-crm; chmod 755 -R ~b4f-crm; chown -R b4f-crm:b4f-crm ~b4f-crm
-
-	kopirovani .ssh v b4f-crm; kopirovani gitu CRMka
-
 	rny.cz: it works.
-
-	cp .btckit, .gnupg, Maildir (56M)
-
-	git: tata tam stejne nema pristup.
-
-	pacman -S subversion
-
-	cp conf.d/svnserve (nic - je to stejne...)
-
-	systemctl enable svnserve; systemctl start svnserve
-
-	gem install passenger
-
-	pacman -S htop git mariadb
-
-	useradd rails, mkdir /srv/rails/...
-
+	cp .gnupg, Maildir (56M)
+	pacman -S htop git
 	allow key
-
-	mysql_secure_installation
-
-	TODO: mysql zalohovani
-
-	systemctl start mysqld; systemctl enable mysqld
-
 	pacman -S strace
-
 	==============
-
 	VVV ??????
-
-	MegaCli
-	lsiutil
-	mpt-status
-	tw_cli
-
+		MegaCli
+		lsiutil
+		mpt-status
+		tw_cli
 	=====
-
 	pokus o apache
-
 	pacman -S apache
-	passenge-install-apache2-module
-
 	systemctl enable httpd
-
-	pacman -S v8 nodejs sudo
-
-	Vytvoril jsem v ~/backup/skripty/backup-mysql na tohle Ruby skript.
-	Pridam uzivatele pro mysql:
-
-		GRANT LOCK TABLES, SELECT ON *.* TO backup@localhost IDENTIFIED BY ...;
-
-	pacman -S python2-pyinotify fail2ban
-	aktivace (provedu to i na rincewindu); startovani
-
+	pacman -S fail2ban
 	zalozeni uzivatele pp, symlink do ordinace, pridani prav zapisu
-
-	groupadd ordinace
-	gpasswd -a rails ordinace
-	gpasswd -a pp ordinace
-
-	chgrp -R ordinace /srv/rails/ordinace
-	chmod -R g+rwx /srv/rails/ordinace
-
-	create group ordinace
-
 	motd, hostname "dragon"
-
-	LAMP: 
+	LAMP:
 		pacman -S php php-apache
 
 		ServerSignature Off
@@ -238,30 +151,13 @@ Generic mapping!!! (musim testovat, ze funguje dobre)
 
 	php.ini:
 		date.timezone = Europe/Prague
-
-		extension=exif.so
 		extension=ftp.so
 		extension=gd.so
 		extension=iconv.so
-		extension=mcrypt.so
-		extension=mysqli.so
-		extension=mysql.so
 		extension=openssl.so
-		extension=pdo_mysql.so
-		extension=soap.so
-		extension=xmlrpc.so
-		extension=xsl.so
 		extension=zip.so
 
-		pacman -S php-mcrypt php-sqlite php-gd
-
 	Virtualni host work.
-
-		PassengerPreStart http://orldecin.cz
-		PassengerPreStart http://kolej.anek.cz
-
-	my.cnf:
-		uncomment skip-networking
 
 	pacman -S vsftpd
 	systemctl enable vsftpd
@@ -271,13 +167,6 @@ Generic mapping!!! (musim testovat, ze funguje dobre)
 		local_enable=YES
 		write_enable=YES
 		local_umask=022
-
-	chown -R prvak:http work
-	chmod -R 770 work
-
-	(vytvoreni ios-medical databaze a uzivatele)
-		create database ios_medical_db;
-		grant all privileges on ios_medical_db.* to ios_medical identified by "M3Dical_271";
 
 	/etc/ssh/sshd_config: zmena LogLevel INFO na LogLevel VERBOSE aby fungoval fail2ban
 
@@ -320,7 +209,7 @@ Generic mapping!!! (musim testovat, ze funguje dobre)
 	-- fail2ban si stezuje v logu na spatnou syntaxi iptables --
 	-- zmenen defaultni jail aby to fungovalo --
 
-	apache: vhost rny.cz dany jako default, pridan vhost podnikani.rny.cz (url rewrite na http://podnikani.tchk.cz)
+	apache: vhost rny.cz dany jako default
 
 	systemctl enable ntpd
 
@@ -357,8 +246,8 @@ Generic mapping!!! (musim testovat, ze funguje dobre)
 
 		Jestli to tady nabootuje, budu pokracovat.
 		4)
-			pacman -S bc bind cronie dovecot elinks fail2ban git grub hddtemp htop iputils mc mutt cfdisk php-apache postfix rsync ruby \
-				screen smartmontools strace syslog-ng systemd-sysvcompat uptimed v8 vim vsftpd apache
+			pacman -S elinks hddtemp htop iputils postfix rsync \
+				screen strace syslog-ng systemd-sysvcompat uptimed v8 vim 
 
 			useradd prvak
 			passwd prvak
@@ -366,8 +255,6 @@ Generic mapping!!! (musim testovat, ze funguje dobre)
 
 		5)	zahajit restoraci z FTP -- nakopirovat nekam do vhodneho mista a soubor po souboru narovnavat
 		6) Postfix, Dovecot, peclive otestovat ze to funguje vcetne SSL
-
-	- vituv stary web ('web vp')
 
 		1) 00:03: spustena reinstalace serveru
 		2) 00:21: dorazil mail s heslem
@@ -482,14 +369,104 @@ Generic mapping!!! (musim testovat, ze funguje dobre)
 
 		DALE BUDE POTREBA:
 			- tatuv uzivatel a symlink do ordinace
-
 	===
-
-	pacman -S ack
 	zkopirovani srv/http a zmervoani konfigurace
 
 	odebrat: - MIMEMagicFile
 	MPM: prefork, ne event
-
 	===> mam uz funkcni ordinaci
+""" ;
+	:note "TODO: Shorten the above description." .
+
+:megalocap :note """
+Asi nejde vubec rekalibrovat baterka (v BIOSu to neni)
+
+TEST SYSTEMU:
+	- SMTP rny.cz, rny.cz:5257
+	- HTTP rny.cz, work.rny.cz, poko.rny.cz, orldecin.cz, crm.b4f.cz
+
+Server: zaply syslog-ng v systemd, abych mel logy z postfixu a tak
+
+test-server kazdou hodinu
+kazdych 6 hodin net-worth-keeper
+kazdych 5 minut se zkontroluje, jestli uz 5 minut nebezi locknuty screensaver, a provede se pokus o unmount
+
+ntpd
+
+win-alt-h: spust htop
+
+/usr/lib/systemd/system-sleep: skript co se pusti pri suspendu -- pokusi se odmontovat crypto a zamkne obrazovku
+/etc/systemd/system/powertop-optimize.service: powertop --auto-tune
+""" .
+
+:raspberry :note """
+	Nainstalovany software:
+		dillo (chromium je uplne nepouzitelne, rekonq je taky pomaly)
+			alternativy: dwb, epiphany, arora (firefox neni v repech)
+
+	/etc/X11/xdm/Xservers: -nolisten tcp
+
+	NTP: chce /var/tmp;
+""" .
+
+:vakarian :note """
+	Heslo ulozeno v crypto/hesla.
+
+	Je na nem speech synthesis:
+		festival + english, us
+		espeak
+			Test Espeak with: English female voice, emphasis on capitals (-k), speaking slowly (-s) using direct text:-
+
+			espeak -ven+f3 -k5 -s150 "I've just picked up a fault in the AE35 unit"
+
+		echo "Hello World" | festival --tts
+
+		espeak je mnohem modernejsi!
+			TODO: umi i cestinu...
+""" .
+
+("mail system") :note """
+	**Na serveru**
+		dovecot
+		postfix
+
+			- bezi na alternativnim SMTP portu (5257)
+				- BACHA NA TO, ABYCH NECHAL BEZET I TEN DEFAULTNI! (25)
+
+			smtpd_tls_security_level = encrypt
+			+ nastaveni certifikatu a klice
+
+			delay_warning_time = 30m (!)
+
+			Dovecot poskytuje Postfixu auth backend.
+
+		POZOR! Dovecot version mismatch zpusobeny nerestartem po upgradu
+		potichu zabije prichod mailu! EXPLICITNE KONTROLOVAT!
+
+	**Na lokalu**
+		postfix
+			lokalni dorucovani:
+				home_mailbox = .maildir/
+			smtp_sasl_auth_enable=yes
+			smtp_sasl_password_maps=hash:/etc/postix/saslpasswd
+			smtp_always_send_ehlo=yes # PROC?
+			smtp_sasl_security_options= # TODO: tohle je nebezpecne!
+			smtp_generic_maps=hash:/etc/postfix/generic
+			smtp_tls_security_level = encrypt
+
+			generic:
+				@tezitko.localdomain pok@rny.cz
+				@localhost.localdomain pok@rny.cz
+
+		symlink do crypta - saslpass, saslpass.db!
+
+	BACHA: MUSIM MIT TAKY DOSTATECNE VYSOKY LIMIT NA VELIKOST ZPRAV
+
+	smtpd_client_restrictions = permit_mynetworks,
+		permit_sasl_authenticated,
+		reject_unauth_destination,
+		reject_rbl_client zen.spamhaus.org,
+		reject_rbl_client bl.spamcop.net,
+		reject_rbl_client cbl.abuseat.org,
+		permit
 """ .

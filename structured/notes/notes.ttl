@@ -1,4 +1,8 @@
-yt:UHzwqf_JkrA&t=860s :note """
+@prefix yt: <https://www.youtube.com/watch?v=> .
+@prefix wiki: <https://en.wikipedia.org/wiki/> .
+
+yt:UHzwqf_JkrA :note """
+	(860s)
 	typicke kure koupene v supermarketu je stare 42 dni (selekce na rychly rust)
 	tou dobou jeste nemaji plne vyvinutou kostru
 	typical turkey has such large breasts that they're physically unable to mate --> artificial insemination
@@ -9,7 +13,7 @@ wiki:Digital_immortality :note """
 """ .
 
 <https://vimeo.com/9270320>
-	:title "Actual research on SW development efficiency" .
+	:title "Actual research on SW development efficiency" ;
 	:note """
 		work of Lutz Prechelt -- *actual* research on SW development with studies and experiments and stats and stuff
 	""" .

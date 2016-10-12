@@ -238,7 +238,6 @@
 :pipelight :installed-on :megalocap .
 :ponymix :installed-on :megalocap .
 :postfix :installed-on :megalocap .
-:postgresql :installed-on :megalocap .
 :powertop :installed-on :megalocap .
 :procmail :installed-on :megalocap .
 :procps-ng :installed-on :megalocap .

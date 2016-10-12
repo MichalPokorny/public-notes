@@ -8,4 +8,4 @@ cat structured/**/*.ttl > merged.ttl
 rm -rf /tmp/fusekidb
 mkdir -p /tmp/fusekidb
 $JENA_DIR/bin/tdbloader2 --loc /tmp/fusekidb merged.ttl
-rm merged.ttl
+# rm merged.ttl
