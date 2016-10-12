@@ -1,29 +1,10 @@
-<h2>Misc</h2>
-* Angular (egghead.io)
-* client-side JS (Backbone, ...)
-* JS/jQuery frontends
-* Tesnopis/zkratky na psani
-* COBOL?
-* Objectivism
-* Empiricism (Aristoteles)
-* Naucit se hrat harmonicke na kytaru
-
 <h2>CS</h2>
 * Kombagra 2:
 	* Turanova veta
 	* Veta o #E v grafu bez uplneho minoru
 	* Erdos-Ko-Rado veta (z Diestel - Graph Theory)
-* Zpusob mapovani virt. pameti
-* Some perfect hashing algorithm (CHD?)
 
-* Sapolsky - evolutionary biology
-
-non-principal ultrafilter => hyperreals
-nonstandard analysis
-
-probability interpretations
 C# 6
-https://en.wikipedia.org/wiki/Autoregressive_integrated_moving_average
 
 "ABAP"?; chef; flume
 data-oriented design
@@ -37,19 +18,10 @@ log-normal distribution
 naucit se full windsor knot
 MESI synchronizace (MOESI synchronizace) cache
 
-ethereum
-
-nastudovat gender stuff
 
 Hoeffdingova nerovnost
 
-vyzkumna metodologie v socialnich vedach (experiment, kvazi-experiment,
-	reliabilita, validita, grounded theory, Cronbachova alfa, statisticke
-	testy, ...)
-
 ekonomika
-
-https://en.wikipedia.org/wiki/Probably_approximately_correct_learning
 
 pochopit python metaclasses
 
@@ -60,8 +32,6 @@ https://github.com/jlevy/the-art-of-command-line
 learn: non-cognitivism, error theory, subjectivism, substantive realism, constructivism
 
 binarizace neuronovych siti
-
-LSTM
 
 koncept "power law" (distribuce)
 

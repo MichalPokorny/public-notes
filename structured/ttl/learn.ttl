@@ -2,8 +2,43 @@
 
 :learn rdfs:label "Learn" .
 
-:learn-lang rdfs:label "Learn - Programming language"
-:learn-lang :under :learn
+("cognitive science") :under :learn .
+("Schelling's Model of Segregation") :under :learn .
+("Coursera course - FP in Scala") :under :learn .
+("Android apps in Scala") :under :learn .
+("Physics") :under :learn .
+("Timeless decision theory") :under :learn .
+<https://www.coursera.org/learn/learning-how-to-learn> :under :learn ;
+	rdfs:label "Learning How to Learn (UC San Diego on Coursera)" ;
+	:note "+ Paulie" .
+("Ironing (properly)") :under :learn .
+("Neural nets with stacks/tapes") :under :learn .
+("Playing Go") :under :learn .
+("Prospect theory (Kahneman & Tversky)") :under :learn .
+("Service Worker API") :under :learn .
+("podivat se na skorovaci systemy na Go") :under :learn .
+("Ricardo's law of comparative advantage") :under :learn .
+("UTF-8 encoding (memorize?)") :under :learn .
+("Docker") :under :learn .
+("Gantt charts") :under :learn .
+("3D modeling in Blender") :under :learn .
+("taboo game") :under :learn .
+("wiki: vertical integration (supply chain)") :under :learn .
+("Tesnopis/zkratky na psani") :under :learn .
+("Objectivism") :under :learn .
+("Empiricism (Aristoteles)") :under :learn .
+("Naucit se hrat harmonicke na kytaru") :under :learn .
+("Zpusob mapovani virt. pameti") :under :learn .
+("Some perfect hashing algorithm (CHD?)") :under :learn .
+("Sapolsky - evolutionary biology") :under :learn .
+vyzkumna metodologie v socialnich vedach (experiment, kvazi-experiment,
+	reliabilita, validita, grounded theory, Cronbachova alfa, statisticke
+	testy, ...)
+ethereum
+nastudovat gender stuff
+
+:learn-lang rdfs:label "Learn - Programming language" ;
+	:under :learn .
 ("Objective-C") :under :learn-lang .
 ("Node.js") :under :learn-lang .
 ("Swift") :under :learn-lang .
@@ -27,7 +62,8 @@
 ("Groovy") :under :learn-lang .
 ("Grails") :under :learn-lang .
 
-:learn-memo rdfs:learn "Learn - Memorize"
+:learn-memo rdfs:label "Learn - Memorize" ;
+	:under :learn .
 ("Kegan stages of moral development") :under :learn-memo .
 ("base64 encoding") :under :learn-memo .
 ("speed of light") :under :learn-memo .
@@ -42,3 +78,103 @@
 ("ASCII table organization") :under :learn-memo .
 ("chemical elements") :under :learn-memo .
 ("Greek alphabet") :under :learn-memo .
+
+:learn-cs rdfs:label "Learn - CS" ;
+	:under :learn .
+("GDB reverse debugging") :under :learn-cs .
+("Cache coherence algorithms") :under :learn-cs .
+("tar file format") :under :learn-cs .
+("Cross-entropy cost function") :under :learn-cs .
+("Unreal Development Kit") :under :learn-cs .
+("WebSockets") :under :learn-cs .
+("Java: Hibernate") :under :learn-cs .
+("Ruby refinements") :under :learn-cs .
+("C++ prev/next_permutation (STL)") :under :learn-cs .
+("Angular (egghead.io)") :under :learn-cs .
+("client-side JS (Backbone, ...)") :under :learn-cs .
+("JS/jQuery frontends") :under :learn-cs .
+("COBOL?") :under :learn-cs .
+
+:learn-algorithms rdfs:label "Learn - Algorithms" ;
+	:under :learn-cs .
+("Ukkonen's construction of suffix trees (string.pdf in ~/study/done/ads)") :under :learn-cs .
+("Context adaptive arithmetic coding") :under :learn-cs .
+("Arithmetic coding") :under :learn-cs .
+("Monte Carlo tree search") :under :learn-cs .
+("O(N) in-place merging") :under :learn-cs .
+("AKS primality test") :under :learn-cs .
+("O(N) planarity testing") :under :learn-cs .
+("Hindley/Milner type inference algorithm") :under :learn-cs .
+("Burrougs-Wheeler-transform (setrid vsechny rotace retezce, vrat posledni sloupec)") :under :learn-algorithms .
+("Bentley-saxe trick (static data structure dynamization)") :under :learn-algorithms .
+("Lamport hash schema (quantum-safe)") :under :learn-algorithms .
+("multilinear jigsaw puzzles") :under :learn-algorithms .
+("locality-sensitive hashing") :under :learn-algorithms .
+("AdaGrad, AdaDelta") :under :learn-algorithms .
+
+:learn-ds rdfs:label "Learn - Data structures" ;
+	:under :learn-cs .
+("Heavy-Light decomposition") :under :learn-ds .
+("Merkle tree") :under :learn-ds .
+("Gap buffer") :under :learn-ds .
+("R-tree") :under :learn-ds .
+("Fibonacci heap") :under :learn-ds .
+("Persistent data structures") :under :learn-ds .
+("Skip lists") :under :learn-ds .
+("Red-black trees") :under :learn-ds .
+("Splay trees") :under :learn-ds .
+
+:learn-math rdfs:label "Learn - Math" ; :under :learn .
+("Markov decision processes") :under :learn-math .
+("Central limit theorem and its proof") :under :learn-math .
+("Definition of exp(x)") :under :learn-math .
+("Von Neumann-Morgenstern theorem and its proof") :under :learn-math .
+("Hyperreal numbers") :under :learn-math .
+("Coefficient of determination") :under :learn-math .
+("Category theory (ureddit)") :under :learn-math .
+("Group representations (ureddit)") :under :learn-math .
+("non-principal ultrafilter => hyperreals") :under :learn-math .
+("nonstandard analysis") :under :learn-math .
+probability interpretations
+
+:learn-ai rdfs:label "Learn - AI" ; :under :learn-cs .
+("probabilistic approaches to ML") :under :learn-ai .
+("Kalman filtering") :under :learn-ai .
+("semantic networks") :under :learn-ai .
+("description logics") :under :learn-ai .
+("graph theory") :under :learn-ai .
+("hypergraphs") :under :learn-ai .
+("factor graphs") :under :learn-ai .
+("cognitive architectures") :under :learn-ai .
+("philosophy of the mind") :under :learn-ai .
+("solomonoff induction") :under :learn-ai .
+("long short-term memory units") :under :learn-ai .
+("restricted boltzmann machine") :under :learn-ai .
+("deep belief network") :under :learn-ai .
+("TensorFlow") :under :learn-ai .
+("Restricted Boltzmann machine learning") :under :learn-cs .
+<https://en.wikipedia.org/wiki/Autoregressive_integrated_moving_average> :under :learn-ai .
+<https://en.wikipedia.org/wiki/Probably_approximately_correct_learning> :under :learn-ai .
+
+:learn-phil rdfs:label "Learn - Philosophy" ; :under :learn .
+("hyperreality") :under :learn-phil .
+("allegory of the cave") :under :learn-phil .
+("authenticity (philosophy)") :under :learn-phil .
+("consensus reality") :under :learn-phil .
+<https://en.wikipedia.org/wiki/Marx's_theory_of_alienation> :under :learn-phil .
+("reality shift (plane)") :under :learn-phil .
+("negative utilitarism") :under :learn-phil .
+("humean vs. kantian AI architecture") :under :learn-phil ;
+	:from "The Singularity: A Philosophical Analysis" .
+("Ethics: perfectionism, emotivism, contractarianism") :under :learn-phil .
+("Ethics: pasadena paradox, heaven and hell problem") :under :learn-phil .
+
+:learn-webdev rdfs:label "Learn -WebDev" ; :under :learn-cs .
+("CSS3 transitions") :under :learn-webdev .
+("CSS3 calc()") :under :learn-webdev .
+("CSS3 flex") :under :learn-webdev .
+("CSS3 attr()") :under :learn-webdev .
+("CSS3 datalist") :under :learn-webdev .
+("@font-face in CSS") :under :learn-webdev .
+("merb framework (Ruby)") :under :learn-webdev .
+("Initializr") :under :learn-webdev .
