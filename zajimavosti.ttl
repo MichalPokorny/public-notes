@@ -21,6 +21,8 @@
 	rdfs:label "Paperwork - scans it" .
 <https://github.com/ssloy/tinyrenderer/wiki> :under :zajimavosti ;
 	rdfs:label "series of articles about how OpenGL works" .
+<https://github.com/philips/pifs> :under :zajimavosti .
+<https://github.com/soulwire/WTFEngine> :under :zajimavosti .
 <http://pasky.or.cz/anime/> :under :zajimavosti ;
 	:by :pasky .
 
@@ -202,6 +204,16 @@ wiki:Welsh_Dragon :under :zajimavosti .
 wiki:Weltschmerz :under :zajimavosti .
 <http://en.wikipedia.org/wiki/World_Values_Survey#Catalogue_of_Findings> :under :zajimavosti .
 <http://en.wikipedia.org/wiki/Beck's_cognitive_triad> :under :zajimavosti .
+wiki:Gang_Bing :under :zajimavosti .
+wiki:Paracosm :under :zajimavosti .
+wiki:Asch_conformity_experiments :under :zajimavosti .
+wiki:ISO_9 :under :zajimavosti ;
+	:note "transliterace rustiny" .
+wiki:Transactional_analysis :under :zajimavosti .
+wiki:Script_Analysis :under :zajimavosti ;
+	:note "psychologie o 'scriptu'" .
+wiki:ISO_646 :under :zajimavosti ;
+	:note "hyperstare kodovani" .
 
 <https://github.com/AugurProject/argus> :under :zajimavosti ;
 	:under :augur-project ;
@@ -276,3 +288,4 @@ wiki:Modafinil :under :modafinil .
 konecne mnoho veci, co maji etickou hodnotu? je proveditelne jenom konecne
 mnozstvi vypoctu?") :under :zajimavosti ;
 	:from :bostrom .
+

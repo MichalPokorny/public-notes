@@ -114,6 +114,7 @@
 ("JS/jQuery frontends") :under :learn-cs .
 ("COBOL?") :under :learn-cs .
 ("pochopit python metaclasses") :under :learn-cs .
+("Python 3: private variables") :under :learn-cs .
 ("torch7") :under :learn-cs .
 ("GoogLeNet") :under :learn-cs .
 ("ABAP?; chef; flume") :under :learn-cs .

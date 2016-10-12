@@ -25,7 +25,3 @@ git filter-branch --index-filter 'git rm --cached --ignore-unmatch MujCitlivySou
 		pushNonFastForwards = false
 		statusHints = false
 		commitBeforeMerge = false
-
-	(aby nerval gitk)
-	[gui]
-		spellingdictionary = none

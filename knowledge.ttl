@@ -40,6 +40,54 @@
 <http://documentaryheaven.com> :under :sites .
 <http://asoftmurmur.com> :under :sites .
 <http://youarelistening.to> :under :sites .
+<http://timmurphy.org> :under :sites ;
+	:note "zalozit nejaky takovyhle blog" .
+<http://nltk.org/book/> :under :sites .
+<http://www.zazitek.info/main_web/home.php> :under :sites .
+<http://shityoucanafford.com/> :under :sites .
+<http://lifehacker.com/5916590/get-hired> :under :sites .
+<http://reportr.io> :under :sites .
+<http://sleepyti.me> :under :sites .
+<http://memrise.com> :under :sites .
+<http://cssdeck.com> :under :sites .
+<http://futureme.org> :under :sites .
+<http://hackdesign.org> :under :sites .
+<http://mldata.org> :under :sites .
+<http://musictheory.net> :under :sites .
+<http://myfridgefood.com> :under :sites .
+<http://vimcasts.org/episodes/archive> :under :sites .
+<http://iruler.net> :under :sites .
+<http://papercoin.org> :under :sites ;
+	rdfs:label "paper wallet generator" .
+<http://jsfuck.com> :under :sites ;
+	rdfs:label "JS v []()!+" .
+<http://lifelisted.com> :under :sites .
+<http://threewordphrase.com> :under :sites .
+<http://musictheory.net> :under :sites .
+<http://myfridgefood.com> :under :sites .
+<http://placeit.breezi.com> :under :sites .
+<http://writelatex.com> :under :sites .
+<http://youtell.com> :under :sites ;
+	:note "anonymni kritika" .
+<http://www.23andme.com> :under :sites ;
+	rdfs:label "analyza genomu" .
+<https://www.facebook.com/ShaoLanChineasy> :under :sites .
+<http://youarelisteningto.org> :under :sites ;
+	rdfs:label "ambient police scanner" .
+<http://coderwall.com> :under :sites .
+<http://costofwar.com> :under :sites .
+<http://agoodmovietowatch.com> :under :sites .
+<http://printablepaper.net> :under :sites ;
+	rdfs:label "sablony na papir" .
+<http://neave.com/television/> :under :sites ;
+	rdfs:label "TV without context" .
+<http://zbrb.shy.cz> :under :sites ;
+	rdfs:label "webcomix" .
+<http://coderedd.net> :under :sites ;
+	rdfs:label "reddit v kodu" .
+<http://news.sciencemag.org/biology/2013/11/dance-your-ph.d.-finalists-announced> :under :sites ;
+	rdfs:label "dance your phd" .
+("soundrown, rainymood") :under :sites .
 
 :perfect-memory rdfs:label "Perfect memory" ;
 	:note "TODO: Snazil se o to uz nekdo?" ;

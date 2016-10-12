@@ -111,7 +111,14 @@
 
 :vimperator :under :programs ;
 	rdfs:label "Vimperator" ;
-	:note ":dialog searchengines" .
+	:note ":dialog searchengines" ;
+	:note "[f / ]f; ;f" ;
+	:note "hinttimeout - ms po kterych se aktivuje neunikatni hint" ;
+	:note "vertical tabs" ;
+	:note "smazani seznamu stazeni: rm ~/.mozilla/firefox/*/downloads.sqlite" ;
+	:note "Firefox: Ctrl-DELETE: odstranit offending line" ;
+	:note "web inspector: F12" ;
+	:note ";I -- open hint image in new tab" .
 
 ("it's all text") :under :programs; :note "mozilla plugin" .
 ("pachyderm") :under :programs ; :purpose "open MapReduce" .
@@ -199,3 +206,13 @@ $ vagrant destroy" .
 	:note "\vspace{\stretch{1}}" ;
 	:note "\stretch{1} \stretch{2}: jako hfill/vfill, akorat se roztahuje pomerove" ;
 	:note "\dotfill, \hfill, \hrulefill" .
+
+("mplayer") :note "-af scaletempo: zrychlovani bez snizovani a zvysovani pitche" .
+("oh-my-zsh") :note "rails shortcuts: rc, rdb, rs" .
+("gdb") :note """
+TUI: Ctrl-A X, then repaint with Ctrl-L
+	Ctrl-X 1, Ctrl-X 2 (switch windows)
+	gdb has python
+	python prettyprinters
+""" .
+

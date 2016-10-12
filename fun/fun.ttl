@@ -25,6 +25,7 @@
 ("abstruse goose") :under :webcomics .
 ("marriedtothesea.com") :under :webcomics .
 ("http://www.prequeladventure.com/2014/05/3391/") :under :webcomics .
+("Perry Bible Fellowship") :under :webcomics .
 
 :comics rdfs:label "Comics/manga" ; :under :fun .
 ("snk: first unread 80") :under :comics .
