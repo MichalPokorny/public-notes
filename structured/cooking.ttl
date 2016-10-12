@@ -9,6 +9,7 @@
 	:note "spousta rostlinneho proteinu" .
 ("hummus") :under :ingredients.
 ("cervena repa") :under :ingredients.
+("arugula (rukola)") :under :ingredients .
 
 ("chicken wings + buttermilk") :under :cooking .
 ("gulas") :under :cooking ;

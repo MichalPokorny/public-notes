@@ -1,3 +1,7 @@
+@prefix : <http://rny.cz/knowledge#> .
+@prefix yt: <https://www.youtube.com/watch?v=> .
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#> .
+
 :life-extension rdfs:label "Life extension" .
 :sens :under :life-extension ;
 	rdfs:label "SENS (Strategies for Engineered Negligible Senescence)" ;
@@ -8,6 +12,15 @@
 ("If all heart disease and cancer could be cured, life expectancy would increase by merely 6-7 years.") :under :life-extension ;
 	:from <http://www.nickbostrom.com/ethics/values.html> .
 ("More than 2/3 of 150-160 000 daily deaths die by aging.") :under :life-extension .
+("stem cell treatments for parkinson's disease") :under :sens ;
+	:note "treatment within 10 years?" .
+("lysozomy na breakdown oxygenovaneho cholesterolu (7KC)") :under :sens .
+	:note "7-KC: arteroskleroza" .
+("students: read a lot, join SRF Education") :under :sens .
+("amyloid") :under :sens .
+
+yt:pL3DW6-xzLc
+	:note "Aubrey de Grey: 'give me large amounts of money'" .
 
 :cryonics rdfs:label "Cryonics" ;
 	:note "you only live twice" .

@@ -95,3 +95,4 @@ You've Been Hurt So Many Times Before?')> :under :read .
 ("Tony Hoare: communicating sequential processes") :under :read .
 ("Transhumanism as Simplified Humanism") :under :read .
 ("Whole Brain Emulation: A Roadmap") :under :read .
+("Rieger and Hans - How Time Preferences Differ") :under :read .

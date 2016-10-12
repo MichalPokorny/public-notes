@@ -57,3 +57,9 @@
 :zrychlene-uceni :note "word flash" ;
 	:note "filmy a titulky -- na jazyky" ;
 	:note "NLP anchoring" .
+
+("elementary s03e04") :note "something rational-ish" .
+
+("Derek Parfit") note "(Reasons and Persons)" ;
+	:note "derek parfit has few memories of his past and almost never thinks about it, a fact he attributes to an inability to form mental images" ;
+	:note "cool idea: 'monks memorized and chanted reasons and persons'" .

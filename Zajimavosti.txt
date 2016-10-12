@@ -5,7 +5,6 @@ apparently vitamin B2 (riboflavin) + spousta vody + kreatinin fools a urine test
 Narosan Orange
 
 reza aslan
-"curry on" konference
 sandboxed apps (gnome3)
 capital asset pricing model
 "look at callers for testing inspiration"
@@ -99,7 +98,6 @@ Lulu.com
 jobstart
 
 kdovolal.cz aplikace
-
 
 google/deepdream
 
@@ -239,10 +237,7 @@ guesstimate
 
 decision theory: all sane decision rules equivalent to bayes
 
-frequentist probability vs. bayesian probability
-bayesian vs. frequentist probability; bayesianism; degree of belief vs. coin toss
 qn for judging tradeoffs: "what kind of pain do i want?"
-elementary s03e04
 Verilog
 truth contest <- wtf?
 
@@ -256,7 +251,6 @@ comparative advantage: http://www.econlib.org/library/Topics/Details/comparative
 reinforcement learning: an introduction
 
 clearerthinking.org: calculator of value of your time
-arugula (rukola)
 
 
 naucit se predikce (x% by melo byt spravne, 100-x% spatne)
@@ -269,14 +263,11 @@ hackerrank
 
 Slate Star Codex: which developmental milestones are you missing
 
-
 Facebook Purity
 think about risk around bitcoin
 emergency food rations
 
 Krakonosova Bitcoinova karta (cerna; funguje jako debitni karta backovana bitcoinem)
-
-Elo ratings: obecne na libovolnou hru 2 hracu, ne jenom sachy
 
 dopamin
 Urbit system; Nock; Hoon
@@ -289,15 +280,11 @@ Leary: napsal manual k brani LSD
 
 slate star codex: meditations on moloch
 
-
 self-indication assumption
 
 artificial immune systems
 cortical columns
 
-Derek Parfit (Reasons and Persons)
-	derek parfit has few memories of his past and almost never thinks about it, a fact he attributes to an inability to form mental images
-	"monks memorized and chanted reasons and persons"
 Thomas Nagel
 Hanson's futarchy
 
@@ -339,73 +326,41 @@ new sincerity
 
 primaeval (petova hra)
 
-
-Luminosity Sequence: http://lesswrong.com/lw/1xh/living_luminously/
-	ureshiku naritai (precteno)
+ureshiku naritai (precteno)
 
 John Locke (philosopher)
-
-study Rieger and Hans - How Time Preferences Differ
 
 michael anissimov (of 'more right')
 
 "needs to be about 20% cooler" :)
 slatestarscratchpad tumblr
 
-
 thetopfives.net/dashboard
 deepart.io
-
-
 Cheeaun.life
-
 Code lyoko
-
 cognitivescience.cz
-
-
 /r/atheisthavens
-
-
 samharris.org
-
 cool: curl -4 http://wttr.in/
-
-
 
 tsuyoku naritai
 
-
 yudkowskeho racionalni education (ve 20. stoleti)
 	https://en.wikipedia.org/wiki/Daniel_Kahneman
-
 technique: crossing tribal signaling boundaries
-
 deep learning tutorial: https://www.youtube.com/watch?v=PlhFWT7vAEw&feature=youtu.be
-
 Stripe Atlas + YC Fellowships
-
 Vegetarianstvi:
 	https://theconversation.com/ordering-the-vegetarian-meal-theres-more-animal-blood-on-your-hands-4659
-
 co je zac "generic party music" z mlp s01e25?
-
 wiki: 'dolly zoom'
-
-https://www.youtube.com/watch?v=UHzwqf_JkrA&t=860s:
-	typicke kure koupene v supermarketu je stare 42 dni (selekce na rychly rust)
-	tou dobou jeste nemaji plne vyvinutou kostru
-	typical turkey has such large breasts that they're physically unable to mate --> artificial insemination
-
-https://en.wikipedia.org/wiki/Digital_immortality: už teď je realistické indexovat všechny konverzace co člověk kdy slyšel
 
 Pareto fellowship - work focuses: contrarian thinking, research methodology
 
 Peter Singer - The Most Good You Can Do (talk at Google): https://www.youtube.com/watch?v=NBWWX4ViD3E
 
 PlaNet: deep NN for determining location of photo
-
-Actual research on SW development efficiency: https://vimeo.com/9270320
 
 Sapolskeho lectures on evolutionary biology na YouTubu
 

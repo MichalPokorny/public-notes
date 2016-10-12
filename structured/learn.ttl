@@ -166,7 +166,9 @@
 ("Group representations (ureddit)") :under :learn-math .
 ("non-principal ultrafilter => hyperreals") :under :learn-math .
 ("nonstandard analysis") :under :learn-math .
-("probability interpretations") :under :learn-math .
+("probability interpretations") :under :learn-math ;
+	:note "frequentist probability vs. bayesian probability" ;
+	:note "bayesianism; degree of belief vs. coin toss" .
 ("Turanova veta") :under :learn-math ;
 	:from :kg2 .
 ("Veta o #E v grafu bez uplneho minoru") :under :learn-math ;
@@ -174,6 +176,8 @@
 ("Erdos-Ko-Rado veta (z Diestel - Graph Theory)") :under :learn-math ;
 	:from :kg2 .
 ("Hoeffdingova nerovnost") :under :learn-math .
+("Elo ratings") :under :learn-math ;
+	:note "obecne na libovolnou hru 2 hracu, ne jenom sachy" .
 
 :learn-ai rdfs:label "Learn - AI" ; :under :learn-cs .
 ("probabilistic approaches to ML") :under :learn-ai .

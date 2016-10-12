@@ -3,4 +3,17 @@
 :vakarian :note "HP 4530s" .
 :dragon :note "Server" .
 
-:megalocap :note "Test-server kazdou hodinu" .
+:megalocap :note "Test-server kazdou hodinu" ;
+	:note "Androidovy path (/opt/android-sdk/platform-tools)" ;
+	:note "enable cups demon" ;
+
+:generic-mapping :note """
+Generic mapping!!! (musim testovat, ze funguje dobre)
+	GENERIC na serveru i na notebooku!
+""" ;
+	:under :dragon ;
+	:under :megalocap .
+
+:megalocap :note "/etc/acpid: obsahuje eventy na lenovo dock a undock kvuli koleji".
+
+:configuration :note "available: prvak.name (6.4 eur na rok), prvak.info (7.4 eur na rok)" .

@@ -48,3 +48,4 @@
 ("MIRI - do a workshop") :under :akce .
 ("memics.cz: CS konference") :under :akce .
 ("strange loop conference") :under :akce .
+("'curry on' konference") :under :akce .
