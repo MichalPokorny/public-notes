@@ -29,3 +29,5 @@
 ("Opal") :under :try-proglang .
 ("CoffeeScript") :under :try-proglang .
 ("Elixir (Ruby for Erlang)") :under :try-proglang .
+
+("Beyond Meat: vegetarian fake chicken strips") :under :try .

@@ -52,4 +52,8 @@
 	:note "Praha: 2 ligy na 10k (Vitkov, Branik)" ;
 	:link <http://www.vaseliga.cz/cz/sporty/behani/> .
 
+:ai-safety :note "optimizing for a goal is an attractor, stable state" .
 
+:zrychlene-uceni :note "word flash" ;
+	:note "filmy a titulky -- na jazyky" ;
+	:note "NLP anchoring" .

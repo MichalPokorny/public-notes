@@ -4,16 +4,6 @@
 
 - enable cups demon
 
-Problemy s Terminusem:
-
-xset +fp /usr/share/fonts/local
-xset fp rehash
-
-(pri chybe v prvnim radku: # cd /usr/share/fonts/local;mkfontdir)
-
-nejstarsi notebook (asrock): feynmann, HP 4530s: vakarian, X230: megalocap
-server: dragon
-
 Generic mapping!!! (musim testovat, ze funguje dobre)
 	GENERIC na serveru i na notebooku!
 

@@ -1,0 +1,53 @@
+:life-extension rdfs:label "Life extension" .
+:sens :under :life-extension ;
+	rdfs:label "SENS (Strategies for Engineered Negligible Senescence)" ;
+	:note "led by Aubrey de Grey" ;
+	:note "Tries to reverse aging by chemical/biological interventions" ;
+	:note "~$2MM rocne prijem, nema sirokou akademickou podporu, chteji porazit starnuti do 2030" .
+("Calico, under Alphabet") :under :life-extension ;
+("If all heart disease and cancer could be cured, life expectancy would increase by merely 6-7 years.") :under :life-extension ;
+	:from <http://www.nickbostrom.com/ethics/values.html> .
+("More than 2/3 of 150-160 000 daily deaths die by aging.") :under :life-extension .
+
+:cryonics rdfs:label "Cryonics" ;
+	:note "you only live twice" .
+("Alcor Life Extension Foundation") :under :cryonics .
+("Cryonics Institute") :under :cryonics ;
+	:note "TODO: investigate" .
+
+<http://thebaffler.com/salvos/everybody-freeze-pein> :under :cryonics ;
+	:note "Critique of cryonics"  .
+("life extension foundation") :under :cryonics ;
+	:note "pretty shady" .
+
+:xrisk-aisafety rdfs:label "X-risk and AI safety" .
+<http://www.nickbostrom.com/existential/risks.html> :under :xrisk-aisafety .
+("Superintelligence by Nick Bostrom") :under :xrisk-aisafety .
+("Future of Humanity Institute at Oxford (Bostrom's base)") :under :xrisk-aisafety .
+("Future of Life Institute") :under :xrisk-aisafety .
+("Centre for Study of Existential Risk in Cambridge") :under :xrisk-aisafety .
+("MIRI (Machine Intelligence Research Institute)") :under :xrisk-aisafety .
+:xrisk-aisafety :note """
+	Organizations aiming to develop strong AI: Google (DeepMind), IBM, GoodAI,
+	OpenAI, OpenCog
+""" .
+
+("Nikolai Fyodorovich Fyodorov") :under ("Transhumanismus") ;
+	:note "pre-transhumanismus (19. stoleti)" .
+
+("Brain Preservation Foundation") :under :cryonics .
+("Institute for Science-Based Cryonics") :under :cryonics ;
+	:note "plastinace" .
+
+("nekourit; pozor na auta; pozor na nebezpecne operace; zdravou vahu; cvicit") :under :life-extension ;
+	:from :petr-hudecek .
+
+("TODO: arguments for 'why should you care about other people?' from basics?") :under :lesswrong .
+
+:lesswrong :note "verifikace programu je jeden z pozadavku MIRI" ;
+	:note "adopt goals for instrumental reasons" ;
+	:note """
+	"not this again. listen, you're in a horror movie, if you split up, you die."
+	going in circles => find concrete different prediction
+	""" ;
+	:note "attempted telekinesis" .

@@ -1,0 +1,6 @@
+:megalocap :note "Lenovo X230" .
+:feynmann :note "Nejstarsi notebook (Asrock)" .
+:vakarian :note "HP 4530s" .
+:dragon :note "Server" .
+
+:megalocap :note "Test-server kazdou hodinu" .

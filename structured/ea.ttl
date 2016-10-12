@@ -1,0 +1,57 @@
+:ea rdfs:label "EA" .
+
+<http://effective-altruism.com/ea/yz/thoughts_about_organizing_an_eagx_conference/> :under :ea .
+<http://www.benkuhn.net/studentgroup> :under :ea .
+
+<https://drive.google.com/drive/u/0/folders/0B9ou-zj3xxwbOW16N096d0tyUWc> :under :ea ;
+	:title "Running EA Chapter" ;
+	:note "TODO: take notes" .
+
+<http://wiki.effectivealtruismhub.com/index.php?title=Common_objections_to_effective_altruism> :under :ea ;
+	:title "Common objections to EA" ;
+	:note "TODO: take notes" .
+
+<http://wiki.effectivealtruismhub.com/index.php?title=Criticism_of_effective_altruism> :under :ea ;
+	:title "Criticism of EA" ;
+	:note "TODO: take notes" .
+
+:ea :note "social problems are big --> additional resources diminish in value very slowly" .
+:ea :note "neglectedness: compare marginal costs" .
+:ea :note "cancer: 8.2M deaths/year, 7.6% QALYs lost" .
+:ea :note "malaria: 3.3% QALYs lost" .
+
+("switch to all-beef => reduce moral footprint by ~99%") :under :ea ;
+	:from :ssc .
+
+:ea :note "animal equality: 11 animal lives saved per dollar" .
+
+("$800 = 1 dead child") :under :ea ;
+	:note "TODO: get source" .
+
+:ea :note "evaluation issues: advocacy, meta, far future, ... not verifiable by experiments" .
+:ea :note "TODO: learn modeling, Bayesian stuff" .
+:ea :note "TODO: is risk aversion somehow justifiable?" .
+("time discounting") :under :ea ;
+	:note "unethical by itself; double counting of probability discounting" ;
+	:note "TODO: source on claim" .
+
+("supporting locally") :under :ea ;
+	:note "only if you have sufficient comparative advantage in cause selection and/or marginal utility" .
+
+<https://web.archive.org/web/20141013084905/http://kruel.co/2013/01/13/the-singularity-institute-how-their-arguments-are-broken/#sthash.qUSF9DMI.dpbs> :under :ea .
+
+("assessing risk of death") :under :ea ;
+	:note "micromort (3.5 hours of unconsciousness after 1 hour of driving a motorcycle)" ;
+	:note "TODO: get micromort estimates" .
+
+<https://www.givingwhatwecan.org/> :under :ea ;
+	rdfs:label "Giving What We Can" ;
+	:note "endorses pledging 10%" .
+<https://www.thelifeyoucansave.org/> :under :ea ;
+	rdfs:label "The Life You Can Save" ;
+	:note "Singer's project, endorses varying level of giving" .
+<https://80000hours.org/> :under :ea ;
+	rdfs:label "80,000 Hours" ;
+	:note "Career selection" .
+<http://www.nickbostrom.com/fable/dragon.html> :under :ea ;
+	rdfs:label "The Fable of the Dragon-Tyrant" .

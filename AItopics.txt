@@ -1,2 +1,0 @@
-"optimizing for a goal is an attractor, stable state"
-TODO: nonlinear utility function

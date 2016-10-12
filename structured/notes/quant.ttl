@@ -1,0 +1,18 @@
+@prefix : <http://rny.cz/knowledge#> .
+
+<https://www.coursera.org/learn/computational-investing/home/> :note """
+	aqr, citadel, gs, ms (hedge fondy); lucena research
+	wiki.quantsoftware.org
+
+	annual return
+	risk: standard deviation of return
+	drawdown
+	Sharpe ratio: how much reward getting / how much risk taking (Reward/Risk)
+	Sortine ratio (dalsi Reward/Risk): counts only downward volatility
+	jensen's alpha
+
+	daily returns => std_metric = std(daily returns); max drawdown
+
+	sharpe ratio: k * expected daily return / stdev(daily returns)
+		k = sqrt(250) for daily returns  [250 = # of trading days in year]
+""" .

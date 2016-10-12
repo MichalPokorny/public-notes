@@ -1,0 +1,6 @@
+:deadlock-empire :note "second part with race conditions/deadlock in async" ;
+	:note "nonblocking, message-passing concurrent code" ;
+	:note "add some examples on how to properly write high-level parallel code" ;
+	:note "'how to properly build a concurrency empire'; have 'invaders' test for vulnerability" ;
+	:note "DONE: contact Peter Sewell from Cambridge computer lab" ;
+	:note "TODO: Ozval se ten clovek z Linuxu, ze by nam pomohl napsat lepsi verzi." .

@@ -1,0 +1,7 @@
+:kolej-ms rdfs:label "Cesta Stromovka - Veletrzni palac - podel reky - MS na kole" .
+
+:kolej-ms :time "36 min" ; "37 min" ; "40 min" ; "41 min" ;
+	"31 min" ; "40 min" ; "44 min" .
+
+:ms-andel rdfs:label "Cesta MS - Andel na kole" .
+:ms-andel :time "8 min" ; "9 min" .
