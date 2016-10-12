@@ -10,3 +10,8 @@ wiki:Digital_immortality :note """
 
 <https://vimeo.com/9270320>
 	:title "Actual research on SW development efficiency" .
+	:note """
+		work of Lutz Prechelt -- *actual* research on SW development with studies and experiments and stats and stuff
+	""" .
+
+yt:SR-tzgU07XY :title "the experiencing self / the remembering self" .

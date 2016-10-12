@@ -368,10 +368,7 @@ Ethereum - programovatelny blockchain
 	http://www.svds.com/ethereum-the-rise-of-the-world-computer/
 
 teorie prospektu
-
 Toki Pona language
-
-work of Lutz Prechelt -- *actual* research on SW development with studies and experiments and stats and stuff
 
 Mrazova: "drive se zaokrouhlovalo jinym algoritmem nez od petky nahoru"
 
@@ -385,12 +382,6 @@ seedramp.com
 "canoeing test"
 
 utility weights for conditions (Scott Alexander's link): https://research.tufts-nemc.org/cear4/SearchingtheCEARegistry/SearchtheCEARegistry.aspx
-https://www.youtube.com/watch?v=SR-tzgU07XY -- the experiencing self / the remembering self
-
-voting system:
-	Condorcet extensions
-	Arrow's impossibility theorem
-	Borda rule
 
 arbital.com/p/bayes_rule_guide
 
@@ -415,7 +406,6 @@ psychic unity of humankind
 mind projection fallacy
 brown's list of human universals
 
-brain emulation roadmap
 mitochondrialni mutace: oprava pres davani mitochondrialni dna do jadra bunky
 anxiety buffer disruption theory
 cognitive dissonance theory
@@ -500,9 +490,6 @@ mlguru.cz -- cesky blog o strojovem uceni
 prediction market for nonprofits: agregace hodnoty by nemohla pouzivat hodnotu firmy
 
 Rocksmith (hra na uceni kytary)
-
-Hahn-Banach theorem
-Riesz Representation theorem
 
 CD wifi umi filmy a tak
 

@@ -166,9 +166,14 @@
 ("Group representations (ureddit)") :under :learn-math .
 ("non-principal ultrafilter => hyperreals") :under :learn-math .
 ("nonstandard analysis") :under :learn-math .
+("Hahn-Banach theorem") :under :learn-math .
+("Riesz Representation theorem") :under :learn-math .
 ("probability interpretations") :under :learn-math ;
 	:note "frequentist probability vs. bayesian probability" ;
 	:note "bayesianism; degree of belief vs. coin toss" .
+("Condorcet extensions") :under :learn-math .
+("Arrow's impossibility theorem") :under :learn-math .
+("Borda rule") :under :learn-math .
 ("Turanova veta") :under :learn-math ;
 	:from :kg2 .
 ("Veta o #E v grafu bez uplneho minoru") :under :learn-math ;
