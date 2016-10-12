@@ -195,6 +195,7 @@
 <http://multithreaded.stitchfix.com/blog/2016/04/21/forget-arima/> :under :learn-ai .
 <https://en.wikipedia.org/wiki/Probably_approximately_correct_learning> :under :learn-ai .
 ("binarizace neuronovych siti") :under :learn-ai .
+("optimizing non-linear utility functions") :under :learn-ai .
 
 :learn-phil rdfs:label "Learn - Philosophy" ; :under :learn .
 ("hyperreality") :under :learn-phil .
