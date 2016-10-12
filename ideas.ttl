@@ -1,0 +1,86 @@
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#> .
+@prefix : <http://rny.cz/knowledge#> .
+@prefix yt: <https://www.youtube.com/watch?v=> .
+
+:ideas rdfs:label "Napady" .
+("ruby: .tap {...} ==> .use { |x| ... }") :under :ideas .
+("preventor duplikatu") :under :ideas ;
+	:note "inotify, QFileSystemWatcher" .
+("xmonad Shell modul na trideni podle pouzivani") :under :ideas .
+("set +i bit on very old backups") :under :ideas .
+("qr-print 1-pass") :under :ideas .
+("yearly, monthly, daily highlights") :under :ideas .
+("help battle for wesnoth") :under :ideas .
+("GitHub recommendation system") :under :ideas .
+("C++ code smell detector?") :under :ideas .
+("https + caching?") :under :ideas .
+("unreal engine je free! vyuzit!") :under :ideas .
+("pocitat kolik z obsahu internetu je reklama; machine learningem. udelat z toho adblocker") :under :ideas .
+("hedge fund, co dava vydelek na charitu") :under :ideas .
+("vizualizace celeho zivota") :under :ideas .
+("join professional societies: IEEE, ACM") :under :ideas ;
+	:from "Pragmatic Programmer" .
+("explore stock closeness metrics") :under :ideas .
+yt:WgSwvDkJVxE :under :ideas ;
+	rdfs:label "vazani tkanicek" .
+("ok google tool") :under :ideas .
+("financial data startup/service/website") :under :ideas .
+("HTML terminal - mame HTML, muzeme z nej stavet GUI") :under :ideas .
+("eye tracking; better cli ui (s eye trackingem)") :under :ideas .
+("startup/produkt na ulehceni citovani v texu") :under :ideas .
+("gdb: prijimej argumenty pro debugovany program") :under :ideas .
+("globalni optimalizace") :under :ideas .
+("YouTube recommender, ktery recommenduje, co me bude zajimat, ale neni moc
+blizko toho, co uz znam") :under :ideas .
+("velky polstar s Robinem Hansonem") :under :ideas .
+("automatizace ukladani vahy") :under :ideas .
+("kompletne cryptohome (je otazka jestli to je tak dobry napad jako
+polocrypto)") :under :ideas .
+("mobil se da dat na snurku") :under :ideas .
+("Stalker na zaklade open source; Stalker RPG") :under :ideas .
+("gem, co ukaze developerovi plnou chybu, ale normalnimu cloveku nic zajimaveho.
+Tohle by slo udelat sifrovanim a trochou JavaScriptu.") :under :ideas .
+("skript, co se podiva do textu mailu a upozorni, kdyz pisu, ze ma prilohu, ale
+nema ji") :under :ideas .
+("Google Finance virtualni burza") :under :ideas .
+("ulozit si privatni klic a takove veci do sejfu v bance (muzu tam i pridat
+ruzna vysvedceni a podobne veci) - stoji v KB 1020 + 20% DPH rocne") :under
+:ideas .
+("linked data: vidim Google v textu => kliknu a dostanu shrnuti Googlu") :under
+:ideas .
+("Ruby runtime") :under :ideas .
+("muzu mit na dragonu vlastni named.") :under :ideas .
+("Go vs. C performance") :under :ideas .
+("skript pri vstupu do adresare v bashi (a-la-Vorner)") :under :ideas .
+("prekladac hudby do tabu") :under :ideas ;
+	:note "2 casti: jedna bude urcovat podobnost, druha tam bude cpat pokusy o vytabovani" .
+
+("Facebook bot") :under :ideas ;
+	:by :petrhudecek ;
+	:note "Could be useful in FB bot: message tagging" .
+
+:startup-ideas :under :ideas .
+("questy ve skutecnem zivote") :under :startup-ideas .
+("google feature request -> ok.") :under :startup-ideas .
+
+:academical-ideas :under :ideas .
+("struktura, co rychle prozradi artikulace, a co se umi rychle prepocitat po odebrani vrcholu") :under :adademical-ideas .
+
+:thesis-ideas :under :academical-ideas .
+("monstrous moonshine -- shrnuti") :under :thesis-ideas .
+("nejaka teorie grup") :under :thesis-ideas .
+("Roguelike hra, kdyz tak s umelou inteligenci") :under :thesis-ideas ;
+	:note "paralelni procesy pro AI" .
+("dalsi slovnikove struktury") :under :thesis-ideas ;
+	:note "* two-choices hashing" ;
+	:note "* cuckoo with stash + jine systemy pro linear probing" ;
+	:note "* robin hood napad (uz je to stara vec) pro linear probing aby nepotreboval hodne pameti a pomohl" .
+("jan hubicka - mff") :under :thesis-ideas .
+("jirka fink: financni trhy -- poptat se jestli nekoho nezna (prakticke matematicke veci)") :under :thesis-ideas .
+("Tomas Krejci: bakalarka na geneticky algoritmy/neuronky: automaticke obchodovani") :under :thesis-ideas .
+("jakub gemrot: mel by cas mi pripadne vest diplomku (na pogamut)") :under :thesis-ideas .
+("Hubicka") :under :thesis-ideas ;
+	:note "- mereni optimalizaci (on/off)" ;
+	:note "- pocet taktu pro instrukce" ;
+	:note "- GNU superopt => jak moc je to uzitecne?" .
+("Michal Koucky: system na backupy po blocich") :under :thesis-ideas .

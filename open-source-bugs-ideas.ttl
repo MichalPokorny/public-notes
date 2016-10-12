@@ -1,0 +1,39 @@
+@prefix : <http://rny.cz/knowledge#> .
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#> .
+
+:os-bugs-ideas rdfs:label "Open-source bugs & ideas" .
+
+("ncmpcpp: dies when resized too small") :under :os-bugs-ideas .
+("zim: has big toolbar buttons only") :under :os-bugs-ideas .
+("FPS-nethack") :under :os-bugs-ideas .
+("mypaint: alternative tools on different tablet buttons") :under :os-bugs-ideas .
+("xosdutil: should deal properly with long strings; with resolution changes") :under :os-bugs-ideas .
+("Rails nested forms: is a JavaScript singleton") :under :os-bugs-ideas .
+("Rails datagrid: chain i18n fallback") :under :os-bugs-ideas .
+("btckit: bug in docs - one bad tab in one example") :under :os-bugs-ideas .
+("theano ruby bindings") :under :os-bugs-ideas .
+("Why doesn't Haskell have implicit type casting? :(") :under :os-bugs-ideas .
+("Why can't Haskell overload by data type? :(") :under :os-bugs-ideas .
+("bitcoin alert when Satoshi's key gets compromised: uses maxInt, but isn't that platform-dependent?!") :under :os-bugs-ideas .
+("hamster currently doesn't have an active maintainer") :under :os-bugs-ideas .
+("vim slows down in Ruby due to syntax highlighting") :under :os-bugs-ideas .
+("rubygems always wants to read all installed gems, which slows down everything everywhere") :under :os-bugs-ideas .
+("mc fish dies on percent-sign in filename, copying a FIFO") :under :os-bugs-ideas .
+("spoje: I want spojerc to set the default type; and an interactive mode") :under :os-bugs-ideas .
+("datagrid in Rails: should grab column name also from model") :under :os-bugs-ideas .
+("forgot to remove new .o file doublefann.o when upgrading ruby-fann to 2.2.0") :under :os-bugs-ideas .
+("something doesn't work about ncmpcpp's tag editor") :under :os-bugs-ideas .
+("rubyXL is incompatible with ruby-units") :under :os-bugs-ideas .
+("remove useless warning from Evince") :under :os-bugs-ideas .
+("simian deduplicator over merkaartor") :under :os-bugs-ideas .
+("parrot: store database to reasonable place, etc. => package it up") :under :os-bugs-ideas .
+("gem money: some silliness about i18n") :under :os-bugs-ideas .
+("open source: libfprint uklada data o otistich nesifrovane!!!") :under :os-bugs-ideas .
+("xournal: rotation?") :under :os-bugs-ideas .
+("xournal: better brushes") :under :os-bugs-ideas .
+:xmonad-improvements :under :os-bugs-ideas ;
+	rdfs:label "XMonad improvements" ;
+	:note "darcs ...; cabal configure; cabal build; cabal install" .
+("add a true wmii layout") :under :xmonad-improvements ;
+	:note "set minimum window size to some reasonable small constant, say 5 px" .
+("shell duplication shortcut; is it even possible, btw?") :under :xmonad-improvements .
