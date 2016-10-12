@@ -43,8 +43,6 @@ Deep learning =
 
 printf extensions :)
 
-kostya/benchmarks
-
 tracert fungujer pres ttl
 exercism.io
 valgrind massif ms_print

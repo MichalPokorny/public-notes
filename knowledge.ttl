@@ -1,277 +1,284 @@
+# Translation of list: #first, #rest
+
 @prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#> .
 @prefix github: <https://github.com/> .
 @prefix wiki: <https://en.wikipedia.org/wiki/> .
+@prefix : <http://rny.cz/knowledge#> .
 
-<#akce> rdfs:label "Akce" .
+:akce rdfs:label "Akce" .
 
-<#challenge-24> rdfs:label "Challenge 24" ;
-	<#note> "Zřejmě někdy v únoru." ;
-	<#under> <#akce> .
+:challenge-24 rdfs:label "Challenge 24" ;
+	:note "Zřejmě někdy v únoru." ;
+	:under :akce .
 
-<#velky-vuz> rdfs:label "Velký vůz" ;
-	<#note> "Mají spoustu různých akcí." ;
-	<#under> <#akce> .
+:velky-vuz rdfs:label "Velký vůz" ;
+	:note "Mají spoustu různých akcí." ;
+	:under :akce .
 
-<#galibi> rdfs:label "GALIBI" ;
-	<#note> "Každou druhou středu mají v 20 hodin sraz." ;
-	<#under> <#akce> .
+:galibi rdfs:label "GALIBI" ;
+	:note "Každou druhou středu mají v 20 hodin sraz." ;
+	:under :akce .
 
-<#vlajkova> rdfs:label "Vlajková" ;
-	<#note> "Poslední víkend v září. Vždycky na podzim." ;
-	<#website> <http://www.vlajkova.cz/> ;
-	<#under> <#akce> .
+:vlajkova rdfs:label "Vlajková" ;
+	:note "Poslední víkend v září. Vždycky na podzim." ;
+	:website <http://www.vlajkova.cz/> ;
+	:under :akce .
 
-<#tidbits> rdfs:label "Tidbits" .
+:tidbits rdfs:label "Tidbits" .
 
-<#how-to-avoid-huge-ships> rdfs:label "How to Avoid Huge Ships" ;
-	<#under> <#tidbits> .
+:how-to-avoid-huge-ships rdfs:label "How to Avoid Huge Ships" ;
+	:under :tidbits .
 
-github:"cheeaun/life" <#under> <#tidbits> .
-github:'papers-we-love/papers-we-love' <#under> <#tidbits> .
-github:'bolshcikov/js-must-watch' <#under> <#tidbits> .
-github:'tripit/slate' <#under> <#tidbits> .
-github:'asciimoo/ListOfGithubLists' <#under> <#tidbits> .
-github:'binarylogic/memorylogic' <#under> <#tidbits> .
-github:'vitstradal/opraf' <#under> <#tidbits> ;
+<https://github.com/vitstradal/opraf> :under :tidbits ;
 	rdfs:label "Pikomatí Opraf" .
-github:'vmg/clar' <#under> <#tidbits> ;
+<https://github.com/vmg/clar> :under :tidbits ;
 	rdfs:label "Minimalisticky C unit testing framework" .
-github:'SamyPesse/How-to-Make-a-Computer-Operating-System' <#under> <#tidbits> .
-github:'0xAX/linux-insides' <#under> <#zajimavosti> .
-github:'mnielsen/neural-networks-and-deep-learning' <#under> <#zajimavosti> .
-github:'yaronn/wopr' <#under> <#zajimavosti> .
-github:'ariya' <#under> <#zajimavosti> ;
+<https://github.com/ariya> :under :zajimavosti ;
 	rdfs:label "phantomjs guy" .
-github:'MaximAbramchuck/awesome-interviews' <#under> <#zajimavosti> .
-github:'raulmur/ORB_SLAM' <#under> <#zajimavosti> .
-github:'koekeishiya/kwm' <#under> <#zajimavosti> ;
+<https://github.com/koekeishiya/kwm> :under :zajimavosti ;
 	rdfs:label "tiling WM for Mac OS X" .
-github:'leftys/trading' <#under> <#zajimavosti> ;
+<https://github.com/leftys/trading> :under :zajimavosti ;
 	rdfs:label "Oggyho akciovy robot" .
-github:'avelino/awesome-go#gui' <#under> <#zajimavosti> .
-github:'jlevy/og-equity-compensation' <#under> <#zajimavosti> .
-github:'Lasagne/Lasagne' <#under> <#zajimavosti> .
-github:'baidu-research/warp-ctc' <#under> <#zajimavosti> ;
+<https://github.com/baidu-research/warp-ctc> :under :zajimavosti ;
 	rdfs:label "Baidu Research thingie for speech to text" .
-github:'josephmisiti/awesome-machine-learning' <#under> <#zajimavosti> .
-github:'pasky/speedread' <#under> <#zajimavosti> ;
-	<#by> <#pasky> ;
+<https://github.com/pasky/speedread> :under :zajimavosti ;
+	:by :pasky ;
 	rdfs:label "Paskyho speedreader" .
-github:'thoughtbot/til' <#under> <#zajimavosti> .
-github:'mila-udem/blocks' <#under> <#zajimavosti> .
-github:'danielquinn/paperless' <#under> <#zajimavosti> .
-github:'jflesch/paperwork/#readme' <#under> <#zajimavosti> ;
+<https://github.com/jflesch/paperwork/#readme> :under :zajimavosti ;
 	rdfs:label "Paperwork - scans it" .
-github:'awentzonline/image-analogies' <#under> <#zajimavosti> .
-github:'ssloy/tinyrenderer/wiki' <#under> <#zajimavosti> ;
+<https://github.com/ssloy/tinyrenderer/wiki> :under :zajimavosti ;
 	rdfs:label "series of articles about how OpenGL works" .
-github:'alexjc/neural-doodle' <#under> <#zajimavosti> .
-github:'yudai/gotty' <#under> <#zajimavosti> .
 
-<http://dmitry.gr/index.php?r=05.Projects&proj=07.%20Linux%20on%208bit> <#under> <#tidbits> ;
+<http://dmitry.gr/index.php?r=05.Projects&proj=07.%20Linux%20on%208bit> :under :tidbits ;
 	rdfs:label "Linux na 8-bitovém jednočipu" .
 
-<http://www.youtube.com/watch?v=5q-BH-tvxEg> <#under> <#tidbits> ;
+<http://www.youtube.com/watch?v=5q-BH-tvxEg> :under :tidbits ;
 	rdfs:label "ozubena kola koncici betonem" .
 
-"haveibeenpwned" <#under> <#tidbits> .
-"funtenna" <#under> <#tidbits> .
-"perlorodky s perlami" <#under> <#tidbits> .
-"Fontello" <#under> <#tidbits> .
-"scrollorama" <#under> <#tidbits> .
-"the app clinic" <#under> <#tidbits> .
-"server monitoring: monitorix" <#under> <#tidbits> .
+(
+  "haveibeenpwned"
+  "funtenna"
+  "perlorodky s perlami"
+  "Fontello"
+  "scrollorama"
+  "the app clinic"
+  "server monitoring: monitorix"
+) :under :tidbits .
 
-<#zajimavosti> rdfs:label "Zajímavosti"
+:zajimavosti rdfs:label "Zajímavosti" .
 
-<http://pasky.or.cz/anime/> <#under> <#zajimavosti> ;
-	<#by> <#pasky> .
-wiki:Long_short-term_memory <#under> <#zajimavosti> .
-wiki:Welsh_Dragon <#under> <#zajimavosti> .
-wiki:Mechanism_design <#under> <#zajimavosti> .
-wiki:World_Values_Survey#Catalogue_of_Findings <#under> <#zajimavosti> .
-github:'AugurProject/argus' <#under> <#zajimavosti> ;
-	<#under> <#augur-project> .
+<http://pasky.or.cz/anime/> :under :zajimavosti ;
+	:by :pasky .
+
+<http://en.wikipedia.org/wiki/Beck's_cognitive_triad> :under :zajimavosti .
+
+(
+  <http://agentyduck.blogspot.cz/2014/02/lobs-theorem-cured-my-social-anxiety.html>
+  <http://archetypal.cz/o-nas/>
+  <http://bitboot.camp>
+  <http://blog.agi.io/2015/05/consciousness-free-will-elephants-in.html?m=1>
+  <http://blog.andreascarpino.it/cleaning-an-arch-linux-installation/>
+  <http://brunoloff.wordpress.com/c-expressions>
+  <http://celandine13.livejournal.com/72711.html>
+  <http://chooseyourstory.com>
+  <http://craftsmanship.net/>
+  <http://danluu.com/bimodal-compensation/>
+  <http://danluu.com/startup-tradeoffs/>
+  <http://dirkgorissen.com/2012/03/26/the-researcher-programmer-a-new-species/>
+  <http://dirkgorissen.com/2012/09/13/the-research-software-engineer/>
+  <http://dotat.at/tmp/gll.pdf>
+  <http://drawattention.co>
+  <http://draw.io>
+  <http://fourhourworkweek.com/2015/11/22/will-macaskill/>
+  <http://futureoflife.org/data/documents/research_priorities.pdf>
+  <http://generalzoi.deviantart.com/art/Pony-Creator-Full-Version-254295904>
+  <http://glassbowl.info>
+  <http://hackjobio.herokuapp.com>
+  <http://inference-review.com/article/categories-from-zero-to-infinity>
+  <http://inverseprobability.com/2016/05/09/machine-learning-futures-6>
+  <http://juokaz.com/blog/how-are-you-doing.html>
+  <http://kerray.cz/2015/cesky-kulturni-rybnicek/>
+  <http://kerray.cz/2015/nova-doba/>
+  <http://kudaviforest.com>
+  <http://lesswrong.com/lw/4su/the_science_of_happiness/>
+  <http://lesswrong.com/lw/58g/levels_of_action/>
+  <http://lesswrong.com/lw/5jj/meditation_insight_and_rationality_part_2_of_3/>
+  <http://lesswrong.com/lw/6ga/index_of_yvains_excellent_articles/>
+  <http://lesswrong.com/lw/y4/three_worlds_collide_08/>
+  <http://macro.ycombinator.com>
+  <http://marketsineverything.com/>
+  <http://materialup.com>
+  <http://mcntyr.com/52-concepts-cognitive-toolkit/>
+  <http://mindingourway.com/see-the-dark-world/>
+  <http://mynoise.net/NoiseMachines/rainNoiseGenerator.php>
+  <http://nothingismere.com/2015/09/12/library-of-scott-alexandria/>
+  <http://onlinelibrary.wiley.com/doi/10.1111/joms.12177/full>
+  <http://os.phil-opp.com/>
+  <http://peek.usertesting.com>
+  <http://playbook.samaltman.com>
+  <http://poetrychina.net/Story_of_Zen/zenstory3a.htm>
+  <http://pond.imperialviolet.org>
+  <http://producthunt.com>
+  <http://qualiacomputing.com/2015/05/22/how-to-secretly-communicate-with-people-on-lsd/>
+  <http://quantifiedself.com/>
+  <http://quantopian.com>
+  <http://reciprocity.io>
+  <http://reducing-suffering.org/altruists-focus-reducing-short-term-far-future-suffering/>
+  <http://research.microsoft.com/en-us/projects/liquid/>
+  <https://80000hours.org/career-guide/career-capital/?source=fb>
+  <https://aeon.co/opinions/there-is-a-better-way-to-parent-than-the-nuclear-family?utm_source=Aeon+Newsletter&utm_campaign=7e82ff84b7-Daily_newsletter_Wednesday_24th_February2_23_2016&utm_medium=email&utm_term=0_411a82e59d-7e82ff84b7-68657997>
+  <http://samizdat.mines.edu/howto/HowToBeAProgrammer.html>
+  <https://cmusatyalab.github.io/openface/>
+  <https://data.triplebyte.com/who-y-combinator-companies-want-c1880a08ac88#.kunw8q33p>
+  <https://en.99designs.fr/tasks/>
+  <http://sense2vec.spacy.io/?natural_language_processing>
+  <https://en.wikiversity.org/wiki/True_Self>
+  <https://en.wikiversity.org/wiki/What_Matters>
+  <https://en.wikiversity.org/wiki/Wisdom/Curriculum>
+  <https://faces.ethz.ch/>
+  <https://gist.github.com/bishboria/8326b17bbd652f34566a>
+  <https://github.com/0xAX/linux-insides>
+  <https://github.com/alexjc/neural-doodle>
+  <https://github.com/asciimoo/ListOfGithubLists>
+  <https://github.com/avelino/awesome-go#gui>
+  <https://github.com/awentzonline/image-analogies>
+  <https://github.com/binarylogic/memorylogic>
+  <https://github.com/bolshcikov/js-must-watch>
+  <https://github.com/cheeaun/life>
+  <https://github.com/danielquinn/paperless>
+  <https://github.com/dschep/ntfy>
+  <https://github.com/hacksalot/HackMyResume>
+  <https://github.com/jlevy/og-equity-compensation>
+  <https://github.com/josephmisiti/awesome-machine-learning>
+  <https://github.com/karpathy/char-rnn>
+  <https://github.com/kostya/benchmarks>
+  <https://github.com/Lasagne/Lasagne>
+  <https://github.com/MaximAbramchuck/awesome-interviews>
+  <https://github.com/mila-udem/blocks>
+  <https://github.com/mnielsen/neural-networks-and-deep-learning>
+  <https://github.com/papers-we-love/papers-we-love>
+  <https://github.com/piskvorky/gensim>
+  <https://github.com/raulmur/ORB_SLAM>
+  <https://github.com/react/flux>
+  <https://github.com/SamyPesse/How-to-Make-a-Computer-Operating-System>
+  <https://github.com/thoughtbot/til>
+  <https://github.com/tripit/slate>
+  <https://github.com/yaronn/wopr>
+  <https://github.com/yudai/gotty>
+  <https://glittering.blue>
+  <http://sharingbuttons.io>
+  <https://hbr.org/2016/03/why-your-late-twenties-is-the-worst-time-of-your-life>
+  <https://intelligence.org/research/>
+  <https://juliekoubova.net/pamatnicek/JulieKoubova-Pamatnicek.pdf>
+  <https://karpathy.github.io/2015/05/21/rnn-effectiveness/>
+  <http://slatestarcodex.com/2013/05/24/going-from-california-with-an-aching-in-my-heart/>
+  <http://slatestarcodex.com/2015/01/25/a-philosopher-walks-into-a-coffee-shop/>
+  <https://medium.com/@_cmdv_/what-should-i-learn-next-as-a-programmer-477728c5c3c4#.cubxww949>
+  <https://medium.com/@tyleralterman/recommended-reading-for-pareto-fellows-38f26179cd3a#.22wuuje7h>
+  <https://mobile.twitter.com/stevenkaas>
+  <http://softwareengineeringdaily.com/2016/02/12/10-philosophies-for-developers/>
+  <http://sourcegraph.com>
+  <https://pond.imperialviolet.org/>
+  <http://srclib.org>
+  <https://some1else.github.io/life/>
+  <http://startupdeveloperjobs.com>
+  <http://startupsort.com>
+  <https://www.fastcompany.com/3056869/this-brain-reading-tool-can-teach-you-a-new-skill-in-no-time>
+  <https://www.ncbi.nlm.nih.gov/pubmed/12585811>
+  <https://www.ncbi.nlm.nih.gov/pubmed/26847844>
+  <https://www.readthetpp.com/>
+  <https://www.udacity.com/course/deep-learning--ud730>
+  <http://totalgarb.tumblr.com/tagged/startupbullshit>
+  <http://up-for-grabs.net/>
+  <http://waitbutwhy.com/2015/03/procrastination-matrix.html>
+  <http://wit.ai>
+  <http://www.bakadesuyo.com/2012/08/here-are-the-things-that-are-proven-to-make-y/>
+  <http://www.beyondpsychedelics.cz>
+  <http://www.cgtextures.com>
+  <http://www.czeps.org>
+  <http://www.data-journal.science>
+  <http://www.downes.ca/post/38526>
+  <http://www.foodpairing.ninja/pairs.html>
+  <http://www.growjob.com/clanky-personal/inspirativni-videa-u-kterych-mrazi-v-zadech/>
+  <http://www.gwern.net/DNB%20FAQ>
+  <http://www.hnreplies.com/>
+  <http://www.ksi.mff.cuni.cz/sw-projekty/zadani/dnama.pdf>
+  <http://www.linusakesson.net/programming/tty/index.php>
+  <http://www.lovethatworks.org/>
+  <http://www.mustafaak.in/2016/02/08/writing-my-own-init-with-go.html>
+  <http://www.openculture.com/2012/01/michel_foucault_free_lectures.html>
+  <http://www.paulgraham.com/articles.html>
+  <http://www.payne.org/index.php/Startup_Equity_For_Employees>
+  <http://www.prospectmagazine.co.uk/features/gender-good-for-nothing>
+  <http://www.redbubble.com/people/lalaithion/works/10939446-i-cooperate-in-the-prisoners-dilemma?p=t-shirt>
+  <http://www.rozhlas.cz/hlas/splhavci/_zprava/krutihlav-obecny-video--12268>
+  <http://www.theawl.com/2012/05/roman-emperor-deaths>
+  <http://www.thebookoflife.org/>
+  <http://www.thebookoflife.org/how-we-end-up-marrying-the-wrong-people/>
+  <http://www.trinity.edu/cbrown/bayesweb/>
+  <http://www.worldometers.info>
+  wiki:Anomie
+  wiki:Autonomous_sensory_meridian_response
+  wiki:Cognitive_distortion
+  wiki:Existential_crisis
+  wiki:Explanatory_gap
+  wiki:List_of_common_misconceptions
+  wiki:Lists_of_unsolved_problems
+  wiki:Long_short-term_memory
+  wiki:Mechanism_design
+  wiki:Meta-ethics
+  wiki:Midlife_crisis
+  wiki:Neuroevolution
+  wiki:Norbert_Wiener
+  wiki:Peak_experience
+  wiki:Problem_of_other_minds
+  wiki:Selectorate_theory
+  wiki:Solipsism_syndrome
+  wiki:Spiritual_crisis
+  wiki:The_Tao_of_Programming
+  wiki:Welsh_Dragon
+  wiki:Weltschmerz
+  wiki:World_Values_Survey#Catalogue_of_Findings
+) :under :zajimavosti .
+
+<https://github.com/AugurProject/argus> :under :zajimavosti ;
+	:under :augur-project ;
 	rdfs:label "Augur project" .
-<#augur-project> rdfs:label "decentralized open-source prediction market platform" .
-github:'karpathy/char-rnn' <#under> <#zajimavosti> .
-wiki:Autonomous_sensory_meridian_response <#under> <#zajimavosti> .
-wiki:Beck's_cognitive_triad <#under> <#zajimavosti> .
-wiki:The_Tao_of_Programming <#under> <#zajimavosti> .
-github:'piskvorky/gensim' <#under> <#zajimavosti> .
-github:'react/flux' <#under> <#zajimavosti> .
-github:'gpoore/minted' <#under> <#zajimavosti> ;
+:augur-project rdfs:label "decentralized open-source prediction market platform" .
+<https://github.com/gpoore/minted> :under :zajimavosti ;
 	rdfs:label "syntax highlighting with pygments for latex" .
 
-<#modafinil> <#under> <#zajimavosti> .
-wiki:Modafinil <#under> <#modafinil> .
-<https://examine.com/supplements/modafinil/> <#under> <#modafinil> .
-<http://www.gwern.net/Modafinil> <#under> <#modafinil> .
+:modafinil :under :zajimavosti .
+wiki:Modafinil :under :modafinil .
+<https://examine.com/supplements/modafinil/> :under :modafinil .
+<http://www.gwern.net/Modafinil> :under :modafinil .
 
-<http://fronema.eleferno.cz/index.php> <#under> <#zajimavosti> ;
-	<#by> <#fronema> .
-<http://www.data-journal.science> <#under> <#zajimavosti> .
-wiki:Neuroevolution <#under> <#zajimavosti> .
-wiki:Weltschmerz <#under> <#zajimavosti> .
-wiki:Spiritual_crisis <#under> <#zajimavosti> .
-wiki:Solipsism_syndrome <#under> <#zajimavosti> .
-wiki:Midlife_crisis <#under> <#zajimavosti> .
-wiki:Problem_of_other_minds <#under> <#zajimavosti> .
-wiki:Anomie <#under> <#zajimavosti> .
-wiki:Existential_crisis <#under> <#zajimavosti> .
-wiki:Explanatory_gap <#under> <#zajimavosti> .
-wiki:Selectorate_theory <#under> <#zajimavosti> .
-wiki:Meta-ethics <#under> <#zajimavosti> .
-wiki:Cognitive_distortion <#under> <#zajimavosti> .
-wiki:Peak_experience <#under> <#zajimavosti> .
-wiki:Lists_of_unsolved_problems <#under> <#zajimavosti> .
-wiki:List_of_common_misconceptions <#under> <#zajimavosti> .
-wiki:Norbert_Wiener <#under> <#zajimavosti> .
+<http://fronema.eleferno.cz/index.php> :under :zajimavosti ;
+	:by :fronema .
 
-<https://80000hours.org/career-decision/process/> <#under> <#zajimavosti> ;
-	rdfs:label "Career decision tool";
+<https://80000hours.org/career-decision/process/> :under :zajimavosti ;
+	rdfs:label "Career decision tool" .
 
-github:tmadl/sklearn-expertsys rdfs:label "interpretable sklearn-compatible classifiers based on decision rules" ;
-	<#under> <#zajimavosti> .
+<https://github.com/tmadl/sklearn-expertsys> rdfs:label "interpretable sklearn-compatible classifiers based on decision rules" ;
+	:under :zajimavosti .
 
-<http://nbviewer.jupyter.org/github/google/deepdream/blob/master/dream.ipynb> rdfs:label <Inceptionism ipython notebook> ;
-	<#under> <#zajimavosti> .
+<http://nbviewer.jupyter.org/github/google/deepdream/blob/master/dream.ipynb> rdfs:label "Inceptionism ipython notebook" ;
+	:under :zajimavosti .
 
 <https://github.com/jcjohnson/neural-style> rdfs:label "Neural Style repo (adapt to style of other image)" ;
-	<#under> <#zajimavosti> .
+	:under :zajimavosti .
 
 <heroforge.com> rdfs:label "custom dnd miniatures" ;
-	<#under> <#zajimavosti> .
+	:under :zajimavosti .
 
-github:hacksalot/HackMyResume <#under> <#zajimavosti> .
-github:keonkim/awesome-nlp <#under> <#zajimavosti> ;
+<https://github.com/keonkim/awesome-nlp> :under :zajimavosti ;
 	rdfs:label "Awesome NLP" .
 
-<http://shop.oreilly.com/product/0636920052289.do> <#under> <#zajimavosti> ;
+<http://shop.oreilly.com/product/0636920052289.do> :under :zajimavosti ;
 	rdfs:label "Aurelien's book" .
 
-<http://fmod.io> <#under> <#zajimavosti> ;
+<http://fmod.io> :under :zajimavosti ;
 	rdfs:label "sound effects for gamedev" .
 
-<http://archetypal.cz/o-nas/> <#under> <#zajimavosti> .
-<http://blog.agi.io/2015/05/consciousness-free-will-elephants-in.html?m=1> <#under> <#zajimavosti> .
-<http://danluu.com/bimodal-compensation/> <#under> <#zajimavosti> .
-<http://dirkgorissen.com/2012/03/26/the-researcher-programmer-a-new-species/> <#under> <#zajimavosti> .
-<http://dirkgorissen.com/2012/09/13/the-research-software-engineer/> <#under> <#zajimavosti> .
-<http://fourhourworkweek.com/2015/11/22/will-macaskill/> <#under> <#zajimavosti> .
-<http://generalzoi.deviantart.com/art/Pony-Creator-Full-Version-254295904> <#under> <#zajimavosti> .
-<http://inference-review.com/article/categories-from-zero-to-infinity> <#under> <#zajimavosti> .
-<http://inverseprobability.com/2016/05/09/machine-learning-futures-6> <#under> <#zajimavosti> .
-<http://juokaz.com/blog/how-are-you-doing.html> <#under> <#zajimavosti> .
-<http://kerray.cz/2015/cesky-kulturni-rybnicek/> <#under> <#zajimavosti> .
-<http://kerray.cz/2015/nova-doba/> <#under> <#zajimavosti> .
-<http://lesswrong.com/lw/4su/the_science_of_happiness/> <#under> <#zajimavosti> .
-<http://lesswrong.com/lw/58g/levels_of_action/> <#under> <#zajimavosti> .
-<http://lesswrong.com/lw/5jj/meditation_insight_and_rationality_part_2_of_3/> <#under> <#zajimavosti> .
-<http://lesswrong.com/lw/6ga/index_of_yvains_excellent_articles/> <#under> <#zajimavosti> .
-<http://lesswrong.com/lw/y4/three_worlds_collide_08/> <#under> <#zajimavosti> .
-<http://mindingourway.com/see-the-dark-world/> <#under> <#zajimavosti> .
-<http://nothingismere.com/2015/09/12/library-of-scott-alexandria/> <#under> <#zajimavosti> .
-<http://onlinelibrary.wiley.com/doi/10.1111/joms.12177/full> <#under> <#zajimavosti> .
-<http://qualiacomputing.com/2015/05/22/how-to-secretly-communicate-with-people-on-lsd/> <#under> <#zajimavosti> .
-<http://reducing-suffering.org/altruists-focus-reducing-short-term-far-future-suffering/> <#under> <#zajimavosti> .
-<https://80000hours.org/career-guide/career-capital/?source=fb> <#under> <#zajimavosti> .
-<https://aeon.co/opinions/there-is-a-better-way-to-parent-than-the-nuclear-family?utm_source=Aeon+Newsletter&utm_campaign=7e82ff84b7-Daily_newsletter_Wednesday_24th_February2_23_2016&utm_medium=email&utm_term=0_411a82e59d-7e82ff84b7-68657997> <#under> <#zajimavosti> .
-<https://en.wikiversity.org/wiki/True_Self> <#under> <#zajimavosti> .
-<https://en.wikiversity.org/wiki/What_Matters> <#under> <#zajimavosti> .
-<https://en.wikiversity.org/wiki/Wisdom/Curriculum> <#under> <#zajimavosti> .
-<https://github.com/dschep/ntfy> <#under> <#zajimavosti> .
-<https://glittering.blue> <#under> <#zajimavosti> .
-<https://hbr.org/2016/03/why-your-late-twenties-is-the-worst-time-of-your-life> <#under> <#zajimavosti> .
-<https://juliekoubova.net/pamatnicek/JulieKoubova-Pamatnicek.pdf> <#under> <#zajimavosti> .
-<http://slatestarcodex.com/2013/05/24/going-from-california-with-an-aching-in-my-heart/> <#under> <#zajimavosti> .
-<http://slatestarcodex.com/2015/01/25/a-philosopher-walks-into-a-coffee-shop/> <#under> <#zajimavosti> .
-<https://medium.com/@_cmdv_/what-should-i-learn-next-as-a-programmer-477728c5c3c4#.cubxww949> <#under> <#zajimavosti> .
-<https://medium.com/@tyleralterman/recommended-reading-for-pareto-fellows-38f26179cd3a#.22wuuje7h> <#under> <#zajimavosti> .
-<https://mobile.twitter.com/stevenkaas> <#under> <#zajimavosti> .
-<http://softwareengineeringdaily.com/2016/02/12/10-philosophies-for-developers/> <#under> <#zajimavosti> .
-<https://sense2vec.spacy.io/?natural_language_processing|NOUN> <#under> <#zajimavosti> .
-<https://some1else.github.io/life/> <#under> <#zajimavosti> .
-<https://www.ncbi.nlm.nih.gov/pubmed/12585811> <#under> <#zajimavosti> .
-<https://www.ncbi.nlm.nih.gov/pubmed/26847844> <#under> <#zajimavosti> .
-<https://www.udacity.com/course/deep-learning--ud730> <#under> <#zajimavosti> .
-<http://waitbutwhy.com/2015/03/procrastination-matrix.html> <#under> <#zajimavosti> .
-<http://www.downes.ca/post/38526> <#under> <#zajimavosti> .
-<http://www.foodpairing.ninja/pairs.html> <#under> <#zajimavosti> .
-<http://www.growjob.com/clanky-personal/inspirativni-videa-u-kterych-mrazi-v-zadech/> <#under> <#zajimavosti> .
-<http://www.gwern.net/DNB%20FAQ> <#under> <#zajimavosti> .
-<http://www.hnreplies.com/> <#under> <#zajimavosti> .
-<http://www.lovethatworks.org/> <#under> <#zajimavosti> .
-<http://www.mustafaak.in/2016/02/08/writing-my-own-init-with-go.html> <#under> <#zajimavosti> .
-<http://www.prospectmagazine.co.uk/features/gender-good-for-nothing> <#under> <#zajimavosti> .
-<http://www.redbubble.com/people/lalaithion/works/10939446-i-cooperate-in-the-prisoners-dilemma?p=t-shirt> <#under> <#zajimavosti> .
-<http://www.theawl.com/2012/05/roman-emperor-deaths> <#under> <#zajimavosti> .
-<http://www.thebookoflife.org/> <#under> <#zajimavosti> .
-<http://www.thebookoflife.org/how-we-end-up-marrying-the-wrong-people/> <#under> <#zajimavosti> .
-<http://www.worldometers.info> <#under> <#zajimavosti> .
-<https://en.99designs.fr/tasks/> <#under> <#zajimavosti> .
-<http://www.rozhlas.cz/hlas/splhavci/_zprava/krutihlav-obecny-video--12268> <#under> <#zajimavosti> .
-<https://karpathy.github.io/2015/05/21/rnn-effectiveness/> <#under> <#zajimavosti> .
-<http://www.paulgraham.com/articles.html> <#under> <#zajimavosti> .
-<http://blog.andreascarpino.it/cleaning-an-arch-linux-installation/> <#under> <#zajimavosti> .
-<http://www.payne.org/index.php/Startup_Equity_For_Employees> <#under> <#zajimavosti> .
-<http://research.microsoft.com/en-us/projects/liquid/> <#under> <#zajimavosti> .
-<https://data.triplebyte.com/who-y-combinator-companies-want-c1880a08ac88#.kunw8q33p> <#under> <#zajimavosti> .
-<http://totalgarb.tumblr.com/tagged/startupbullshit> <#under> <#zajimavosti> .
-<http://danluu.com/startup-tradeoffs/> <#under> <#zajimavosti> .
-<http://dotat.at/tmp/gll.pdf> <#under> <#zajimavosti> .
-<http://craftsmanship.net/> <#under> <#zajimavosti> .
-<https://gist.github.com/bishboria/8326b17bbd652f34566a> <#under> <#zajimavosti>
-.
-<http://os.phil-opp.com/> <#under> <#zajimavosti> .
-<https://intelligence.org/research/> <#under> <#zajimavosti> .
-<http://www.linusakesson.net/programming/tty/index.php> <#under> <#zajimavosti>
-.
-<http://celandine13.livejournal.com/72711.html> <#under> <#zajimavosti> .
-<http://mcntyr.com/52-concepts-cognitive-toolkit/> <#under> <#zajimavosti> .
-<http://www.openculture.com/2012/01/michel_foucault_free_lectures.html> <#under> <#zajimavosti> .
-<http://quantifiedself.com/> <#under> <#zajimavosti> .
-<http://marketsineverything.com/> <#under> <#zajimavosti> .
-<http://up-for-grabs.net/> <#under> <#zajimavosti> .
-<http://www.trinity.edu/cbrown/bayesweb/> <#under> <#zajimavosti> .
-<https://faces.ethz.ch/> <#under> <#zajimavosti> .
-<http://poetrychina.net/Story_of_Zen/zenstory3a.htm> <#under> <#zajimavosti> .
-<http://futureoflife.org/data/documents/research_priorities.pdf> <#under> <#zajimavosti> .
-<http://www.ksi.mff.cuni.cz/sw-projekty/zadani/dnama.pdf> <#under> <#zajimavosti> .
-<https://pond.imperialviolet.org/> <#under> <#zajimavosti> .
-<https://www.readthetpp.com/> <#under> <#zajimavosti> .
-<http://agentyduck.blogspot.cz/2014/02/lobs-theorem-cured-my-social-anxiety.html> <#under> <#zajimavosti> .
-<http://www.bakadesuyo.com/2012/08/here-are-the-things-that-are-proven-to-make-y/> <#under> <#zajimavosti> .
-<https://www.ncbi.nlm.nih.gov/pubmed/12585811> <#under> <#zajimavosti> .
-<https://cmusatyalab.github.io/openface/> <#under> <#zajimavosti> .
-<https://www.fastcompany.com/3056869/this-brain-reading-tool-can-teach-you-a-new-skill-in-no-time> <#under> <#zajimavosti> .
-<http://mynoise.net/NoiseMachines/rainNoiseGenerator.php> <#under> <#zajimavosti> .
-<http://producthunt.com> <#under> <#zajimavosti> .
-<http://drawattention.co> <#under> <#zajimavosti> .
-<http://pond.imperialviolet.org> <#under> <#zajimavosti> .
-<http://wit.ai> <#under> <#zajimavosti> .
-<http://bitboot.camp> <#under> <#zajimavosti> .
-<http://www.cgtextures.com> <#under> <#zajimavosti> .
-<http://brunoloff.wordpress.com/c-expressions> <#under> <#zajimavosti> .
-<http://materialup.com> <#under> <#zajimavosti> .
-<http://sourcegraph.com> <#under> <#zajimavosti> .
-<http://srclib.org> <#under> <#zajimavosti> .
-<http://startupdeveloperjobs.com> <#under> <#zajimavosti> .
-<http://hackjobio.herokuapp.com> <#under> <#zajimavosti> .
-<http://playbook.samaltman.com> <#under> <#zajimavosti> .
-<http://macro.ycombinator.com> <#under> <#zajimavosti> .
-<http://quantopian.com> <#under> <#zajimavosti> .
-<http://glassbowl.info> <#under> <#zajimavosti> .
-<http://chooseyourstory.com> <#under> <#zajimavosti> .
-<http://peek.usertesting.com> <#under> <#zajimavosti> .
-<http://startupsort.com> <#under> <#zajimavosti> .
-<http://kudaviforest.com> <#under> <#zajimavosti> .
-<http://draw.io> <#under> <#zajimavosti> .
-<http://www.czeps.org> <#under> <#zajimavosti> .
-<http://www.beyondpsychedelics.cz> <#under> <#zajimavosti> .
-<http://sharingbuttons.io> <#under> <#zajimavosti> .
-<http://samizdat.mines.edu/howto/HowToBeAProgrammer.html> <#under> <#zajimavosti> .
-<http://reciprocity.io> <#under> <#zajimavosti>
-
-"actuary table" <#under> <#zajimavosti> ;
-	<#link> <http://www.ssa.gov/oact/STATS/table4c6.html> .
+( "actuary table" ) :under :zajimavosti ;
+	:link <http://www.ssa.gov/oact/STATS/table4c6.html> .
