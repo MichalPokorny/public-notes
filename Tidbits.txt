@@ -6,19 +6,6 @@ title: Tidbits
 - GenericMakefile
 - frama-c: C verifikator
 
-<h3>JavaScript</h3>
-- Kinetic.js
-- Socket.io
-- Meteor (JS framework)
-- PureScript
-- batman.js
-- sheetsee.js (Trix vizualizer)
-
-<h3>Ruby</h3>
-- rubycritic
-- array decomposition in method args
-- TODO: 'guard'
-
 <h2>CS</h2>
 - Time-delay neural network
 - hra Facade
@@ -193,7 +180,6 @@ Cube 2
 - http://mechanitis.blogspot.co.uk/2013/02/staying-ahead-of-curve.html
 - gv.com/library
 - assimp-net
-- hakyll
 - kanban
 - r/workonline
 

@@ -1,0 +1,5 @@
+:ruby rdfs:label "Ruby".
+
+("rubycritic") :under :ruby .
+("array decomposition in method args") :under :ruby .
+("TODO: guard") :under :ruby .

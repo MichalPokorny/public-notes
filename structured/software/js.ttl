@@ -1,0 +1,10 @@
+:js rdfs:label "JavaScript" .
+
+("Kinetic.js") :under :js .
+("Socket.io") :under :js .
+("Meteor") :under :js ;
+	:description "JS framework" .
+("PureScript") :under :js .
+("batman.js") :under :js .
+("sheetsee.js") :under :js ;
+	:description "Google Sheets (Trix) visualizer" .
