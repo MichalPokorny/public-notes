@@ -95,9 +95,11 @@
 ("ASCII table organization") :under :learn-memo .
 ("chemical elements") :under :learn-memo .
 ("Greek alphabet") :under :learn-memo .
+("Measure and memorize my height") :under :learn-memo .
 
 :learn-cs rdfs:label "Learn - CS" ;
 	:under :learn .
+("multi-armed bandit problem (Tomas Tunys z CVUT eClub media lab)") :under :learn-cs .
 ("GDB reverse debugging") :under :learn-cs .
 ("Cache coherence algorithms") :under :learn-cs .
 ("tar file format") :under :learn-cs .

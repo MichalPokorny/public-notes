@@ -10,3 +10,5 @@
 ("visit stiftung for EA in Berlin") :under :do .
 ("consider switching to password manager") :under :do .
 ("document server process, possibly create installation procedure") :under :do .
+("enhance screenshot gathering. could I record everything?") :under :do .
+("physically back up Dropbox 2FA one-time access codes") :under :do .

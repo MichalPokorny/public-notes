@@ -40,3 +40,16 @@
 <http://documentaryheaven.com> :under :sites .
 <http://asoftmurmur.com> :under :sites .
 <http://youarelistening.to> :under :sites .
+
+:perfect-memory rdfs:label "Perfect memory" ;
+	:note "TODO: Snazil se o to uz nekdo?" ;
+	:note "TODO: Kolik pameti je potreba na jake smysly?" ;
+	:note "TODO: Co vsechno bychom mohli vedet, kdybychom meli lepsi pristup k pameti?" ;
+	:note "TODO: Diktafon." .
+
+:running rdfs:label "Running" ;
+	:link <http://rungo.idnes.cz/terminovka.aspx> ;
+	:note "Praha: 2 ligy na 10k (Vitkov, Branik)" ;
+	:link <http://www.vaseliga.cz/cz/sporty/behani/> .
+
+

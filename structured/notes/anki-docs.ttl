@@ -1,0 +1,13 @@
+@prefix : <http://rny.cz/knowledge#> .
+
+:anki :note "field blueprint: card type.  add and edit card types: Cards... button" ;
+	:note "new collection: Anki adds standard note types to new collection: Basic (+- reversed card); Cloze (Cloze deletion)" ;
+	:note "launch in custom Anki dir: anki -b dropbox/anki" ;
+	:note "spacebar: Good, 1 = Again, 2 = Good, 3 = Easy" ;
+	:note "to change field replacement tags: {{=<% %>=}} <%latex field%>" ;
+	:note "{{text:Expression}}: strip HTML" ;
+	:note "AnkiWeb" ;
+	:note "{{#FieldName}} ... {{/FieldName}}: shown only if FieldName is non-empty" ;
+	:note "{{^FieldName}} ... {{/...}} : only if FieldName empty" ;
+	:note "{{hint:MyField}}" ;
+	:note "special fields: {{Tags}}, {{Type}}, {{Deck}}, {{Subdeck}}, {{Card}}, {{FrontSide}}" .

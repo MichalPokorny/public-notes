@@ -1,31 +1,14 @@
-customizing fields
-blueprint: card type
-	add and edit card types: Cards... button
-new collection: Anki adds some standard note types to it
-	Basic; Basic (and reversed card); Basic (optional reversed
-	card); Cloze (Cloze deletion)
 tags
-
-spacebar: Good; 1 = Again, 2 = Good, 3 = Easy
 
 Anki: record audio - incl. answers
 
-LAUNCHING: anki -b dropbox/anki
 {{type:Foreign Word}}
 
 {{type:cloze:1993}}
 styling: .card, .card1, img, img#start, ...
-{{hint:MyField}}
-special fields: {{Tags}}, {{Type}}, {{Deck}}, {{Subdeck}}, {{Card}}, {{FrontSide}}
 File: <img src="_logo.jpg"> (will be exported when sharing the deck)
 	Media references to fields are not allowed (will not work) -- latex, sound, img
 	store in "User 1"
-
-{{#FieldName}} ... {{/FieldName}}: shown only if non-empty, {{^FieldName}}: only if empty
-
-{{text:Expression}}: strip HTML
-
-AnkiWeb
 
 imported file can also set the Tags field - TODO -- I want that.
 	how do I do that in Python?
@@ -39,7 +22,3 @@ as the type you’re importing, the existing note’s other fields will be updat
 based on content of the imported file.
 
 collection.anki2; audio and images: in collection.media folder
-
-to change field replacement tags:
-	{{=<% %>=}}
-	<%latex field%>

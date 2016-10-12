@@ -10,7 +10,6 @@ TODO: sehnat stop-motion videa z K-SCUKu (Lukas mi poslal neco jineho...)
 TODO: POSTFIX BOUNCES POSILEJ NA POK@RNY.CZ!
 TODO: ICE kontakt v mobilu
 TODO: nastavit na facebooku notifikace na zpravy od neznamych
-TODO: existuje neco jako 'remind at location'?
 TODO: procistit vnitrni pamet mobilu
 TODO: zmerit delku 'hand span', vzdalenost natazenych rukou
 
@@ -89,16 +88,10 @@ rescuetime: stop collecting window + document titles?
 
 3000 work Pomodoros, 500 study Pomodoros, 500 personal Pomodoros
 
-/etc/letsencrypt/* on server -- mel bych to zabackupovat
-/etc/letsencrypt/live/mail.rny.cz/fullchain.pem
-renewing certificates every month
-
 hnuti brontosaurus
 future of humanity institude - visit?  (Ondra)
 
 stockton vypada nefunkcne!
-
-koupit rozdvojku na audio
 
 nastudovat neurosis / neurotic
 
@@ -123,10 +116,6 @@ poridit lekarnicku, teplomer
 
 test na facebook app listening
 
-zmerit moji vysku
-
-rozsirit delani screenshotu: dokazal bych potencialne nahravat vsechno, co delam s pocitacem? neco uzitecneho s tim delat?
-
 investigate lifespan impact of vegetarianism
 	blood screen: risk factor na nemoci, impact na lifespan, B-12, D, omega-3
 
@@ -147,12 +136,10 @@ Martin Fowler: sw engineer, author, international public speaker on SWE. smart g
 Jerry Fodor (philosopher)
 pridat do CV: spring school of combinatorics 2014 stuff
 throw out all socks, get 30 identical pairs
-TODO: zazalohovat Dropbox 2FA one-time access codes
 TODO: stahnout 'find the music in you'
 Galibi deskovky
 http://apophis.cz/blog/
 Pasky - portfolio algoritmu
-multi-armed bandit problem (Tomas Tunys z CVUT eClub media lab)
 listen to audiobooks at 2-3x normal speed
 koupit osusku
 podivat se na eliezerovy stare maily z ~1997
@@ -161,7 +148,6 @@ agentyduck.blogspot.com
 brazilian jiu jitsu
 build self-worth
 relationship advice thread z order of the stick
-Inspiration Manifestation: Rarity se tam uklidnuje jedenim zmrzliny :D
 
 knizka, ve ktere hlavni hrdina ma rozdelene hemisfery
 stalo se mu to asi na mesici jestli si dobre vzpominam
@@ -199,11 +185,6 @@ during the battle: call out flinching reactions
 envision what could go badly if you come to false beliefs
 http://www.marcandangel.com/2011/12/11/30-things-to-stop-doing-to-yourself/
 koupit vahu, co umi automaticky logovat vahu do webservice po wifi
-na LessWrong: perfect memory
-	- snazil se o to uz nekdo?
-	- kolik pameti je potreba na jake smysly?
-	- co vsechno bychom mohli vedet, kdybychom meli lepsi pristup k pameti?
-	diktafon na dokonalou pamet
 najit: draco telling harry to always be ready to give everything back
 zlozvyk: jedeni oboci
 right hemisphere dysfunction: https://medicalspeechpathology.wordpress.com/student-handbook/right-hemisphere-dysfunction/
@@ -216,10 +197,6 @@ tarif? lepsi mobilni internet?
 test na anemii: anemie zpusobuje depresi
 https://www.reddit.com/r/theXeffect
 http://www.paulgraham.com/vb.html
-rungo.cz: terminovka   http://rungo.idnes.cz/terminovka.aspx
-Praha: 2 ligy na 10k
-Vitkov, Branik -- standartni 10k kazdy mesic
-Loap prazska bezecka tour: http://www.vaseliga.cz/cz/sporty/behani/
 apply to OpenAI
 TODO: ssh-agent on metacentrum
 http://slideslive.com/casp/xiii-celostatni-konference-casp-laska-ve-21-stoleti

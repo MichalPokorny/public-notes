@@ -67,6 +67,19 @@ yt:C3cEbsb9a9c :under :hudba ;
 ("new pixies") :under :hudba .
 ("the irrepressibles - two men in love") :under :hudba .
 ("nove album God Is An Astronaut") :under :hudba .
+("muzikal Evita") :under :hudba .
+("west side story") :under :hudba .
+("TODO: consider Zluty pes") :under :hudba .
+("TODO: consider GTA Soundtrack") :under :hudba .
+("TODO: consider They Might Be Giants") :under :hudba .
+("TODO: consider Plastic People") :under :hudba .
+("TODO: consider Genesis") :under :hudba .
+("TODO: consider opposing force OST") :under :hudba .
+("TODO: cesky postrock?") :under :hudba .
+("TODO: sehnat The Who") :under :hudba .
+
+("Hangedup") :under :hudba ;
+	:note "nope, to je celkem bad" .
 
 :hudba-sehnat rdfs:label "Hudba - sehnat" .
 ("Chumbawamba - alba Un, A Singsong and a Scrap, The Boy Bands Have Won ...") :under :hudba-sehnat .
