@@ -31,11 +31,28 @@
 ("Zpusob mapovani virt. pameti") :under :learn .
 ("Some perfect hashing algorithm (CHD?)") :under :learn .
 ("Sapolsky - evolutionary biology") :under :learn .
-vyzkumna metodologie v socialnich vedach (experiment, kvazi-experiment,
-	reliabilita, validita, grounded theory, Cronbachova alfa, statisticke
-	testy, ...)
-ethereum
-nastudovat gender stuff
+("ethereum") :under :learn .
+("nastudovat gender stuff") :under :learn .
+("counterfactual thinking") :under :learn .
+("ablation studies") :under :learn .
+("metaanalyses, statistics") :under :learn .
+<https://grml.org/zsh/zsh-lovers.html> :under :learn .
+<http://reasoniamhere.com/2014/01/11/outrageously-useful-tips-to-master-your-z-shell/> :under :learn .
+<https://github.com/jlevy/the-art-of-command-line> :under :learn .
+("log-normal distribution") :under :learn .
+("koncept power law (distribuce)") :under :learn .
+("stats: learn separating out multiple correlations") :under :learn .
+("naucit se full windsor knot") :under :learn .
+("MESI synchronizace (MOESI synchronizace) cache") :under :learn .
+("ekonomika") :under :learn .
+
+:learn-methodology rdfs:label "Learn - Research methodology (in soc. sciences)" ;
+	:under :learn .
+("experiment, kvazi-experiment") :under :learn-methodology .
+("reliabilita, validita") :under :learn-methodology .
+("grounded theory") :under :learn-methodology .
+("Cronbachova alfa") :under :learn-methodology .
+("statisticke testy") :under :learn-methodology .
 
 :learn-lang rdfs:label "Learn - Programming language" ;
 	:under :learn .
@@ -94,6 +111,11 @@ nastudovat gender stuff
 ("client-side JS (Backbone, ...)") :under :learn-cs .
 ("JS/jQuery frontends") :under :learn-cs .
 ("COBOL?") :under :learn-cs .
+("pochopit python metaclasses") :under :learn-cs .
+("torch7") :under :learn-cs .
+("GoogLeNet") :under :learn-cs .
+("ABAP?; chef; flume") :under :learn-cs .
+("C# 6") :under :learn-cs .
 
 :learn-algorithms rdfs:label "Learn - Algorithms" ;
 	:under :learn-cs .
@@ -135,7 +157,14 @@ nastudovat gender stuff
 ("Group representations (ureddit)") :under :learn-math .
 ("non-principal ultrafilter => hyperreals") :under :learn-math .
 ("nonstandard analysis") :under :learn-math .
-probability interpretations
+("probability interpretations") :under :learn-math .
+("Turanova veta") :under :learn-math ;
+	:from :kg2 .
+("Veta o #E v grafu bez uplneho minoru") :under :learn-math ;
+	:from :kg2 .
+("Erdos-Ko-Rado veta (z Diestel - Graph Theory)") :under :learn-math ;
+	:from :kg2 .
+("Hoeffdingova nerovnost") :under :learn-math .
 
 :learn-ai rdfs:label "Learn - AI" ; :under :learn-cs .
 ("probabilistic approaches to ML") :under :learn-ai .
@@ -152,9 +181,11 @@ probability interpretations
 ("restricted boltzmann machine") :under :learn-ai .
 ("deep belief network") :under :learn-ai .
 ("TensorFlow") :under :learn-ai .
-("Restricted Boltzmann machine learning") :under :learn-cs .
+("Restricted Boltzmann machine learning") :under :learn-ai .
 <https://en.wikipedia.org/wiki/Autoregressive_integrated_moving_average> :under :learn-ai .
+<http://multithreaded.stitchfix.com/blog/2016/04/21/forget-arima/> :under :learn-ai .
 <https://en.wikipedia.org/wiki/Probably_approximately_correct_learning> :under :learn-ai .
+("binarizace neuronovych siti") :under :learn-ai .
 
 :learn-phil rdfs:label "Learn - Philosophy" ; :under :learn .
 ("hyperreality") :under :learn-phil .
@@ -168,6 +199,9 @@ probability interpretations
 	:from "The Singularity: A Philosophical Analysis" .
 ("Ethics: perfectionism, emotivism, contractarianism") :under :learn-phil .
 ("Ethics: pasadena paradox, heaven and hell problem") :under :learn-phil .
+("non-cognitivism") :under :learn-phil .
+("error theory") :under :learn-phil .
+("subjectivism, substantive realism, constructivism") :under :learn-phil .
 
 :learn-webdev rdfs:label "Learn -WebDev" ; :under :learn-cs .
 ("CSS3 transitions") :under :learn-webdev .

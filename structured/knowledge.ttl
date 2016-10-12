@@ -6,27 +6,6 @@
 @prefix yt: <https://www.youtube.com/watch?v=> .
 @prefix : <http://rny.cz/knowledge#> .
 
-:hudba rdfs:label "Hudba" .
-("kitchen - time") :under :hudba .
-<https://play.spotify.com/album/2Gy2IQbKCWP3ax77OVQk3r> :under :hudba .
-<https://play.spotify.com/album/0mOsjBq82HCBaMa2O6qOUO> :under :hudba .
-<https://play.spotify.com/album/1HgPl9HO4QZEcyWWDB9bLa> :under :hudba .
-<https://play.spotify.com/album/36N3Q06Zw6G4ldMZi0lFGf> :under :hudba .
-<https://play.spotify.com/album/2fYqq3Q5sW8zSGvILmiTzG> :under :hudba .
-<https://play.spotify.com/album/0gmge9DFfEc5VSi87yiXyM> :under :hudba .
-<https://play.spotify.com/artist/3Rwlus4QnnBSnTe8pJV0rw> :under :hudba .
-<https://github.com/usrbinnc/netcat-cpi-kernel-module> :under :hudba .
-<http://theworldis.bandcamp.com/album/mixed-signals-comp> :under :hudba .
-<http://carolineshaw.com/hear/partita-for-8-voices/> :under :hudba .
-yt:RpZKsHliHXk :under :hudba .
-yt:mG7_fOuM5vE :under :hudba .
-yt:4uUGkyXrY5w :under :hudba ;
-	:by :flutters .
-yt:b_kzxM2qVYI :under :hudba ;
-	:by :flutters .
-yt:C3cEbsb9a9c :under :hudba ;
-	:note "super powerful on lsd".
-
 :80k rdfs:label "80k"
 
 <https://80000hours.org/articles/everything-you-need-to-know-about-whether-money-makes-you-happy/> :under :80k ;

@@ -1,0 +1,23 @@
+@prefix : <http://rny.cz/knowledge#> .
+
+:inquiry rdfs:label "Lines for inquiry"
+
+("opadava ocas vsem jesterkam?") :under :inquiry .
+("Kolik se pouziva na svete ropy? K cemu?") :under :inquiry .
+("Jak to vypada geograficky s pasmem gazy? neni to spojene s palestinou?") :under :inquiry .
+("Jak se vytvareji falesne vzpominky?") :under :inquiry .
+("critique of consequentialism, critique of moral realism?") :under :inquiry .
+("existuje nejaky argument proti antinatalistickemu pohledu?") :under :inquiry .
+("Proc jsou CSP solvery pomalejsi na velke problemy nez SAT solvery?") :under :inquiry .
+("Proc leva strana mozku cte z praveho ucha?") :under :inquiry .
+("Proc to je podobne s ocima?") :under :inquiry .
+("proc jsou psychologove a psychiatri separatni profese?") :under :inquiry .
+("proc kovy obzvlast zachovavaji a sbiraji radiaci?") :under :inquiry .
+("proc se nedoporucuje mit deti po 35? jde jenom o vajicko?") :under :inquiry .
+("propocitat TWINO pujckovou spolecnost, jestli to muze fungovat") :under :inquiry .
+("proc je tak velky rozdil mezi cenou vlaku do Vidne a do Brna?") :under :inquiry .
+("Menopauza a tehotenstvi: je mozne byt tehotna po menopauze kdyz se implantuje vajicko?") :under :inquiry .
+("proc pruvodci skenuji inkarty?") :under :inquiry ;
+	:note "pravdepodobne protoze overuji validitu" .
+("to, ze hodne lidi v Googlich AI tymech maji PhD") :under :inquiry ;
+	:note "myslel jsem si, ze to je zpusobene tim, ze lidi bez PhD neberou.  neni to nahodou misto toho tim, ze kdyz mam PhD, tak mam vetsi prior probability ze se do toho tymu prihlasim?" .

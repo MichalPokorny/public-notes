@@ -1,0 +1,12 @@
+@prefix : <http://rny.cz/knowledge#> .
+
+:do rdfs:label "Do"
+("webpage: hodit tam prezentaci o Bazelu") :under :do .
+("add more structure to my diary") :under :do .
+("fix music on mobile phone (album Built to Spill - You in Reverse)") :under :do .
+("purge old laptop (HP)") :under :do .
+("make Dropbox start on its own") :under :do .
+("join myfitnesspal + beeminder + vaha.ods") :under :do .
+("visit stiftung for EA in Berlin") :under :do .
+("consider switching to password manager") :under :do .
+("document server process, possibly create installation procedure") :under :do .

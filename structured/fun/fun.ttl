@@ -1,0 +1,70 @@
+@prefix : <http://rny.cz/knowledge#> .
+
+:fun rdfs:label "Fun" .
+<http://www.openculture.com/2010/07/tarkovksy.html> :under :fun .
+("Voltaire's Candide") :under :fun .
+("Napsat povidku") :under :fun .
+("Lipa Musica - program?") :under :fun .
+("jit na Galibi") :under :fun .
+("muzikal Cats") :under :fun .
+("Alberto Giacometti - Man Pointing") :under :fun .
+("John Cage paintings") :under :fun .
+("existentialist play: No Exit") :under :fun .
+("Ganzfeld effect (uniform input: cut pingpong ball, sleep mask + printer paper, white noise, noise-cancelling headphones)") :under :fun .
+("steinbeck") :under :fun .
+("Nassim Taleb - Skin in the Game") :under :fun .
+("beneath a steel sky (the game)") :under :fun .
+("Veins (by Drew) - kindle book") :under :fun .
+("Sapolsky (doporucen kate)") :under :fun .
+("The moral bucket list (David Brooks)") :under :fun .
+("film Destino (Walt Disney & Salvador Dali) + Dillinger Escape Plan - Widower") :under :fun .
+
+:webcomics rdfs:label "Webcomics" ; :under :fun .
+("http://www.toothpastefordinner.com/index.php?start=090913 + previous") :under :webcomics .
+("abstruse goose") :under :webcomics .
+("marriedtothesea.com") :under :webcomics .
+("http://www.prequeladventure.com/2014/05/3391/") :under :webcomics .
+
+:comics rdfs:label "Comics/manga" ; :under :fun .
+("snk: first unread 80") :under :comics .
+("walking dead: first unread 131") :under :comics .
+
+:shows rdfs:label "Shows" ; :under :fun .
+("Community") :under :shows ; :by :karel-ha .
+("Gilmore Girls") :under :shows ; :by :karel-ha .
+("SG-1") :under :shows .
+("Black books") :under :shows .
+("gotham") :under :shows .
+("Anime: Ajin; Geki no Souma; Haikyu") :under :shows ; :by :ondra-vadinsky .
+("Catherine Tate show") :under :shows .
+("Bojack Horseman S04E01+") :under :shows ; :by :petr-houska .
+("gravity falls s02e01+") :under :shows .
+("Walking dead, s05e09+") :under :shows .
+("MLP: first unwatched S06E18+") :under :shows .
+("attack on titan - last seen 25") :under :shows .
+("South Park s19") :under :shows .
+("house of cards season 4") :under :shows .
+("Seinfield") :under :shows .
+("Mentalist") :under :shows .
+("Friends") :under :shows .
+("That 70's Show") :under :shows .
+("Frasier") :under :shows .
+("Budou nove dily Black Mirror (tenhle rok?)") :under :shows ; :by :petr-houska .
+("bude 3. serie Rick and Morty") :under :shows ; :by :petr-houska .
+
+:books rdfs:label "Books" ; :under :fun .
+("Pohadka: Der satanarchäolügenialkohöllische Wunschpunsch") :under :books .
+("Jak se jmenuje tahle knizka?") :under :books .
+("Robert Devereaux - Santa Steps Out, Santa Claus Conquers the Homophobes :)") :under :books .
+("series of books after Beautiful Code") :under :books .
+("Alicorn - Rationalist Gothic") :under :books .
+
+:stories rdfs:label "Stories" ; :under :fun .
+("Abraha Joshua Herschel - I asked for wonder") :under :stories .
+("the destructors (short story)") :under :stories .
+("conference of the birds") :under :stories .
+<https://www.analogsf.com/0310/cookie.shtml> :under :stories .
+
+:poetry rdfs:label "Poetry" ; :under :fun .
+("allen ginsberg - howl") :under :poetry .
+("Guillaume Apollinaire - Zla je nadeje") :under :poetry .

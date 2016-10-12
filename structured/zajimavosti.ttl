@@ -267,3 +267,12 @@ wiki:Modafinil :under :modafinil .
   "the app clinic"
   "server monitoring: monitorix"
 ) :under :zajimavosti .
+
+("scared straight: regression to the mean") :under :zajimavosti .
+
+("cosmology suggests: number of value-bearing locations in our future light-cone is finite") :under :zajimavosti ;
+	:from :bostrom .
+("je vesmir konecny, nebo nekonecny? existuje konecne mnoho hmoty? existuje
+konecne mnoho veci, co maji etickou hodnotu? je proveditelne jenom konecne
+mnozstvi vypoctu?") :under :zajimavosti ;
+	:from :bostrom .

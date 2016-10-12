@@ -1,0 +1,9 @@
+:learn-guitar rdfs:label "Learn - Guitar" ; :under :learn .
+("Play harmonics") :under :learn-guitar .
+("Sound of Silence") :under :learn-guitar .
+("Muse - MK Ultra") :under :learn-guitar .
+("Muse - Resistance") :under :learn-guitar .
+("Muse - Starlight") :under :learn-guitar .
+("taby Earth") :under :learn-guitar .
+("cymbals eat guitars - and the hazy sea") :under :learn-guitar .
+("my little pony chords") :under :learn-guitar .

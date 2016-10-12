@@ -1,0 +1,26 @@
+@prefix : <http://rny.cz/knowledge#> .
+
+:tea rdfs:label "Tea" ;
+	:under :fun .
+
+("Lapacho: standartni priprava: varit 5 minut") :under :tea .
+("Gyukuro Asahi!") :under :tea .
+("China Milky Oolong +") :under :tea .
+("Vietnam Green OP") :under :tea .
+("Japan Sencha") :under :tea .
+("Pu-erh") :under :tea .
+("Lapsang Souchong") :under :tea .
+("Zelezna bohyne") :under :tea .
+("Pai Mu Tan") :under :tea .
+("China Jade Needles Yi Zhu") :under :tea .
+("ibisek") :under :tea .
+("zeleny mec") :under :tea .
+("vietnam oolong four seasons") :under :tea .
+("sejak") :under :tea .
+("keemun mao feng") :under :tea .
+("darjeeling.cz = obchod (pana Klaska)") :under :tea .
+("kukicha (vetvicky)") :under :tea .
+("ti kuan yin king") :under :tea .
+("joongjak") :under :tea .
+("sejak") :under :tea .
+("prodejny: teamountain.cz") :under :tea .
