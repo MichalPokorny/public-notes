@@ -1,8 +1,0 @@
-- Andrew Ng (Stanford machine learning group)
-- Yann LeCunn
-- Erik Demaine
-
-people for AI safety research (advisors):
-	Tenenbaum at MIT
-	Goodman at Stanford
-	Griffiths at Berkeley

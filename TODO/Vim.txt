@@ -1,2 +1,0 @@
-vim: RenameFile (todo?)
-'imal <C-l> <space>=><space>' == 'insert hash rocket in insert mode using C-l'

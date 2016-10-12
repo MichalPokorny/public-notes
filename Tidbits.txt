@@ -43,13 +43,6 @@ Zajimavost: O(n^2) gap je best kdyz je sifra black box oracle...
 exponential gap: diffie-helmann
 
 <h2>Math</h2>
-- knot theory
-- Hughes et al. (1995): random walk se na 1D a 2D gridu vrati zpatky na zacatek s pravdepodobnosti neco jako 1. Pro d >= 3 ale uz ne. Proc?u
-- Tarski monster group
-- Lovasz local lemma
-- Moser-Tardos algorithm
-- fractional calculus ("pulta derivace")
-- Shannon-Hartley theorem
 - combinatorial game theory: je to grupa
 - combinatory logic
 - pro kazdou grupu existuje graf, ktery ji ma za automorfickou grupu.
@@ -91,7 +84,6 @@ exponential gap: diffie-helmann
 - life review
 - loevinder stages of ego
 
-- Toggl app
 - Wunderlist
 
 - Milovice (u Prahy) - ghost town

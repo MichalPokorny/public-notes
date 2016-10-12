@@ -181,3 +181,21 @@ $ vagrant up
 $ vagrant ssh
 ...
 $ vagrant destroy" .
+
+("LaTeX") :under :programs ;
+	:note "pdflatex class option 'draft': ukazuje slimejze" ;
+	:note "sloppypar env" ;
+	:note "xetex/luatex allows fontspec, which has fancy ligatures" ;
+	:note "\Command{} (eats space otherwise)" ;
+	:note "stretching tables: 'tabu' package" ;
+	:note "\citet{Erdos65} \citep{Erdos65} \citep*[see][chap. 2]{Erdos65}" ;
+	:note "equation environment: allows label, ref; automatically numbered ((+subequations exist))" ;
+	:note "\overbrace{something}{overbrace description}, podobne underbrace" ;
+	:note "cases env for piecewise functions" ;
+	:note "multiline subscript: substack" ;
+	:note "\renewcommand{\qedsymbol}{ajlasdf}" ;
+	:note "align*, align (aligned equations)" ;
+	:note "q = batch, r = run non-stop" ;
+	:note "\vspace{\stretch{1}}" ;
+	:note "\stretch{1} \stretch{2}: jako hfill/vfill, akorat se roztahuje pomerove" ;
+	:note "\dotfill, \hfill, \hrulefill" .
