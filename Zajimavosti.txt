@@ -1,4 +1,3 @@
-- na podzim bude Vlajkova - www.vlajkova.cz
 - umim ovladat tensor tympani
 
 apparently vitamin B2 (riboflavin) + spousta vody + kreatinin fools a urine test for weed
@@ -6,27 +5,16 @@ apparently vitamin B2 (riboflavin) + spousta vody + kreatinin fools a urine test
 Narosan Orange
 
 reza aslan
-samizdat.mines.edu/howto/HowToBeAProgrammer.html
 "curry on" konference
 sandboxed apps (gnome3)
 capital asset pricing model
 "look at callers for testing inspiration"
 
 somebod.com (== courbet@)
-producthunt.com
-drawattention.co
-pond.imperialviolet.org
-wit.ai
-
-https://en.99designs.fr/tasks/
-
-bitboot.camp
 
 the muse (startup)
 
 commits.io: postery s kodem
-
-www.cgtextures.com
 
 BTC pinata
 
@@ -40,15 +28,8 @@ bezecky pas; walking desk
 1 ns of wire (Grace Hopper)
 The* == global singleton (Carmack)
 
-brunoloff.wordpress.com/c-expressions
-materialup.com
-
 artoo - ruby on robots
 
-sourcegraph.com
-srclib.org
-piskvorky/gensim
-react/flux
 Alfred service ("universal butler")
 
 Vim ma Ruby rozhrani
@@ -73,9 +54,6 @@ JIT in GCC5
 sandstorm.io?
 
 Escher programming language (circuits etc)
-http://www.rozhlas.cz/hlas/splhavci/_zprava/krutihlav-obecny-video--12268
-
-github.com/gpoore/minted: syntax highlighting with pygments for latex
 
 getmosh.io
 
@@ -97,16 +75,12 @@ bubble.is
 
 "rozvijej svuj klid" <- odkud to je? (twitter ma error page "420 Enhance your calm", maybe?)
 
-https://karpathy.github.io/2015/05/21/rnn-effectiveness/
-http://www.paulgraham.com/articles.html
 littlebits.com: elektro stavebnice
 
 lol language. "chub rub"
 
 google polymer 1.0
 Android Studio 1.0, with C/C++
-
-startupdeveloperjobs.com
 
 aukce po exekucich
 
@@ -115,8 +89,6 @@ superbad.com = ?
 TLA+ language
 
 faidros
-
-http://blog.andreascarpino.it/cleaning-an-arch-linux-installation/
 
 jacques brel: chansonier
 
@@ -130,7 +102,6 @@ jobstart
 
 kdovolal.cz aplikace
 
-hackjobio.herokuapp.com
 
 google/deepdream
 
@@ -187,9 +158,6 @@ skulpt: python in browser
 markmanson.net
 
 HISTFILE="${HOME}/.history/$(date -u +%Y/%m/%d.%H.%M.%S)_${HOSTNAME_SHORT}_$$"
-actuary table: www.ssa.gov/oact/STATS/table4c6.html
-
-playbook.samaltman.com
 
 big think slavoj zizek
 
@@ -205,14 +173,12 @@ Deep Neural decision Forests
 GWT (naucit se)
 
 london: afternoon tea (je to docela formalni ceremonie)
-macro.ycombinator.com
 MinHash
 AdNauseam
 mono no aware
 
 up-for-grabs.net
 joeyh.name
-http://www.payne.org/index.php/Startup_Equity_For_Employees
 
 real-parameter black-box optimization benchmarking functions
 
@@ -224,18 +190,11 @@ appka 'spoje'
 
 ucontext: getcontext, setcontext, makecontext, swapcontext
 
-http://research.microsoft.com/en-us/projects/liquid/
-
-https://data.triplebyte.com/who-y-combinator-companies-want-c1880a08ac88#.kunw8q33p
-
 confucianism
 
 aktivni a reaktivni cile (Karryina prednaska o sebeorganizaci)
 
 wiki.hackerspaces.org/Hackbase
-
-heroforge.com: custom dnd miniatures
-http://totalgarb.tumblr.com/tagged/startupbullshit
 
 Python: werkzeug
 little forms: plain C minimalistic GUI library
@@ -243,9 +202,6 @@ little forms: plain C minimalistic GUI library
 security: obfuscation (of algorithm)
 
 waitbutwhy tipping
-https://en.wikipedia.org/wiki/The_Tao_of_Programming
-
-http://danluu.com/startup-tradeoffs/
 
 eclipse code recommenders
 Eclipse Phase
@@ -254,32 +210,17 @@ laplace's rule of succession
 python: joblib
 	folium: geo visualization
 
-http://dotat.at/tmp/gll.pdf
-
-github.com/hacksalot/HackMyResume
-
 Purpose exercise: https://quip.com/qECCAmf6saPO
 
 Junktown postapo festival
-http://craftsmanship.net/
 
-https://gist.github.com/bishboria/8326b17bbd652f34566a
 
 soulseek: hledac hudby (Vita Sliva)
-http://os.phil-opp.com/
 
 papers by nick bostrom
-https://intelligence.org/research/
 100-10-1 open source
-http://www.linusakesson.net/programming/tty/index.php
-http://celandine13.livejournal.com/72711.html
-http://mcntyr.com/52-concepts-cognitive-toolkit/
-
-http://www.openculture.com/2012/01/michel_foucault_free_lectures.html
 
 36 questions to fall in love
-http://quantifiedself.com/
-http://marketsineverything.com/
 
 emacs org-mode
 
@@ -288,10 +229,7 @@ tastytrade
 openage: open Age of Empires II
 think or swim
 
-quantopian.com
-
 survivor library
-http://up-for-grabs.net/
 
 http://servis.idnes.cz/GetFile.aspx?type=idneskindle: returns idnes.mobi
 
@@ -301,10 +239,7 @@ bostrom's exploration of anthropic principle
 sleeping beauty problem
 guesstimate
 
-http://www.trinity.edu/cbrown/bayesweb/
-https://faces.ethz.ch/
 decision theory: all sane decision rules equivalent to bayes
-http://poetrychina.net/Story_of_Zen/zenstory3a.htm
 
 frequentist probability vs. bayesian probability
 bayesian vs. frequentist probability; bayesianism; degree of belief vs. coin toss
@@ -321,14 +256,10 @@ counterfactuals (what is the counterfactural to intervention?): http://theincide
 comparative advantage: http://www.econlib.org/library/Topics/Details/comparativeadvantage.html
 
 reinforcement learning: an introduction
-http://futureoflife.org/data/documents/research_priorities.pdf
 
 clearerthinking.org: calculator of value of your time
 arugula (rukola)
 
-glassbowl.info
-chooseyourstory.com
-peek.usertesting.com
 
 naucit se predikce (x% by melo byt spravne, 100-x% spatne)
 
@@ -337,50 +268,29 @@ captain awkward blog
 v-rap robot simulator (http://www.coppeliarobotics.com/)
 
 hackerrank
-startupsort.com
-http://www.ksi.mff.cuni.cz/sw-projekty/zadani/dnama.pdf
 
 Slate Star Codex: which developmental milestones are you missing
-https://pond.imperialviolet.org/
 
-kudaviforest.com
 
 Facebook Purity
 think about risk around bitcoin
-https://www.readthetpp.com/
-modafinil
-http://agentyduck.blogspot.cz/2014/02/lobs-theorem-cured-my-social-anxiety.html
 emergency food rations
 
 Krakonosova Bitcoinova karta (cerna; funguje jako debitni karta backovana bitcoinem)
 
 Elo ratings: obecne na libovolnou hru 2 hracu, ne jenom sachy
-http://www.bakadesuyo.com/2012/08/here-are-the-things-that-are-proven-to-make-y/
-https://www.ncbi.nlm.nih.gov/pubmed/12585811
-https://cmusatyalab.github.io/openface/
 
-https://en.wikipedia.org/wiki/Modafinil
-https://examine.com/supplements/modafinil/
-http://www.gwern.net/Modafinil
 dopamin
 Urbit system; Nock; Hoon
 Joscha Bach: 30c3 How to build a mind, 31c3 From computation to consciousness, 32c3 Finding meaning using Artificial Intelligence, 33c3
 centrum pro studium existencnich rizik v cambridge; taky lesswrong krouzek, efektivni altruisti
 Vaclav Smil: bill gatesuv vedec
-http://fronema.eleferno.cz/index.php
 auditory brainstem implant
-http://www.data-journal.science
-http://lesswrong.com/lw/5jj/meditation_insight_and_rationality_part_2_of_3/
 Timothy Leary znal Aldouse Huxleyho
 Leary: napsal manual k brani LSD
 
 slate star codex: meditations on moloch
 
-http://lesswrong.com/lw/4su/the_science_of_happiness/
-http://lesswrong.com/lw/6ga/index_of_yvains_excellent_articles/
-http://nothingismere.com/2015/09/12/library-of-scott-alexandria/
-
-https://glittering.blue
 
 self-indication assumption
 
@@ -403,7 +313,6 @@ philosophy of mind
 john searle
 patricia churchland
 
-https://en.wikipedia.org/wiki/Neuroevolution
 memetic algorithms
 
 McCollough effect
@@ -414,8 +323,6 @@ memento, terrigena. suus cuique carus.
 neuroevolution
 spousta clanku o AI safety: http://globalprioritiesproject.org/2015/10/three-areas-of-research-on-the-superintelligence-control-problem/
 (coaching 80k hours)
-
-http://juokaz.com/blog/how-are-you-doing.html
 
 Beaker
 Google Cloud Platform
@@ -433,34 +340,11 @@ robert kegan: self concept (disidentification)
 new sincerity
 
 primaeval (petova hra)
-https://mobile.twitter.com/stevenkaas
 
-Augur project: decentralized open-source prediction market platform
 
 Luminosity Sequence: http://lesswrong.com/lw/1xh/living_luminously/
 	ureshiku naritai (precteno)
 
-https://en.wikipedia.org/wiki/Long_short-term_memory
-
-http://www.redbubble.com/people/lalaithion/works/10939446-i-cooperate-in-the-prisoners-dilemma?p=t-shirt
-http://slatestarcodex.com/2013/05/24/going-from-california-with-an-aching-in-my-heart/
-
-https://en.wikipedia.org/wiki/Welsh_Dragon
-
-http://www.mustafaak.in/2016/02/08/writing-my-own-init-with-go.html
-
-https://en.wikipedia.org/wiki/Mechanism_design
-
-github thoughtbot/til
-
-http://www.hnreplies.com/
-https://github.com/mila-udem/blocks
-
-https://en.wikipedia.org/wiki/World_Values_Survey#Catalogue_of_Findings
-
-http://softwareengineeringdaily.com/2016/02/12/10-philosophies-for-developers/
-http://lesswrong.com/lw/58g/levels_of_action/
-http://www.theawl.com/2012/05/roman-emperor-deaths
 John Locke (philosopher)
 
 study Rieger and Hans - How Time Preferences Differ
@@ -470,51 +354,29 @@ michael anissimov (of 'more right')
 "needs to be about 20% cooler" :)
 slatestarscratchpad tumblr
 
-https://sense2vec.spacy.io/?natural_language_processing|NOUN
-
-github danielquinn/paperless
 
 thetopfives.net/dashboard
 deepart.io
 
-http://dirkgorissen.com/2012/03/26/the-researcher-programmer-a-new-species/
-http://dirkgorissen.com/2012/09/13/the-research-software-engineer/
-https://medium.com/@_cmdv_/what-should-i-learn-next-as-a-programmer-477728c5c3c4#.cubxww949
-
-http://onlinelibrary.wiley.com/doi/10.1111/joms.12177/full
-https://medium.com/@tyleralterman/recommended-reading-for-pareto-fellows-38f26179cd3a#.22wuuje7h
 
 Cheeaun.life
 
 Code lyoko
 
-http://www.foodpairing.ninja/pairs.html
 cognitivescience.cz
 
-http://generalzoi.deviantart.com/art/Pony-Creator-Full-Version-254295904
 
 /r/atheisthavens
 
-http://fourhourworkweek.com/2015/11/22/will-macaskill/
 
 samharris.org
 
 cool: curl -4 http://wttr.in/
 
-Paperwork: https://github.com/jflesch/paperwork/#readme
 
-http://www.thebookoflife.org/how-we-end-up-marrying-the-wrong-people/
-http://www.thebookoflife.org/
-
-https://en.wikipedia.org/wiki/Lists_of_unsolved_problems
 
 tsuyoku naritai
 
-http://lesswrong.com/lw/y4/three_worlds_collide_08/
-
-http://kerray.cz/2015/nova-doba/
-http://kerray.cz/2015/cesky-kulturni-rybnicek/
-http://archetypal.cz/o-nas/
 
 yudkowskeho racionalni education (ve 20. stoleti)
 	https://en.wikipedia.org/wiki/Daniel_Kahneman
@@ -522,9 +384,6 @@ yudkowskeho racionalni education (ve 20. stoleti)
 technique: crossing tribal signaling boundaries
 
 deep learning tutorial: https://www.youtube.com/watch?v=PlhFWT7vAEw&feature=youtu.be
-https://en.wikipedia.org/wiki/Norbert_Wiener
-
-http://qualiacomputing.com/2015/05/22/how-to-secretly-communicate-with-people-on-lsd/
 
 Stripe Atlas + YC Fellowships
 
@@ -533,11 +392,7 @@ Vegetarianstvi:
 
 co je zac "generic party music" z mlp s01e25?
 
-https://aeon.co/opinions/there-is-a-better-way-to-parent-than-the-nuclear-family?utm_source=Aeon+Newsletter&utm_campaign=7e82ff84b7-Daily_newsletter_Wednesday_24th_February2_23_2016&utm_medium=email&utm_term=0_411a82e59d-7e82ff84b7-68657997
-
 wiki: 'dolly zoom'
-
-http://blog.agi.io/2015/05/consciousness-free-will-elephants-in.html?m=1
 
 https://www.youtube.com/watch?v=UHzwqf_JkrA&t=860s:
 	typicke kure koupene v supermarketu je stare 42 dni (selekce na rychly rust)
@@ -545,15 +400,6 @@ https://www.youtube.com/watch?v=UHzwqf_JkrA&t=860s:
 	typical turkey has such large breasts that they're physically unable to mate --> artificial insemination
 
 https://en.wikipedia.org/wiki/Digital_immortality: už teď je realistické indexovat všechny konverzace co člověk kdy slyšel
-
-https://en.wikipedia.org/wiki/Weltschmerz
-https://en.wikipedia.org/wiki/Spiritual_crisis
-https://en.wikipedia.org/wiki/Solipsism_syndrome
-https://en.wikipedia.org/wiki/Midlife_crisis
-https://en.wikipedia.org/wiki/Problem_of_other_minds
-https://en.wikipedia.org/wiki/Anomie
-https://en.wikipedia.org/wiki/Existential_crisis
-https://en.wikipedia.org/wiki/Explanatory_gap
 
 Pareto fellowship - work focuses: contrarian thinking, research methodology
 
@@ -570,28 +416,14 @@ Ethereum - programovatelny blockchain
 
 teorie prospektu
 
-https://en.wikipedia.org/wiki/Selectorate_theory
-http://inference-review.com/article/categories-from-zero-to-infinity
-
 Toki Pona language
-
-https://github.com/tmadl/sklearn-expertsys -- interpretable sklearn-compatible classifiers based on decision rules
-
-https://www.fastcompany.com/3056869/this-brain-reading-tool-can-teach-you-a-new-skill-in-no-time
-
-Inceptionism ipython notebook: http://nbviewer.jupyter.org/github/google/deepdream/blob/master/dream.ipynb
-
-Neural Style repo (adapt to style of other image): https://github.com/jcjohnson/neural-style
 
 work of Lutz Prechelt -- *actual* research on SW development with studies and experiments and stats and stuff
 
 Mrazova: "drive se zaokrouhlovalo jinym algoritmem nez od petky nahoru"
 
-http://mynoise.net/NoiseMachines/rainNoiseGenerator.php
-
 State of the Herd - personality types
 rawls - reflective equillibrium
-https://en.wikipedia.org/wiki/Meta-ethics
 
 bodhisattva vow
 
@@ -613,12 +445,6 @@ Joscha Bach's group at MIT: http://futureai.media.mit.edu/schedule/
 
 proselint
 
-https://github.com/awentzonline/image-analogies
-
-fmod.io: sound effects for gamedev
-
-series of articles about how OpenGL works: https://github.com/ssloy/tinyrenderer/wiki
-
 brain.fm
 the most dangerous writing app (keep writing and nothing gets deleted)
 
@@ -626,21 +452,12 @@ GCRs book: "horizontal gene transfer & the origin of our immune system"
 
 hero's journey / monopsychism / panpsychism / collective unconscious
 
-http://www.worldometers.info
-
 true self / false self
-
-https://en.wikiversity.org/wiki/True_Self
-https://en.wikiversity.org/wiki/What_Matters
-https://en.wikiversity.org/wiki/Wisdom/Curriculum
 
 arbital.com -- "yudkowskeho vysvetlovac"
 
 icq-desktop leaked repo
 
-https://en.wikipedia.org/wiki/Cognitive_distortion
-https://en.wikipedia.org/wiki/Peak_experience
-http://mindingourway.com/see-the-dark-world/
 psychic unity of humankind
 mind projection fallacy
 brown's list of human universals
@@ -652,8 +469,6 @@ cognitive dissonance theory
 guesstimate
 hra: eclipse phase
 
-https://www.ncbi.nlm.nih.gov/pubmed/12585811
-https://www.ncbi.nlm.nih.gov/pubmed/26847844
 log-normal distribution
 
 neural correlates of consciousness
@@ -663,8 +478,6 @@ jina zvirata. moc to nejde vyhledat...
 Bostromova sova: Claire Scully
 
 enkratic requirement (enkrasia)
-
-https://github.com/alexjc/neural-doodle
 
 Mencius Moldbug (Curtis Guy Varvin): booted from Strangeloop conference
 
@@ -678,25 +491,14 @@ Hansen's interpretation of quantum measurement (Mangled Worlds): https://mason.g
 
 xamarin: free in VS, sdk being open sourced
 
-https://github.com/yudai/gotty
-https://juliekoubova.net/pamatnicek/JulieKoubova-Pamatnicek.pdf
-
-http://www.lovethatworks.org/
-
 slatestar: psychiatry: "not otherwise specified" (NOS)
 	Moloch is the spirit of things responding to perverse incentives
-
-Augur project: https://github.com/AugurProject/argus
 
 hyperreality
 
 cyklodextrin proti cholesterolu
 
-https://some1else.github.io/life/
-
 patricia+paul churchland: eliminative materialism
-
-http://slatestarcodex.com/2015/01/25/a-philosopher-walks-into-a-coffee-shop/
 
 microsoft codecontracts
 
@@ -708,8 +510,6 @@ proc se zapomnetlivosti rika "skleroza"? zadna obvykla nemoc se tak nejmenuje
 joscha bach -- checknout jeho cisla: kolik megabytu/gigabytu/terabytu dat za zivot zpracuju? kolik udelam operaci?
 
 David Chalmers: consc.net
-
-http://www.prospectmagazine.co.uk/features/gender-good-for-nothing
 
 en.argumen.org/vim-is-better-than-emacs:
 	struktura argumentu
@@ -740,15 +540,7 @@ http://googleresearch.blogspot.cz/2016/05/announcing-syntaxnet-worlds-most.html
 
 Vidar Holen - interjections: https://www.vidarholen.net/contents/interjections/
 
-https://en.wikipedia.org/wiki/List_of_common_misconceptions
-
-https://hbr.org/2016/03/why-your-late-twenties-is-the-worst-time-of-your-life
-
-http://inverseprobability.com/2016/05/09/machine-learning-futures-6
-
 @fbchess
-
-https://github.com/karpathy/char-rnn
 
 mlguru.cz -- cesky blog o strojovem uceni
 
@@ -756,12 +548,8 @@ prediction market for nonprofits: agregace hodnoty by nemohla pouzivat hodnotu f
 
 Rocksmith (hra na uceni kytary)
 
-ASMR (https://en.wikipedia.org/wiki/Autonomous_sensory_meridian_response)
-
 Hahn-Banach theorem
 Riesz Representation theorem
-
-draw.io
 
 CD wifi umi filmy a tak
 
@@ -779,8 +567,6 @@ Likert scale: agree-disagree scale
 
 manevr 'rozprostreni odpovednosti'
 
-sharingbuttons.io
-
 let's wisdom . com
 
 Parsey McParseface -- syntaxnet/demo.sh
@@ -788,19 +574,11 @@ Parsey McParseface -- syntaxnet/demo.sh
 the dark playground: leisure activities when leisure not supposed to be happening
 	filled with guilt
 
-http://www.gwern.net/DNB%20FAQ
-
-http://waitbutwhy.com/2015/03/procrastination-matrix.html
-
-https://github.com/dschep/ntfy
-
 locus of control
 
 Python: attrs
 
 "life is a series of closing doors"
-
-http://www.downes.ca/post/38526
 
 Keras reimplementace WaveNet
 
@@ -809,43 +587,18 @@ od Jirky Novotneho:
 
 logo Ukrajiny je trojzubec
 
-http://danluu.com/bimodal-compensation/
-
-https://en.wikipedia.org/wiki/Beck's_cognitive_triad
-
-- www.czeps.org
-- www.beyondpsychedelics.cz
-
 "Weasel goal" ve firmach
 
 MicroPsi
-https://www.udacity.com/course/deep-learning--ud730
-
-reciprocity.io
 
 ABMT (attention bias modification training), CBM (cognitive bias modification)
 
 Elektrosluch - https://www.youtube.com/watch?v=jc9yFVojlE4
-
-Awesome NLP: https://github.com/keonkim/awesome-nlp
-
-http://reducing-suffering.org/altruists-focus-reducing-short-term-far-future-suffering/
-https://80000hours.org/career-guide/career-capital/?source=fb
-career decision tool: https://80000hours.org/career-decision/process/
-
 Paulie: http://www.growjob.com/uvod/ (GrowJOB Institute)
 Chi Running: http://www.chirunning.com/
-http://www.growjob.com/clanky-personal/inspirativni-videa-u-kterych-mrazi-v-zadech/
-
 retorika
-
-Aurelien's book: http://shop.oreilly.com/product/0636920052289.do
-
 Apache Mesos - datacenter mgmt
-
 caffe: deep learning framework (caffe.berkeleyvision.org)
 overfeat: CNN-based image classifier & feature extractor; participated in ImageNet 2013 (https://github.com/sermanet/OverFeat)
-
 mindsets online: zrejme nejake veci na robotiku a tak
-
 NetHack: hpmon is included in nethack-patch AUR package
