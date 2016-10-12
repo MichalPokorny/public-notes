@@ -1,6 +1,3 @@
-http://blog.givewell.org/2011/08/18/why-we-cant-take-expected-value-estimates-literally-even-when-theyre-unbiased/
-value of 1 life: 20-30 DALYs
-
 EA:
  * evaluation issues: advocacy, meta, far future, ... not verifiable by experiments
 	* modeling, Bayesian stuff
@@ -16,8 +13,6 @@ https://web.archive.org/web/20141013084905/http://kruel.co/2013/01/13/the-singul
 $800 = 1 dead child
 
 TODOs:
-	Julia Galef
-	Brian Tomasik
 	switch to all-beef => reduce moral footprint by ~99%
 
 	Beyond Meat: vegetarian fake chicken strips
@@ -31,10 +26,6 @@ social problems are big --> additional resources diminish in value very slowly
 
 assessing risk of death: micromort
 	(3.5 hours of unconsciousness after 1 hour of driving a motorcycle)
-
-https://diegocaleiro.com/2013/07/08/first-challenge-stop-learning-start-doing/
-https://brainstormers.wordpress.com/2010/10/18/altruistic-awesomeness-your-challenge/
-http://lesswrong.com/lw/s5/rebelling_within_nature/
 
 common objections to EA: http://wiki.effectivealtruismhub.com/index.php?title=Common_objections_to_effective_altruism
 criticism of EA: http://wiki.effectivealtruismhub.com/index.php?title=Criticism_of_effective_altruism
