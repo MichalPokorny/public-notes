@@ -30,7 +30,6 @@ zz			center current line on screen
 visual:o, O		edit other end (, corner) of selection
 "A..Z			append to register (works even when recording)
 C-X C-F			autocomplete file name (and many other such tricks)
-(ins) C-O		execute a single normal mode command
 gj, gk			move by visible lines
 /.../e			move to end of matching text (also e+1, e-1 etc.)
 /...\_s.../		match space or line break
@@ -62,10 +61,6 @@ gD, gd			goto definition, only in current function
 
 text objects:
 a( = a) = ab		a parenthesized block
-a< = a>			<...>
 aB			{...} block
 aW			white-space separated word
-a[ = a]			[...]
 aw, ap, as		word, paragraph, sentence
-i...			inner
-

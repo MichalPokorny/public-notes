@@ -70,6 +70,9 @@
 :poetry rdfs:label "Poetry" ; :under :fun .
 ("allen ginsberg - howl") :under :poetry .
 ("Guillaume Apollinaire - Zla je nadeje") :under :poetry .
+("Louise Bogan - The Daemon") :under :poetry .
+("Paradise Lost") :under :poetry .
+("robert frost - the road not taken") :under :poetry .
 
 :beer rdfs:label "Beer" ; :under :fun .
 ("Porter 19") :under :beer .

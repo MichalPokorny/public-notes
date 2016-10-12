@@ -4,24 +4,3 @@ git filter-branch --index-filter 'git rm --cached --ignore-unmatch MujCitlivySou
   --prune-empty --tag-name-filter cat -- --all
 
 	(=git purge-file)
-
-**Konfigurace:**
-	(barvicky)
-	[merge]
-		tool = vimdiff
-	[push]
-		default = upstream
-
-	(rozumnejsi format logu)
-	[log]
-		abbrevCommit = true
-		decorate = short
-		date = local
-	[format]
-		pretty = short
-
-	(min ukecanosti)
-	[advice]
-		pushNonFastForwards = false
-		statusHints = false
-		commitBeforeMerge = false

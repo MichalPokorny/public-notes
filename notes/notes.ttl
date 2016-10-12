@@ -16,6 +16,29 @@ wiki:Digital_immortality :note """
 	:title "Actual research on SW development efficiency" ;
 	:note """
 		work of Lutz Prechelt -- *actual* research on SW development with studies and experiments and stats and stuff
+	""" ;
+	:note """
+		* for every 25% increase in problem complexity, there is a 100% increase in
+		  solution complexity
+		* the two biggest causes of project failure are poor estimation and unstable
+		  requirements
+		* if more than 20-25% of a component has to be revised, it's better to start
+		  from scratch
+
+		60-90% of errors can be removed by careful inspection
+		most of value comes from first reader and first 1 hour
+		anything more is not economical
+		a few hundreds of lines of code
+
+		every change ought to be sized small
+
+		a system reflects the organizational structure that built it
+			(originally joke, turns out to be true)
+
+		physical distance between developers has no impact on post-release fault rate
+		organizational distance matters
+
+		most commonly used code metrics strongly correlate with lines of code
 	""" .
 
 yt:SR-tzgU07XY :title "the experiencing self / the remembering self" .

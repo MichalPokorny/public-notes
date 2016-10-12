@@ -144,6 +144,7 @@
 <http://sourcegraph.com> :under :zajimavosti .
 <https://pond.imperialviolet.org/> :under :zajimavosti .
 <http://srclib.org> :under :zajimavosti .
+<http://octicons.github.com/> :under :zajimavosti .
 <https://some1else.github.io/life/> :under :zajimavosti .
 <http://startupdeveloperjobs.com> :under :zajimavosti .
 <http://startupsort.com> :under :zajimavosti .

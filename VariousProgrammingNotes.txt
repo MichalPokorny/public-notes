@@ -10,15 +10,7 @@ rspec: stub(a: ..., b: ...)
 x, y = stub, stub
 
 __method__, __callee__
-ruby: ... .lazy.map
-{ |x| a(x) } ==> each(&method(:a))
-Process.daemon
-YAML::Store :)
-stub.as_null_object => muze vse
 rails to_param.
-
-RUBY:
-	ruby stringex
 
 VIM: \< \>: left/right word boundary in Vim (\b in grep)
 
