@@ -72,3 +72,6 @@ yt:C3cEbsb9a9c :under :hudba ;
 ("Chumbawamba - alba Un, A Singsong and a Scrap, The Boy Bands Have Won ...") :under :hudba-sehnat .
 ("All along the watchtower") :under :hudba-sehnat .
 ("Opeth, Porcupine Tree") :under :hudba-sehnat .
+
+:alarms rdfs:label "Music used as alarms"
+("the soundless dawn") :under :alarms .

@@ -1,6 +1,0 @@
-bind -p: ukaze bindy
-
-Bash:
-	command <<< "some text" (to je jako echo |)
-	^ = sed-like replace (^docs^web^)
-	Esc-. = fetch last arg

@@ -135,3 +135,49 @@
 ("jrnl") :under :programs ;
 	:purpose "journal command-line thingie" .
 ("jot") :under :programs .
+
+("bash") :under :programs ;
+	:note "bind -p: ukaze bindy" ;
+	:note "command <<< 'some text': jako echo |" ;
+	:note "^ = sed-like replace (^docs^web^)" ;
+	:note "Esc-. = fetch last arg" .
+
+("mutt") :under :programs ;
+	:note "; = tag-prefix" ;
+	:note "s = save" ;
+	:note ";s = move" ;
+	:note "filtr: ~f yaghob = From, ~t yaghob = To" .
+
+("sendmail") :under :programs ;
+	:purpose "sending mail and testing delivery process" ;
+	:note "sendmail -bv adresa... = co by se stalo" ;
+	:note "sendmail -v adresa... = popis vysledek" .
+
+("tmux") :under :programs ;
+	:note "Prefix = C-a" ;
+	:note "C-o: rotuj panely" ;
+	:note "C-z : suspend the client" ;
+	:note "! : break" ;
+	:note "\" : vertikalni split" ;
+	:note "% : horizontalni split" ;
+	:note "& : zabij okno" ;
+	:note "0-9 : vyber okno" ;
+	:note "; : do posledniho aktivniho panelu" ;
+	:note "c : nove okno" ;
+	:note "n : dalsi okno" ;
+	:note "o : dalsi panel" ;
+	:note "p : predchozi okno" ;
+	:note "t : cas" ;
+	:note "M-1-5: layout..." ;
+	:note "C-nahoru dolu vlevo vpravo: zvetsit/zmensit" ;
+	:note "M-nahoru dolu vlevo vpravo: vetsi zmenseni/zvetseni" .
+
+("vagrant") :under :programs ;
+	:note "Arch box: http://vagrant.pouss.in/archlinux_2012-07-02.box" ;
+	:note "$ vagrant box add lucid32 http://files.vagrantup.com/lucid32.box
+$ vagrant init lucid32
+$ vagrant up
+...
+$ vagrant ssh
+...
+$ vagrant destroy" .

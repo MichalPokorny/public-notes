@@ -1,0 +1,57 @@
+:vim :under :programs ;
+	rdfs:label "Vim" ;
+	:note "makeprg: muze obsahovat %, ktere se expanduje na soubor" ;
+	:note ":R ls -la = scratchbuffer ls -la" ;
+	:note ":Sex = split explore" ;
+	:note ":bufdo s/co/naco/ge" ;
+	:note ":enew" ;
+	:note "ZZ" ;
+	:note "Ctrl-F = obrazovka dolu, Ctrl-B = obrazovka nahoru" ;
+	:note "U: undo na tomhle radku" ;
+	:note "help: Ctrl-] = prejdi, Ctrl-T = zpet" ;
+	:note ":set textwidth=80" ;
+	:note "gq(pohyb) preformatuje" ;
+	:note "{gq} = reformatuj odstavec" ;
+	:note ":marks" ;
+	:note "'' nebo ``: pred poslednim skokem" ;
+	:note "<> = zacatek/konec vizualni oblasti" ;
+	:note "C-N, C-P" ;
+	:note "& = repeat replace" ;
+	:note "Command-T: fuzzy search in Vim" ;
+	:note ":s, :g" ;
+	:note "\| v map?" ;
+	:note ":map xx ..." ;
+	:note ":silent !echo ..." ;
+	:note "[m ]m == move by methods in structured language" ;
+	:note "list, listchars: highlighting of trailing spaces, tabs etc." ;
+	:note "'r <Enter>' je priblizne opak J" ;
+	:note ":set spell => [s ]s zg(add to dict) z=(suggest correctly spelled words)" ;
+	:note "autowrite" ;
+	:note "display=uhex,lastline (unprintable are shown as <XX>, partial last line shown)" ;
+	:note "set diffopt=filler,context=0" ;
+	:note "g-/g+ = prechod v case +- (jine undo)" ;
+	:note "set iskeyword-=_ zpusobi, ze _ oddeluje 'slova'" ;
+	:note "aw = 'predchozi slovo'" ;
+	:note "zz = vertikalne vystred" ;
+	:note "it = inside tag (textovy objekt)" ;
+
+:vim-commentary rdfs:label "vim-commentary" ;
+	:plugin-of :vim ;
+	:note "\\(motion) = zakomentuj" .
+
+:vim-rails rdfs:label "rails.vim" ;
+	:plugin-of :vim ;
+	:note ":A == switch production/test" .
+	:note "slowdown.vim" .
+	:note "NERD tree" .
+	:note "github vim-android" .
+	:note "VimTextObj: text objects for function args" .
+	:note "vim-rspec" .
+	:note "`` == jump between last marks" .
+	:note "Ctrl-C/[ misto Esc" .
+	:note "identify most frequent actions, map to Leader, leader as space" .
+	:note "select pasted text: noremap gV `[v`]" .
+
+("YouCompleteMe - podle subsekvence") :plugin-of :vim .
+("Nerd Commenter") :plugin-of :vim .
+("vim-fugitive: blame (Git)") :plugin-of :vim .

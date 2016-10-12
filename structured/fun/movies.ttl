@@ -38,8 +38,7 @@
 ("'mlp: equestria girls, mlp the movie'") :under :movies .
 ("Old Yeller (film)") :under :movies .
 ("woody allen - priznaky") :under :movies .
-("'dokumentarista: louis theroux (not watched yet: when Louis met...)'") :under
-:movies .
+("'dokumentarista: louis theroux (not watched yet: when Louis met...)'") :under :movies .
 ("the human condition (series)") :under :movies .
 ("ruzne filmy od Tarkovskeho (napr. starsi Solaris)") :under :movies .
 ("solaris (starsi verze)") :under :movies .
@@ -57,3 +56,46 @@
 ("prisoners") :from :reddit-mindfuck ; :under :movies .
 ("melancholia") :from :reddit-mindfuck ; :under :movies .
 ("(timecrimes - uz jsem asi videl)") :from :reddit-mindfuck ; :under :movies .
+
+:watched-movies :under :movies ;
+	rdfs:label "Watched movies" .
+("Shlednuty serial (miniseries): The Lost Room") :under :watched-movies .
+("Network") :under :watched-movies ;
+	:from :honza-kubalek .
+("The Last King of Scotland") :under :watched-movies ;
+	:from :honza-kubalek .
+("The Animatrix") :under :watched-movies .
+("sin city") :under :watched-movies .
+("dead poets society") :under :watched-movies .
+("v cine jedi psy") :under :watched-movies .
+("Thrive: hrozne zhulena ufologicka konspiracni teorie :D") :under :watched-movies .
+("Resonance - Beings of Frequency -- efekty em radiace na zive organizmy") :under :watched-movies .
+("The Power Principle: disaster capitalism") :under :watched-movies .
+("Collapse: o kolapsu ropnych produktu") :under :watched-movies .
+("Life in a Day: youtube film") :under :watched-movies .
+("Cloud Atlas") :under :watched-movies .
+("Earth Days: dost spatne a nudne") :under :watched-movies .
+("(celkem hezky short: This is water)") :under :watched-movies .
+("My neighbor totoro") :under :watched-movies .
+("Barry Lyndon") :under :watched-movies .
+("The Machinist") :under :watched-movies .
+("Confessions of a Dangerous Mind") :under :watched-movies .
+("Gravity") :under :watched-movies .
+("serial: Breaking Bad") :under :watched-movies .
+("o kuratech a lidech") :under :watched-movies ;
+	:from :karry .
+("skafandr a motyl") :under :watched-movies ;
+	:from :karry .
+("good will hunting") :under :watched-movies ;
+	:from :karel-tesar .
+("Bronies: The Extremely Unexpected Adult Fans of My Little Pony") :under :watched-movies .
+("The Invention of Lying") :under :watched-movies .
+("dokument: the century of the self") :under :watched-movies .
+("dokument: four horsemen") :under :watched-movies .
+("bohove musi byt sileni") :under :watched-movies .
+("death of a president (byl zajimavy)") :under :watched-movies .
+("black mirror (serial)") :under :watched-movies .
+("Kinsey") :under :watched-movies .
+("House of Cards") :under :watched-movies .
+("Rosencrantz and Guildenstern are Dead") :under :watched-movies .
+("Trainspotting") :under :watched-movies .

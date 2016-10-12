@@ -19,19 +19,6 @@ title: Tidbits
 - array decomposition in method args
 - TODO: 'guard'
 
-<h3>Vim</h3>
-- slowdown.vim
-- NERD tree
-- github vim-android
-- VimTextObj: text objects for function args
-- vim-rspec
-TODO:
-- `\`\`` == jump between last marks
-- Ctrl-C/[ misto Esc
-
-identify most frequent actions, map to Leader, leader as space
-select pasted text: noremap gV `[v`]
-
 <h2>CS</h2>
 - Time-delay neural network
 - hra Facade

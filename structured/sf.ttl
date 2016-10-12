@@ -1,32 +1,25 @@
 @prefix : <http://rny.cz/knowledge#> .
 
-:san-francisco rdfs:label "San Francisco"
+:san-francisco rdfs:label "San Francisco" .
+
+:san-francisco :note ("cena listku San Francisco -- Praha (zpatecni): ~$1100") .
 
 ("Sourcegraph hacker meetup") :under :san-francisco .
 ("SF nike sites") :under :san-francisco ;
 	:note "first sat/sun? in month = guided tour at Marin Headlands site" .
 ("hardly strictly bluegrass festival") :under :san-francisco .
-
-cena listku San Francisco -- Praha (zpatecni): ~$1100
-el farolito -- mission
-
-Lars Ros (nejaka fajn restaurace)
-liquid nitrogen ice cream
-
-use Getaround
-
-* Rooftop Park (835 Market)
-* Chloe's Cafe
-* Chocolate Lab
-* lanova tramvaj
-
-* Castro theatre
-* Filmore street shopping
-* Magpie and rye
-* Amoeba records
-* Nightlife @ Academy of Sciences
-* Amnesia
-* Film night at Golden Gate park
-
-bayrationality.com
-
+("el farolito -- mission") :under :san-francisco .
+("Lars Ros (nejaka fajn restaurace)") :under :san-francisco .
+("liquid nitrogen ice cream") :under :san-francisco .
+("Rooftop Park (835 Market)") :under :san-francisco .
+("Chloe's Cafe") :under :san-francisco .
+("Chocolate Lab") :under :san-francisco .
+("lanova tramvaj") :under :san-francisco .
+("Castro theatre") :under :san-francisco .
+("Filmore street shopping") :under :san-francisco .
+("Magpie and rye") :under :san-francisco .
+("Amoeba records") :under :san-francisco .
+("Nightlife @ Academy of Sciences") :under :san-francisco .
+("Amnesia") :under :san-francisco .
+("Film night at Golden Gate park") :under :san-francisco .
+<http://bayrationality.com> :under :san-francisco .

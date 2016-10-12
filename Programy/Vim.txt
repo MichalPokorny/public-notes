@@ -2,45 +2,10 @@ Marks:
 	`[ = start of pasted text, `] = end of pasted text,
 	`[V`]>> indentne pasted text
 
-set diffopt=filler,context=0
 
-g-/g+ = prechod v case +- (jine undo)
-
-set iskeyword-=_ zpusobi, ze _ oddeluje 'slova'
-
-aw = "predchozi slovo"
-zz = vertikalne vystred
-it = inside tag (textovy objekt)
-
-\\(motion) = zakomentuj (pro commentary.vim - plugin)
 
 Editing text at the speed of thought: #52 (75/329)
 ----------
-
-- YouCompleteMe - podle subsekvence
-- Nerd Commenter
-
-- makeprg: muze obsahovat %, ktere se expanduje na soubor
-- :R ls -la = scratchbuffer ls -la
-- :Sex = split explore
-- :bufdo s/co/naco/ge
-- :enew
-- ZZ
-- Ctrl-F = obrazovka dolu, Ctrl-B = obrazovka nahoru
-- }: nejblizsi dalsi konec odstavce
-- {: predchozi... (-> 3d})
-
-- U: undo na tomhle radku
-
-- help: Ctrl-] = prejdi, Ctrl-T = zpet
-
-- :set textwidth=80
-- gq(pohyb) preformatuje
-- {gq} = reformatuj odstavec
-- :marks
-- '' nebo ``: pred poslednim skokem
-- <> = zacatek/konec vizualni oblasti
-- C-N, C-P
 
 Medved:
 	pomlcka misto mezery pred kterou nic neni
@@ -104,24 +69,3 @@ a[ = a]			[...]
 aw, ap, as		word, paragraph, sentence
 i...			inner
 
-autowrite
-display=uhex,lastline	(unprintable are shown as <XX>, partial last line shown)
-
-:set spell => [s ]s zg(add to dict) z=(suggest correctly spelled words)
-
-=== POUZIVAM ===
-
-list, listchars		highlighting of trailing spaces, tabs etc.
-"r <Enter>" je priblizne opak J
-
-vim-commentary
-vim-fugitive: blame (Git)
-
-& = repeat replace
-Command-T: fuzzy search in Vim
-:s, :g
-\| v map?
-:map xx ...
-:silent !echo ...
-rails.vim: :A == switch production/test
-[m ]m == move by methods in structured language

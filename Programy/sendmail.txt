@@ -1,2 +1,0 @@
-sendmail -bv adresa... = co by se stalo
-sendmail -v adresa... = popis vysledek
