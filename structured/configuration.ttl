@@ -314,7 +314,11 @@ Generic mapping!!! (musim testovat, ze funguje dobre)
 
 	barvicky v /etc/bash.bashrc
 
-	pacman -S colordiff
+	pacman -S colordiff mlocate
+	systemctl enable fail2ban, start fail2ban
+
+	-- fail2ban si stezuje v logu na spatnou syntaxi iptables --
+	-- zmenen defaultni jail aby to fungovalo --
 
 	apache: vhost rny.cz dany jako default, pridan vhost podnikani.rny.cz (url rewrite na http://podnikani.tchk.cz)
 
@@ -323,4 +327,169 @@ Generic mapping!!! (musim testovat, ze funguje dobre)
 	orldecin.cz:
 		ServerName orldecin.cz
 		ServerAlias www.orldecin.cz orldecin.cz
+
+	systemctl enable cronie
+	systemctl start cronie
+
+	cron.hourly: rezervace_tick
+
+	obnovuju obsah /root.
+		.bash_profile
+		.bashrc
+
+	KROK 1) Kopiruju stary server k sobe na disk.
+
+	Seznam sluzeb na serveru:
+		* FTP na ordinaci?
+
+		~pp/pp.rny.cz
+
+	Priority:
+		1) mail (SMTP & POP3 & IMAP)
+		2) ordinace
+		3) osobni web
+
+	PLAN OPERACE:
+		1) dam instalovat novy Arch
+		2) passwd, ssh-copy-id
+		3) pacman -Syu
+		--- restart ---
+
+		Jestli to tady nabootuje, budu pokracovat.
+		4)
+			pacman -S bc bind cronie dovecot elinks fail2ban git grub hddtemp htop iputils mc mutt cfdisk php-apache postfix rsync ruby \
+				screen smartmontools strace syslog-ng systemd-sysvcompat uptimed v8 vim vsftpd apache
+
+			useradd prvak
+			passwd prvak
+			ssh-copy-id
+
+		5)	zahajit restoraci z FTP -- nakopirovat nekam do vhodneho mista a soubor po souboru narovnavat
+		6) Postfix, Dovecot, peclive otestovat ze to funguje vcetne SSL
+
+	- vituv stary web ('web vp')
+
+		1) 00:03: spustena reinstalace serveru
+		2) 00:21: dorazil mail s heslem
+			passwd, ssh-copy-id
+
+		3) 00:26: mam heslo a klic
+			pacman -Syu ==> nothing to do
+
+		4) 00:27: reboot
+
+		5) 00:28: install
+	,
+			pacman -S bc bind cronie dovecot elinks fail2ban git grub hddtemp htop iputils mc mutt cfdisk php-apache postfix rsync ruby \
+				screen smartmontools strace syslog-ng systemd-sysvcompat uptimed v8 vim vsftpd apache
+
+			(cfdisk not found -- uz tam je)
+
+			hostname (/etc/hostname): ks389438 ==> wintermute
+
+		6) zahajeni restorace z FTP -- kopiruju
+
+			Mezitim na pozadi (protoze se tech dat kopiruje hodne) zacinam s restoraci postfixu a dovecotu.
+
+			systemctl enable syslog-ng
+			systemctl start syslog-ng
+
+		7*) (mezitim co kopiruju)
+			useradd -m prvak
+			passwd prvak
+
+			ssh-copy-id prvak@rny.cz
+
+		8*) (mezitim co kopiruju, mam uz etc)
+
+			(nakopirovani a nadiffovani konfiguraku)
+
+			diff /home/_FTP_RESTORE/postfix/ /etc/postfix/ > ~/postfix-diff
+
+			aliases: 'root: you' ==> 'root: prvak'
+				'pok: prvak' (pok@rny.cz)
+			$ postalias aliases
+			$ postmap generic
+
+			main.cf:
+				myhostname = mail.rny.cz
+				mydomain = rny.cz
+				myorigin = $mydomain
+				inet_interfaces = all
+				mydestination = $myhostname, localhost.$mydomain, localhost,
+					$mydomain, mail.$mydomain, www.$mydomain, ftp.$mydomain
+				home_mailbox = Maildir/
+
+				# A na konec:
+				smtpd_sasl_auth_enable = yes
+				smtpd_sasl_type = dovecot
+				smtpd_sasl_path = private/auth
+				broken_sasl_auth_clients = yes
+				smtpd_sasl_security_options = noanonymous
+				smtpd_relay_restrictions = permit_mynetworks permit_sasl_authenticated reject_unauth_destination
+				smtpd_recipient_restrictions = permit_mynetworks permit_sasl_authenticated reject_unauth_destination
+
+				smtpd_tls_cert_file = /etc/ssl/certs/postfix.crt
+				smtpd_tls_key_file = /etc/ssl/private/postfix.pem
+				smtpd_tls_security_level = may
+
+				# Warningy, kdyz je mail delsi dobu ve queue.
+				delay_warning_time = 15m
+
+				smtp_generic_maps = hash:/etc/postfix/generic
+
+			master.cf:
+				pridana radka se SMTP nestandartnim portem
+				smtp      inet  n       -       n       -       -       smtpd
+
+			virtual:
+				pok@rny.cz prvak@localhost
+
+			postmap virtual
+
+			rm ~/postfix-diff
+
+			systemctl enable postfix
+
+			mkdir -p /etc/ssl/{certs,private} &&
+			cp /home/_FTP_RESTORE/etc/ssl/certs/postfix.crt /etc/ssl/certs &&
+			cp /home/_FTP_RESTORE/etc/ssl/private/postfix.pem /etc/ssl/private
+
+			diff /home/_FTP_RESTORE/etc/dovecot/ /etc/dovecot/ > ~/dovecot-diff
+			cp /home/_FTP_RESTORE/etc/dovecot/dovecot.conf /etc/dovecot
+
+			systemctl start postfix dovecot
+
+			(Test IMAPu)
+			v mail.log:: Fatal: Couldn't parse private ssl_key: error:0906D06C:PEM routines:PEM_read_bio:no start line: Expecting: ANY PRIVATE KEY
+
+			cp /home/_FTP_RESTORE/etc/dovecot/conf.d/10-ssl.conf /etc/dovecot/conf.d
+			cp /home/_FTP_RESTORE/etc/dovecot/conf.d/10-auth.conf /etc/dovecot/conf.d
+
+			cp /home/_FTP_RESTORE/etc/ssl/certs/dovecot.pem /etc/ssl/certs &&
+			cp /home/_FTP_RESTORE/etc/ssl/private/dovecot.pem /etc/ssl/private
+
+			systemctl restart postfix dovecot
+
+			(Test: fetchmail se uspesne pripojil)
+			(Test: mail na pok@rny.cz: OK, delivered & fetched)
+			(Test: mail na root@rny.cz: OK, delivered & fetched)
+			(Test: mail na mp@decin.cz: OK, delivered & fetched)
+
+		9) Poustim dalsi kopirovani stareho /home.
+
+		(01:17) je to nejak jakz takz funkcni.
+
+		DALE BUDE POTREBA:
+			- tatuv uzivatel a symlink do ordinace
+
+	===
+
+	pacman -S ack
+	zkopirovani srv/http a zmervoani konfigurace
+
+	odebrat: - MIMEMagicFile
+	MPM: prefork, ne event
+
+	===> mam uz funkcni ordinaci
 """ .
