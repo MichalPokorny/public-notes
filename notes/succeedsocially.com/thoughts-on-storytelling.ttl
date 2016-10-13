@@ -1,0 +1,17 @@
+@prefix : <http://rny.cz/knowledge#> .
+
+<http://www.succeedsocially.com/storytelling> :note """
+	- storytelling is relatively rare: most things that happen in life
+		aren't really out of the ordinary or story-worthy
+	- know why you want tot tell the story
+	- ask if it really needs to be a story (not just a few-sentence abstract)
+	- be careful about:
+		- dreams, when you got really drunk, diets/fitness programs,
+		  squabbles, venting, sexual conquest, travel "stories" that are
+		  really bragging, ...
+	- if audience is not interested or are waiting for their turn, cut it short.
+	- if the story is longer, get some sort of permission
+	- start with a hook ("So I met the strangest person last Friday...")
+	- be succint, don't go off tangent; say as little as you need to establish the scene
+	- if you're in the story, play up your foibles & human side
+""" .
