@@ -2,6 +2,13 @@
 	- problem: having a soft/quiet speaking voice
 	- same: mumble, talk too quickly, trail off, ...
 	- "people always ask me to repeat myself"
+	- self-reinforcing negative cycle
+	- psychological reasons:
+		- low confidence
+		- nervousness in social situations
+		- depression / defeated, low energy mindset
+	- don't talk at the ground/into chest; look others in the eyes
 """ ;
-	:todo "Record your own voice and play it back to get a better sense of what people hear." .
-
+	:todo "Record your own voice and play it back to get a better sense of what people hear." ;
+	:todo "Consider attending speech therapy?" ;
+	:todo "Consider learning public speaking?" .
