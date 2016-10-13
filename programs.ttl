@@ -367,4 +367,27 @@ TUI: Ctrl-A X, then repaint with Ctrl-L
 	- Phusion Passenger
 	- RadRails: IDE pro Railsy
 	- FareBandit - appska na jezdeni nacerno
+	- GenericMakefile (C/C++)
+	- frama-c: C verifikator (C/C++)
+""" .
+
+:programs :note """
+- voelter.de DSL Engineering
+  - JetBrains MPS: language workbench
+  - mbeddr.com
+""" .
+
+("sleep as android") :under :programs .
+
+:programs :note """
+	- camscanner
+	- Wakie: social media clock
+	- Sweet Home 3D
+	- archiveteam -- archivace online dat
+	- ActiveRecord: 'merge', 'find\_each'/'find\_in\_batches'
+	- Klee LLVM tester (klee.github.io)
+	- Redbooth (teambox)
+	- leveldb - key/value databaze
+	- gittip
+	- ConceptNet 5
 """ .

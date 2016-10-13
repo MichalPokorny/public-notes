@@ -2,13 +2,8 @@
 title: Tidbits
 ---
 
-<h3>C/++</h3>
-- GenericMakefile
-- frama-c: C verifikator
-
 <h2>CS</h2>
 - hra Facade
-- Postuv korespondencni problem: nevi se, jestli je nerozhodnutelny pro n vetsi nez 2 a mensi nez 7
 
 Merkle puzzles:
 	Alice: 2^32 puzzlu
@@ -24,11 +19,8 @@ Zajimavost: O(n^2) gap je best kdyz je sifra black box oracle...
 exponential gap: diffie-helmann
 
 <h2>Math</h2>
-- combinatorial game theory: je to grupa
-- combinatory logic
 - pro kazdou grupu existuje graf, ktery ji ma za automorfickou grupu.
 	- dukaz: Cayleyho graf, na generatory a hrany navesim asymetricke grafy
-
 - TODO: existuji 2 mocniny dvojky, ktere se lisi jenom poradim cislic v desitkovem zapisu?
 	- 1. kdyz by to tak bylo, bylo by to (x; 2x), nebo (x; 4x) nebo (x; 8x)
 	- a = 1a_1 + 10a_2 + ...; modulo 9 = a_1 + a_2 + a_3 + ...
@@ -47,196 +39,68 @@ exponential gap: diffie-helmann
 - burzovni datasources: http://www.forextester.com/data/datasources.html
 
 <h2>Various</h2>
-- Magnesium supplement
-- Leiden mutation (thrombosis)
-- Phusion Passenger
-- RadRails: IDE pro Railsy
-- kaggle.com/competitions
-- Cestik
-- Baldwin effect
-- FareBandit - appska na jezdeni nacerno
-
-- Erik Tabery
-
-- UX: control, conveyance, continuity, context
-- "LED ball"
-
 - life review
 - loevinder stages of ego
 
 - Wunderlist
 
-- Milovice (u Prahy) - ghost town
-- Duolingo
 - github Torque3D
 - Google "perf"
-- kurz C++ Grandmaster Certification
-- earthship
-- ambient + police scanner = youarelisteningto.org
 - Habit RPG
-- density-dependent optimization landscape
 
 Counterscript: http://egbg.home.xs4all.nl/counterscript.html
 
 - http://madebyevan.com/obscure-cpp-features/
 
-chocolate pudding fruit
 'serene' = 'jasny' (serenessima repubblica di venezia)
 	'pax tibi, marce, evangelista meus' (lev s knihou)
 
-Yours faithfully: kdyz neznam osobne adresata
-Yours sincerely: kdyz ano
 
 - http://alexnisnevich.github.io/untrusted/
 - L-glukoza: leva chiralita
 
-- ActiveRecord: 'merge', 'find\_each'/'find\_in\_batches'
-
-- existuje grupa, kde funguje CDH, ale ne IDH assumption?
-
-- Klee LLVM tester (klee.github.io)
-
-- Redbooth (teambox)
-
-- the 7 sages
-
-- goldfish teabag
-
-- big mess o' wires
-- markovian parallax denigrate; cicada 3301
-- giveit100
-- voelter.de DSL Engineering
-  - JetBrains MPS: language workbench
-  - mbeddr.com
-
-- "lowercase" music
-
-you're welcome: "polite", no problem: "friendly"
-
-the money chant
-
-Voroň = havran
 
 booking.com
 
-- archiveteam -- archivace online dat
-
-"invest in what you know"
-
-- lockpicking
-
-- Wiki XML export: http://en.wikipedia.org/wiki/Special:Export/Set\_(mathematics)
-- ad-hoc mesh network: Byzantium
-- `export EDITOR="/usr/bin/rm"` :D
-
-- Upstart - crowdfunding for recent college graduates
-- full employment theorem
-
-- false color palette - nahodne prechody, nemusi nic znamenat!
-
-- tritone paradox, shepard tone
-- quantum paper, polymer, web components
-- mandela effect
-- camscanner
-- Wakie: social media clock
 - jak funguje v chromeboocich offline auth?
 
 Cube 2
 
-- Mensa dating
-- gv.com/library
 - assimp-net
-- kanban
 - r/workonline
-
-http://www.markshuttleworth.com/archives/123
-
 Facebook: Pokusni kralici
-
 - university of the people
 - the queen mother
-- yunnansourcing.com: nakup caju
-- siviwars: http://www.pslib.cz/karel.hrkal/siviwars/
-- address validator: RUIAN
-- hledani min je NP-hard?
 - dominate in conversation: stare at forehead questionably :D
 - bro pages vs man pages
-- sovereign citizen movement
-- mesto Sitges
-- operator Odorik (maji celkem levne volani a vsechno)
-- alza interchange url: http://interchange.alza.cz/jyxo.xml, seznam.xml, heureka.xml
 - GitHub resume: http://resume.github.io
-- change ringing
-- list of occupations
-- pinwheel tiling
-- Namecoin, Bitcoin, Litecoin
-- zajimavy clovek: fabrice bellard
-- dlsym
 - quantified self
-- gittip
-- ConceptNet 5
 
-- life in 1 page: https://dl.dropboxusercontent.com/u/18830285/x/matt.html
-- erlang-in-anger.com
-- google security program
-- software architect
-- payscale
-- ghostery
-- this paper says otherwise
-- google doctoral fellowship
-- keyboard card
-- flux framework
-- libcello
-- capital asset pricing model
-- skryty puvab byrokracie
-- paralelni polis
 
 - variable size bin packing problem
 - 'a' ^ ' ' == 'A' atd.
 - http://nplusonemag.com/
-- Sweet Home 3D
 
 - Kivy
 - plackomat
 - Pink noise
-- interview street
-- trilobite and cross tiling
-- hovor s robotem: \*, #, nebo 1
 
-- leveldb - key/value databaze
 - malte spitz data retention (tell-all telephone)
 - cex.io
 - fight club + the bends -- spustit jak skonci logo 21st century fox
 
 - gaze tracking library
-- Whisky: bourbon (USA) / scotch / rye
-- freggio (scar)
 slavoj zizek - less than nothing
 indexovane gramatiky; openccg
 
 saphira brightscales (i will not be ignored)
-
 goldfish teabag
-
 letsrevolutionizetesting.com
-
 workflowy app
-
 stable marriage problem
 CountMin sketch, Count sketch
-
 8051 procesory
-
-Stargate
-
-
 TIMEFORMAT="%3R"
-
-
 - zaveseny pocitac (misc) - provest s notebookem :)
-- sleep as android
-
-- napad: distribuovany vyzkum hodnot
-
 - Khanova skola (Mikulas Dite)
 - pujcit/sehnat par zamku? (Krak)

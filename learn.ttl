@@ -193,6 +193,8 @@
 ("Hoeffdingova nerovnost") :under :learn-math .
 ("Elo ratings") :under :learn-math ;
 	:note "obecne na libovolnou hru 2 hracu, ne jenom sachy" .
+("combinatorial game theory: je to grupa") :under :learn-math .
+("combinatory logic") :under :learn-math .
 
 :learn-ai rdfs:label "Learn - AI" ; :under :learn-cs .
 ("probabilistic approaches to ML") :under :learn-ai .

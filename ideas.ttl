@@ -86,3 +86,4 @@ ruzna vysvedceni a podobne veci) - stoji v KB 1020 + 20% DPH rocne") :under
 ("Michal Koucky: system na backupy po blocich") :under :thesis-ideas .
 
 ("google translate CLI") :under :ideas .
+("distribuovany vyzkum hodnot") :under :ideas .

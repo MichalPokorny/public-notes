@@ -21,3 +21,5 @@
 	:note "pravdepodobne protoze overuji validitu" .
 ("to, ze hodne lidi v Googlich AI tymech maji PhD") :under :inquiry ;
 	:note "myslel jsem si, ze to je zpusobene tim, ze lidi bez PhD neberou.  neni to nahodou misto toho tim, ze kdyz mam PhD, tak mam vetsi prior probability ze se do toho tymu prihlasim?" .
+("existuje grupa, kde funguje CDH, ale ne IDH assumption?") :under :inquiry .
+("Postuv korespondencni problem: nevi se, jestli je nerozhodnutelny pro n vetsi nez 2 a mensi nez 7") :under :inquiry .

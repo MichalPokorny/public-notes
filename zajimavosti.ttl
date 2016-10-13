@@ -320,7 +320,89 @@ mnozstvi vypoctu?") :under :zajimavosti ;
 	- diceware -- password generator
 	http://dev.stephendiehl.com/hask/ (what i wish i knew when learning haskell 2.0)
 	- font OCR-A
+	- kurz C++ Grandmaster Certification
+	- earthship
+	- ambient + police scanner = youarelisteningto.org
+	- density-dependent optimization landscape
+	- Baldwin effect - TODO
+	- Erik Tabery
+	you're welcome: "polite", no problem: "friendly"
+	- Wiki XML export: http://en.wikipedia.org/wiki/Special:Export/Set\_(mathematics)
+	- ad-hoc mesh network: Byzantium
+	- Upstart - crowdfunding for recent college graduates
+	- full employment theorem
+	- false color palette - nahodne prechody, nemusi nic znamenat!
+	- quantum paper, polymer, web components
+	chocolate pudding fruit
+
+	Yours faithfully: kdyz neznam osobne adresata
+	Yours sincerely: kdyz ano
+
+	- yunnansourcing.com: nakup caju
+	- siviwars: http://www.pslib.cz/karel.hrkal/siviwars/
+	- address validator: RUIAN
+	- hledani min je NP-hard?
+
+	- change ringing
+	- list of occupations
+	- pinwheel tiling
+	- Namecoin, Bitcoin, Litecoin
+	- zajimavy clovek: fabrice bellard
+	- dlsym
+
+	- life in 1 page: https://dl.dropboxusercontent.com/u/18830285/x/matt.html
+	- erlang-in-anger.com
+	- google security program
+	- software architect
+	- payscale
+	- ghostery
+	- this paper says otherwise
+	- google doctoral fellowship
+	- keyboard card
+	- flux framework
+	- libcello
+	- capital asset pricing model
+	- skryty puvab byrokracie
+	- paralelni polis
 """ .
 
+:zajimavosti :note "markovian parallax denigrate; cicada 3301" .
+:zajimavosti :note "`export EDITOR=/usr/bin/rm` :D" .
+
+<http://www.markshuttleworth.com/archives/123> :under :zajimavosti .
 <http://mechanitis.blogspot.co.uk/2013/02/staying-ahead-of-curve.html> :under :zajimavosti .
 <http://motherboard.vice.com/read/new-nsa-funded-programming-language-is-all-programming-languages-in-one> :under :zajimavosti .
+
+:zajimavosti :note """
+	- big mess o' wires
+	- giveit100
+	- "lowercase" music
+	Voroň = havran
+	the money chant
+	- the 7 sages
+	- goldfish teabag
+	- sovereign citizen movement
+	- mesto Sitges
+	- operator Odorik (maji celkem levne volani a vsechno)
+	- alza interchange url: http://interchange.alza.cz/jyxo.xml, seznam.xml, heureka.xml
+	- Mensa dating
+	- kanban
+	- gv.com/library
+	- tritone paradox, shepard tone
+	- mandela effect
+	"invest in what you know"
+	- lockpicking
+	- Magnesium supplement
+	- Leiden mutation (thrombosis)
+	- kaggle.com/competitions
+	- Cestik
+	- UX: control, conveyance, continuity, context
+	- "LED ball"
+	- Whisky: bourbon (USA) / scotch / rye
+	- freggio (scar)
+	- Milovice (u Prahy) - ghost town
+	- Duolingo
+	- interview street
+	- trilobite and cross tiling
+	- hovor s robotem: *, #, nebo 1
+""" .

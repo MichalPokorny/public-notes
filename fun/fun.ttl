@@ -51,8 +51,11 @@
 ("Friends") :under :shows .
 ("That 70's Show") :under :shows .
 ("Frasier") :under :shows .
-("Budou nove dily Black Mirror (tenhle rok?)") :under :shows ; :by :petr-houska .
-("bude 3. serie Rick and Morty") :under :shows ; :by :petr-houska .
+("Budou nove dily Black Mirror (tenhle rok?)") :under :shows ;
+	:by :petr-houska .
+("bude 3. serie Rick and Morty") :under :shows ;
+	:by :petr-houska .
+("Stargate") :under :shows .
 
 :books rdfs:label "Books" ; :under :fun .
 ("Pohadka: Der satanarchäolügenialkohöllische Wunschpunsch") :under :books .
