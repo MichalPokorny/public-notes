@@ -290,3 +290,37 @@ konecne mnoho veci, co maji etickou hodnotu? je proveditelne jenom konecne
 mnozstvi vypoctu?") :under :zajimavosti ;
 	:from :bostrom .
 
+:zajimavosti :note """
+	- wiki: priority call
+	- Emil Leon Post - smrt na infarkt pri elektricke lecbe deprese
+	- github search - vulnerable code (mysql_query + $_GET)
+	- the wanderers' library
+	- desert bus - hra
+	- StorJ - Bitcoin digital lifeform
+	- full employment theorem
+	http://www.targetprocess.com/articles/speed-in-software-development.html
+	http://en.wikipedia.org/wiki/Lord_British
+	- global consciousness project
+	- programming collective intelligence
+	- the 4-hour workweek (muse business)
+	- nejlevnejsi letenky: 45 dni predem. sirseji: 104-29 dni predem
+	- studentska kolej je fakt odvozeno od 'collegium'
+	- binaural beats
+	- solarni notebook Sol
+	- The Eternal War (Civ2)
+	- Solarized color scheme
+	- Creators handbook
+	http://www.rubytapas.com
+	Fio model portfolio
+	"Yo" app (tenderlove)
+	Jim: Rails contributor ("will be missed")
+	ruby: Array.assoc
+	- http://redditgifts.com/gallery/secret-santa-2010/gift/8-secret-envelopes/
+	- "arbing" = open hand signalling
+	- diceware -- password generator
+	http://dev.stephendiehl.com/hask/ (what i wish i knew when learning haskell 2.0)
+	- font OCR-A
+""" .
+
+<http://mechanitis.blogspot.co.uk/2013/02/staying-ahead-of-curve.html> :under :zajimavosti .
+<http://motherboard.vice.com/read/new-nsa-funded-programming-language-is-all-programming-languages-in-one> :under :zajimavosti .

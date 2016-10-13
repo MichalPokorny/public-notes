@@ -61,7 +61,6 @@ exponential gap: diffie-helmann
 - UX: control, conveyance, continuity, context
 - "LED ball"
 
-- font OCR-A
 - life review
 - loevinder stages of ego
 
@@ -76,12 +75,8 @@ exponential gap: diffie-helmann
 - ambient + police scanner = youarelisteningto.org
 - Habit RPG
 - density-dependent optimization landscape
-- google translate CLI
-- google.com/designer
 
 Counterscript: http://egbg.home.xs4all.nl/counterscript.html
-
-http://dev.stephendiehl.com/hask/ (what i wish i knew when learning haskell 2.0)
 
 - http://madebyevan.com/obscure-cpp-features/
 
@@ -93,15 +88,11 @@ Yours faithfully: kdyz neznam osobne adresata
 Yours sincerely: kdyz ano
 
 - http://alexnisnevich.github.io/untrusted/
-- http://code.google.com/p/word2vec/
 - L-glukoza: leva chiralita
 
 - ActiveRecord: 'merge', 'find\_each'/'find\_in\_batches'
 
 - existuje grupa, kde funguje CDH, ale ne IDH assumption?
-
-- Krylov subspace; power method; krylov subspace methods
-- conjugate gradient method (works for PD matrix)
 
 - Klee LLVM tester (klee.github.io)
 
@@ -129,18 +120,9 @@ Voroň = havran
 booking.com
 
 - archiveteam -- archivace online dat
-http://www.rubytapas.com
 
-Fio model portfolio
 "invest in what you know"
-"Yo" app (tenderlove)
-Jim: Rails contributor ("will be missed")
-ruby: Array.assoc
 
-- http://redditgifts.com/gallery/secret-santa-2010/gift/8-secret-envelopes/?source=giftblog
-
-- "arbing" = open hand signalling
-- diceware -- password generator
 - lockpicking
 
 - Wiki XML export: http://en.wikipedia.org/wiki/Special:Export/Set\_(mathematics)
@@ -153,24 +135,15 @@ ruby: Array.assoc
 - false color palette - nahodne prechody, nemusi nic znamenat!
 
 - tritone paradox, shepard tone
-- binaural beats
-- solarni notebook Sol
-- The Eternal War (Civ2)
 - quantum paper, polymer, web components
 - mandela effect
 - camscanner
 - Wakie: social media clock
 - jak funguje v chromeboocich offline auth?
 
-http://motherboard.vice.com/read/new-nsa-funded-programming-language-is-all-programming-languages-in-one
-
 Cube 2
 
-- Google web starter kit
 - Mensa dating
-- Solarized color scheme
-- Creators handbook
-- http://mechanitis.blogspot.co.uk/2013/02/staying-ahead-of-curve.html
 - gv.com/library
 - assimp-net
 - kanban
@@ -179,20 +152,10 @@ Cube 2
 http://www.markshuttleworth.com/archives/123
 
 Facebook: Pokusni kralici
-http://www.targetprocess.com/articles/speed-in-software-development.html
-http://en.wikipedia.org/wiki/Lord_British
-
-- spreeded: flash speed-reading
 
 - university of the people
 - the queen mother
-- nejlevnejsi letenky: 45 dni predem. sirseji: 104-29 dni predem
-- studentska kolej je fakt odvozeno od 'collegium'
-- problemotd
-- pifm: raspberry pi radio
-- git-annex
 - yunnansourcing.com: nakup caju
-- blender makehuman
 - siviwars: http://www.pslib.cz/karel.hrkal/siviwars/
 - address validator: RUIAN
 - hledani min je NP-hard?
@@ -203,18 +166,7 @@ http://en.wikipedia.org/wiki/Lord_British
 - operator Odorik (maji celkem levne volani a vsechno)
 - alza interchange url: http://interchange.alza.cz/jyxo.xml, seznam.xml, heureka.xml
 - GitHub resume: http://resume.github.io
-- wiki: priority call
-- Emil Leon Post - smrt na infarkt pri elektricke lecbe deprese
-- Google Sets
 - change ringing
-- Underhanded C Code Contest
-- full employment theorem
-- StorJ - Bitcoin digital lifeform
-- desert bus - hra
-- the wanderers' library
-- github search - vulnerable code (mysql_query + $_GET)
-
-- git umi mediawiki remote
 - list of occupations
 - pinwheel tiling
 - Namecoin, Bitcoin, Litecoin
@@ -228,18 +180,13 @@ http://en.wikipedia.org/wiki/Lord_British
 - erlang-in-anger.com
 - google security program
 - software architect
-- workrave program
 - payscale
 - ghostery
 - this paper says otherwise
-- review board (open-source)
 - google doctoral fellowship
 - keyboard card
 - flux framework
 - libcello
-- global consciousness project
-- programming collective intelligence
-- the 4-hour workweek (muse business)
 - capital asset pricing model
 - skryty puvab byrokracie
 - paralelni polis
@@ -263,9 +210,7 @@ http://en.wikipedia.org/wiki/Lord_British
 
 - gaze tracking library
 - Whisky: bourbon (USA) / scotch / rye
-- exolutio: konceptualni modelovani
 - freggio (scar)
-- asciidoc
 slavoj zizek - less than nothing
 indexovane gramatiky; openccg
 
@@ -283,17 +228,10 @@ CountMin sketch, Count sketch
 8051 procesory
 
 Stargate
-- xmllint --shell vec.xml
 
-rubycritic
 
 TIMEFORMAT="%3R"
 
-^R = read thread
-
-PSR.exe = problem steps recorder
-
-autodesk 123d catch
 
 - zaveseny pocitac (misc) - provest s notebookem :)
 - sleep as android

@@ -84,3 +84,5 @@ ruzna vysvedceni a podobne veci) - stoji v KB 1020 + 20% DPH rocne") :under
 	:note "- pocet taktu pro instrukce" ;
 	:note "- GNU superopt => jak moc je to uzitecne?" .
 ("Michal Koucky: system na backupy po blocich") :under :thesis-ideas .
+
+("google translate CLI") :under :ideas .

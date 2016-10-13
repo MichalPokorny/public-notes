@@ -160,7 +160,8 @@
 	:note "; = tag-prefix" ;
 	:note "s = save" ;
 	:note ";s = move" ;
-	:note "filtr: ~f yaghob = From, ~t yaghob = To" .
+	:note "filtr: ~f yaghob = From, ~t yaghob = To" ;
+	:note "^R = read thread" .
 
 ("sendmail") :under :programs ;
 	:purpose "sending mail and testing delivery process" ;
@@ -344,3 +345,26 @@ TUI: Ctrl-A X, then repaint with Ctrl-L
 
 		I18n: ???
 	""" .
+
+:programs :note """
+	autodesk 123d catch
+	PSR.exe = problem steps recorder
+	rubycritic
+	- xmllint --shell vec.xml
+	- asciidoc
+	- exolutio: konceptualni modelovani
+	- workrave program
+	- review board (open-source)
+	- Google Sets
+	- problemotd
+	- blender makehuman
+	- spreeded: flash speed-reading
+	- git umi mediawiki remote
+	- pifm: raspberry pi radio
+	- Google web starter kit
+	- http://code.google.com/p/word2vec/
+	- google.com/designer
+	- Phusion Passenger
+	- RadRails: IDE pro Railsy
+	- FareBandit - appska na jezdeni nacerno
+""" .

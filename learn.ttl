@@ -156,6 +156,8 @@
 ("Splay trees") :under :learn-ds .
 
 :learn-math rdfs:label "Learn - Math" ; :under :learn .
+("Krylov subspace; power method; krylov subspace methods") :under :learn-math .
+("conjugate gradient method (works for PD matrix)") :under :learn-math .
 ("Luby-Rackoff theorem") :under :learn-math .
 ("knot theory") :under :learn-math .
 ("Hughes et al. (1995): random walk se na 1D a 2D gridu vrati zpatky na zacatek s pravdepodobnosti neco jako 1. Pro d >= 3 ale uz ne. Proc?") :under :learn-math .
