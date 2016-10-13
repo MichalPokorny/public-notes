@@ -1,2 +1,0 @@
-denoise: non-local mean. vyberu nekolik okolnich oken a zaridim se podle
-	toho, ktere ma nejmensi rozptyl.

@@ -394,4 +394,9 @@ TUI: Ctrl-A X, then repaint with Ctrl-L
 	- assimp-net
 	- Cube 2
 	- github Torque3D
+
+	- Google "perf"
+	CountMin sketch, Count sketch
+	8051 procesory
+	TIMEFORMAT="%3R"
 """ .

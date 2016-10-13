@@ -528,3 +528,7 @@ win-alt-h: spust htop
 	TODO: napad: aplikace na to, ze jsem si zamkl
 	TODO: cryptounmount -- nerestartuje
 """ .
+
+:configuration :note """
+	Postfix: Bacha: kdyz se separatne updatne postfix a dovecot, oba na to umrou, ale nebudou si stezovat zadnemu cloveku.
+""" .

@@ -1,7 +1,0 @@
-exponential gap: diffie-helmann
-
-<h2>Various</h2>
-- Google "perf"
-CountMin sketch, Count sketch
-8051 procesory
-TIMEFORMAT="%3R"

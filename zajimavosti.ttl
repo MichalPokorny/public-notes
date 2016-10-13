@@ -477,3 +477,4 @@ mnozstvi vypoctu?") :under :zajimavosti ;
 
 :zajimavosti :note "booking.com" .
 :zajimavosti :note "r/workonline" .
+:zajimavosti :note "exponential gap: diffie-helmann" .
