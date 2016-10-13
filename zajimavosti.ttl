@@ -405,4 +405,75 @@ mnozstvi vypoctu?") :under :zajimavosti ;
 	- interview street
 	- trilobite and cross tiling
 	- hovor s robotem: *, #, nebo 1
+	Facebook: Pokusni kralici
+	- university of the people
+	- the queen mother
+	- dominate in conversation: stare at forehead questionably :D
+	- GitHub resume: http://resume.github.io
+	- Kivy
+	- plackomat
+	- Pink noise
+	- http://madebyevan.com/obscure-cpp-features/
+	- http://alexnisnevich.github.io/untrusted/
+	- hra Facade
 """ .
+
+:zajimavosti :note """
+	Merkle puzzles:
+		Alice: 2^32 puzzlu
+			kazdy: nahodny 32bit Pi (32b), xi, ki (128b)
+			puzzle I = E(0^96 Pi, "Puzzle #xi" || ki)
+
+		Bob: nahodny puzzle vyresi, posle Alici xi
+
+	GNFS: run time exp(O(n^(1/3))): number sieve na DLOG
+	Zajimavost: O(n^2) gap je best kdyz je sifra black box oracle...
+		IR'89, [[BM'09]] (Merkle puzzles are optimal)
+""" .
+
+:zajimavosti :note """
+	pro kazdou grupu existuje graf, ktery ji ma za automorfickou grupu.
+		- dukaz: Cayleyho graf, na generatory a hrany navesim asymetricke grafy
+""" .
+
+:zajimavosti :note """
+	letsrevolutionizetesting.com
+	workflowy app
+	stable marriage problem
+	Counterscript: http://egbg.home.xs4all.nl/counterscript.html
+
+	'serene' = 'jasny' (serenessima repubblica di venezia)
+		'pax tibi, marce, evangelista meus' (lev s knihou)
+
+	- Habit RPG
+	- L-glukoza: leva chiralita
+
+	- life review
+	- loevinder stages of ego
+	- Wunderlist
+
+	saphira brightscales (i will not be ignored)
+	goldfish teabag
+
+	- zaveseny pocitac (misc) - provest s notebookem :)
+	- Khanova skola (Mikulas Dite)
+
+	- quantified self
+	- variable size bin packing problem
+	- 'a' ^ ' ' == 'A' atd.
+	- http://nplusonemag.com/
+	- malte spitz data retention (tell-all telephone)
+	- cex.io
+	- fight club + the bends -- spustit jak skonci logo 21st century fox
+	- gaze tracking library
+	slavoj zizek - less than nothing
+	indexovane gramatiky; openccg
+"""
+
+:zajimavosti :note """
+	- Quandl - stock API
+	- burzovni datasources: http://www.forextester.com/data/datasources.html
+""" .
+
+:zajimavosti :note "booking.com" .
+:zajimavosti :note "r/workonline" .

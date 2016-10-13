@@ -390,4 +390,8 @@ TUI: Ctrl-A X, then repaint with Ctrl-L
 	- leveldb - key/value databaze
 	- gittip
 	- ConceptNet 5
+	- bro pages vs man pages
+	- assimp-net
+	- Cube 2
+	- github Torque3D
 """ .

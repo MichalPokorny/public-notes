@@ -87,3 +87,4 @@ ruzna vysvedceni a podobne veci) - stoji v KB 1020 + 20% DPH rocne") :under
 
 ("google translate CLI") :under :ideas .
 ("distribuovany vyzkum hodnot") :under :ideas .
+("pujcit/sehnat par zamku na lockpickovani? (Krak)") :under :ideas .
