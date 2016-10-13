@@ -81,3 +81,12 @@
 ("create public feedback form") :under :do .
 ("koupit Ondrovi celovku") :under :do .
 ("navsteva Pavla a EA/rationality Zurich ve Svycarsku") :under :do .
+("recompile XMonad") :under :do .
+("Anki fails unless run from console because of nonstandard path") :under :do .
+("fix Anki card: cyclomatic complexity") :under :do .
+("fix Anki card: P/E ratio") :under :do .
+("create Anki card: halo effect") :under :do .
+("investigate: delat na ETH PhD zatimco budu pracovat v Googlu?") :under :do .
+("podivat se na nabidky spolubydleni v Zurichu?") :under :do .
+("create Anki card: vim: parens in \( \) \+ in regex, not .") :under :do .
+("vim: backreference: \1") :under :do .
