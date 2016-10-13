@@ -1,0 +1,7 @@
+<http://www.succeedsocially.com/quietvoice> :note """
+	- problem: having a soft/quiet speaking voice
+	- same: mumble, talk too quickly, trail off, ...
+	- "people always ask me to repeat myself"
+""" ;
+	:todo "Record your own voice and play it back to get a better sense of what people hear." .
+
