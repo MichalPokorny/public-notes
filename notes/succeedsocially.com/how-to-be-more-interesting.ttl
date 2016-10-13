@@ -1,0 +1,13 @@
+@prefix : <http://rny.cz/knowledge#> .
+
+<http://www.succeedsocially.com/interesting> :note """
+	- being interesting is about introducing people to new things
+		- have knowledge others would want, but don't have yet
+		- be the real deal and live a fun life => gather experience and knowledge
+	- try new things, expose yourself to new ideas, listen to new music
+	- don't do the same things week after week
+	- learn to present what you have to say in an engaging manner
+	- develop an instinct for the things people want to hear about
+	- foster your uniqueness
+	- 
+""" .
