@@ -77,3 +77,5 @@ yt:pL3DW6-xzLc
 
 :lesswrong :note <https://web.archive.org/web/20141013084825/http://kruel.co/2013/01/07/why-you-should-be-wary-of-the-singularity-institute/> ;
 	:note <https://web.archive.org/web/20141013084617/http://kruel.co/2013/01/10/the-singularity-institute-how-they-brainwash-you/> .
+
+:lesswrong :note "think of yourself as both real and simulated" .

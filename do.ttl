@@ -78,4 +78,6 @@
 ("pridat do CV: spring school of combinatorics 2014 stuff") :under :do .
 ("throw out all socks, get 30 identical pairs") :under :do .
 ("Galibi deskovky") :under :do .
-
+("create public feedback form") :under :do .
+("koupit Ondrovi celovku") :under :do .
+("navsteva Pavla a EA/rationality Zurich ve Svycarsku") :under :do .
