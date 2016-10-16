@@ -90,3 +90,4 @@
 ("podivat se na nabidky spolubydleni v Zurichu?") :under :do .
 ("create Anki card: vim: parens in \( \) \+ in regex, not .") :under :do .
 ("vim: backreference: \1") :under :do .
+("study: Notation 3 vs. Turtle") :under :do .
