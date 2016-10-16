@@ -478,3 +478,13 @@ mnozstvi vypoctu?") :under :zajimavosti ;
 :zajimavosti :note "booking.com" .
 :zajimavosti :note "r/workonline" .
 :zajimavosti :note "exponential gap: diffie-helmann" .
+
+:zajimavosti :note """
+	- http://pascallin.ecs.soton.ac.uk/challenges/VOC/voc2012/index.html: visual object classes challenge
+	- Angry Birds AI
+
+	- Machine learning:
+		- dlib
+		- shogun (balik: shogun-git v AUR)
+		- mlpack: machine learning
+""" .
