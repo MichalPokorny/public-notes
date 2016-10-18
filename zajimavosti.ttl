@@ -285,9 +285,9 @@ wiki:Modafinil :under :modafinil .
 
 ("cosmology suggests: number of value-bearing locations in our future light-cone is finite") :under :zajimavosti ;
 	:from :bostrom .
-("je vesmir konecny, nebo nekonecny? existuje konecne mnoho hmoty? existuje
+("""je vesmir konecny, nebo nekonecny? existuje konecne mnoho hmoty? existuje
 konecne mnoho veci, co maji etickou hodnotu? je proveditelne jenom konecne
-mnozstvi vypoctu?") :under :zajimavosti ;
+mnozstvi vypoctu?""") :under :zajimavosti ;
 	:from :bostrom .
 
 :zajimavosti :note """
@@ -327,7 +327,7 @@ mnozstvi vypoctu?") :under :zajimavosti ;
 	- Baldwin effect - TODO
 	- Erik Tabery
 	you're welcome: "polite", no problem: "friendly"
-	- Wiki XML export: http://en.wikipedia.org/wiki/Special:Export/Set\_(mathematics)
+	- Wiki XML export: http://en.wikipedia.org/wiki/Special:Export/Abraham_Lincoln
 	- ad-hoc mesh network: Byzantium
 	- Upstart - crowdfunding for recent college graduates
 	- full employment theorem
@@ -468,7 +468,7 @@ mnozstvi vypoctu?") :under :zajimavosti ;
 	- gaze tracking library
 	slavoj zizek - less than nothing
 	indexovane gramatiky; openccg
-"""
+""" .
 
 :zajimavosti :note """
 	- Quandl - stock API

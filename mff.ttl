@@ -2,20 +2,20 @@
 @prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#> .
 
 :mff rdfs:label "Studium na MFF" ;
-	:note "kazdy rok zadost o ubytovaci stipendium" .
+	:note "kazdy rok zadost o ubytovaci stipendium" ;
 	:note "kniharstvi na diplomku: http://www.kniharstvi-cap.cz/" .
 
 :statnice :under :mff ;
-	rdfs:label "Mgr statnice" .
-	:note "1. Reprezentace znalosti
+	rdfs:label "Mgr statnice" ;
+	:note """1. Reprezentace znalosti
 		2. Reseni uloh a planovani
 		3. Ze strojoveho uceni:
 		a) Strojove uceni a jeho aplikace
-		b) Neuronove site (chtelo by ATNS, EVR)" .
+		b) Neuronove site (chtelo by ATNS, EVR)""" .
 
 :mff-subjects rdfs:label "MFF - zajimave predmety" .
 
-:NAIL019 rdfs:label "Zakladni seminar k pocitacove simulaci cinnosti bunek" :under :mff-subjects .
+:NAIL019 rdfs:label "Zakladni seminar k pocitacove simulaci cinnosti bunek" ; :under :mff-subjects .
 :NAIL088 rdfs:label "Informatika a kognitivni vedy II" ; :note "Cyril Brom" ; :under :mff-subjects .
 :NAIL100 rdfs:label "Seminar str. uceni a modelovani II" ; :under :mff-subjects .
 :NAIL102 rdfs:label "Filos. probl. informatiky" ; :under :mff-subjects .
@@ -70,4 +70,4 @@
 :NTIN067 rdfs:label "DS2" ; :under :mff-subjects .
 :NTIN088 rdfs:label "Alg. nahodnost" ; :under :mff-subjects .
 :NTIN099 rdfs:label "Alg. aspekty booleovskych funkci a par. slozitost" ; :under :mff-subjects .
-:NTIN100 rdfs:label "Zaklady prenosu a zpracovani informace" :under :mff-subjects .
+:NTIN100 rdfs:label "Zaklady prenosu a zpracovani informace" ; :under :mff-subjects .

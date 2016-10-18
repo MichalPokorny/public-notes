@@ -1,3 +1,6 @@
+@prefix : <http://rny.cz/knowledge#> .
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#> .
+
 :vim :under :programs ;
 	rdfs:label "Vim" ;
 	:note "makeprg: muze obsahovat %, ktere se expanduje na soubor" ;
@@ -19,7 +22,7 @@
 	:note "& = repeat replace" ;
 	:note "Command-T: fuzzy search in Vim" ;
 	:note ":s, :g" ;
-	:note "\| v map?" ;
+	:note "\\| v map?" ;
 	:note ":map xx ..." ;
 	:note ":silent !echo ..." ;
 	:note "[m ]m == move by methods in structured language" ;
@@ -35,23 +38,24 @@
 	:note "zz = vertikalne vystred" ;
 	:note "it = inside tag (textovy objekt)" ;
 	:note "bind key to run (how do I bind quickly?)" ;
-	:note "\< \>: left/right word boundary" ;
+	:note "`` == jump between last marks" ;
+	:note "Ctrl-C/[ misto Esc" ;
+	:note "\\< \\>: left/right word boundary" .
 
 :vim-commentary rdfs:label "vim-commentary" ;
 	:plugin-of :vim ;
-	:note "\\(motion) = zakomentuj" .
+	:note "\\\\(motion) = zakomentuj" .
 
 :vim-rails rdfs:label "rails.vim" ;
 	:plugin-of :vim ;
 	:note ":A == switch production/test" .
-	:note "slowdown.vim" .
-	:note "NERD tree" .
-	:note "github vim-android" .
-	:note "VimTextObj: text objects for function args" .
-	:note "vim-rspec" .
-	:note "`` == jump between last marks" .
-	:note "Ctrl-C/[ misto Esc" .
-	:note "identify most frequent actions, map to Leader, leader as space" .
+
+:vim :note "slowdown.vim" ;
+	:note "NERD tree" ;
+	:note "github vim-android" ;
+	:note "VimTextObj: text objects for function args" ;
+	:note "vim-rspec" ;
+	:note "identify most frequent actions, map to Leader, leader as space" ;
 	:note "select pasted text: noremap gV `[v`]" .
 
 ("YouCompleteMe - podle subsekvence") :plugin-of :vim .
@@ -59,7 +63,7 @@
 ("vim-fugitive: blame (Git)") :plugin-of :vim .
 :vim :note "RenameFile (todo?)" ;
 	:note "'imal <C-l> <space>=><space>' == 'insert hash rocket in insert mode using C-l'" ;
-	:note ":map ,t :w\|..." .
+	:note ":map ,t :w\\|..." .
 
 :vim :note """
 	:set cinoptions
@@ -84,7 +88,7 @@
 	C-X C-F			autocomplete file name (and many other such tricks)
 	gj, gk			move by visible lines
 	/.../e			move to end of matching text (also e+1, e-1 etc.)
-	/...\_s.../		match space or line break
+	/...\\_s.../		match space or line break
 	g?			rot-13
 	s			the same as cl
 	S			the same as cc

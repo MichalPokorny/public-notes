@@ -1,10 +1,12 @@
 @prefix : <http://rny.cz/knowledge#> .
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#> .
 
 :server rdfs:label "Server" .
 
 :server :note "OVH: `rtm` is their monitoring script." .
 :server :note "Stoji 454 Kc/mesic." .
 :server :note "/etc/cron.weekly/renew-certificates" .
-:server :note "TODO: /etc/letsencrypt/* on server -- mel bych to zabackupovat
+:server :todo """/etc/letsencrypt/* on server -- mel bych to zabackupovat
 /etc/letsencrypt/live/mail.rny.cz/fullchain.pem
-renewing certificates every month" .
+""" ;
+	:note "renewing certificates every month" .

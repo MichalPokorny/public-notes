@@ -1,4 +1,5 @@
 @prefix : <http://rny.cz/knowledge#> .
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#> .
 
 :programs rdfs:label "Programy" .
 
@@ -44,7 +45,7 @@
 	:note "gcc -fprofile-args -ftest-coverage" .
 ("avidemux") :under :programs ;
 	:purpose ("jednoduche strihani") ;
-	:note "avidemux (-gtk)"
+	:note "avidemux (-gtk)" .
 ("mosh") :under :programs ;
 	:purpose "lepsi ssh" .
 ("key-mon") :under :programs ;
@@ -71,13 +72,13 @@
 ("tightvnc") :under :programs ; :purpose :vnc .
 ("realvnc") :under :programs ; :purpose :vnc .
 ("vinagre") :under :programs ; :purpose :vnc .
-("TigerVNC") :under :programs ; :purpose :vnc ; note: "TIGERVNC!" .
+("TigerVNC") :under :programs ; :purpose :vnc ; :note "TIGERVNC!" .
 <http://libots.sourceforge.net> :under :programs ; :purpose "open text summarizer" .
 ("Landell") :under :programs ; :purpose "streamovani a uprava videi" .
 ("konversation") :under :programs ; :purpose "IRC klient pro KDE" .
 ("kcachegrind") :under :programs .
 ("gprof2dot") :under :programs ;
-	:aur-package "gprof2dot-git" ; :purpose "graf z gprofu do dotu" ; :note "gprof program gmon.out | gprof2dot"
+	:aur-package "gprof2dot-git" ; :purpose "graf z gprofu do dotu" ; :note "gprof program gmon.out | gprof2dot" .
 ("Android Studio") :under :programs ; :note "nad IntelliJ IDEA" .
 ("gnuplot --persist") :under :programs .
 ("Android Lost") :under :programs ; :purpose "hlidac ztraceneho androidu" .
@@ -103,7 +104,7 @@
 	:note "Doesn't really get my fonts and colors, through :(" ;
 	:note "TODO: Try again later." ;
 	:note "terminology -f=terminus-14 => : problem: can't do non-bold text?!" ;
-	:note "tyls, ... (ty\*) == 'terminology \*'" .
+	:note "tyls, ... (ty\\*) == 'terminology \\*'" .
 
 ("cppcheck") :under :programs .
 ("form filler 602") :under :programs ;
@@ -148,7 +149,7 @@
 	:note "bind -p: ukaze bindy" ;
 	:note "command <<< 'some text': jako echo |" ;
 	:note "^ = sed-like replace (^docs^web^)" ;
-	:note "Esc-. = fetch last arg" .
+	:note "Esc-. = fetch last arg" ;
 	:note """
 		%1 / %2: bring up specific job
 		bg %1: resume the process, but don't put it in background
@@ -189,31 +190,31 @@
 
 ("vagrant") :under :programs ;
 	:note "Arch box: http://vagrant.pouss.in/archlinux_2012-07-02.box" ;
-	:note "$ vagrant box add lucid32 http://files.vagrantup.com/lucid32.box
+	:note """$ vagrant box add lucid32 http://files.vagrantup.com/lucid32.box
 $ vagrant init lucid32
 $ vagrant up
 ...
 $ vagrant ssh
 ...
-$ vagrant destroy" .
+$ vagrant destroy""" .
 
 ("LaTeX") :under :programs ;
 	:note "pdflatex class option 'draft': ukazuje slimejze" ;
 	:note "sloppypar env" ;
 	:note "xetex/luatex allows fontspec, which has fancy ligatures" ;
-	:note "\Command{} (eats space otherwise)" ;
+	:note "\\Command{} (eats space otherwise)" ;
 	:note "stretching tables: 'tabu' package" ;
-	:note "\citet{Erdos65} \citep{Erdos65} \citep*[see][chap. 2]{Erdos65}" ;
+	:note "\\citet{Erdos65} \\citep{Erdos65} \\citep*[see][chap. 2]{Erdos65}" ;
 	:note "equation environment: allows label, ref; automatically numbered ((+subequations exist))" ;
-	:note "\overbrace{something}{overbrace description}, podobne underbrace" ;
+	:note "\\overbrace{something}{overbrace description}, podobne underbrace" ;
 	:note "cases env for piecewise functions" ;
 	:note "multiline subscript: substack" ;
-	:note "\renewcommand{\qedsymbol}{ajlasdf}" ;
+	:note "\\renewcommand{\\qedsymbol}{ajlasdf}" ;
 	:note "align*, align (aligned equations)" ;
 	:note "q = batch, r = run non-stop" ;
-	:note "\vspace{\stretch{1}}" ;
-	:note "\stretch{1} \stretch{2}: jako hfill/vfill, akorat se roztahuje pomerove" ;
-	:note "\dotfill, \hfill, \hrulefill" .
+	:note "\\vspace{\\stretch{1}}" ;
+	:note "\\stretch{1} \\stretch{2}: jako hfill/vfill, akorat se roztahuje pomerove" ;
+	:note "\\dotfill, \\hfill, \\hrulefill" .
 
 ("mplayer") :note "-af scaletempo: zrychlovani bez snizovani a zvysovani pitche" .
 ("oh-my-zsh") :note "rails shortcuts: rc, rdb, rs" .
@@ -254,7 +255,7 @@ TUI: Ctrl-A X, then repaint with Ctrl-L
 	:under :programs ;
 	:note "git notes edit (sha1): poznamky ke commitu — jde to automatizovat, ale nejde to efektivne sdilet (hodi se pro CI atd.)" ;
 	:note """
-	git filter-branch --index-filter 'git rm --cached --ignore-unmatch MujCitlivySoubor' \
+	git filter-branch --index-filter 'git rm --cached --ignore-unmatch MujCitlivySoubor' \\
 	  --prune-empty --tag-name-filter cat -- --all
 		(=git purge-file)
 	""" ;
@@ -279,20 +280,24 @@ TUI: Ctrl-A X, then repaint with Ctrl-L
 	:note "tar -xp === rozbaleni & preserve" ;
 	:note "tarpipe" .
 
-("python") :note "__method__, __callee__" ;
+:python
+	rdfs:label "Python" ;
+	:note "__method__, __callee__" ;
 	:note "def f(x=Bad); end <-- OK, evaluated at compile-time" .
 
-("haskell") :note """
+:haskell
+	rdfs:label "Haskell" ;
+	:note """
 	//Yesod//
 		(cabal update, cabal install yesod cabal-dev)
 
 		$ yesod init
 		-> cd, cabal-dev install && yesod --dev devel
-	""" .
+	""" ;
 	:note "hlint" ;
 	:note """QuickCheck:
 		import Test.QuickCheck
-		quickCheck (\x -> ..., kde to je typu :: A -> Bool)
+		quickCheck (\\x -> ..., kde to je typu :: A -> Bool)
 	""" ;
 	:note "State, Reader, Writer monady" ;
 	:note """
@@ -384,7 +389,7 @@ TUI: Ctrl-A X, then repaint with Ctrl-L
 	- Wakie: social media clock
 	- Sweet Home 3D
 	- archiveteam -- archivace online dat
-	- ActiveRecord: 'merge', 'find\_each'/'find\_in\_batches'
+	- ActiveRecord: 'merge', 'find_each'/'find_in_batches'
 	- Klee LLVM tester (klee.github.io)
 	- Redbooth (teambox)
 	- leveldb - key/value databaze

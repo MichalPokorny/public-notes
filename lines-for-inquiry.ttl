@@ -1,6 +1,7 @@
 @prefix : <http://rny.cz/knowledge#> .
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#> .
 
-:inquiry rdfs:label "Lines for inquiry"
+:inquiry rdfs:label "Lines for inquiry" .
 
 ("opadava ocas vsem jesterkam?") :under :inquiry .
 ("Kolik se pouziva na svete ropy? K cemu?") :under :inquiry .

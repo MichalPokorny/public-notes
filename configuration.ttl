@@ -1,3 +1,6 @@
+@prefix : <http://rny.cz/knowledge#> .
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#> .
+
 :megalocap :note "Lenovo X230" .
 :feynmann :note "Nejstarsi notebook (Asrock)" .
 :vakarian :note "HP 4530s" .
@@ -5,7 +8,7 @@
 
 :megalocap :note "Test-server kazdou hodinu" ;
 	:note "Androidovy path (/opt/android-sdk/platform-tools)" ;
-	:note "enable cups demon" ;
+	:note "enable cups demon" .
 
 :generic-mapping :note """
 Generic mapping!!! (musim testovat, ze funguje dobre)
@@ -261,8 +264,7 @@ MOZNA SI BUDU MOCT UKRADNOUT prvak.cz!
 
 		Jestli to tady nabootuje, budu pokracovat.
 		4)
-			pacman -S elinks hddtemp htop iputils postfix rsync \
-				screen strace syslog-ng systemd-sysvcompat uptimed v8 vim 
+			pacman -S elinks hddtemp htop iputils postfix rsync screen strace syslog-ng systemd-sysvcompat uptimed v8 vim
 
 			useradd prvak
 			passwd prvak
@@ -282,8 +284,7 @@ MOZNA SI BUDU MOCT UKRADNOUT prvak.cz!
 
 		5) 00:28: install
 	,
-			pacman -S bc bind cronie dovecot elinks fail2ban git grub hddtemp htop iputils mc mutt cfdisk php-apache postfix rsync ruby \
-				screen smartmontools strace syslog-ng systemd-sysvcompat uptimed v8 vim vsftpd apache
+			pacman -S bc bind cronie dovecot elinks fail2ban git grub hddtemp htop iputils mc mutt cfdisk php-apache postfix rsync ruby screen smartmontools strace syslog-ng systemd-sysvcompat uptimed v8 vim vsftpd apache
 
 			(cfdisk not found -- uz tam je)
 

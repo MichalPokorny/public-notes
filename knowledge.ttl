@@ -1,15 +1,15 @@
-# Translation of list: #first, #rest
-
 @prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#> .
 @prefix github: <https://github.com/> .
 @prefix wiki: <https://en.wikipedia.org/wiki/> .
 @prefix yt: <https://www.youtube.com/watch?v=> .
 @prefix : <http://rny.cz/knowledge#> .
 
+# Translation of list: #first, #rest
+
 :80k rdfs:label "80k" .
 
 <https://80000hours.org/articles/everything-you-need-to-know-about-whether-money-makes-you-happy/> :under :80k ;
-	:note "TODO: do exercises";
+	:todo "do exercises" .
 <https://80000hours.org/2012/02/entrepreneurship-a-game-of-poker-not-roulette/> :under :80k .
 <https://80000hours.org/2016/02/the-value-of-coordination/> :under :80k .
 <https://80000hours.org/2015/11/why-you-should-focus-more-on-talent-gaps-not-funding-gaps/> :under :80k .
