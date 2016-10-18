@@ -1,3 +1,6 @@
+@prefix : <http://rny.cz/knowledge#> .
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#> .
+
 <http://www.succeedsocially.com/eyecontact> :note """
 	- reasons: zoning out, removing anxiety from interactions
 	- people generally don't make much eye contact when they speak (first

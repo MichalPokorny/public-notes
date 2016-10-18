@@ -1,3 +1,6 @@
+@prefix : <http://rny.cz/knowledge#> .
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#> .
+
 <http://www.succeedsocially.com/quietvoice> :note """
 	- problem: having a soft/quiet speaking voice
 	- same: mumble, talk too quickly, trail off, ...

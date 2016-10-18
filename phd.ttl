@@ -1,4 +1,5 @@
 @prefix : <http://rny.cz/knowledge#> .
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#> .
 
 :phd rdfs:label "PhD" ;
 	:see <http://www.quora.com/How-do-I-build-a-profile-to-get-accepted-into-a-star-college-like-Caltech-MIT-Stanford-or-Berkeley-for-an-MS-in-CS>.
@@ -19,7 +20,7 @@
 	:note "'We strongly encourage any student considering ultimately pursuing the PhD to apply to our PhD programs.'" ;
 	:note "All prospective graduate students apply to SEAS through the Graduate School of Arts and Sciences: http://gsas.harvard.edu/apply" .
 
-:harvard :note "
+:harvard :note """
 	November 1: early action application deadline
 	mid-December: early action decision letters mailed
 	January 1: regular action application deadline
@@ -34,7 +35,7 @@
 		January, February: review
 		early March: decision letters mailed
 		April 15: Reply date for admitted students
-";
+""" .
 
 ("Yale") :under :phd ; :under :northeast .
 
@@ -42,10 +43,10 @@
 	:under :phd ;
 	:under :california .
 
-:stanford :note "GRE scores: >=750 math is adequate, 800 best
+:stanford :note """GRE scores: >=750 math is adequate, 800 best
 	>=600 english OK, 700 good
 	===> a lot of effort into GRE
-";
+""" .
 
 :berkeley rdfs:label "UC Berkeley" ;
 	:under :phd ;

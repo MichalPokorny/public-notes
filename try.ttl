@@ -1,3 +1,6 @@
+@prefix : <http://rny.cz/knowledge#> .
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#> .
+
 :try rdfs:label "Try" .
 ("Google Cardboard") :under :try .
 ("Gnome keyring") :under :try .
@@ -7,7 +10,7 @@
 ("Write a Lisp (github.com/kanaka/mal)") :under :try .
 ("Write a Quine") :under :try .
 ("Python + Theano + Lasagne") :under :try .
-(""`subtle` - Ruby window manager"") :under :try .
+("`subtle` - Ruby window manager") :under :try .
 ("Going Write-Only") :under :try .
 ("Public speaking class (ToastMasters?)") :under :try .
 ("Hackersurfing") :under :try .

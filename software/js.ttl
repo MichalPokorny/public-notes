@@ -1,3 +1,6 @@
+@prefix : <http://rny.cz/knowledge#> .
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#> .
+
 :js rdfs:label "JavaScript" .
 
 ("Kinetic.js") :under :js .

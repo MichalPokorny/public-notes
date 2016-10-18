@@ -1,3 +1,6 @@
+@prefix : <http://rny.cz/knowledge#> .
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#> .
+
 :keto :note """
 	Avoid: bread, pasta, cereals, starches, sugars (incl. refined & from fruits)
 

@@ -8,13 +8,13 @@
 	:note "led by Aubrey de Grey" ;
 	:note "Tries to reverse aging by chemical/biological interventions" ;
 	:note "~$2MM rocne prijem, nema sirokou akademickou podporu, chteji porazit starnuti do 2030" .
-("Calico, under Alphabet") :under :life-extension ;
+("Calico, under Alphabet") :under :life-extension .
 ("If all heart disease and cancer could be cured, life expectancy would increase by merely 6-7 years.") :under :life-extension ;
 	:from <http://www.nickbostrom.com/ethics/values.html> .
 ("More than 2/3 of 150-160 000 daily deaths die by aging.") :under :life-extension .
 ("stem cell treatments for parkinson's disease") :under :sens ;
 	:note "treatment within 10 years?" .
-("lysozomy na breakdown oxygenovaneho cholesterolu (7KC)") :under :sens .
+("lysozomy na breakdown oxygenovaneho cholesterolu (7KC)") :under :sens ;
 	:note "7-KC: arteroskleroza" .
 ("students: read a lot, join SRF Education") :under :sens .
 ("amyloid") :under :sens .
@@ -63,7 +63,7 @@ yt:pL3DW6-xzLc
 	"not this again. listen, you're in a horror movie, if you split up, you die."
 	going in circles => find concrete different prediction
 	""" ;
-	:note "attempted telekinesis" .
+	:note "attempted telekinesis" ;
 	:note """
 		cached selves
 		consider the opposite: "what are some reasons that my initial judgement might be wrong?"

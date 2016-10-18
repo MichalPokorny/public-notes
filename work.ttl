@@ -1,3 +1,5 @@
+@prefix : <http://rny.cz/knowledge#> .
+
 :work :note """
 	- GitHub
 	- Satoshi labs

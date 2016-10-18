@@ -1,4 +1,5 @@
 @prefix : <http://rny.cz/knowledge#> .
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#> .
 
 :wish rdfs:label "Wishlist" .
 
@@ -26,7 +27,7 @@
 ("trochu stylovejsi brasnu na notebook (asi kozenou)") :under :wish-clothes .
 ("vesta k saku") :under :wish-clothes .
 
-:wish-util rdfs:label "Wishlist - Utilities"
+:wish-util rdfs:label "Wishlist - Utilities" .
 ("stlaceny vzduch") :under :wish-util .
 ("predlozku do koupelny") :under :wish-util .
 ("slozitelne krabice") :under :wish-util .

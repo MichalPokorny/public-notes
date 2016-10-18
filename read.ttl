@@ -8,7 +8,7 @@
 <http://blog.givewell.org/2011/08/18/why-we-cant-take-expected-value-estimates-literally-even-when-theyre-unbiased/> :under :read .
 <http://blog.givewell.org/2015/03/11/open-philanthropy-project-update-global-catastrophic-risks/> :under :read .
 <http://blog.keras.io/building-autoencoders-in-keras.html> :under :read .
-<http://book.mixu.net/distsys/ (distributed systems)> :under :read .
+("http://book.mixu.net/distsys/ (distributed systems)") :under :read .
 <http://firstround.com/review/this-90-day-plan-turns-engineers-into-remarkable-managers/> :under :read .
 <http://futureoflife.org/2016/02/29/introductory-resources-on-ai-safety-research/> :under :read .
 <http://globalprioritiesproject.org/2015/10/three-areas-of-research-on-the-superintelligence-control-problem/> :under :read .
@@ -20,19 +20,18 @@
 <http://lesswrong.com/lw/s5/rebelling_within_nature/> :under :read .
 <http://lesswrong.com/lw/ur/crisis_of_faith/> :under :read .
 <http://lesswrong.com/r/discussion/lw/gpl/imitation_is_the_sincerest_form_of_argument/> :under :read .
-<http://producingoss.com/en/index.html (producing open-source software)> :under :read .
+("http://producingoss.com/en/index.html (producing open-source software)") :under :read .
 <http://rationality.org/reading/> :under :read .
 <https://adeshpande3.github.io/adeshpande3.github.io/The-9-Deep-Learning-Papers-You-Need-To-Know-About.html> :under :read .
 <https://blog.gregbrockman.com/my-path-to-openai> :under :read .
 <https://brainstormers.wordpress.com/2010/10/18/altruistic-awesomeness-your-challenge/> :under :read .
 <https://diegocaleiro.com/2013/07/08/first-challenge-stop-learning-start-doing/> :under :read .
 <https://docs.python.org/3/reference/datamodel.html> :under :read .
-<http://searchwarp.com/swa267806.htm ('How Do You Create A Relationship When
-You've Been Hurt So Many Times Before?')> :under :read .
+("http://searchwarp.com/swa267806.htm ('How Do You Create A Relationship When You've Been Hurt So Many Times Before?')") :under :read .
 <https://github.com/jlevy/the-art-of-command-line> :under :read .
 <https://github.com/prakhar1989/awesome-courses> :under :read .
 <https://github.com/sindresorhus/awesome> :under :read .
-<http://shoup.net/ntb/ntb-v2.pdf - computational introduction to number theory & algebra> :under :read .
+("http://shoup.net/ntb/ntb-v2.pdf - computational introduction to number theory & algebra") :under :read .
 <https://iamaaditya.github.io/2016/04/visual_question_answering_demo_notebook> :under :read .
 <https://intelligence.org/2016/04/21/two-new-papers-uniform/> :under :read .
 <https://nthlook.wordpress.com/2015/12/31/self-improve-in-10-years/> :under :read .

@@ -1,3 +1,6 @@
+@prefix : <http://rny.cz/knowledge#> .
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#> .
+
 :mff rdfs:label "Studium na MFF" ;
 	:note "kazdy rok zadost o ubytovaci stipendium" .
 	:note "kniharstvi na diplomku: http://www.kniharstvi-cap.cz/" .

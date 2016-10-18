@@ -1,6 +1,7 @@
 @prefix : <http://rny.cz/knowledge#> .
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#> .
 
-:do rdfs:label "Do"
+:do rdfs:label "Do" .
 ("webpage: hodit tam prezentaci o Bazelu") :under :do .
 ("add more structure to my diary") :under :do .
 ("fix music on mobile phone (album Built to Spill - You in Reverse)") :under :do .
@@ -88,8 +89,8 @@
 ("create Anki card: halo effect") :under :do .
 ("investigate: delat na ETH PhD zatimco budu pracovat v Googlu?") :under :do .
 ("podivat se na nabidky spolubydleni v Zurichu?") :under :do .
-("create Anki card: vim: parens in \( \) \+ in regex, not .") :under :do .
-("vim: backreference: \1") :under :do .
+("""create Anki card: vim: parens in \\( \\) \\+ in regex, not .""") :under :do .
+("vim: backreference: \\1") :under :do .
 ("study: Notation 3 vs. Turtle") :under :do .
 ("film myself to see bad habits") :under :do .
 ("stochastically sample automatic thoughts") :under :do .

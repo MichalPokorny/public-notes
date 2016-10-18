@@ -1,4 +1,5 @@
 @prefix : <http://rny.cz/knowledge#> .
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#> .
 
 :learn rdfs:label "Learn" .
 
@@ -104,7 +105,7 @@
 ("raytracing") :under :learn-cs .
 ("paritni funkce vyzaduje exponencialne mnoho hradel") :under :learn-cs .
 ("jde napsat v haskellu hledani prvniho nepritomneho prvku bez pole, ciste funkcionalne, v O(N).") :under :learn-cs .
-("perfect hashing: BZD / CHD
+("perfect hashing: BZD / CHD") :under :learn-cs .
 ("multi-armed bandit problem (Tomas Tunys z CVUT eClub media lab)") :under :learn-cs .
 ("GDB reverse debugging") :under :learn-cs .
 ("Cache coherence algorithms") :under :learn-cs .

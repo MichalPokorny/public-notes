@@ -30,24 +30,17 @@ yt:WgSwvDkJVxE :under :ideas ;
 ("startup/produkt na ulehceni citovani v texu") :under :ideas .
 ("gdb: prijimej argumenty pro debugovany program") :under :ideas .
 ("globalni optimalizace") :under :ideas .
-("YouTube recommender, ktery recommenduje, co me bude zajimat, ale neni moc
-blizko toho, co uz znam") :under :ideas .
+("YouTube recommender, ktery recommenduje, co me bude zajimat, ale neni moc blizko toho, co uz znam") :under :ideas .
 ("velky polstar s Robinem Hansonem") :under :ideas .
 ("automatizace ukladani vahy") :under :ideas .
-("kompletne cryptohome (je otazka jestli to je tak dobry napad jako
-polocrypto)") :under :ideas .
+("kompletne cryptohome (je otazka jestli to je tak dobry napad jako polocrypto)") :under :ideas .
 ("mobil se da dat na snurku") :under :ideas .
 ("Stalker na zaklade open source; Stalker RPG") :under :ideas .
-("gem, co ukaze developerovi plnou chybu, ale normalnimu cloveku nic zajimaveho.
-Tohle by slo udelat sifrovanim a trochou JavaScriptu.") :under :ideas .
-("skript, co se podiva do textu mailu a upozorni, kdyz pisu, ze ma prilohu, ale
-nema ji") :under :ideas .
+("gem, co ukaze developerovi plnou chybu, ale normalnimu cloveku nic zajimaveho.  Tohle by slo udelat sifrovanim a trochou JavaScriptu.") :under :ideas .
+("skript, co se podiva do textu mailu a upozorni, kdyz pisu, ze ma prilohu, ale nema ji") :under :ideas .
 ("Google Finance virtualni burza") :under :ideas .
-("ulozit si privatni klic a takove veci do sejfu v bance (muzu tam i pridat
-ruzna vysvedceni a podobne veci) - stoji v KB 1020 + 20% DPH rocne") :under
-:ideas .
-("linked data: vidim Google v textu => kliknu a dostanu shrnuti Googlu") :under
-:ideas .
+("ulozit si privatni klic a takove veci do sejfu v bance (muzu tam i pridat ruzna vysvedceni a podobne veci) - stoji v KB 1020 + 20% DPH rocne") :under :ideas .
+("linked data: vidim Google v textu => kliknu a dostanu shrnuti Googlu") :under :ideas .
 ("Ruby runtime") :under :ideas .
 ("muzu mit na dragonu vlastni named.") :under :ideas .
 ("Go vs. C performance") :under :ideas .

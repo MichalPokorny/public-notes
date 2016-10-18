@@ -1,7 +1,8 @@
 @prefix : <http://rny.cz/knowledge#> .
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#> .
 
 <http://www.succeedsocially.com/funny>
-	:title "How to Be Funny"
+	:title "How to Be Funny" ;
 	:note """
 	topic: being spontaneously witty in social situations
 	- humor can be a double-edged sword

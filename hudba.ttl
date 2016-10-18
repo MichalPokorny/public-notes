@@ -1,5 +1,6 @@
 @prefix yt: <https://www.youtube.com/watch?v=> .
 @prefix : <http://rny.cz/knowledge#> .
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#> .
 
 :hudba rdfs:label "Hudba" .
 ("kitchen - time") :under :hudba .
@@ -86,5 +87,5 @@ yt:C3cEbsb9a9c :under :hudba ;
 ("All along the watchtower") :under :hudba-sehnat .
 ("Opeth, Porcupine Tree") :under :hudba-sehnat .
 
-:alarms rdfs:label "Music used as alarms"
+:alarms rdfs:label "Music used as alarms" .
 ("the soundless dawn") :under :alarms .
