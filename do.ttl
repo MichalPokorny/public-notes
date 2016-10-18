@@ -46,9 +46,9 @@
 ("nastudovat neurosis / neurotic") :under :do .
 ("3000 work Pomodoros, 500 study Pomodoros, 500 personal Pomodoros") :under :do .
 ("rosseau: teorie obecneho blaha") :under :do .
-("http://slideslive.com/casp/xiii-celostatni-konference-casp-laska-ve-21-stoleti") :under :do .
-("http://www.paulgraham.com/vb.html") :under :do .
-("http://www.marcandangel.com/2011/12/11/30-things-to-stop-doing-to-yourself/") :under :do .
+<http://slideslive.com/casp/xiii-celostatni-konference-casp-laska-ve-21-stoleti> :under :do .
+<http://www.paulgraham.com/vb.html> :under :do .
+<http://www.marcandangel.com/2011/12/11/30-things-to-stop-doing-to-yourself/> :under :do .
 ("Podivat se na: http://www.kieser-training.cz/ http://www.youtube.com/user/scooby1961 https://www.youtube.com/watch?v=pIrcgwf_kUo") :under :do .
 ("contribute to Electronic Frontier Foundation (HTTPS everywhere, etc.)") :under :do .
 ("zastavit se nekdy za kardiologem?") :under :do .
@@ -66,7 +66,7 @@
 ("root: chci mit v dotfiles reference na vim bundles jenom kdyz jsem normalni uzivatel (root by mel mit spolehlivou konfiguraci)") :under :do .
 
 ("RehaLand; ortoped v Praze: Jakub Vranka (poliklinika)") :under :do .
-("https://www.reddit.com/r/theXeffect") :under :do .
+<https://www.reddit.com/r/theXeffect> :under :do .
 ("listen to audiobooks at 2-3x normal speed") :under :do .
 ("podivat se na eliezerovy stare maily z ~1997") :under :do .
 ("change diet, work out in the morning, maximize health, maximize physical attractiveness") :under :do .
@@ -86,7 +86,6 @@
 ("Anki fails unless run from console because of nonstandard path") :under :do .
 ("fix Anki card: cyclomatic complexity") :under :do .
 ("fix Anki card: P/E ratio") :under :do .
-("create Anki card: halo effect") :under :do .
 ("investigate: delat na ETH PhD zatimco budu pracovat v Googlu?") :under :do .
 ("podivat se na nabidky spolubydleni v Zurichu?") :under :do .
 ("""create Anki card: vim: parens in \\( \\) \\+ in regex, not .""") :under :do .
@@ -96,3 +95,6 @@
 ("stochastically sample automatic thoughts") :under :do .
 ("joga") :under :do ;
 	:from :vojta-tuma .
+("write todo-list Eisenhower matrix organizer") :under :do .
+
+:configuration :todo "znovu zprovoznit organizaci vypisu z KB" .
