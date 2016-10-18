@@ -246,3 +246,5 @@
 
 ("portfolio algoritmu") :under :learn ;
 	:from :pasky .
+
+("growth analysis") :under :learn .
