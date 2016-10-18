@@ -12,3 +12,5 @@
 ("Country life") :under :praha ;
 	:note "vegetarianska restaurace v Dejvicich" ;
 	:note "TODO vyzkouset" .
+
+("YMCA bazen") :under :praha .
