@@ -108,3 +108,6 @@
 	člověka je mne méně, neboť jsem část lidstva. A proto se nikdy nedávej ptát,
 	komu zvoní hrana. Zvoní tobě.“
 """ .
+
+<http://hrajlarp.cz> :under :fun ;
+	:under :do .

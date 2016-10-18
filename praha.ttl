@@ -14,3 +14,6 @@
 	:note "TODO vyzkouset" .
 
 ("YMCA bazen") :under :praha .
+
+("Kundraticky les") :under :praha ;
+	:todo "navstivit Kundraticky les / jit tam behat" .

@@ -93,3 +93,5 @@
 ("study: Notation 3 vs. Turtle") :under :do .
 ("film myself to see bad habits") :under :do .
 ("stochastically sample automatic thoughts") :under :do .
+("joga") :under :do ;
+	:from :vojta-tuma .
