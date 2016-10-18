@@ -195,3 +195,5 @@ You've Been Hurt So Many Times Before?')> :under :read .
 
 <http://www.nature.com/nature/journal/vaop/ncurrent/full/nature20101.html> :under :read .
 <http://kikiklop.blog.cz/0803/heidegger-co-je-metafyzika> :under :read .
+
+("Nick Beckstead's thesis -- last page: 113") :under :read .

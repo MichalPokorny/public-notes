@@ -24,3 +24,5 @@
 ("joongjak") :under :tea .
 ("sejak") :under :tea .
 ("prodejny: teamountain.cz") :under :tea .
+("kuwapani") :under :tea ;
+	:from :dan-hnyk .

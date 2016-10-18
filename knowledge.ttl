@@ -93,7 +93,7 @@
 	:note "TODO: Snazil se o to uz nekdo?" ;
 	:note "TODO: Kolik pameti je potreba na jake smysly?" ;
 	:note "TODO: Co vsechno bychom mohli vedet, kdybychom meli lepsi pristup k pameti?" ;
-	:note "TODO: Diktafon." .
+	:todo "Koupit diktafon nebo mikrofon." .
 
 :running rdfs:label "Running" ;
 	:link <http://rungo.idnes.cz/terminovka.aspx> ;

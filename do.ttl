@@ -91,3 +91,5 @@
 ("create Anki card: vim: parens in \( \) \+ in regex, not .") :under :do .
 ("vim: backreference: \1") :under :do .
 ("study: Notation 3 vs. Turtle") :under :do .
+("film myself to see bad habits") :under :do .
+("stochastically sample automatic thoughts") :under :do .
