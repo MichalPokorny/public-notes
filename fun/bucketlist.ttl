@@ -27,6 +27,7 @@
 ("couch surfing") :under :bucketlist .
 ("Xyzzy Foo bar") :under :bucketlist .
 ("laser tag date") :under :bucketlist .
+("attend meditation retreat (weekend? weekly?)") :under :bucketlist .
 
 :tattoo-ideas :under :bucketlist ;
 	rdfs:label "Tattoo ideas" .

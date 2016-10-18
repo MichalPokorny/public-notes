@@ -405,3 +405,6 @@ TUI: Ctrl-A X, then repaint with Ctrl-L
 	8051 procesory
 	TIMEFORMAT="%3R"
 """ .
+
+("Google Chrome") :under :programs ;
+	:note "umi nahravat cachnutou page automaticky, je to v settings" .

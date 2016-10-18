@@ -28,6 +28,9 @@ yt:pL3DW6-xzLc
 ("Cryonics Institute") :under :cryonics ;
 	:note "TODO: investigate" .
 
+("Hanson hour") :under :cryonics;
+	:from :petr-hudecek .
+
 <http://thebaffler.com/salvos/everybody-freeze-pein> :under :cryonics ;
 	:note "Critique of cryonics"  .
 ("life extension foundation") :under :cryonics ;

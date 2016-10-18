@@ -36,3 +36,6 @@
 	:from :jacob-pekarek .
 ("Undertale") :under :games .
 ("Dark Souls") :under :games .
+("State of War") :under :games ;
+	:from :petr-hudecek ;
+	:note "cesky abadonware; na uloz.to" .
