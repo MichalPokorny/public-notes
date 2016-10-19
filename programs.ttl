@@ -272,7 +272,8 @@ TUI: Ctrl-A X, then repaint with Ctrl-L
 		gem [[GitModel]] (trochu jako [[ActiveRecord]] - superfajn :) -- git model
 	""" ;
 	:note "git rev-list (vypise parents)" ;
-	:note "git ls-tree" .
+	:note "git ls-tree" ;
+	:note """to check out GitHub PRs: add into config: fetch = +refs/pull/*/head:refs/remotes/origin/pr/*""" .
 
 ("grep") :note "\b: word boundary" .
 
@@ -418,3 +419,8 @@ TUI: Ctrl-A X, then repaint with Ctrl-L
 	:purpose "meditation app" ;
 	:from :premek-paska ;
 	:todo "try Headspace meditation app" .
+
+("Getaround") :under :programs ;
+	:from :ian ;
+	:purpose "borrow-a-car app" ;
+	:todo "use in US/Zurich" .

@@ -38,3 +38,6 @@
 ("chinese symbol for 'chinese symbol'") :under :tattoo-ideas .
 ("tears in rain") :under :tattoo-ideas .
 ("crane") :under :tattoo-ideas .
+
+("todo every week: invite someone somewhere") :under :bucketlist .
+("todo every week: do something fun") :under :bucketlist .

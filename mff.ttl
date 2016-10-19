@@ -4,6 +4,7 @@
 :mff rdfs:label "Studium na MFF" ;
 	:note "kazdy rok zadost o ubytovaci stipendium" ;
 	:note "kniharstvi na diplomku: http://www.kniharstvi-cap.cz/" .
+	:note """ "KSP patro": B6 @ 17/11""" .
 
 :statnice :under :mff ;
 	rdfs:label "Mgr statnice" ;
