@@ -196,3 +196,12 @@
 <http://kikiklop.blog.cz/0803/heidegger-co-je-metafyzika> :under :read .
 
 ("Nick Beckstead's thesis -- last page: 113") :under :read .
+
+("""knizka, ve ktere hlavni hrdina ma rozdelene hemisfery
+stalo se mu to asi na mesici jestli si dobre vzpominam
+komunikovaly spolu pomoci morseovky""") :under :read ;
+	:note ("""to zni jako kdyby me moje podvedomi rikalo ze na nej kaslu nebo
+	ze sam sobe nerozumim""") ;
+	:todo "find and read this book" .
+
+

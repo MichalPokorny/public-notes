@@ -7,3 +7,6 @@
 		"How would I advise someone else on this?"
 		"Will I regret not having done this when I'm 80?"
 """ .
+
+:waitbutwhy :todo "spend more time in Mode 2" ;
+	:todo "Don’t wait until your deathbed to figure out what life is all about." .

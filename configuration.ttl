@@ -534,4 +534,5 @@ win-alt-h: spust htop
 :notes rdfs:label "Note-taking system" ;
 	:todo "consider using Notation 3 instead of Turtle?" .
 
-:configuration :todo "set Firefox as default URL opener" .
+:configuration :todo "set Firefox as default URL opener" ;
+	:todo "rescuetime: stop collecting window + document titles?" .

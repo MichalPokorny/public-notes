@@ -101,3 +101,61 @@
 
 ("try pre-cooking") :under :do .
 ("Ludwigova meta-prednaska") :under :do .
+("hnuti brontosaurus") :under :do .
+("test na facebook app listening") :under :do .
+("""investigate lifespan impact of vegetarianism
+	blood screen: risk factor na nemoci, impact na lifespan, B-12, D, omega-3
+""") :under :do .
+("join forums for LW, EA") :under :do .
+("koupit osusku") :under :do .
+("strategy of conflict: zbyva precist Part 4+") :under :do .
+("build self-worth") :under :do .
+("agentyduck.blogspot.com") :under :do .
+("Argunet (software na argument mapping)") :under :do .
+("Go klub (MFF)") :under :do ;
+	:under :fun .
+("ssh-agent on metacentrum") :under :do .
+("change swapfile location.") :under :do .
+("vyresit mobilni internet O2 - po vycerpani se vypne") :under :do .
+("right hemisphere dysfunction: https://medicalspeechpathology.wordpress.com/student-handbook/right-hemisphere-dysfunction/") :under :do .
+("test na anemii: anemie zpusobuje depresi") :under :do .
+("apply to OpenAI") :under :do .
+("mind hacking") :under :do .
+("check for vitamin deficiencies, anaemia, hypothyroidism") :under :do .
+("""existuje nejaky spravny zpusob, jak na kytaru davat nove struny?
+	zrejme jsem to posledne udelal dost divne.""") :under :do .
+("""opravit na kytare takovy ten "jezdici plast" na leve strane hmatniku""") :under :do .
+("let people finish their sentences") :under :do .
+("vzit domu levanduli a dalsi masti") :under :do .
+("koupit si jesterku az budu mit trvaly byt") :under :do .
+("emotional dependency") :under :do .
+("spend more time with family -- they might die while I'm gone") :under :do .
+("cerebrolysin") :under :do .
+<https://www.google.com/settings/u/0/account/inactive> :under :do .
+("""papir "je mi 20"?""") :under :do .
+
+("life cost-benefit analysis") :under :do .
+("whyday") :under :do .
+("check out 'owncloud' - mohla by se hodit tvrda zaloha") :under :do .
+("bezpecnejsi login? co kdyz prijdu o klic? hesla by nemela stacit...") :under :do .
+
+("liska bystrouska") :under :do .
+("Viden - narodni opera") :under :do .
+("david hume") :under :do .
+("stahnout 'find the music in you'") :under :do .
+("brazilian jiu jitsu") :under :do .
+<http://log.or.cz/?cat=150> :under :do .
+(""" "the terrible horrible ... ..." - 28/377, 1.2 two meanings of "moral" """) :under :do .
+("do therapy on yourself") :under :do .
+("""dukkha: https://en.wikipedia.org/wiki/Dukkha
+	make a list of things you're grateful for
+	gratitude journal""") :under :do .
+("behani: http://www.kpo.cz/fyziologie/fyziologie.htm") :under :do .
+("Jak by me slo presvedcit o tom, ze bych mel venovat na bezpecnost umele inteligence?") :under :do .
+("vyresit /stara cdcka, /from-crypto") :under :do .
+("join ACM? (policy-affecting)") :under :do .
+("arguments for universal objective binding morality") :under :do .
+("je sance, ze jeste existuji moje zaznamy od psycholozky, kdyz jsem tam byl?") :under :do .
+("sehnat houby, pozvat tomiho na vec") :under :do .
+("relationship advice thread z order of the stick") :under :do .
+("rewrite deduplicator in go") :under :do .
