@@ -98,3 +98,6 @@
 ("write todo-list Eisenhower matrix organizer") :under :do .
 
 :configuration :todo "znovu zprovoznit organizaci vypisu z KB" .
+
+("try pre-cooking") :under :do .
+("Ludwigova meta-prednaska") :under :do .

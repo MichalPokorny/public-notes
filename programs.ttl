@@ -408,3 +408,13 @@ TUI: Ctrl-A X, then repaint with Ctrl-L
 
 ("Google Chrome") :under :programs ;
 	:note "umi nahravat cachnutou page automaticky, je to v settings" .
+
+("Gleeo") :under :programs ;
+	:purpose "precision time-tracking app for phone" ;
+	:from :striving-consistency ;
+	:todo "try Gleeo time-tracking app" .
+
+("Headspace") :under :programs ;
+	:purpose "meditation app" ;
+	:from :premek-paska ;
+	:todo "try Headspace meditation app" .

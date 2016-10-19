@@ -12,9 +12,47 @@
 
 ("Country life") :under :praha ;
 	:note "vegetarianska restaurace v Dejvicich" ;
-	:note "TODO vyzkouset" .
+	:under :vyzkouseno .
 
 ("YMCA bazen") :under :praha .
 
 ("Kundraticky les") :under :praha ;
-	:todo "navstivit Kundraticky les / jit tam behat" .
+	:todo "navstivit Kundraticky les / jit tam behat" ;
+	:under :fun .
+
+("Liliova cajovna - Go") :under :praha ;
+	:under :fun .
+
+("Bake Shop") :under :praha ; :under :vyzkouseno .
+("skala Barrandov") :under :praha ; :under :vyzkouseno .
+("Dobra cajovna") :under :praha ; :under :vyzkouseno .
+("kvetinova cajovna: celkem super") :under :praha ; :under :vyzkouseno .
+("Curry house na Palmovce") :under :praha ; :under :vyzkouseno .
+("I.P.Pavlova: Loving Hut") :under :praha ; :under :vyzkouseno .
+("Galerie Le Court") :under :praha ;
+	:under :vyzkouseno ;
+	:note "zrejme uz zavreno" .
+("Unijazz Citarna") :under :praha ;
+	:note "je fajn" ;
+	:note """
+		denne 14 - 22 hod.
+		Praha 1, Jindrisska 5 (vchod z pasaze)
+		2. schodiste, 4. patro
+	""" ;
+	:under :vyzkouseno .
+("burgery: The Tavern") :under :praha ;
+	:under :vyzkouseno .
+("autonomni socialni centrum Klinika") :under :praha .
+("beas dhaba") :under :praha ;
+	:under :vyzkouseno .
+("I.P.Pavlova: Golden Tikka") :under :praha .
+("Kino 43 - Paralelní polis") :under :praha .
+("atelier -- kurzy malovani na Strossmayeraku za kostelem") :under :praha ;
+	:from :ana-fidalgo .
+("Krusta pekarny") :under :praha .
+("naproti ministerstvu na Letne: vietnamsko-thajska restaurace") :under :praha ;
+	:from :ales-dvorak .
+("kavarna v nakladovem nadrazi Zizkov") :under :praha ;
+	:from :ondra-horak .
+("restaurace Chester") :under :praha ;
+	:from :ales-dvorak .
