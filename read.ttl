@@ -205,3 +205,4 @@ komunikovaly spolu pomoci morseovky""") :under :read ;
 	:todo "find and read this book" .
 
 
+<http://harpers.org/wp-content/uploads/HarpersMagazine-1998-01-0059425.pdf> :under :read .
