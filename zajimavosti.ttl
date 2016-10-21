@@ -488,3 +488,6 @@ mnozstvi vypoctu?""") :under :zajimavosti ;
 		- shogun (balik: shogun-git v AUR)
 		- mlpack: machine learning
 """ .
+
+("""idiom "hodit si masli" """) :under :zajimavosti ;
+	:from :honza-burian .
