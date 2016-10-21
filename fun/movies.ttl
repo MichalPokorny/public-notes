@@ -19,7 +19,6 @@
 ("lawnmower man") :under :movies .
 ("howl's moving castle") :under :movies .
 ("it's such a beautiful day") :under :movies .
-("hateful eight") :under :movies .
 ("the midnight cowboy") :under :movies .
 ("brainspotting documentary") :under :movies .
 ("secret of kells") :under :movies .
@@ -43,9 +42,6 @@
 ("ruzne filmy od Tarkovskeho (napr. starsi Solaris)") :under :movies .
 ("solaris (starsi verze)") :under :movies .
 <http://www.imdb.com/title/tt0267287/> :under :movies .
-
-("") :under :movies ;
-	:from :petra-janickova .
 
 :reddit-mindfuck rdfs:label "mindfuck movies from reddit" .
 
