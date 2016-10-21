@@ -1,6 +1,3 @@
-@prefix : <http://rny.cz/knowledge#> .
-@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#> .
-
 <http://www.succeedsocially.com/intellectual> :note """
 	Social mistakes intellectual people can make:
 		(mainly people who IDENTIFY THEMSELVES as intellectuals)

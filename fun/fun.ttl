@@ -1,6 +1,3 @@
-@prefix : <http://rny.cz/knowledge#> .
-@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#> .
-
 :fun rdfs:label "Fun" .
 <http://www.openculture.com/2010/07/tarkovksy.html> :under :fun .
 ("Voltaire's Candide") :under :fun .

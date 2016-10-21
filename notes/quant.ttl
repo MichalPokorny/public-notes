@@ -1,5 +1,3 @@
-@prefix : <http://rny.cz/knowledge#> .
-
 <https://www.coursera.org/learn/computational-investing/home/> :note """
 	aqr, citadel, gs, ms (hedge fondy); lucena research
 	wiki.quantsoftware.org

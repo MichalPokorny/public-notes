@@ -1,5 +1,3 @@
-@prefix : <http://rny.cz/knowledge#> .
-
 :financial-independence :note """
 	dumpster dive?
 	rozprodat knizky?

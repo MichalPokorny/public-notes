@@ -1,5 +1,3 @@
-@prefix : <http://rny.cz/knowledge#> .
-
 :anki :note "field blueprint: card type.  add and edit card types: Cards... button" ;
 	:note "new collection: Anki adds standard note types to new collection: Basic (+- reversed card); Cloze (Cloze deletion)" ;
 	:note "launch in custom Anki dir: anki -b dropbox/anki" ;

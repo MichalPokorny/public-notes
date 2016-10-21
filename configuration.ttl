@@ -1,6 +1,3 @@
-@prefix : <http://rny.cz/knowledge#> .
-@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#> .
-
 :megalocap :note "Lenovo X230" .
 :feynmann :note "Nejstarsi notebook (Asrock)" .
 :vakarian :note "HP 4530s" .
@@ -488,7 +485,6 @@ win-alt-h: spust htop
 """ .
 
 :configuration :todo "naucit test-server zkusit to pozdeji znovu?" ;
-	:todo "mute sound after suspend" ;
 	:todo "vim write & buffer delete" ;
 	:todo "co se stane, kdyz odeberu notebook z doku zatimco spi? chci aby pochopil ze uz neni v doku..." ;
 	:todo "timidity mi zere baterku... je potreba?" ;
@@ -536,3 +532,10 @@ win-alt-h: spust htop
 
 :configuration :todo "set Firefox as default URL opener" ;
 	:todo "rescuetime: stop collecting window + document titles?" .
+
+:configuration :todo "Anki fails unless run from console because of nonstandard path" ;
+	:todo "document server process, possibly create installation procedure" ;
+	:todo "consider switching to password manager" ;
+	:todo "enhance screenshot gathering. could I record everything?" ;
+	:todo "physically back up Dropbox 2FA one-time access codes" .
+	:todo "rewrite deduplicator in go" .

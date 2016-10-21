@@ -1,6 +1,3 @@
-@prefix : <http://rny.cz/knowledge#> .
-@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#> .
-
 :os-bugs-ideas rdfs:label "Open-source bugs & ideas" .
 
 ("ncmpcpp: dies when resized too small") :under :os-bugs-ideas .

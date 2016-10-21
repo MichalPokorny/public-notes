@@ -1,7 +1,3 @@
-@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#> .
-@prefix : <http://rny.cz/knowledge#> .
-@prefix yt: <https://www.youtube.com/watch?v=> .
-
 :ideas rdfs:label "Napady" .
 ("ruby: .tap {...} ==> .use { |x| ... }") :under :ideas .
 ("preventor duplikatu") :under :ideas ;

@@ -1,7 +1,3 @@
-@prefix : <http://rny.cz/knowledge#> .
-@prefix yt: <https://www.youtube.com/watch?v=> .
-@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#> .
-
 :life-extension rdfs:label "Life extension" .
 :sens :under :life-extension ;
 	rdfs:label "SENS (Strategies for Engineered Negligible Senescence)" ;

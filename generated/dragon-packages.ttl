@@ -1,4 +1,3 @@
-@prefix : <http://rny.cz/knowledge#> .
 :ack :installed-on :dragon .
 :apache :installed-on :dragon .
 :archlinux-keyring :installed-on :dragon .

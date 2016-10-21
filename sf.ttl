@@ -1,6 +1,3 @@
-@prefix : <http://rny.cz/knowledge#> .
-@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#> .
-
 :san-francisco rdfs:label "San Francisco" .
 
 :san-francisco :note ("cena listku San Francisco -- Praha (zpatecni): ~$1100") .

@@ -1,7 +1,3 @@
-@prefix yt: <https://www.youtube.com/watch?v=> .
-@prefix : <http://rny.cz/knowledge#> .
-@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#> .
-
 :hudba rdfs:label "Hudba" .
 ("kitchen - time") :under :hudba .
 <https://play.spotify.com/album/2Gy2IQbKCWP3ax77OVQk3r> :under :hudba .

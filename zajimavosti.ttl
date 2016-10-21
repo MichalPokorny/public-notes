@@ -1,7 +1,3 @@
-@prefix wiki: <https://en.wikipedia.org/wiki/> .
-@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#> .
-@prefix : <http://rny.cz/knowledge#> .
-
 :zajimavosti rdfs:label "Zajímavosti" .
 
 <https://github.com/vmg/clar> :under :zajimavosti ;

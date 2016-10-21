@@ -1,6 +1,3 @@
-@prefix : <http://rny.cz/knowledge#> .
-@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#> .
-
 :vim :under :programs ;
 	rdfs:label "Vim" ;
 	:note "makeprg: muze obsahovat %, ktere se expanduje na soubor" ;

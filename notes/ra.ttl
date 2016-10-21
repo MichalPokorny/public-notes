@@ -1,5 +1,3 @@
-@prefix : <http://rny.cz/knowledge#> .
-
 <https://srconstantin.wordpress.com/2016/10/20/ra/> :note """
 	Ra: glitch in intuition: idealize vagueness and despise clarity
 		universal gods: glorious, mighty, holy, ...: no specific characteristics except wonderfulness

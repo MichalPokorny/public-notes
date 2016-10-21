@@ -1,6 +1,3 @@
-@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#> .
-@prefix : <http://rny.cz/knowledge#> .
-
 :read rdfs:label "To read" .
 
 <http://algorithmicassertions.com/computer-science/2015/07/05/Things-I-Cant-Solve-Multiplication.html> :under :read .
@@ -206,3 +203,4 @@ komunikovaly spolu pomoci morseovky""") :under :read ;
 
 
 <http://harpers.org/wp-content/uploads/HarpersMagazine-1998-01-0059425.pdf> :under :read .
+("rosseau: teorie obecneho blaha") :under :read .

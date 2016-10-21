@@ -1,6 +1,3 @@
-@prefix : <http://rny.cz/knowledge#> .
-@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#> .
-
 :mlp :under :fun .
 ("S05E18 Crusaders of the Lost Mark") :note "Diamond Tiara, CMC get their marks" ;
 	:under :mlp .

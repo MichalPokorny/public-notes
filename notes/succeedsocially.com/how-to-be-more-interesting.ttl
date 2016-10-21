@@ -1,5 +1,3 @@
-@prefix : <http://rny.cz/knowledge#> .
-
 <http://www.succeedsocially.com/interesting> :note """
 	- being interesting is about introducing people to new things
 		- have knowledge others would want, but don't have yet

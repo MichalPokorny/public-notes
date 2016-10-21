@@ -1,18 +1,10 @@
-@prefix : <http://rny.cz/knowledge#> .
-@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#> .
-
 :do rdfs:label "Do" .
 ("webpage: hodit tam prezentaci o Bazelu") :under :do .
-("add more structure to my diary") :under :do .
 ("fix music on mobile phone (album Built to Spill - You in Reverse)") :under :do .
 ("purge old laptop (HP)") :under :do .
 ("make Dropbox start on its own") :under :do .
 ("join myfitnesspal + beeminder + vaha.ods") :under :do .
 ("visit stiftung for EA in Berlin") :under :do .
-("consider switching to password manager") :under :do .
-("document server process, possibly create installation procedure") :under :do .
-("enhance screenshot gathering. could I record everything?") :under :do .
-("physically back up Dropbox 2FA one-time access codes") :under :do .
 ("urgovat zverejneni Fable of the Dragon-Tyrant na Bostromove strance") :under :do .
 ("fio osobni ucet") :under :do .
 ("procistit vnitrni pamet mobilu") :under :do .
@@ -26,7 +18,6 @@
 ("AndroidLost admin rights") :under :do .
 ("soukromy skladovy skript?") :under :do .
 ("seridit kolo") :under :do .
-("pridat moje gemy do ruby toolbox?") :under :do .
 ("poridit lekarnicku, teplomer") :under :do .
 ("koupit vahu, co umi automaticky logovat vahu do webservice po wifi") :under :do .
 ("najit: draco telling harry to always be ready to give everything back") :under :do .
@@ -40,12 +31,10 @@
 ("find czech wordlist") :under :do .
 ("nova zidle") :under :do .
 ("sehnat ucetniho? (zrejme ~6k za trzni ceny)") :under :do .
-("deltovy sval (vrsek ramena) -- cvicit si ramena!") :under :do .
 ("study synthetic biology existential risks") :under :do .
 ("stockton vypada nefunkcne!") :under :do .
 ("nastudovat neurosis / neurotic") :under :do .
 ("3000 work Pomodoros, 500 study Pomodoros, 500 personal Pomodoros") :under :do .
-("rosseau: teorie obecneho blaha") :under :do .
 <http://slideslive.com/casp/xiii-celostatni-konference-casp-laska-ve-21-stoleti> :under :do .
 <http://www.paulgraham.com/vb.html> :under :do .
 <http://www.marcandangel.com/2011/12/11/30-things-to-stop-doing-to-yourself/> :under :do .
@@ -83,14 +72,14 @@
 ("koupit Ondrovi celovku") :under :do .
 ("navsteva Pavla a EA/rationality Zurich ve Svycarsku") :under :do .
 ("recompile XMonad") :under :do .
-("Anki fails unless run from console because of nonstandard path") :under :do .
 ("fix Anki card: cyclomatic complexity") :under :do .
 ("fix Anki card: P/E ratio") :under :do .
-("investigate: delat na ETH PhD zatimco budu pracovat v Googlu?") :under :do .
-("podivat se na nabidky spolubydleni v Zurichu?") :under :do .
+
+:zurich :todo ("investigate: delat na ETH PhD zatimco budu pracovat v Googlu?") .
+:zurich :todo ("podivat se na nabidky spolubydleni v Zurichu?") .
+
 ("""create Anki card: vim: parens in \\( \\) \\+ in regex, not .""") :under :do .
 ("vim: backreference: \\1") :under :do .
-("study: Notation 3 vs. Turtle") :under :do .
 ("film myself to see bad habits") :under :do .
 ("stochastically sample automatic thoughts") :under :do .
 ("joga") :under :do ;
@@ -103,9 +92,6 @@
 ("Ludwigova meta-prednaska") :under :do .
 ("hnuti brontosaurus") :under :do .
 ("test na facebook app listening") :under :do .
-("""investigate lifespan impact of vegetarianism
-	blood screen: risk factor na nemoci, impact na lifespan, B-12, D, omega-3
-""") :under :do .
 ("join forums for LW, EA") :under :do .
 ("koupit osusku") :under :do .
 ("strategy of conflict: zbyva precist Part 4+") :under :do .
@@ -150,7 +136,6 @@
 ("""dukkha: https://en.wikipedia.org/wiki/Dukkha
 	make a list of things you're grateful for
 	gratitude journal""") :under :do .
-("behani: http://www.kpo.cz/fyziologie/fyziologie.htm") :under :do .
 ("Jak by me slo presvedcit o tom, ze bych mel venovat na bezpecnost umele inteligence?") :under :do .
 ("vyresit /stara cdcka, /from-crypto") :under :do .
 ("join ACM? (policy-affecting)") :under :do .
@@ -158,6 +143,5 @@
 ("je sance, ze jeste existuji moje zaznamy od psycholozky, kdyz jsem tam byl?") :under :do .
 ("sehnat houby, pozvat tomiho na vec") :under :do .
 ("relationship advice thread z order of the stick") :under :do .
-("rewrite deduplicator in go") :under :do .
 ("add to anki: how to run vim macros from file?") :under :do .
 ("try LibGen") :under :do .

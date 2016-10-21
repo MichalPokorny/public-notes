@@ -1,3 +1,1 @@
-@prefix : <http://rny.cz/knowledge#> .
-
 ("rehabilitacni centrum - Hudeckova ulice") :under :decin .

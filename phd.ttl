@@ -1,6 +1,3 @@
-@prefix : <http://rny.cz/knowledge#> .
-@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#> .
-
 :phd rdfs:label "PhD" ;
 	:see <http://www.quora.com/How-do-I-build-a-profile-to-get-accepted-into-a-star-college-like-Caltech-MIT-Stanford-or-Berkeley-for-an-MS-in-CS>.
 

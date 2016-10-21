@@ -1,5 +1,3 @@
-@prefix : <http://rny.cz/knowledge#> .
-
 <http://www.succeedsocially.com/storytelling> :note """
 	- storytelling is relatively rare: most things that happen in life
 		aren't really out of the ordinary or story-worthy

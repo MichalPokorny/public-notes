@@ -1,6 +1,3 @@
-@prefix : <http://rny.cz/knowledge#> .
-@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#> .
-
 :movies :under :fun ; rdfs:label "Movies" .
 ("I Am Alive") :under :movies .
 ("shinsekai yori") :under :movies .
