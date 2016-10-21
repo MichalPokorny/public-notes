@@ -1,3 +1,6 @@
+@prefix : <http://rny.cz/knowledge#> .
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#> .
+
 :zimbardo-talk
 	rdfs:label "Philip Zimbardo - My journey of exploring human nature to inspiring heroic social action" ;
 	:date "2016-10-19" ;

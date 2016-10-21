@@ -1,3 +1,6 @@
+@prefix : <http://rny.cz/knowledge#> .
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#> .
+
 :knowledge rdfs:label "Personal Knowledge Graph" ;
 	:note "http://prefix.cc/ -- namespace lookup for RDF developers" ;
 	:note "turtle format doesn't allow slashes" ;
