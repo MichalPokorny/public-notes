@@ -488,3 +488,4 @@ mnozstvi vypoctu?""") :under :zajimavosti ;
 ("""idiom "hodit si masli" """) :under :zajimavosti ;
 	:from :honza-burian .
 ("Open Steno Project') :under :zajimavosti .
+<https://en.wikipedia.org/wiki/Wikipedia:Unusual_articles> :under :zajimavosti .
