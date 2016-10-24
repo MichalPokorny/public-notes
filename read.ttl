@@ -204,3 +204,5 @@ komunikovaly spolu pomoci morseovky""") :under :read ;
 
 <http://harpers.org/wp-content/uploads/HarpersMagazine-1998-01-0059425.pdf> :under :read .
 ("rosseau: teorie obecneho blaha") :under :read .
+<https://meaningness.com/#contents> :under :read ;
+	:note "about Kegan Stage 3 -> Stage 4" .
