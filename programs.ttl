@@ -425,4 +425,13 @@ TUI: Ctrl-A X, then repaint with Ctrl-L
 <https://github.com/astrada/google-drive-ocamlfuse> :under :programs ;
 	:purpose "Google Drive mount bridge" ;
 	:note "Mount: google-drive-ocamlfuse (mountpoint)" ;
-	:note "Unmount: fusermount -u (mountpoint)" .
+	:note "Unmount: fusermount -u (mountpoint)" ;
+	:note "As of 2016-10-25, AUR build fails." .
+
+<https://github.com/odeke-em/drive> :under :programs ;
+	:purpose "Google Drive mount bridge" ;
+	:note "mount: drive init ~/gdrive" ;
+	:note "drive pull (--ignore-name-clashes)" ;
+	:note "drive push (path1) (path2) ..." ;
+	:note "unmount: drive deinit" ;
+	:note "revoke account access: https://github.com/odeke-em/drive#revoking-account-access" .

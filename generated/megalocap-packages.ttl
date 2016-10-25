@@ -61,6 +61,7 @@
 :dos2unix :installed-on :megalocap .
 :dosfstools :installed-on :megalocap .
 :doxygen :installed-on :megalocap .
+:drive :installed-on :megalocap .
 :dropbox :installed-on :megalocap .
 :e2fsprogs :installed-on :megalocap .
 :easytag :installed-on :megalocap .
