@@ -1,5 +1,4 @@
-http://www.succeedsocially.com/socialmodes
-
+<http://www.succeedsocially.com/socialmodes> :note """
 two modes: Regular Logical Mode, and Light Fun Mode
 
 success:
@@ -48,3 +47,6 @@ where intellectual, serious types can go wrong:
 => accept that there's nothing wrong with wanting to have fun / act non-serious
 => realize one mode isn't better than the other
 => go with the flow
+""" ;
+	:todo "stop shoehorning interactions into logical more framework" ;
+	:todo "develop thriving in fun-mode" .

@@ -421,3 +421,8 @@ TUI: Ctrl-A X, then repaint with Ctrl-L
 	:from :ian ;
 	:purpose "borrow-a-car app" ;
 	:todo "use in US/Zurich" .
+
+<https://github.com/astrada/google-drive-ocamlfuse> :under :programs ;
+	:purpose "Google Drive mount bridge" ;
+	:note "Mount: google-drive-ocamlfuse (mountpoint)" ;
+	:note "Unmount: fusermount -u (mountpoint)" .

@@ -1,3 +1,4 @@
+<http://www.succeedsocially.com/likable> :note """
 - we like people similar to us
 - don't feel like you have to become a different person before anyone will want
   to be around you
@@ -9,4 +10,6 @@
 * Come across as if you like people.
 * Help people feel good about themselves (but don't overdo it)
 * Bring something to the table in your interactions
-
+""" ;
+	:todo "dress and groom well" ;
+	:todo "get in shape" .
