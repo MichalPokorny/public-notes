@@ -211,6 +211,7 @@
 :nim :installed-on :megalocap .
 :nmap :installed-on :megalocap .
 :nodejs :installed-on :megalocap .
+:nodejs-grunt-cli :installed-on :megalocap .
 :nodejs-less :installed-on :megalocap .
 :notification-daemon :installed-on :megalocap .
 :npm :installed-on :megalocap .
