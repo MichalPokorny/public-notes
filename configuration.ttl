@@ -61,7 +61,6 @@ MOZNA SI BUDU MOCT UKRADNOUT prvak.cz!
 		- mergnut postfix, aktivovan smartd
 		- add prvak to wireshark
 		- install fakeroot (abych mohl buildovat yaourt baliky pod rootem)
-		- bison (abych mel yacc)
 		- enable multilib for wine
 		- xvidcap (+rarian)
 	""" ;
@@ -200,7 +199,6 @@ MOZNA SI BUDU MOCT UKRADNOUT prvak.cz!
 	systemctl restart fail2ban
 
 	vhost pp
-
 	symlink v ~pp na pp.rny.cz
 
 	(presun srv do /home/srv)
@@ -389,7 +387,7 @@ MOZNA SI BUDU MOCT UKRADNOUT prvak.cz!
 	MPM: prefork, ne event
 	===> mam uz funkcni ordinaci
 """ ;
-	:note "TODO: Shorten the above description." .
+	:todo "Shorten the above description." .
 
 :megalocap :note """
 Asi nejde vubec rekalibrovat baterka (v BIOSu to neni)

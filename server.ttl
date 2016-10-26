@@ -1,4 +1,5 @@
-:server rdfs:label "Server" .
+:server rdfs:label "Server" ;
+	:under :configuration .
 
 :server :note "OVH: `rtm` is their monitoring script." .
 :server :note "Stoji 454 Kc/mesic." .

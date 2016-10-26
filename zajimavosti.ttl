@@ -489,3 +489,25 @@ mnozstvi vypoctu?""") :under :zajimavosti ;
 	:from :honza-burian .
 ("Open Steno Project') :under :zajimavosti .
 <https://en.wikipedia.org/wiki/Wikipedia:Unusual_articles> :under :zajimavosti .
+
+:zajimavosti :note "intuition pump::: Consciousness Explained: Chinese Room argument" ;
+	:note <https://www.youtube.com/watch?v=DATQKB7656E> ;
+	:note "RAND health insurance experiment" ;
+	:note "kipling: the gods of copybook headings" ;
+	:note """
+		*104*1# = last call/activity cost
+		*104*# = credit status
+	""" .
+
+:zajimavosti :note "pipe through SSH" ;
+	:note "net/http cheat sheet" ;
+	:note "GL extension: volani bez bindingu, ARB_debug_output" ;
+	:note ".gtk-bookmarks - soubor s GTK bookmarky" ;
+	:note "'google XYZZYFOO' -- mam nainstalovany googlici CLI nastroj" ;
+	:note "base16-builder = univerzalni stylovac -- generates themes for your favorite CLI programs" ;
+	:note "jQuery icon list: http://www.petefreitag.com/cheatsheets/jqueryui-icons/" ;
+	:note "HTML5 FS API -> filter.js" ;
+	:note "web workers; postMesssage" ;
+	:note "modx CMS" ;
+	:note "ThemeForest" ;
+	:note "Stephen ma blog" .
