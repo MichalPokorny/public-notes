@@ -206,3 +206,14 @@ komunikovaly spolu pomoci morseovky""") :under :read ;
 ("rosseau: teorie obecneho blaha") :under :read .
 <https://meaningness.com/#contents> :under :read ;
 	:note "about Kegan Stage 3 -> Stage 4" .
+
+<http://www.succeedsocially.com/dance> :under :read .
+<http://www.succeedsocially.com/lookbetter> :under :read .
+<http://www.succeedsocially.com/lookangry> :under :read .
+<http://www.succeedsocially.com/nice> :under :read .
+<http://www.succeedsocially.com/defensive> :under :read .
+<http://www.succeedsocially.com/negative> :under :read .
+<http://www.succeedsocially.com/intimidated> :under :read .
+<http://www.succeedsocially.com/articlecategories> :under :read .
+
+<https://wiki.80000hours.org/index.php/Places_we_sometimes_recommend_people_apply_to_work> :under :read .

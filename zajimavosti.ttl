@@ -516,3 +516,16 @@ mnozstvi vypoctu?""") :under :zajimavosti ;
 	:note "plostice co parazituje na slimacich a v ocich jim napodobuje cervy, co lakaji ptaky" ;
 	:note <https://en.wikipedia.org/wiki/Green-banded_broodsac> ;
 	:note <https://upload.wikimedia.org/wikipedia/commons/a/ae/Succinea_mit_Leucocholoridium.jpg> .
+
+("Mohammed, peace be upon him") :under :zajimavosti ;
+	:note <https://en.wikipedia.org/wiki/Peace_be_upon_him> .
+("pohadka o cervene karkulce je velmi velmi stara") :under :zajimavosti ;
+	:from :robin-kopecky .
+("scicurve.com") :under :zajimavosti ;
+	:from :peter-stadtner .
+("material design: https://material.io/") :under :zajimavosti .
+
+<https://www.youtube.com/watch?v=YTd4-WXw2SM> :note """
+	Voldemort effect: if you're too scared to name what you're worried
+	about, you generalize your worry to everything.
+""" .

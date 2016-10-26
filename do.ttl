@@ -145,3 +145,5 @@
 ("relationship advice thread z order of the stick") :under :do .
 ("add to anki: how to run vim macros from file?") :under :do .
 ("try LibGen") :under :do .
+("epravo.cz -- studium advokacie") :under :do ;
+	:from :honza-chudoba .
