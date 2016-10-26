@@ -511,3 +511,8 @@ mnozstvi vypoctu?""") :under :zajimavosti ;
 	:note "modx CMS" ;
 	:note "ThemeForest" ;
 	:note "Stephen ma blog" .
+
+("motolice podivna") :under :zajimavosti ;
+	:note "plostice co parazituje na slimacich a v ocich jim napodobuje cervy, co lakaji ptaky" ;
+	:note <https://en.wikipedia.org/wiki/Green-banded_broodsac> ;
+	:note <https://upload.wikimedia.org/wikipedia/commons/a/ae/Succinea_mit_Leucocholoridium.jpg> .
