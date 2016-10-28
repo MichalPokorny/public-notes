@@ -41,7 +41,9 @@ yt:C3cEbsb9a9c :under :hudba ;
 ("music to code by") :under :hudba .
 ("tonalchemy") :under :hudba .
 ("the anaesthete") :under :hudba .
-("david bowie - ground control to major tom") :under :hudba .
+("david bowie - ground control to major tom") :under :hudba ;
+	:note "The Contact - Canvas Tears ==> Major Tom" ;
+	:from :andrew-fisher .
 ("song of the sea soundtrack") :under :hudba .
 ("we versus the shark") :under :hudba .
 ("nik bartsch (mobile): Aer") :under :hudba .

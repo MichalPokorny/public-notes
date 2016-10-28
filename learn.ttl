@@ -246,3 +246,8 @@
 	:from :pasky .
 
 ("growth analysis") :under :learn .
+
+("""Milan Straka - Hluboke uceni (NPFL114)
+	Deep Learning book - dle Ian Goodfellow
+	Komunikacni dovednosti""") :under :learn .
+("style transfer") :under :learn .
