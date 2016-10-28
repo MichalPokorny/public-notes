@@ -42,3 +42,9 @@ yt:SR-tzgU07XY :title "the experiencing self / the remembering self" .
 
 <http://www.ifweassume.com/2013/08/the-de-evolution-of-my-laptop-battery.html>
 	:todo "napsat podle toho clanecek na stranku" .
+
+<https://www.youtube.com/watch?v=rFPqBJewI60> :note
+	"""Chicken: 0.33 lives per 1000 cal, eggs: 0.04, pork: 0.01, beef: 0.002,
+	cheese, milk: 0.000075 --
+	blog.scientificamerican.com/guest-blog/2011/08/11/want-to-kill-fewer-animals-give-up-eggs-not-meat/""" ;
+	:todo <http://blog.scientificamerican.com/guest-blog/2011/08/11/want-to-kill-fewer-animals-give-up-eggs-not-meat/> .
