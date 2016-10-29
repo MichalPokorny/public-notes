@@ -41,15 +41,12 @@
 ("Walking dead, s05e09+") :under :shows .
 ("MLP: first unwatched S06E18+") :under :shows .
 ("attack on titan - last seen 25") :under :shows .
-("South Park s19") :under :shows .
 ("house of cards season 4") :under :shows .
 ("Seinfield") :under :shows .
 ("Mentalist") :under :shows .
 ("Friends") :under :shows .
 ("That 70's Show") :under :shows .
 ("Frasier") :under :shows .
-("Budou nove dily Black Mirror (tenhle rok?)") :under :shows ;
-	:by :petr-houska .
 ("bude 3. serie Rick and Morty") :under :shows ;
 	:by :petr-houska .
 ("Stargate") :under :shows .
