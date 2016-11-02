@@ -105,3 +105,5 @@
 
 <http://hrajlarp.cz> :under :fun ;
 	:under :do .
+("Awake (TV series)") :under :fun .
+("Ylvis - The Fox") :under :fun .

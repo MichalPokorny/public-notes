@@ -435,3 +435,5 @@ TUI: Ctrl-A X, then repaint with Ctrl-L
 	:note "drive push (path1) (path2) ..." ;
 	:note "unmount: drive deinit" ;
 	:note "revoke account access: https://github.com/odeke-em/drive#revoking-account-access" .
+
+("ranger == file manager") :under :programs .
