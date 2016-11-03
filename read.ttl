@@ -218,3 +218,5 @@ komunikovaly spolu pomoci morseovky""") :under :read ;
 
 <https://wiki.80000hours.org/index.php/Places_we_sometimes_recommend_people_apply_to_work> :under :read .
 <http://globalprioritiesproject.org/wp-content/uploads/2015/05/MovementGrowth.pdf> :under :read .
+<https://80000hours.org/2015/11/working-at-effective-altruist-organisations-good-or-bad-for-career-capital/> :under :read .
+
