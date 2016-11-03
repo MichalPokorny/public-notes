@@ -48,3 +48,23 @@ yt:SR-tzgU07XY :title "the experiencing self / the remembering self" .
 	cheese, milk: 0.000075 --
 	blog.scientificamerican.com/guest-blog/2011/08/11/want-to-kill-fewer-animals-give-up-eggs-not-meat/""" ;
 	:todo <http://blog.scientificamerican.com/guest-blog/2011/08/11/want-to-kill-fewer-animals-give-up-eggs-not-meat/> .
+
+<http://www.meltingasphalt.com/crony-beliefs/> :note """
+crony beliefs vs. merit beliefs;
+
+crony: belief motivated by social incentives to believe it
+	- abstract and impractical (not actionable)
+	- benefit of the doubt (stacked deck in its favor)
+	- conspicuousness -- the belief is advertised; the greater the urge to
+		talk about it, the more likely it is to be a crony
+	- overconfidence
+	- reluctance to bet (some parts of our psyche know it's unlikely to be true)
+	- storng emotions -- *proud* of belief, *anguish* over changing, *anger*
+		at being challenged/criticized
+
+crony belief examples:
+	- climate change
+	- political beliefs ("gun control will save lives")
+	- ethical beliefs
+	- beliefs about the self
+""" .
