@@ -221,4 +221,5 @@ komunikovaly spolu pomoci morseovky""") :under :read ;
 <https://80000hours.org/2015/11/working-at-effective-altruist-organisations-good-or-bad-for-career-capital/> :under :read .
 
 <http://lesswrong.com/lw/76k/the_optimizers_curse_and_how_to_beat_it/> :under :read .
-(http://www.ribbonfarm.com/2015/02/18/a-dent-in-the-universe/> :under :read .
+<http://www.ribbonfarm.com/2015/02/18/a-dent-in-the-universe/> :under :read .
+<http://www.openphilanthropy.org/focus> :under :read .
