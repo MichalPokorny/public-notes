@@ -49,3 +49,4 @@
 ("'curry on' konference") :under :akce .
 
 ("Underhanded C Code Contest") :under :akce .
+("Kognitivni skola") :under :akce .
