@@ -529,3 +529,4 @@ mnozstvi vypoctu?""") :under :zajimavosti ;
 	Voldemort effect: if you're too scared to name what you're worried
 	about, you generalize your worry to everything.
 """ .
+("plat sekretarky v Cechach: ~16-19k hrubeho") :under :zajimavosti .
