@@ -148,3 +148,4 @@
 ("epravo.cz -- studium advokacie") :under :do ;
 	:from :honza-chudoba .
 ("write LW post about bi-hacking") :under :do .
+("delam preklepy standartni/standardni") :under :do .
