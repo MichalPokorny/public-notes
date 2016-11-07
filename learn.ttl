@@ -251,3 +251,4 @@
 	Deep Learning book - dle Ian Goodfellow
 	Komunikacni dovednosti""") :under :learn .
 ("style transfer") :under :learn .
+("kolik zvirat rocne zabijeme?") :under :learn .
