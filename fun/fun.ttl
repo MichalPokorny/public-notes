@@ -111,3 +111,5 @@
 
 ("""na CR Wave: porad "Diagnoza F" """) :under :fun .
 ("Might and Magic game") :under :fun .
+
+("Shakespearova hra Othello") :under :fun .
