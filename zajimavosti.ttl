@@ -530,3 +530,5 @@ mnozstvi vypoctu?""") :under :zajimavosti ;
 	about, you generalize your worry to everything.
 """ .
 ("plat sekretarky v Cechach: ~16-19k hrubeho") :under :zajimavosti .
+<http://philpapers.org/surveys/> :under :zajimavosti ;
+	:note "basic philosophical questions" .
