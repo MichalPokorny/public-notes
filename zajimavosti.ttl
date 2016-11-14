@@ -532,3 +532,5 @@ mnozstvi vypoctu?""") :under :zajimavosti ;
 ("plat sekretarky v Cechach: ~16-19k hrubeho") :under :zajimavosti .
 <http://philpapers.org/surveys/> :under :zajimavosti ;
 	:note "basic philosophical questions" .
+
+("Google Data Studio") :under :zajimavosti .

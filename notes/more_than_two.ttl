@@ -30,8 +30,33 @@
 			"polycule": poly + molecule
 		poly family
 
+	ktango: poly dating site
+	okcupid: add Polyamory interest, make poly questions mandatory
 
+	partner selection is a skill and is valuable;
+		selected vs. by-default relationships
+
+	dealbreakers?
+		- sexual preferences?
+		- history of violence?
+
+		"fuck yes or no" -- 'ambivalence has little place in romance'
+
+		"does this person have wisdom I find attractive?"
+		etc.
+
+	Mind the gap:
+		the gap between who you are and what you'd like to be
+
+		accept that you're not yet who you want to be and that it's OK
+		to still need time or space to work through things,
+		as long as you move in the right direction
+
+		don't pretend to be your ideal self yet
+
+	aspects of relationships: connection, commitment, power
 """ ;
+	:todo "make Anki cards" ;
 	:todo "learn about STIs" ;
 	:todo """
 	Google Drive folder: PDFs with immunization records, STI test results

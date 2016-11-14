@@ -53,3 +53,6 @@
 	:from :ondra-horak .
 ("restaurace Chester") :under :praha ;
 	:from :ales-dvorak .
+
+("park Cibulka") :under :praha ;
+	:under :todo .
