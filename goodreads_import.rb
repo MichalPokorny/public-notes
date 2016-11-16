@@ -41,7 +41,7 @@ loop do
 	all_books += books
 end
 
-File.open('goodreads.ttl', 'w') do |f|
+File.open('generated/goodreads.ttl', 'w') do |f|
 	for book in all_books
 		if book[:isbn]
 			f.puts "isbn:#{book[:isbn]} :title \"#{book[:title]}\" ;"
