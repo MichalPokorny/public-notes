@@ -32,7 +32,9 @@ loop do
 		url: b.book.link,
 		author: b.book.authors.author.name,
 		num_pages: b.book.num_pages.to_i,
-		average_rating: b.book.average_rating.to_f
+		average_rating: b.book.average_rating.to_f,
+		read_at: b.read_at,
+		owned: (b.owned != "0"),
 	} }
 
 	page += 1
@@ -43,16 +45,26 @@ File.open('goodreads.ttl', 'w') do |f|
 	for book in all_books
 		if book[:isbn]
 			f.puts "isbn:#{book[:isbn]} :title \"#{book[:title]}\" ;"
-		else
+		elsif book[:isbn13]
 			f.puts "isbn13:#{book[:isbn13]} :title \"#{book[:title]}\" ;"
+		else
+			puts "(Book has no ISBN: #{book[:title]})"
+			next
 		end
 
 		f.puts "\t:goodreads-url <#{book[:url]}> ;"
 		f.puts "\t:author \"#{book[:author]}\" ;"
+
 		if book[:num_pages] != 0
 			f.puts "\t:num-pages \"#{book[:num_pages]}\" ;"
 		end
+
+		if book[:read_at]
+			f.puts "\t:read_at \"#{book[:read_at]}\" ;"
+		end
+
 		f.puts "\t:average-rating \"#{book[:average_rating]}\" ."
+		f.puts "\t:owned \"#{book[:owned]}\" ."
 		f.puts
 	end
 end
