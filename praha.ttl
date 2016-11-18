@@ -56,3 +56,5 @@
 
 ("park Cibulka") :under :praha ;
 	:under :todo .
+
+("zpivani na schodech: http://ibex.krakonos.org/mailman/options/zpivani") :under :praha .
