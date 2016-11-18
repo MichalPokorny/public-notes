@@ -220,6 +220,7 @@
 :ntp :installed-on :megalocap .
 :octave :installed-on :megalocap .
 :openbsd-netcat :installed-on :megalocap .
+:openshot :installed-on :megalocap .
 :openssh :installed-on :megalocap .
 :oprofile :installed-on :megalocap .
 :orage :installed-on :megalocap .
