@@ -534,3 +534,4 @@ mnozstvi vypoctu?""") :under :zajimavosti ;
 	:note "basic philosophical questions" .
 
 ("Google Data Studio") :under :zajimavosti .
+("national unfriend day") :under :zajimavosti .
