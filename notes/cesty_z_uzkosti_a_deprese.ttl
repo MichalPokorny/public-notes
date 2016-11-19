@@ -190,9 +190,143 @@
 	"nedelni deprese"
 	vzit odpovednost za zabu
 
+	zabit zabu znamena prozit svuj smutek
 
+	Pokusy dovest rodice k nahlednuti vin k dosazeni spravedlnosti jsou k nicemu.
+
+	(vsechno patri ke me, i to zlomene a bolestive)
+
+	perspektiva:
+		- konfrontace s vlastnimi ztratami
+		- popis a pojmenovani vlastnich omezeni a zabran
+	(deti se nauci, ze jim nikdo nepomuze)
+		-> je pro ne priste tezke prijmout pomoc
+	"tady a ted" nabere na vyznamu
+
+	*JEN TO, CO JSME PRIJALI, MUZEME NECHAT ZA SEBOU.*
+
+	typy ublizeni:
+		odmitani, odsuzovani, prilisna narocnost,
+		zahanbovani, emocni zneuzivani, rozmazlovani,
+		ztraty a jine rany osudu, sexualni zneuzivani
+		- pocit provinilosti
+		- nenavist vuci druhym/sobe, potlaceny hnev
+		- nenavist vuci zenam nebo muzum
+
+	negativni zivotni programy a zaba
+	strategie vyhybani se zhrouti
+	chyby: moznosti k rustu
+	vzdat se sebepodcenovani, sebeponizovani
+	zaba: negativni monology, myslenky o sobe
+	self-fulfilling prophecy
+	puvod: negativni, omezujici zkusenosti (=> vyhybani se kontaktum, ...)
+	deprese: osamostatneni cernych myslenek
+	sebepoznani prolomi negativni zacarovany kruh
+	"STOP" (absence od negativniho sebehodnoceni)
+
+	uvazovat pred koncem sivota:
+		Pro co jsem zil, komu nebo cemu jsem poslouzil,
+		ceho trvaleho jsem dosahl?
+		Kolik lasky jsem dal a dostal?
+		Prevzal jsem odpovednost a prispel k dobru stvoreni?
+
+	ZIT CO NEJVEDOMEJI TADY A TED
+
+	vize: vybavit si >=1x denne, po probuzenim, pred spanim
+		co nejkonkretnejsi
+
+	uhybani pred utrpenim: zpusobuje spatne pocity
+	blahobyt, slava, komfort, moc, schopnosti: NESOUVISI se stestim.
+
+	mame utrpenim projit.
+	utrpeni => blizsi vztah se sebou.
+
+	pritakavani: zbavit se muzeme jenom toho, co jsme prijali
+		- pritakani vlastni osobnosti
+		- pritakani toho, co delame
+		--> silna pritomnost tady a ted
+
+	uvedomeni: na neco se tesime, na neco vzpominame
+	lide s depresivni strukturou osobnosti: zavislost na druhych
+
+	narcisticka porucha osobnosti: problem milovat a integrovat lasku
+
+	hlubsi smysl zivota: posilovani schopnosti milovat
+		k odvaze k byti patri odvaha k sebelasce, ke stesti
+
+	Jsem schopen neprecenovat veci kolem sebe?
+	Nesvadi me moc ode me, meho ukolu?
+	Dbam na svuj zdar a blaho jako na zdar a blaho ostatnich?
+	Dokazu mit radost ze sebe, protoze jdu cestou, co ma smysl?
+
+	pochopeni dramatu -> neobvinuje se, dava si pravo na existenci
+	Jen ten, kdo miluje sam sebe, umi milovat.
+	Mnoho lidi se pokousi milovat moc brzy (kdyz jeste nemaji radi sami sebe).
+
+	dite steseny + jeho milovane: nalezeni sebelasky
+
+	mnoho lidi "spi"
+
+	transperzonalni vyvoj:
+		kolektivni leitmotivy (kolektivni nevedomi)
+		vzdalovani od korenu ==> strach ze smrti, strach ze zivota
+		zaba: necitime se na planete vitani
+		(odpoutani ja od viditelne reality)
+		de-identifikace od utrpeni
+		transperzonalni: bytostne Ja
+		(I have X, but I'm not my X.)
+		(jsem nezucastneny svedek)
+			TODO: desirable?
+		(distancovat se)
+
+	dospely clovek: identifikovany s pranimi, laskou, nenavisti, uznanim,
+		materialnimi hodnotami
+	jenom pozorovat, necititr
+	zivot v bezvedomi nestoji za to zit
+	milovani sveta takoveho jaky je.
+	prave urceni: pochopi se intuitivne.
+
+	clovek se rodi a umira mrtvy.
+	snazime se jen o odeni.
+	(transpersonal psychology)
+		-> vedome nasazovani masek
+
+	(pristine inner experience)
+
+	** Kdo by se rad vydal cestou mystiku a tudiz se chtel vyhnout konfrontacim
+	s zabou a mysi a prevoznikem, bude porad klopitat o stare blokady. **
+
+	obet vlastni ctizadosti
+
+	nutkani udelat to jako dite steseny - obetovat vnitrni stesti vnejsim
+	pozitkum - byva neodolatelne.
+
+	exposure therapy
+
+	lide s uzkostnymi poruchami mivaji prilisnou zavislost na druhych,
+	narusene sebeprosazovani
+
+	nevyhybat se strachu
+
+	deprese: 5-19% obyvatelstva
+
+	interpersonalni terapie (terapie deprese)
+	10 grateful things every morning
+
+	Jen ja rozhoduju o tom kdo me rozzlobi.
+
+	Nedramatizuj.
+
+	Neformuluj veci jako absolutni pozadavky.
+
+	Nejsem tu abych vychovaval dospele lidi.
 """ ;
 	:todo "radikalne vyresit konflikt!" ;
 	:todo "pracovat s zivotnim mytem -- zpracovat" ;
 	:todo "co to jsou 'depresivni rozlady'?" ;
-	:todo "define 'putting on pedestal'" .
+	:todo "define 'putting on pedestal'" ;
+	:todo "uvazovat o dulezitych otazkach" ;
+	:todo "zacit trenovat pozitivni vizi" ;
+	:todo "konflikt mezi praci ve Svycarsku a vztahy doma" ;
+	:todo "existencialni vakuum" ;
+	:note "Max Ehrmann - Desiderata" .
