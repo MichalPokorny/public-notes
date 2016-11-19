@@ -117,7 +117,82 @@
 	symptom a drive: je snadne rozpoznat
 	brzda: je skryta
 
+	"neexistuj": chaoticke prostredi => neexistuje prvotni duvera, sebeduvera
+		borderline
+		=> zadaji od partneru rodicovskou lasku
+		(provokuje nesvary / role obetniho beranka)
+
+	"nebud sam sebou": podprahovy pocit ze neni v poradku
+
+	"vzdej se emoci": prilisne nuceni obetovat emoce: emocionalni zneuzivani
+
+	rodinna perspektiva -- generacni
+		- ocenovani vykonnosti?
+			-- hodnota znamek, profesniho uspechu?
+			-- mira chvaleni, karani?
+			-- maji lide v rodine pocit menecennosti?
+			-- hodnota podle vykonu, postaveni, puvodu?
+			-- kolik z toho jsem prevzal?
+		- zachazeni s telem, sexualitou?
+			- role krasy, tela?
+			- jak se s tim spojoval pocit hodnoty?
+			- vyznam starnuti?
+			- pristup ke znamkam telesneho upadku?
+		- zakladni naladeni v rodine?
+
+			=> a) prizpusobeni, b) vzdor
+
+
+	depresivni rozlady
+		zakladni naladeni v rodine:
+			- veselost?
+			- hodne smichu, radosti?
+			- terorizovani depresi?
+
+	rozstepeny obraz rodicu
+
+	lidi co emocne vykoristuji deti:
+		- maji nedostatek samostatnosti,
+		- maji neschopnost vymanit se z neuspesneho vztahu,
+		- nejsou schopni udrzovat pratelske vztahy
+
+	Otec + syn vs. matka:
+		hlubsi duvod: negativni vztah otce k jeho matce
+		-> syn odsuzuje/podcenuje zeny
+		(misto v srdci pro partnera je uz obsazeno)
+
+	zbran: vytvareni pocitu viny
+		zalozeni partnerskeho vztahu je potom pokus vymanit se
+		ALE to je snaha o to aby partnerstvi vyresilo stary problem!!!
+		(==> ze zavislosti do zavislosti...)
+	nevyjadruji vztek, prizpusobuji se
+	NENAVIST K SOBE: POCHAZI Z NESCHOPNOSTI VYMEZIT SE
+
+	!! kazda zavislost na navykove latce projevuje hlubsi dusevni zavislost
+
+	emocionalni zneuzivani:
+		zaba: -> pocit nesvobody
+		mys: strach z nezavislosti
+		prevoznik: jednani bez smyslu
+			- konzum
+			- prace
+			- jidlo
+
+	poselstvi jsou podprahova
+		--> "musim se hodne snazit aby me meli radi"
+
+	frustracni tolerance
+
+	rozmazlovani je z TOUHY BYT DITETEM MILOVAN
+
+	zavist je nevedomost
+	napodobovani je sebevrazda
+	"nedelni deprese"
+	vzit odpovednost za zabu
+
 
 """ ;
 	:todo "radikalne vyresit konflikt!" ;
-	:todo "pracovat s zivotnim mytem -- zpracovat" .
+	:todo "pracovat s zivotnim mytem -- zpracovat" ;
+	:todo "co to jsou 'depresivni rozlady'?" ;
+	:todo "define 'putting on pedestal'" .
