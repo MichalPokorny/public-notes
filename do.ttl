@@ -151,3 +151,4 @@
 ("delam preklepy standartni/standardni") :under :do .
 ("pochopit jak funguje DPH") :under :do .
 ("try Blablacar") :under :do .
+("learn and start using trigger-action planning") :under :do .
