@@ -536,3 +536,4 @@ mnozstvi vypoctu?""") :under :zajimavosti ;
 ("Google Data Studio") :under :zajimavosti .
 ("national unfriend day") :under :zajimavosti .
 <https://www.coursera.org/learn/altruism> :under :zajimavosti .
+<https://phillipi.github.io/pix2pix/> :under :zajimavosti .
