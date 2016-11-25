@@ -37,3 +37,4 @@
 		-> definitivne prvni mocnina 8 ma jako prvni cislici 1, protoze jinak by to nutne preteklo pocet.
 """ .
 :inquiry :note "proc se rika desti 'srazky'?" .
+:inquiry :note "research into malarie => hlad" .
