@@ -541,3 +541,6 @@ mnozstvi vypoctu?""") :under :zajimavosti ;
 ("Tim Ferris") :under :zajimavosti .
 <http://www.onlinemeditationtimer.com/> :under :zajimavosti ;
 	:note "gong na meditace" .
+
+<http://www.techsoupglobal.org/> :under :zajimavosti ;
+	:note "free/discounted SW for non-profits" .
