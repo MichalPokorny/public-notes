@@ -153,3 +153,5 @@
 ("try Blablacar") :under :do .
 ("learn and start using trigger-action planning") :under :do .
 ("komplexni systemy, network science") :under :do .
+
+("learn about comparative advantage") :under :do .
