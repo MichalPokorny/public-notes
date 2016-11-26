@@ -227,3 +227,4 @@ komunikovaly spolu pomoci morseovky""") :under :read ;
 <https://foundational-research.org/artificial-intelligence-and-its-implications-for-future-suffering#A_soft_takeoff_seems_more_likely> :under :read .
 <https://foundational-research.org/open-research-questions/> :under :read .
 <https://foundational-research.org/the-eliminativist-approach-to-consciousness/> :under :read .
+("Dr. Fafkova - Ja; Ja jsem") :under :read .
