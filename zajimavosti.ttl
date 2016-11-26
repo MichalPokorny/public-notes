@@ -544,3 +544,5 @@ mnozstvi vypoctu?""") :under :zajimavosti ;
 
 <http://www.techsoupglobal.org/> :under :zajimavosti ;
 	:note "free/discounted SW for non-profits" .
+
+<https://www.cs.cornell.edu/~asampson/blog/statsmistakes.html> :under :zajimavosti .

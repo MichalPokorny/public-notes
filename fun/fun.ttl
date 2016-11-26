@@ -113,3 +113,7 @@
 ("Might and Magic game") :under :fun .
 
 ("Shakespearova hra Othello") :under :fun .
+
+("mspaint adventures") :under :fun ;
+	:note <http://www.mspaintadventures.com/?s=6&p=002153> ;
+	:note <http://www.mspaintadventures.com/?s=4&p=000391> .
