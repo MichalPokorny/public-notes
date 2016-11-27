@@ -117,3 +117,7 @@
 ("mspaint adventures") :under :fun ;
 	:note <http://www.mspaintadventures.com/?s=6&p=002153> ;
 	:note <http://www.mspaintadventures.com/?s=4&p=000391> .
+
+:one-punch-man :note """
+	first unread: http://mangaseeonline.net/read-online/Onepunch-Man-chapter-30-page-3.html
+""" .
