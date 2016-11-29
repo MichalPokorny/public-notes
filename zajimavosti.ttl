@@ -547,3 +547,5 @@ mnozstvi vypoctu?""") :under :zajimavosti ;
 
 <https://www.cs.cornell.edu/~asampson/blog/statsmistakes.html> :under :zajimavosti .
 <http://starty.cz/clanky/zajimavosti/line-nastroje-diky-kterym-budete-vypadat-jako-profesional/> :under :zajimavosti .
+
+("hra Tak") :under :zajimavosti .
