@@ -228,3 +228,4 @@ komunikovaly spolu pomoci morseovky""") :under :read ;
 <https://foundational-research.org/open-research-questions/> :under :read .
 <https://foundational-research.org/the-eliminativist-approach-to-consciousness/> :under :read .
 ("Dr. Fafkova - Ja; Ja jsem") :under :read .
+<http://www.paulgraham.com/stuff.html> :under :read .
