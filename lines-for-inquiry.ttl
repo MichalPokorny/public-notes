@@ -38,3 +38,4 @@
 """ .
 :inquiry :note "proc se rika desti 'srazky'?" .
 :inquiry :note "research into malarie => hlad" .
+:inquiry :note "stane se neco spatneho kdyz nasdilim FB event mezi vsechny pratele?" .

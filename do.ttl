@@ -155,3 +155,6 @@
 ("komplexni systemy, network science") :under :do .
 
 ("learn about comparative advantage") :under :do .
+
+("""osvobozeni od navyku: uzit si televizi/internet/mobily
+	-- co presne chci, kdy to zacne, kdyz to skonci""") :under :do .
