@@ -109,4 +109,8 @@
 			- dare to be different: practice being a "positive deviant"
 			- act socially: act wisely, well and often
 	""" ;
-	:todo "Practice being a positive deviant one day." .
+	:todo "Practice being a positive deviant one day." ;
+	:note """
+		To add to effective altruism: add aspect of actual human connection -- look at the person, talk to them
+		Hang out with young people
+	""" .
