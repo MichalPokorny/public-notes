@@ -549,3 +549,4 @@ mnozstvi vypoctu?""") :under :zajimavosti ;
 <http://starty.cz/clanky/zajimavosti/line-nastroje-diky-kterym-budete-vypadat-jako-profesional/> :under :zajimavosti .
 
 ("hra Tak") :under :zajimavosti .
+("thenounproject.com: free icons") :under :zajimavosti .
