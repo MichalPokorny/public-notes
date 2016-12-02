@@ -230,3 +230,4 @@ komunikovaly spolu pomoci morseovky""") :under :read ;
 ("Dr. Fafkova - Ja; Ja jsem") :under :read .
 <http://www.paulgraham.com/stuff.html> :under :read .
 <https://gruntledandhinged.com/how-to-get-therapy/> :under :read .
+<http://reducing-suffering.org/> :under :read .
