@@ -13,7 +13,6 @@
 ("pansexual pride flag") :under :wish .
 ("Gerald Scarfe art") :under :wish .
 ("propaganda posters") :under :wish .
-("go deska (9x9, 13x13, 19x19)") :under :wish .
 ("I like this idea: https://en.wikipedia.org/wiki/Engineer's_Ring, https://en.wikipedia.org/wiki/Iron_Ring") :under :wish .
 
 :wish-clothes rdfs:label "Wishlist - Clothes" .
