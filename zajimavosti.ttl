@@ -551,3 +551,5 @@ mnozstvi vypoctu?""") :under :zajimavosti ;
 ("hra Tak") :under :zajimavosti .
 ("thenounproject.com: free icons") :under :zajimavosti .
 ("WordNet: network of concepts") :under :zajimavosti .
+<https://affiliate-program.amazon.com/> :under :zajimavosti .
+<http://nutritionfacts.org/> :under :zajimavosti .
