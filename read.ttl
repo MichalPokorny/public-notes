@@ -233,3 +233,4 @@ komunikovaly spolu pomoci morseovky""") :under :read ;
 <http://reducing-suffering.org/> :under :read .
 <http://effective-altruism.com/ea/5f/effective_altruism_reading_list/> :under :read .
 ("LW arguments for thinking of yourself as software") :under :read .
+<https://en.wikipedia.org/wiki/Cynicism_(philosophy)> :under :read .
