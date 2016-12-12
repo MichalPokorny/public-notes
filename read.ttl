@@ -239,3 +239,7 @@ komunikovaly spolu pomoci morseovky""") :under :read ;
 <http://blog.givewell.org/2011/08/18/why-we-cant-take-expected-value-estimates-literally-even-when-theyre-unbiased/> :under :read .
 
 
+<http://reducing-suffering.org/> :under :read ;
+:note """
+	Altruism (ways to get involved) and following
+""" .
