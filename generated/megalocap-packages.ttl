@@ -240,6 +240,7 @@
 :php-apache :installed-on :megalocap .
 :pidgin :installed-on :megalocap .
 :pipelight :installed-on :megalocap .
+:pitivi :installed-on :megalocap .
 :ponymix :installed-on :megalocap .
 :postfix :installed-on :megalocap .
 :powertop :installed-on :megalocap .
