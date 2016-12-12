@@ -234,3 +234,8 @@ komunikovaly spolu pomoci morseovky""") :under :read ;
 <http://effective-altruism.com/ea/5f/effective_altruism_reading_list/> :under :read .
 ("LW arguments for thinking of yourself as software") :under :read .
 <https://en.wikipedia.org/wiki/Cynicism_(philosophy)> :under :read .
+<https://faculty.fuqua.duke.edu/~jes9/bio/The_Optimizers_Curse.pdf> :under :read .
+<https://en.wikipedia.org/wiki/Maximum_likelihood_estimation> :under :read .
+<http://blog.givewell.org/2011/08/18/why-we-cant-take-expected-value-estimates-literally-even-when-theyre-unbiased/> :under :read .
+
+
