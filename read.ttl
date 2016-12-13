@@ -243,3 +243,4 @@ komunikovaly spolu pomoci morseovky""") :under :read ;
 :note """
 	Altruism (ways to get involved) and following
 """ .
+<http://lesswrong.com/lw/xa/a_new_day/> :under :read .
