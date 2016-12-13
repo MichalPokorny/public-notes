@@ -252,3 +252,4 @@
 	Komunikacni dovednosti""") :under :learn .
 ("style transfer") :under :learn .
 ("kolik zvirat rocne zabijeme?") :under :learn .
+("laplace's rule of succession") :under :learn .
