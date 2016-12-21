@@ -108,6 +108,7 @@
 ("Awake (TV series)") :under :fun .
 ("Ylvis - The Fox") :under :fun .
 <http://www.ceskatelevize.cz/porady/10396652416-brana-smrti/212562262500002-predkove-vzdaleni-i-blizci/> :under :fun .
+("Sapolski: Stress - Portrait of a Killer") :under :fun .
 
 ("""na CR Wave: porad "Diagnoza F" """) :under :fun .
 ("Might and Magic game") :under :fun .
