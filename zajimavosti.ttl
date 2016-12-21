@@ -555,3 +555,4 @@ mnozstvi vypoctu?""") :under :zajimavosti ;
 <http://nutritionfacts.org/> :under :zajimavosti .
 
 ("Complice app") :under :zajimavosti .
+("topic: Tropic of Cancer, Tropic of Capricorn") :under :zajimavosti .
