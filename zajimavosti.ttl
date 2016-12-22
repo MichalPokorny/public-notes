@@ -556,3 +556,4 @@ mnozstvi vypoctu?""") :under :zajimavosti ;
 
 ("Complice app") :under :zajimavosti .
 ("topic: Tropic of Cancer, Tropic of Capricorn") :under :zajimavosti .
+<http://www.charityentrepreneurship.com/results.html> :under :zajimavosti .
