@@ -22,7 +22,7 @@ page = 1
 loop do
 	puts "Page #{page}..."
 
-	shelf = client.shelf(44521971, 'to-read', per_page: 100, page: page)
+	shelf = client.shelf(44521971, 'to-read', per_page: 200, page: page)
 	break if shelf.books.empty?
 
 	books = shelf.books.map { |b| {

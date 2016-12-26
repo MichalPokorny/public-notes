@@ -1,3 +1,229 @@
+isbn:1626251703 :title "Adult Children of Emotionally Immature Parents: How to Heal from Distant, Rejecting, or Self-Involved Parents" ;
+	:goodreads-url <http://www.goodreads.com/book/show/23129659-adult-children-of-emotionally-immature-parents> ;
+	:author "Lindsay C. Gibson" ;
+	:num-pages "216" ;
+	:average-rating "4.46" .
+	:owned "false" .
+
+isbn:0425191656 :title "Why Does He Do That?: Inside the Minds of Angry and Controlling Men" ;
+	:goodreads-url <http://www.goodreads.com/book/show/224552.Why_Does_He_Do_That_> ;
+	:author "Lundy Bancroft" ;
+	:num-pages "408" ;
+	:average-rating "4.46" .
+	:owned "false" .
+
+isbn:0553381407 :title "Toxic Parents: Overcoming Their Hurtful Legacy and Reclaiming Your Life" ;
+	:goodreads-url <http://www.goodreads.com/book/show/103999.Toxic_Parents> ;
+	:author "Susan Forward" ;
+	:num-pages "308" ;
+	:average-rating "4.07" .
+	:owned "false" .
+
+isbn:157224108X :title "Stop walking on eggshells : coping when someone you care about has borderline personality disorder" ;
+	:goodreads-url <http://www.goodreads.com/book/show/188013.Stop_walking_on_eggshells_> ;
+	:author "Paul T. Mason" ;
+	:num-pages "258" ;
+	:average-rating "4.02" .
+	:owned "false" .
+
+isbn:0029345707 :title "Process and Reality" ;
+	:goodreads-url <http://www.goodreads.com/book/show/851541.Process_and_Reality> ;
+	:author "Alfred North Whitehead" ;
+	:num-pages "448" ;
+	:average-rating "4.2" .
+	:owned "false" .
+
+isbn:0691020965 :title "The Nature of Rationality" ;
+	:goodreads-url <http://www.goodreads.com/book/show/296061.The_Nature_of_Rationality> ;
+	:author "Robert Nozick" ;
+	:num-pages "242" ;
+	:average-rating "3.56" .
+	:owned "false" .
+
+isbn:0521775019 :title "An Introduction to Probability and Inductive Logic" ;
+	:goodreads-url <http://www.goodreads.com/book/show/1446899.An_Introduction_to_Probability_and_Inductive_Logic> ;
+	:author "Ian Hacking" ;
+	:num-pages "322" ;
+	:average-rating "3.7" .
+	:owned "false" .
+
+isbn:0465031773 :title "The Death of Character: Moral Education in an Age Without Good or Evil" ;
+	:goodreads-url <http://www.goodreads.com/book/show/271791.The_Death_of_Character> ;
+	:author "James Davison Hunter" ;
+	:num-pages "336" ;
+	:average-rating "3.61" .
+	:owned "false" .
+
+isbn:0307957241 :title "Hallucinations" ;
+	:goodreads-url <http://www.goodreads.com/book/show/13330771-hallucinations> ;
+	:author "Oliver Sacks" ;
+	:num-pages "326" ;
+	:average-rating "3.84" .
+	:owned "false" .
+
+isbn:0312427182 :title "Violence" ;
+	:goodreads-url <http://www.goodreads.com/book/show/2638701-violence> ;
+	:author "Slavoj Žižek" ;
+	:num-pages "272" ;
+	:average-rating "3.9" .
+	:owned "false" .
+
+isbn:0199859094 :title "Nine Theories of Religion" ;
+	:goodreads-url <http://www.goodreads.com/book/show/22638057-nine-theories-of-religion> ;
+	:author "Daniel Pals" ;
+	:num-pages "374" ;
+	:average-rating "3.9" .
+	:owned "false" .
+
+isbn:0195179595 :title "Conversations on Consciousness: What the Best Minds Think about the Brain, Free Will, and What It Means to Be Human" ;
+	:goodreads-url <http://www.goodreads.com/book/show/254499.Conversations_on_Consciousness> ;
+	:author "Susan Blackmore" ;
+	:num-pages "274" ;
+	:average-rating "4.0" .
+	:owned "false" .
+
+isbn:1400067871 :title "The Predictioneer's Game: Using the Logic of Brazen Self-Interest to See and Shape the Future" ;
+	:goodreads-url <http://www.goodreads.com/book/show/6637965-the-predictioneer-s-game> ;
+	:author "Bruce Bueno De Mesquita" ;
+	:num-pages "272" ;
+	:average-rating "3.59" .
+	:owned "false" .
+
+isbn:0465003524 :title "Who's Your City?: How the Creative Economy Is Making Where to Live the Most Important Decision of Your Life" ;
+	:goodreads-url <http://www.goodreads.com/book/show/2463346.Who_s_Your_City_> ;
+	:author "Richard Florida" ;
+	:average-rating "3.41" .
+	:owned "false" .
+
+isbn:0393254593 :title "The Undoing Project: A Friendship That Changed Our Minds" ;
+	:goodreads-url <http://www.goodreads.com/book/show/30334134-the-undoing-project> ;
+	:author "Michael Lewis" ;
+	:average-rating "4.11" .
+	:owned "false" .
+
+isbn:0195398653 :title "Exodus: How Migration Is Changing Our World" ;
+	:goodreads-url <http://www.goodreads.com/book/show/17713367-exodus> ;
+	:author "Paul Collier" ;
+	:num-pages "309" ;
+	:average-rating "3.72" .
+	:owned "false" .
+
+isbn:0143036556 :title "Collapse: How Societies Choose to Fail or Succeed" ;
+	:goodreads-url <http://www.goodreads.com/book/show/475.Collapse> ;
+	:author "Jared Diamond" ;
+	:num-pages "608" ;
+	:average-rating "3.91" .
+	:owned "false" .
+
+isbn:1591396190 :title "Blue Ocean Strategy: How To Create Uncontested Market Space And Make The Competition Irrelevant" ;
+	:goodreads-url <http://www.goodreads.com/book/show/4898.Blue_Ocean_Strategy> ;
+	:author "W. Chan Kim" ;
+	:num-pages "256" ;
+	:average-rating "3.84" .
+	:owned "false" .
+
+isbn:1591397642 :title "Financial Intelligence: A Manager's Guide to Knowing What the Numbers Really Mean" ;
+	:goodreads-url <http://www.goodreads.com/book/show/27541.Financial_Intelligence> ;
+	:author "Karen Berman" ;
+	:num-pages "272" ;
+	:average-rating "4.04" .
+	:owned "false" .
+
+isbn:1452033986 :title "(7L) The Seven Levels of Communication" ;
+	:goodreads-url <http://www.goodreads.com/book/show/10100685-7l-the-seven-levels-of-communication> ;
+	:author "Michael J. Maher" ;
+	:average-rating "4.31" .
+	:owned "false" .
+
+isbn:0785274316 :title "The 21 Irrefutable Laws of Leadership: Follow Them and People Will Follow You" ;
+	:goodreads-url <http://www.goodreads.com/book/show/815716.The_21_Irrefutable_Laws_of_Leadership> ;
+	:author "John C. Maxwell" ;
+	:num-pages "256" ;
+	:average-rating "4.11" .
+	:owned "false" .
+
+isbn:0307463745 :title "Rework" ;
+	:goodreads-url <http://www.goodreads.com/book/show/6732019-rework> ;
+	:author "Jason Fried" ;
+	:num-pages "279" ;
+	:average-rating "3.92" .
+	:owned "false" .
+
+isbn:1591844568 :title "The Charisma Myth: How Anyone Can Master the Art and Science of Personal Magnetism" ;
+	:goodreads-url <http://www.goodreads.com/book/show/11910905-the-charisma-myth> ;
+	:author "Olivia Fox Cabane" ;
+	:num-pages "264" ;
+	:average-rating "3.94" .
+	:owned "false" .
+
+isbn:0307887898 :title "The Lean Startup: How Today's Entrepreneurs Use Continuous Innovation to Create Radically Successful Businesses" ;
+	:goodreads-url <http://www.goodreads.com/book/show/10127019-the-lean-startup> ;
+	:author "Eric Ries" ;
+	:num-pages "299" ;
+	:average-rating "4.03" .
+	:owned "false" .
+
+isbn:1400069289 :title "The Power of Habit: Why We Do What We Do in Life and Business" ;
+	:goodreads-url <http://www.goodreads.com/book/show/12609433-the-power-of-habit> ;
+	:author "Charles Duhigg" ;
+	:num-pages "286" ;
+	:average-rating "4.01" .
+	:owned "false" .
+
+isbn:1119191831 :title "The Art of Startup Fundraising" ;
+	:goodreads-url <http://www.goodreads.com/book/show/26407003-the-art-of-startup-fundraising> ;
+	:author "Alejandro Cremades" ;
+	:num-pages "224" ;
+	:average-rating "4.31" .
+	:owned "false" .
+
+isbn:0743201140 :title "Now, Discover Your Strengths" ;
+	:goodreads-url <http://www.goodreads.com/book/show/56452.Now_Discover_Your_Strengths> ;
+	:author "Marcus Buckingham" ;
+	:average-rating "3.95" .
+	:owned "false" .
+
+isbn:1591843529 :title "The Personal MBA: Master the Art of Business" ;
+	:goodreads-url <http://www.goodreads.com/book/show/9512985-the-personal-mba> ;
+	:author "Josh Kaufman" ;
+	:num-pages "416" ;
+	:average-rating "4.01" .
+	:owned "false" .
+
+isbn:1594391181 :title "Meditations on Violence: A Comparison of Martial Arts Training & Real World Violence" ;
+	:goodreads-url <http://www.goodreads.com/book/show/3396377-meditations-on-violence> ;
+	:author "Rory Miller" ;
+	:num-pages "181" ;
+	:average-rating "4.36" .
+	:owned "false" .
+
+isbn:0205485138 :title "How to Think Straight about Psychology" ;
+	:goodreads-url <http://www.goodreads.com/book/show/41749.How_to_Think_Straight_about_Psychology> ;
+	:author "Keith E. Stanovich" ;
+	:num-pages "240" ;
+	:average-rating "4.07" .
+	:owned "false" .
+
+isbn:0954868307 :title "The Poverty Of Relativism" ;
+	:goodreads-url <http://www.goodreads.com/book/show/6023364-the-poverty-of-relativism> ;
+	:author "Raymond Boudon" ;
+	:average-rating "2.0" .
+	:owned "false" .
+
+isbn:8071786462 :title "Trénink emocí: práce s emocemi na základě racionálně emoční terapie" ;
+	:goodreads-url <http://www.goodreads.com/book/show/18695564-tr-nink-emoc> ;
+	:author "Albert Ellis" ;
+	:num-pages "196" ;
+	:average-rating "0.0" .
+	:owned "false" .
+
+isbn:0674018427 :title "The Nazi Conscience" ;
+	:goodreads-url <http://www.goodreads.com/book/show/388504.The_Nazi_Conscience> ;
+	:author "Claudia Koonz" ;
+	:num-pages "362" ;
+	:average-rating "3.94" .
+	:owned "false" .
+
 isbn:0070379882 :title "Schaum's Outline of General Topology" ;
 	:goodreads-url <http://www.goodreads.com/book/show/116421.Schaum_s_Outline_of_General_Topology> ;
 	:author "Seymour Lipschutz" ;
@@ -9,7 +235,7 @@ isbn:0070381593 :title "Schaum's Outline of Set Theory and Related Topics" ;
 	:goodreads-url <http://www.goodreads.com/book/show/558191.Schaum_s_Outline_of_Set_Theory_and_Related_Topics> ;
 	:author "Seymour Lipschutz" ;
 	:num-pages "288" ;
-	:average-rating "4.05" .
+	:average-rating "4.07" .
 	:owned "true" .
 
 isbn:0141441828 :title "A Short History of the World" ;
@@ -23,28 +249,28 @@ isbn:0195306821 :title "The Great Conversation: A Historical Introduction to Phi
 	:goodreads-url <http://www.goodreads.com/book/show/109588.The_Great_Conversation> ;
 	:author "Norman Melchert" ;
 	:num-pages "746" ;
-	:average-rating "3.85" .
+	:average-rating "3.87" .
 	:owned "false" .
 
 isbn13:9788087162422 :title "Matematiko, jsi to ty?" ;
 	:goodreads-url <http://www.goodreads.com/book/show/10264170-matematiko-jsi-to-ty> ;
 	:author "Adrián Paenza" ;
 	:num-pages "224" ;
-	:average-rating "3.9" .
+	:average-rating "3.89" .
 	:owned "true" .
 
 isbn:0486474178 :title "A Book of Abstract Algebra" ;
 	:goodreads-url <http://www.goodreads.com/book/show/8295305-a-book-of-abstract-algebra> ;
 	:author "Charles C. Pinter" ;
 	:num-pages "400" ;
-	:average-rating "4.28" .
+	:average-rating "4.3" .
 	:owned "true" .
 
 isbn:0070466491 :title "Schaum's Outline of Logic" ;
 	:goodreads-url <http://www.goodreads.com/book/show/606369.Schaum_s_Outline_of_Logic> ;
 	:author "John Nolt" ;
 	:num-pages "280" ;
-	:average-rating "3.75" .
+	:average-rating "3.76" .
 	:owned "true" .
 
 isbn:0070604843 :title "Set Theory And Related Topics 2/E" ;
@@ -53,32 +279,11 @@ isbn:0070604843 :title "Set Theory And Related Topics 2/E" ;
 	:average-rating "4.5" .
 	:owned "false" .
 
-isbn:1594865671 :title "An Inconvenient Truth: The Planetary Emergency of Global Warming and What We Can Do About It" ;
-	:goodreads-url <http://www.goodreads.com/book/show/8714.An_Inconvenient_Truth> ;
-	:author "Al Gore" ;
-	:num-pages "328" ;
-	:average-rating "3.74" .
-	:owned "true" .
-
-isbn:026270109X :title "Mind: Introduction to Cognitive Science" ;
-	:goodreads-url <http://www.goodreads.com/book/show/1393851.Mind> ;
-	:author "Paul Thagard" ;
-	:num-pages "280" ;
-	:average-rating "3.59" .
-	:owned "true" .
-
 isbn:8020400362 :title "Mír na Zemi" ;
 	:goodreads-url <http://www.goodreads.com/book/show/18308947-m-r-na-zemi> ;
 	:author "Stanisław Lem" ;
 	:num-pages "240" ;
 	:average-rating "3.95" .
-	:owned "true" .
-
-isbn13:807363001X :title "Příštích padesát let: Věda v první polovině 21. století" ;
-	:goodreads-url <http://www.goodreads.com/book/show/10111834-p-t-ch-pades-t-let> ;
-	:author "John Brockman" ;
-	:num-pages "272" ;
-	:average-rating "3.51" .
 	:owned "true" .
 
 isbn:8071981168 :title "Kosti a svaly zenu" ;
@@ -99,7 +304,7 @@ isbn:0486409163 :title "Mathematics: Its Content, Methods and Meaning" ;
 	:goodreads-url <http://www.goodreads.com/book/show/405880.Mathematics> ;
 	:author "A.D. Aleksandrov" ;
 	:num-pages "1120" ;
-	:average-rating "4.4" .
+	:average-rating "4.43" .
 	:owned "true" .
 
 isbn13:9788020017307 :title "Dějiny informatiky: od abaku k internetu" ;
@@ -113,13 +318,13 @@ isbn13:9788025700877 :title "Lord Mord" ;
 	:goodreads-url <http://www.goodreads.com/book/show/7725665-lord-mord> ;
 	:author "Miloš Urban" ;
 	:num-pages "361" ;
-	:average-rating "3.78" .
+	:average-rating "3.77" .
 	:owned "false" .
 
 isbn:0020086504 :title "The Practice of Creativity: A Manual for Dynamic Group Problem-Solving" ;
 	:goodreads-url <http://www.goodreads.com/book/show/2133947.The_Practice_of_Creativity> ;
 	:author "George M. Prince" ;
-	:average-rating "0.0" .
+	:average-rating "5.0" .
 	:owned "false" .
 
 isbn:073571150X :title "Building Accessible Websites" ;
@@ -133,7 +338,7 @@ isbn:026803897X :title "One Body: An Essay in Christian Sexual Ethics" ;
 	:goodreads-url <http://www.goodreads.com/book/show/15807851-one-body> ;
 	:author "Alexander R. Pruss" ;
 	:num-pages "464" ;
-	:average-rating "5.0" .
+	:average-rating "4.33" .
 	:owned "false" .
 
 isbn:0441788386 :title "Stranger in a Strange Land" ;
@@ -168,14 +373,14 @@ isbn:038748275X :title "A Computer Scientist's Guide to Cell Biology: A Travelog
 	:goodreads-url <http://www.goodreads.com/book/show/1973981.A_Computer_Scientist_s_Guide_to_Cell_Biology> ;
 	:author "William W. Cohen" ;
 	:num-pages "99" ;
-	:average-rating "5.0" .
+	:average-rating "3.27" .
 	:owned "false" .
 
 isbn:0199590605 :title "Happiness: A Very Short Introduction" ;
 	:goodreads-url <http://www.goodreads.com/book/show/17070370-happiness> ;
 	:author "Daniel M. Haybron" ;
 	:num-pages "149" ;
-	:average-rating "3.56" .
+	:average-rating "3.57" .
 	:owned "false" .
 
 isbn:0060928972 :title "Emotional Blackmail: When the People in Your Life Use Fear, Obligation, and Guilt to Manipulate You" ;
@@ -196,21 +401,21 @@ isbn:1400848326 :title "Big Gods: How Religion Transformed Cooperation and Confl
 	:goodreads-url <http://www.goodreads.com/book/show/17942053-big-gods> ;
 	:author "Ara Norenzayan" ;
 	:num-pages "264" ;
-	:average-rating "4.05" .
+	:average-rating "4.02" .
 	:owned "false" .
 
 isbn:0199738424 :title "Science and Religion: Are They Compatible?" ;
 	:goodreads-url <http://www.goodreads.com/book/show/9278443-science-and-religion> ;
 	:author "Daniel C. Dennett" ;
 	:num-pages "82" ;
-	:average-rating "3.5" .
+	:average-rating "3.51" .
 	:owned "false" .
 
 isbn:159947381X :title "Cognitive Science, Religion, and Theology: From Human Minds to Divine Minds" ;
 	:goodreads-url <http://www.goodreads.com/book/show/12619582-cognitive-science-religion-and-theology> ;
 	:author "Justin L. Barrett" ;
 	:num-pages "248" ;
-	:average-rating "3.82" .
+	:average-rating "3.58" .
 	:owned "false" .
 
 isbn:0465006965 :title "Religion Explained: The Evolutionary Origins of Religious Thought" ;
@@ -224,14 +429,14 @@ isbn:1430248637 :title "Pro Hadoop 2" ;
 	:goodreads-url <http://www.goodreads.com/book/show/16287665-pro-hadoop-2> ;
 	:author "Jason Venner" ;
 	:num-pages "500" ;
-	:average-rating "0.0" .
+	:average-rating "3.5" .
 	:owned "false" .
 
 isbn:161039044X :title "The Dictator's Handbook: Why Bad Behavior is Almost Always Good Politics" ;
 	:goodreads-url <http://www.goodreads.com/book/show/11612989-the-dictator-s-handbook> ;
 	:author "Bruce Bueno De Mesquita" ;
 	:num-pages "352" ;
-	:average-rating "4.18" .
+	:average-rating "4.21" .
 	:owned "false" .
 
 isbn13:9788026200710 :title "V jiném rytmu: Vytváření společenství" ;
@@ -245,7 +450,7 @@ isbn:1616583509 :title "Every Cradle is a Grave: Rethinking the Ethics of Birth 
 	:goodreads-url <http://www.goodreads.com/book/show/17315307-every-cradle-is-a-grave> ;
 	:author "Sarah Perry" ;
 	:num-pages "250" ;
-	:average-rating "4.23" .
+	:average-rating "4.24" .
 	:owned "false" .
 
 isbn:0991399757 :title "The Game Changer: A Memoir of Disruptive Love" ;
@@ -258,28 +463,27 @@ isbn:0991399757 :title "The Game Changer: A Memoir of Disruptive Love" ;
 isbn:0070728771 :title "The Psychology of Attitude Change and Social Influence" ;
 	:goodreads-url <http://www.goodreads.com/book/show/672264.The_Psychology_of_Attitude_Change_and_Social_Influence> ;
 	:author "Philip G. Zimbardo" ;
-	:average-rating "3.84" .
+	:average-rating "3.87" .
 	:owned "false" .
 
 isbn:1846044847 :title "Man Disconnected: How technology has sabotaged what it means to be male" ;
 	:goodreads-url <http://www.goodreads.com/book/show/23346894-man-disconnected> ;
 	:author "Philip G. Zimbardo" ;
 	:num-pages "352" ;
-	:average-rating "3.73" .
+	:average-rating "3.77" .
 	:owned "false" .
 
 isbn:0201550180 :title "Shyness: What It Is, What To Do About It" ;
 	:goodreads-url <http://www.goodreads.com/book/show/672266.Shyness> ;
 	:author "Philip G. Zimbardo" ;
-	:num-pages "272" ;
-	:average-rating "3.5" .
+	:average-rating "3.49" .
 	:owned "false" .
 
 isbn:1416541985 :title "The Time Paradox: The New Psychology of Time That Will Change Your Life" ;
 	:goodreads-url <http://www.goodreads.com/book/show/2631984-the-time-paradox> ;
 	:author "Philip G. Zimbardo" ;
 	:num-pages "368" ;
-	:average-rating "3.69" .
+	:average-rating "3.7" .
 	:owned "false" .
 
 isbn:0671728687 :title "The Rise and Fall of the Third Reich: A History of Nazi Germany" ;
@@ -321,7 +525,7 @@ isbn:0060898763 :title "The Truth: An Uncomfortable Book About Relationships" ;
 	:goodreads-url <http://www.goodreads.com/book/show/26887738-the-truth> ;
 	:author "Neil Strauss" ;
 	:num-pages "448" ;
-	:average-rating "4.22" .
+	:average-rating "4.21" .
 	:owned "false" .
 
 isbn:067493198X :title "Value-Focused Thinking: A Path to Creative Decisionmaking" ;
@@ -342,21 +546,21 @@ isbn13:9788087270516 :title "Konec prokrastinace" ;
 	:goodreads-url <http://www.goodreads.com/book/show/17935138-konec-prokrastinace> ;
 	:author "Petr Ludwig" ;
 	:num-pages "272" ;
-	:average-rating "4.14" .
+	:average-rating "4.13" .
 	:owned "false" .
 
 isbn:0262530740 :title "Matter and Consciousness: A Contemporary Introduction to the Philosophy of Mind" ;
 	:goodreads-url <http://www.goodreads.com/book/show/357298.Matter_and_Consciousness> ;
 	:author "Paul M. Churchland" ;
 	:num-pages "198" ;
-	:average-rating "3.86" .
+	:average-rating "3.87" .
 	:owned "false" .
 
 isbn:0140449493 :title "The Nicomachean Ethics" ;
 	:goodreads-url <http://www.goodreads.com/book/show/19068.The_Nicomachean_Ethics> ;
 	:author "Aristotle" ;
 	:num-pages "329" ;
-	:average-rating "3.89" .
+	:average-rating "3.9" .
 	:owned "false" .
 
 isbn:0615314465 :title "xkcd: volume 0" ;
@@ -377,20 +581,20 @@ isbn:0199296421 :title "Better Never to Have Been: The Harm of Coming Into Exist
 	:goodreads-url <http://www.goodreads.com/book/show/660518.Better_Never_to_Have_Been> ;
 	:author "David Benatar" ;
 	:num-pages "250" ;
-	:average-rating "3.89" .
+	:average-rating "3.9" .
 	:owned "false" .
 
 isbn:0300101708 :title "Why Smart People Can Be So Stupid" ;
 	:goodreads-url <http://www.goodreads.com/book/show/300300.Why_Smart_People_Can_Be_So_Stupid> ;
 	:author "Robert J. Sternberg" ;
 	:num-pages "272" ;
-	:average-rating "3.56" .
+	:average-rating "3.59" .
 	:owned "false" .
 
 isbn:0978878817 :title "The Peaceful Pill Handbook" ;
 	:goodreads-url <http://www.goodreads.com/book/show/316420.The_Peaceful_Pill_Handbook> ;
 	:author "Philip Nitschke" ;
-	:average-rating "4.1" .
+	:average-rating "4.09" .
 	:owned "false" .
 
 isbn:0385336535 :title "Final Exit: The Practicalities of Self-deliverance & Assisted Suicide for the Dying" ;
@@ -404,21 +608,21 @@ isbn:1626251207 :title "The Upward Spiral: Using Neuroscience to Reverse the Cou
 	:goodreads-url <http://www.goodreads.com/book/show/21413760-the-upward-spiral> ;
 	:author "Alex Korb" ;
 	:num-pages "240" ;
-	:average-rating "4.27" .
+	:average-rating "4.29" .
 	:owned "false" .
 
 isbn:1250066115 :title "How Not to Die: Discover the Foods Scientifically Proven to Prevent and Reverse Disease" ;
 	:goodreads-url <http://www.goodreads.com/book/show/25663961-how-not-to-die> ;
 	:author "Michael Greger" ;
 	:num-pages "576" ;
-	:average-rating "4.5" .
+	:average-rating "4.51" .
 	:owned "false" .
 
 isbn:006245773X :title "The Subtle Art of Not Giving a F*ck: A Counterintuitive Approach to Living a Good Life" ;
 	:goodreads-url <http://www.goodreads.com/book/show/28257707-the-subtle-art-of-not-giving-a-f-ck> ;
 	:author "Mark  Manson" ;
 	:num-pages "224" ;
-	:average-rating "4.09" .
+	:average-rating "4.08" .
 	:owned "false" .
 
 isbn:1596914521 :title "Logicomix: An epic search for truth" ;
@@ -438,7 +642,7 @@ isbn:1400064112 :title "The Lucifer Effect: Understanding How Good People Turn E
 isbn:0471419796 :title "Handbook of Psychological Assessment" ;
 	:goodreads-url <http://www.goodreads.com/book/show/966295.Handbook_of_Psychological_Assessment> ;
 	:author "Gary Groth-Marnat" ;
-	:average-rating "3.57" .
+	:average-rating "3.6" .
 	:owned "false" .
 
 isbn:159056233X :title "Change of Heart: What Psychology Can Teach Us about Spreading Social Change" ;
@@ -452,7 +656,7 @@ isbn:1586487981 :title "Poor Economics: A Radical Rethinking of the Way to Fight
 	:goodreads-url <http://www.goodreads.com/book/show/10245602-poor-economics> ;
 	:author "Abhijit V. Banerjee" ;
 	:num-pages "320" ;
-	:average-rating "4.2" .
+	:average-rating "4.21" .
 	:owned "false" .
 
 isbn:0670022950 :title "The Better Angels of Our Nature: Why Violence Has Declined" ;
@@ -480,7 +684,7 @@ isbn:0596521979 :title "Hadoop: The Definitive Guide" ;
 	:goodreads-url <http://www.goodreads.com/book/show/6308439-hadoop> ;
 	:author "Tom  White" ;
 	:num-pages "528" ;
-	:average-rating "3.94" .
+	:average-rating "3.93" .
 	:owned "false" .
 
 isbn:0029024501 :title "Escape from Evil" ;
@@ -494,7 +698,7 @@ isbn:1627790365 :title "Algorithms to Live By: The Computer Science of Human Dec
 	:goodreads-url <http://www.goodreads.com/book/show/25666050-algorithms-to-live-by> ;
 	:author "Brian Christian" ;
 	:num-pages "368" ;
-	:average-rating "4.25" .
+	:average-rating "4.19" .
 	:owned "false" .
 
 isbn:014044923X :title "Beyond Good and Evil" ;
@@ -515,7 +719,7 @@ isbn:1455586692 :title "Deep Work: Rules for Focused Success in a Distracted Wor
 	:goodreads-url <http://www.goodreads.com/book/show/25744928-deep-work> ;
 	:author "Cal Newport" ;
 	:num-pages "296" ;
-	:average-rating "4.19" .
+	:average-rating "4.2" .
 	:owned "false" .
 
 isbn:0446526568 :title "The No Asshole Rule: Building a Civilized Workplace and Surviving One That Isn't" ;
@@ -536,14 +740,14 @@ isbn:1585425524 :title "The Now Habit: A Strategic Program for Overcoming Procra
 	:goodreads-url <http://www.goodreads.com/book/show/95708.The_Now_Habit> ;
 	:author "Neil A. Fiore" ;
 	:num-pages "206" ;
-	:average-rating "3.86" .
+	:average-rating "3.87" .
 	:owned "false" .
 
 isbn:0544456254 :title "Peak: Secrets from the New Science of Expertise" ;
 	:goodreads-url <http://www.goodreads.com/book/show/26312997-peak> ;
 	:author "K. Anders Ericsson" ;
 	:num-pages "336" ;
-	:average-rating "4.37" .
+	:average-rating "4.35" .
 	:owned "false" .
 
 isbn:0226104036 :title "The Chicago Manual of Style" ;
@@ -571,7 +775,7 @@ isbn:1594202605 :title "Moral Tribes: Emotion, Reason, and the Gap Between Us an
 	:goodreads-url <http://www.goodreads.com/book/show/17707599-moral-tribes> ;
 	:author "Joshua Greene" ;
 	:num-pages "432" ;
-	:average-rating "4.04" .
+	:average-rating "4.05" .
 	:owned "false" .
 
 isbn:0156027593 :title "The Cyberiad" ;
@@ -591,7 +795,6 @@ isbn:0226771253 :title "The Robot's Rebellion: Finding Meaning in the Age of Dar
 isbn:0205313426 :title "The Elements of Style" ;
 	:goodreads-url <http://www.goodreads.com/book/show/33514.The_Elements_of_Style> ;
 	:author "William Strunk Jr." ;
-	:num-pages "105" ;
 	:average-rating "4.19" .
 	:owned "false" .
 
@@ -599,40 +802,40 @@ isbn:081299356X :title "The Democracy Project: A History, a Crisis, a Movement" 
 	:goodreads-url <http://www.goodreads.com/book/show/13330433-the-democracy-project> ;
 	:author "David Graeber" ;
 	:num-pages "352" ;
-	:average-rating "4.05" .
+	:average-rating "4.04" .
 	:owned "false" .
 
 isbn:1590304349 :title "Don't Bite the Hook: Finding Freedom from Anger, Resentment, and Other Destructive Emotions" ;
 	:goodreads-url <http://www.goodreads.com/book/show/136978.Don_t_Bite_the_Hook> ;
 	:author "Pema Chödrön" ;
-	:average-rating "4.31" .
+	:average-rating "4.3" .
 	:owned "false" .
 
 isbn:0674707583 :title "Private Truths, Public Lies: The Social Consequences of Preference Falsification" ;
 	:goodreads-url <http://www.goodreads.com/book/show/1016932.Private_Truths_Public_Lies> ;
 	:author "Timur Kuran" ;
 	:num-pages "448" ;
-	:average-rating "4.18" .
+	:average-rating "4.23" .
 	:owned "false" .
 
 isbn:0961392118 :title "Envisioning Information" ;
 	:goodreads-url <http://www.goodreads.com/book/show/17745.Envisioning_Information> ;
 	:author "Edward R. Tufte" ;
-	:average-rating "4.23" .
+	:average-rating "4.24" .
 	:owned "false" .
 
 isbn:0143037579 :title "Fear and Trembling" ;
 	:goodreads-url <http://www.goodreads.com/book/show/24965.Fear_and_Trembling> ;
 	:author "Søren Kierkegaard" ;
 	:num-pages "160" ;
-	:average-rating "4.02" .
+	:average-rating "4.01" .
 	:owned "false" .
 
 isbn:0671831526 :title "The Dying Earth (The Dying Earth, #1)" ;
 	:goodreads-url <http://www.goodreads.com/book/show/951749.The_Dying_Earth> ;
 	:author "Jack Vance" ;
 	:num-pages "156" ;
-	:average-rating "3.93" .
+	:average-rating "3.94" .
 	:owned "false" .
 
 isbn:0099267543 :title "Timequake" ;
@@ -660,35 +863,35 @@ isbn:1107074061 :title "The Singular Universe and the Reality of Time: A Proposa
 	:goodreads-url <http://www.goodreads.com/book/show/22505318-the-singular-universe-and-the-reality-of-time> ;
 	:author "Roberto Mangabeira Unger" ;
 	:num-pages "566" ;
-	:average-rating "3.77" .
+	:average-rating "3.75" .
 	:owned "false" .
 
 isbn:0743269519 :title "The 7 Habits of Highly Effective People: Powerful Lessons in Personal Change" ;
 	:goodreads-url <http://www.goodreads.com/book/show/36072.The_7_Habits_of_Highly_Effective_People> ;
 	:author "Stephen R. Covey" ;
 	:num-pages "372" ;
-	:average-rating "4.01" .
+	:average-rating "4.02" .
 	:owned "false" .
 
 isbn:0575077832 :title "The Last Wish (The Witcher, #1)" ;
 	:goodreads-url <http://www.goodreads.com/book/show/1128434.The_Last_Wish> ;
 	:author "Andrzej Sapkowski" ;
 	:num-pages "384" ;
-	:average-rating "4.19" .
+	:average-rating "4.2" .
 	:owned "false" .
 
 isbn:1434801926 :title "Lysergic" ;
 	:goodreads-url <http://www.goodreads.com/book/show/2053603.Lysergic> ;
 	:author "Krystle Cole" ;
 	:num-pages "190" ;
-	:average-rating "3.23" .
+	:average-rating "3.22" .
 	:owned "false" .
 
 isbn:0963009605 :title "Pihkal: A Chemical Love Story" ;
 	:goodreads-url <http://www.goodreads.com/book/show/886113.Pihkal> ;
 	:author "Alexander Shulgin" ;
 	:num-pages "978" ;
-	:average-rating "4.34" .
+	:average-rating "4.35" .
 	:owned "false" .
 
 isbn:031623480X :title "Grain Brain: The Surprising Truth about Wheat, Carbs,  and Sugar--Your Brain's Silent Killers" ;
@@ -709,21 +912,21 @@ isbn:067973452X :title "Notes from Underground" ;
 	:goodreads-url <http://www.goodreads.com/book/show/49455.Notes_from_Underground> ;
 	:author "Fyodor Dostoyevsky" ;
 	:num-pages "136" ;
-	:average-rating "4.12" .
+	:average-rating "4.13" .
 	:owned "false" .
 
 isbn:4770028008 :title "The Anatomy of Dependence" ;
 	:goodreads-url <http://www.goodreads.com/book/show/170877.The_Anatomy_of_Dependence> ;
 	:author "Takeo Doi" ;
 	:num-pages "192" ;
-	:average-rating "3.77" .
+	:average-rating "3.78" .
 	:owned "false" .
 
 isbn:8090238467 :title "Dům o tisíci patrech" ;
 	:goodreads-url <http://www.goodreads.com/book/show/2916396-d-m-o-tis-ci-patrech> ;
 	:author "Jan Weiss" ;
 	:num-pages "576" ;
-	:average-rating "4.08" .
+	:average-rating "4.09" .
 	:owned "false" .
 
 isbn:0679762884 :title "High Output Management" ;
@@ -807,14 +1010,14 @@ isbn:9788026205 :title "Kognitivně-behaviorální terapie v praxi" ;
 	:goodreads-url <http://www.goodreads.com/book/show/24675315-kognitivn--behavior-ln-terapie-v-praxi> ;
 	:author "Roman Pešek" ;
 	:num-pages "232" ;
-	:average-rating "0.0" .
+	:average-rating "3.0" .
 	:owned "false" .
 
 isbn:0307357163 :title "The Procrastination Equation: How to Stop Putting Things Off and Start Getting Stuff Done" ;
 	:goodreads-url <http://www.goodreads.com/book/show/9514605-the-procrastination-equation> ;
 	:author "Piers Steel" ;
 	:num-pages "320" ;
-	:average-rating "3.77" .
+	:average-rating "3.78" .
 	:owned "false" .
 
 isbn:1568491611 :title "The Peter Principle" ;
@@ -842,7 +1045,7 @@ isbn:1610391136 :title "Radical Abundance: How a Revolution in Nanotechnology Wi
 	:goodreads-url <http://www.goodreads.com/book/show/15843186-radical-abundance> ;
 	:author "K. Eric Drexler" ;
 	:num-pages "368" ;
-	:average-rating "3.61" .
+	:average-rating "3.59" .
 	:owned "false" .
 
 isbn:0935713263 :title "Don't Make Me Think" ;
@@ -863,14 +1066,14 @@ isbn:1592407331 :title "Daring Greatly: How the Courage to Be Vulnerable Transfo
 	:goodreads-url <http://www.goodreads.com/book/show/13588356-daring-greatly> ;
 	:author "Brené Brown" ;
 	:num-pages "287" ;
-	:average-rating "4.24" .
+	:average-rating "4.23" .
 	:owned "false" .
 
 isbn:0688094554 :title "Ten Days to Self-Esteem" ;
 	:goodreads-url <http://www.goodreads.com/book/show/19295.Ten_Days_to_Self_Esteem> ;
 	:author "David D. Burns" ;
 	:num-pages "336" ;
-	:average-rating "3.84" .
+	:average-rating "3.86" .
 	:owned "false" .
 
 isbn:0743247469 :title "The Corporation: The Pathological Pursuit of Profit and Power" ;
@@ -884,7 +1087,7 @@ isbn:0415282365 :title "The Open Society and Its Enemies" ;
 	:goodreads-url <http://www.goodreads.com/book/show/240592.The_Open_Society_and_Its_Enemies> ;
 	:author "Karl R. Popper" ;
 	:num-pages "904" ;
-	:average-rating "4.24" .
+	:average-rating "4.23" .
 	:owned "false" .
 
 isbn:0691017948 :title "Synchronicity: An Acausal Connecting Principle" ;
@@ -926,21 +1129,21 @@ isbn:1889865095 :title "Blue Planet in Green Shackles: What Is Endangered: Clima
 	:goodreads-url <http://www.goodreads.com/book/show/6056707-blue-planet-in-green-shackles> ;
 	:author "Václav Klaus" ;
 	:num-pages "120" ;
-	:average-rating "3.21" .
+	:average-rating "3.17" .
 	:owned "false" .
 
 isbn:0751532711 :title "Rich Dad, Poor Dad" ;
 	:goodreads-url <http://www.goodreads.com/book/show/69571.Rich_Dad_Poor_Dad> ;
 	:author "Robert T. Kiyosaki" ;
 	:num-pages "195" ;
-	:average-rating "3.9" .
+	:average-rating "3.91" .
 	:owned "false" .
 
 isbn:1564782999 :title "Heartsnatcher" ;
 	:goodreads-url <http://www.goodreads.com/book/show/28377.Heartsnatcher> ;
 	:author "Boris Vian" ;
 	:num-pages "245" ;
-	:average-rating "4.02" .
+	:average-rating "4.01" .
 	:owned "false" .
 
 isbn:1561797464 :title "A Christmas Carol" ;
@@ -960,7 +1163,6 @@ isbn:0812504690 :title "The Jungle Book" ;
 isbn:0684854678 :title "The Noonday Demon: An Atlas of Depression" ;
 	:goodreads-url <http://www.goodreads.com/book/show/13932.The_Noonday_Demon> ;
 	:author "Andrew Solomon" ;
-	:num-pages "576" ;
 	:average-rating "4.13" .
 	:owned "false" .
 
@@ -989,7 +1191,7 @@ isbn:0970693842 :title "Radical Honesty : How to Transform Your Life by Telling 
 	:goodreads-url <http://www.goodreads.com/book/show/551511.Radical_Honesty_> ;
 	:author "Brad Blanton" ;
 	:num-pages "277" ;
-	:average-rating "3.83" .
+	:average-rating "3.84" .
 	:owned "false" .
 
 isbn:0393088812 :title "The Vital Question: Energy, Evolution, and the Origins of Complex Life" ;
@@ -1003,7 +1205,7 @@ isbn:1594205221 :title "How Not to Be Wrong: The Power of Mathematical Thinking"
 	:goodreads-url <http://www.goodreads.com/book/show/18693884-how-not-to-be-wrong> ;
 	:author "Jordan Ellenberg" ;
 	:num-pages "480" ;
-	:average-rating "3.9" .
+	:average-rating "3.91" .
 	:owned "false" .
 
 isbn:052155960X :title "The Sources of Normativity" ;
@@ -1031,14 +1233,14 @@ isbn:0262112418 :title "Social Cognition: Making Sense of People" ;
 	:goodreads-url <http://www.goodreads.com/book/show/58411.Social_Cognition> ;
 	:author "Ziva Kunda" ;
 	:num-pages "602" ;
-	:average-rating "4.0" .
+	:average-rating "3.98" .
 	:owned "false" .
 
 isbn:0521297761 :title "Reason, Truth and History" ;
 	:goodreads-url <http://www.goodreads.com/book/show/193687.Reason_Truth_and_History> ;
 	:author "Hilary Putnam" ;
 	:num-pages "222" ;
-	:average-rating "3.77" .
+	:average-rating "3.79" .
 	:owned "false" .
 
 isbn:0521199565 :title "Quantum Computing Since Democritus" ;
@@ -1052,14 +1254,14 @@ isbn:0393979571 :title "Intimate Relationships" ;
 	:goodreads-url <http://www.goodreads.com/book/show/8430242-intimate-relationships> ;
 	:author "Thomas N. Bradbury" ;
 	:num-pages "598" ;
-	:average-rating "3.79" .
+	:average-rating "3.8" .
 	:owned "false" .
 
 isbn:0805861602 :title "Handbook of Relationship Initiation" ;
 	:goodreads-url <http://www.goodreads.com/book/show/4073204-handbook-of-relationship-initiation> ;
 	:author "Susan Sprecher" ;
 	:num-pages "577" ;
-	:average-rating "0.0" .
+	:average-rating "3.33" .
 	:owned "false" .
 
 isbn:0415140439 :title "The End of the World: The Science and Ethics of Human Extinction" ;
@@ -1087,7 +1289,7 @@ isbn13:9780143065470 :title "The Essential Chomsky" ;
 	:goodreads-url <http://www.goodreads.com/book/show/1395714.The_Essential_Chomsky> ;
 	:author "Noam Chomsky" ;
 	:num-pages "515" ;
-	:average-rating "4.14" .
+	:average-rating "4.15" .
 	:owned "false" .
 
 isbn:0307277887 :title "Darkly Dreaming Dexter (Dexter, #1)" ;
@@ -1136,28 +1338,28 @@ isbn:0805838406 :title "The Psychological Foundations of Culture" ;
 	:goodreads-url <http://www.goodreads.com/book/show/2341251.The_Psychological_Foundations_of_Culture> ;
 	:author "Mark Schaller" ;
 	:num-pages "392" ;
-	:average-rating "0.0" .
+	:average-rating "4.33" .
 	:owned "false" .
 
 isbn:0898621283 :title "Mind Over Mood: Change How You Feel By Changing the Way You Think" ;
 	:goodreads-url <http://www.goodreads.com/book/show/108380.Mind_Over_Mood> ;
 	:author "Dennis Greenberger" ;
 	:num-pages "243" ;
-	:average-rating "3.97" .
+	:average-rating "3.98" .
 	:owned "false" .
 
 isbn:0631177094 :title "The Plato Cult: And Other Philosophical Follies" ;
 	:goodreads-url <http://www.goodreads.com/book/show/1731666.The_Plato_Cult> ;
 	:author "David Stove" ;
 	:num-pages "224" ;
-	:average-rating "3.9" .
+	:average-rating "3.84" .
 	:owned "false" .
 
 isbn:0262014904 :title "Perplexities of Consciousness" ;
 	:goodreads-url <http://www.goodreads.com/book/show/11196645-perplexities-of-consciousness> ;
 	:author "Eric Schwitzgebel" ;
 	:num-pages "225" ;
-	:average-rating "3.68" .
+	:average-rating "3.72" .
 	:owned "false" .
 
 isbn:0345409469 :title "The Demon-Haunted World: Science as a Candle in the Dark" ;
@@ -1191,21 +1393,21 @@ isbn:0393318486 :title "How the Mind Works" ;
 isbn:0738811882 :title "Slay and Rescue" ;
 	:goodreads-url <http://www.goodreads.com/book/show/726497.Slay_and_Rescue> ;
 	:author "John      Moore" ;
-	:average-rating "4.09" .
+	:average-rating "4.08" .
 	:owned "false" .
 
 isbn:0078035171 :title "Exploring Social Psychology" ;
 	:goodreads-url <http://www.goodreads.com/book/show/10812429-exploring-social-psychology> ;
 	:author "David G. Myers" ;
 	:num-pages "544" ;
-	:average-rating "3.9" .
+	:average-rating "3.89" .
 	:owned "false" .
 
 isbn:0521642981 :title "Information Theory, Inference and Learning Algorithms" ;
 	:goodreads-url <http://www.goodreads.com/book/show/201357.Information_Theory_Inference_and_Learning_Algorithms> ;
 	:author "David J.C. MacKay" ;
 	:num-pages "640" ;
-	:average-rating "4.38" .
+	:average-rating "4.4" .
 	:owned "false" .
 
 isbn:0226468046 :title "Women, Fire, and Dangerous Things: What Categories Reveal About the Mind" ;
@@ -1219,7 +1421,7 @@ isbn:0123814855 :title "Doing Bayesian Data Analysis: A Tutorial Introduction wi
 	:goodreads-url <http://www.goodreads.com/book/show/9003187-doing-bayesian-data-analysis> ;
 	:author "John Kruschke" ;
 	:num-pages "653" ;
-	:average-rating "4.4" .
+	:average-rating "4.39" .
 	:owned "false" .
 
 isbn:0773526749 :title "Mind and Body" ;
@@ -1233,7 +1435,7 @@ isbn:0521641640 :title "The Foundations of Causal Decision Theory" ;
 	:goodreads-url <http://www.goodreads.com/book/show/4577090-the-foundations-of-causal-decision-theory> ;
 	:author "James M. Joyce" ;
 	:num-pages "280" ;
-	:average-rating "0.0" .
+	:average-rating "3.33" .
 	:owned "false" .
 
 isbn:354023733X :title "Artificial General Intelligence" ;
@@ -1247,13 +1449,12 @@ isbn:0935218084 :title "Thinking Physics: Understandable Practical Reality" ;
 	:goodreads-url <http://www.goodreads.com/book/show/268266.Thinking_Physics> ;
 	:author "Lewis Carroll Epstein" ;
 	:num-pages "582" ;
-	:average-rating "4.34" .
+	:average-rating "4.35" .
 	:owned "false" .
 
 isbn:0142003840 :title "Freedom Evolves" ;
 	:goodreads-url <http://www.goodreads.com/book/show/2071.Freedom_Evolves> ;
 	:author "Daniel C. Dennett" ;
-	:num-pages "368" ;
 	:average-rating "3.8" .
 	:owned "false" .
 
@@ -1268,20 +1469,20 @@ isbn:161066020X :title "Influence: Science and Practice: The Comic" ;
 	:goodreads-url <http://www.goodreads.com/book/show/15895832-influence> ;
 	:author "Robert B. Cialdini" ;
 	:num-pages "82" ;
-	:average-rating "3.85" .
+	:average-rating "3.84" .
 	:owned "false" .
 
 isbn:0774802154 :title "Paradoxes of Rationality and Cooperation: Prisoner's Dilemma and Newcomb's Problem" ;
 	:goodreads-url <http://www.goodreads.com/book/show/29510.Paradoxes_of_Rationality_and_Cooperation> ;
 	:author "Lanning Sowden" ;
-	:average-rating "0.0" .
+	:average-rating "4.25" .
 	:owned "false" .
 
 isbn:0674741137 :title "Quantum Mechanics and Experience" ;
 	:goodreads-url <http://www.goodreads.com/book/show/663701.Quantum_Mechanics_and_Experience> ;
 	:author "David Z. Albert" ;
 	:num-pages "222" ;
-	:average-rating "4.01" .
+	:average-rating "4.03" .
 	:owned "false" .
 
 isbn:0199734682 :title "The Oxford Handbook of Thinking and Reasoning" ;
@@ -1295,13 +1496,13 @@ isbn:0262042339 :title "Good and Real: Demystifying Paradoxes from Physics to Et
 	:goodreads-url <http://www.goodreads.com/book/show/1096665.Good_and_Real> ;
 	:author "Gary L. Drescher" ;
 	:num-pages "347" ;
-	:average-rating "4.11" .
+	:average-rating "4.09" .
 	:owned "false" .
 
 isbn:0441785859 :title "A Step Farther Out" ;
 	:goodreads-url <http://www.goodreads.com/book/show/2362018.A_Step_Farther_Out> ;
 	:author "Jerry Pournelle" ;
-	:average-rating "3.9" .
+	:average-rating "3.89" .
 	:owned "false" .
 
 isbn:0812579844 :title "The Golden Age (Golden Age #1)" ;
@@ -1336,7 +1537,7 @@ isbn:2253089583 :title "Discours de La Methode" ;
 	:goodreads-url <http://www.goodreads.com/book/show/26355609-discours-de-la-methode> ;
 	:author "René Descartes" ;
 	:num-pages "232" ;
-	:average-rating "3.4" .
+	:average-rating "3.7" .
 	:owned "false" .
 
 isbn:0520254120 :title "The Constant Fire: Beyond the Science vs. Religion Debate" ;
@@ -1370,7 +1571,7 @@ isbn:1591840538 :title "The Smartest Guys in the Room: The Amazing Rise and Scan
 	:goodreads-url <http://www.goodreads.com/book/show/113576.The_Smartest_Guys_in_the_Room> ;
 	:author "Bethany McLean" ;
 	:num-pages "480" ;
-	:average-rating "4.12" .
+	:average-rating "4.13" .
 	:owned "false" .
 
 isbn:0330493744 :title "Kushiel's Dart (Phèdre's Trilogy, #1)" ;
@@ -1391,7 +1592,7 @@ isbn:0553278339 :title "Focusing" ;
 	:goodreads-url <http://www.goodreads.com/book/show/666175.Focusing> ;
 	:author "Eugene T. Gendlin" ;
 	:num-pages "224" ;
-	:average-rating "3.87" .
+	:average-rating "3.86" .
 	:owned "false" .
 
 isbn:0131396676 :title "Cognitive Psychology" ;
@@ -1404,7 +1605,7 @@ isbn:0534514219 :title "Cognitive Psychology" ;
 	:goodreads-url <http://www.goodreads.com/book/show/1127139.Cognitive_Psychology> ;
 	:author "Robert J. Sternberg" ;
 	:num-pages "624" ;
-	:average-rating "3.75" .
+	:average-rating "3.76" .
 	:owned "false" .
 
 isbn:1886230358 :title "Feeling Better, Getting Better, Staying Better: Profound Self-Help Therapy for Your Emotions" ;
@@ -1417,7 +1618,7 @@ isbn:1886230358 :title "Feeling Better, Getting Better, Staying Better: Profound
 isbn:1567318312 :title "How To Control Your Anxiety Before It Controls You" ;
 	:goodreads-url <http://www.goodreads.com/book/show/7322755-how-to-control-your-anxiety-before-it-controls-you> ;
 	:author "Albert Ellis" ;
-	:average-rating "3.76" .
+	:average-rating "3.79" .
 	:owned "false" .
 
 isbn:1591023548 :title "Myth of Self-Esteem: How Rational Emotive Behavior Therapy Can Change Your Life Forever" ;
@@ -1431,14 +1632,14 @@ isbn:1573928798 :title "Overcoming Destructive Beliefs, Feelings, and Behaviors:
 	:goodreads-url <http://www.goodreads.com/book/show/22682.Overcoming_Destructive_Beliefs_Feelings_and_Behaviors> ;
 	:author "Albert Ellis" ;
 	:num-pages "419" ;
-	:average-rating "4.15" .
+	:average-rating "4.17" .
 	:owned "false" .
 
 isbn:0818404566 :title "How To Stubbornly Refuse To Make Yourself Miserable About Anything, Yes Anything" ;
 	:goodreads-url <http://www.goodreads.com/book/show/833681.How_To_Stubbornly_Refuse_To_Make_Yourself_Miserable_About_Anything_Yes_Anything> ;
 	:author "Albert Ellis" ;
 	:num-pages "215" ;
-	:average-rating "3.87" .
+	:average-rating "3.88" .
 	:owned "false" .
 
 isbn:0393978893 :title "Wuthering Heights" ;
@@ -1466,7 +1667,7 @@ isbn:0671698877 :title "The Gentle Seduction" ;
 	:goodreads-url <http://www.goodreads.com/book/show/761141.The_Gentle_Seduction> ;
 	:author "Marc Stiegler" ;
 	:num-pages "277" ;
-	:average-rating "4.24" .
+	:average-rating "4.22" .
 	:owned "false" .
 
 isbn:067003472X :title "Breaking the Spell: Religion as a Natural Phenomenon" ;
@@ -1493,7 +1694,7 @@ isbn:1400067820 :title "Antifragile: Things That Gain from Disorder" ;
 	:goodreads-url <http://www.goodreads.com/book/show/13530973-antifragile> ;
 	:author "Nassim Nicholas Taleb" ;
 	:num-pages "521" ;
-	:average-rating "4.01" .
+	:average-rating "4.02" .
 	:owned "false" .
 
 isbn:0465097200 :title "Anarchy, State, and Utopia" ;
@@ -1524,10 +1725,9 @@ isbn:1476709564 :title "Bold: How to Go Big, Create Wealth and Impact the World"
 	:average-rating "4.08" .
 	:owned "false" .
 
-isbn:0894864025 :title "Codependent No More: How to Stop Controlling Others and Start Caring for Yourself" ;
+isbn:0894864025 :title "Codependent No More" ;
 	:goodreads-url <http://www.goodreads.com/book/show/720298.Codependent_No_More> ;
 	:author "Melody Beattie" ;
-	:num-pages "276" ;
 	:average-rating "4.13" .
 	:owned "false" .
 
@@ -1549,7 +1749,7 @@ isbn:0393309401 :title "Our Inner Conflicts: A Constructive Theory of Neurosis" 
 	:goodreads-url <http://www.goodreads.com/book/show/130393.Our_Inner_Conflicts> ;
 	:author "Karen Horney" ;
 	:num-pages "256" ;
-	:average-rating "4.18" .
+	:average-rating "4.19" .
 	:owned "false" .
 
 isbn:071675715X :title "The Social Animal" ;
@@ -1563,7 +1763,7 @@ isbn:1592406599 :title "You Are Not So Smart: Why You Have Too Many Friends on F
 	:goodreads-url <http://www.goodreads.com/book/show/11709037-you-are-not-so-smart> ;
 	:author "David McRaney" ;
 	:num-pages "302" ;
-	:average-rating "3.84" .
+	:average-rating "3.85" .
 	:owned "false" .
 
 isbn:0060724277 :title "I'm OK - You're OK" ;
@@ -1591,7 +1791,7 @@ isbn:0670063274 :title "The Stuff of Thought: Language as a Window into Human Na
 	:goodreads-url <http://www.goodreads.com/book/show/373969.The_Stuff_of_Thought> ;
 	:author "Steven Pinker" ;
 	:num-pages "499" ;
-	:average-rating "3.88" .
+	:average-rating "3.89" .
 	:owned "false" .
 
 isbn:0960695400 :title "Please Understand Me: Character and Temperament Types" ;
@@ -1618,7 +1818,7 @@ isbn:0072938013 :title "Intimate Relationships" ;
 	:goodreads-url <http://www.goodreads.com/book/show/296330.Intimate_Relationships> ;
 	:author "Rowland S. Miller" ;
 	:num-pages "608" ;
-	:average-rating "4.14" .
+	:average-rating "4.12" .
 	:owned "false" .
 
 isbn:1402201397 :title "The Lexicon of Intentionally Ambiguous Recommendations" ;
@@ -1688,14 +1888,14 @@ isbn:0393349446 :title "Touching a Nerve: Our Brains, Our Selves" ;
 	:goodreads-url <http://www.goodreads.com/book/show/18378029-touching-a-nerve> ;
 	:author "Patricia S. Churchland" ;
 	:num-pages "304" ;
-	:average-rating "3.84" .
+	:average-rating "3.83" .
 	:owned "false" .
 
 isbn:0300084730 :title "The Computer and the Brain" ;
 	:goodreads-url <http://www.goodreads.com/book/show/358880.The_Computer_and_the_Brain> ;
 	:author "John von Neumann" ;
 	:num-pages "112" ;
-	:average-rating "3.89" .
+	:average-rating "3.9" .
 	:owned "false" .
 
 isbn:0879800429 :title "A New Guide to Rational Living" ;
@@ -1709,7 +1909,7 @@ isbn:0451148452 :title "Intimate Connections" ;
 	:goodreads-url <http://www.goodreads.com/book/show/194358.Intimate_Connections> ;
 	:author "David D. Burns" ;
 	:num-pages "368" ;
-	:average-rating "4.03" .
+	:average-rating "4.02" .
 	:owned "false" .
 
 isbn:0306812274 :title "How to Lose Friends and Alienate People" ;
@@ -1778,7 +1978,7 @@ isbn:0679725164 :title "No Exit and Three Other Plays" ;
 	:goodreads-url <http://www.goodreads.com/book/show/10037.No_Exit_and_Three_Other_Plays> ;
 	:author "Jean-Paul Sartre" ;
 	:num-pages "275" ;
-	:average-rating "4.07" .
+	:average-rating "4.08" .
 	:owned "false" .
 
 isbn:0142000663 :title "The Grapes of Wrath" ;
@@ -1909,7 +2109,7 @@ isbn:159420411X :title "The Signal and the Noise: Why So Many Predictions Fail -
 isbn:1881273156 :title "The Five Love Languages: How to Express Heartfelt Commitment to Your Mate" ;
 	:goodreads-url <http://www.goodreads.com/book/show/567795.The_Five_Love_Languages> ;
 	:author "Gary Chapman" ;
-	:average-rating "4.21" .
+	:average-rating "4.22" .
 	:owned "false" .
 
 isbn:019925656X :title "Knowledge and Its Limits" ;
@@ -1972,14 +2172,14 @@ isbn:0195106466 :title "Shadows of the Mind: A Search for the Missing Science of
 	:goodreads-url <http://www.goodreads.com/book/show/187100.Shadows_of_the_Mind> ;
 	:author "Roger Penrose" ;
 	:num-pages "480" ;
-	:average-rating "3.84" .
+	:average-rating "3.85" .
 	:owned "false" .
 
 isbn:0201633620 :title "Large-Scale C++ Software Design" ;
 	:goodreads-url <http://www.goodreads.com/book/show/1370617.Large_Scale_C_Software_Design> ;
 	:author "John S. Lakos" ;
 	:num-pages "896" ;
-	:average-rating "3.93" .
+	:average-rating "3.89" .
 	:owned "false" .
 
 isbn:014027541X :title "The Fabric of Reality: The Science of Parallel Universes--and Its Implications" ;
@@ -1993,21 +2193,21 @@ isbn:0521773628 :title "Causality: Models, Reasoning, and Inference" ;
 	:goodreads-url <http://www.goodreads.com/book/show/174276.Causality> ;
 	:author "Judea Pearl" ;
 	:num-pages "400" ;
-	:average-rating "4.17" .
+	:average-rating "4.18" .
 	:owned "false" .
 
 isbn:0195149831 :title "The Last Word" ;
 	:goodreads-url <http://www.goodreads.com/book/show/257864.The_Last_Word> ;
 	:author "Thomas Nagel" ;
 	:num-pages "160" ;
-	:average-rating "3.76" .
+	:average-rating "3.75" .
 	:owned "false" .
 
-isbn:0738210617 :title "The Velvet Rage" ;
+isbn:0738210617 :title "The Velvet Rage: Overcoming the Pain of Growing Up Gay in a Straight Man's World" ;
 	:goodreads-url <http://www.goodreads.com/book/show/49418.The_Velvet_Rage> ;
 	:author "Alan Downs" ;
-	:num-pages "224" ;
-	:average-rating "3.99" .
+	:num-pages "212" ;
+	:average-rating "4.0" .
 	:owned "false" .
 
 isbn:0767915038 :title "Radical Evolution: The Promise and Peril of Enhancing Our Minds, Our Bodies -- and What It Means to Be Human" ;
@@ -2035,14 +2235,14 @@ isbn:0231137524 :title "Freedom and Neurobiology: Reflections on Free Will, Lang
 	:goodreads-url <http://www.goodreads.com/book/show/51904.Freedom_and_Neurobiology> ;
 	:author "John Rogers Searle" ;
 	:num-pages "128" ;
-	:average-rating "3.48" .
+	:average-rating "3.5" .
 	:owned "false" .
 
 isbn:0345376595 :title "Pale Blue Dot: A Vision of the Human Future in Space" ;
 	:goodreads-url <http://www.goodreads.com/book/show/61663.Pale_Blue_Dot> ;
 	:author "Carl Sagan" ;
 	:num-pages "384" ;
-	:average-rating "4.31" .
+	:average-rating "4.32" .
 	:owned "false" .
 
 isbn:0345336895 :title "Broca's Brain: Reflections on the Romance of Science" ;
@@ -2094,7 +2294,7 @@ isbn:0156421178 :title "Homage to Catalonia" ;
 	:average-rating "4.14" .
 	:owned "false" .
 
-isbn:0195132467 :title "Other Minds: Critical Essays 1969-1994: Critical Essays, 1969-94" ;
+isbn:0195132467 :title "Other Minds: Critical Essays, 1969-1994" ;
 	:goodreads-url <http://www.goodreads.com/book/show/257868.Other_Minds> ;
 	:author "Thomas Nagel" ;
 	:num-pages "240" ;
@@ -2140,7 +2340,7 @@ isbn:0521687268 :title "Neuroethics: Challenges for the 21st Century" ;
 	:goodreads-url <http://www.goodreads.com/book/show/536553.Neuroethics> ;
 	:author "Neil Levy" ;
 	:num-pages "346" ;
-	:average-rating "3.85" .
+	:average-rating "3.81" .
 	:owned "false" .
 
 isbn:0380015390 :title "The Satanic Bible" ;
@@ -2154,7 +2354,7 @@ isbn:0199204780 :title "Brainwashing: The Science of Thought Control" ;
 	:goodreads-url <http://www.goodreads.com/book/show/136336.Brainwashing> ;
 	:author "Kathleen  Taylor" ;
 	:num-pages "324" ;
-	:average-rating "3.57" .
+	:average-rating "3.55" .
 	:owned "false" .
 
 isbn:0446556246 :title "War" ;
@@ -2188,7 +2388,7 @@ isbn:0393308197 :title "The Panda's Thumb: More Reflections in Natural History" 
 	:goodreads-url <http://www.goodreads.com/book/show/33933.The_Panda_s_Thumb> ;
 	:author "Stephen Jay Gould" ;
 	:num-pages "352" ;
-	:average-rating "4.11" .
+	:average-rating "4.1" .
 	:owned "false" .
 
 isbn:0140283331 :title "Lord of the Flies" ;
@@ -2202,7 +2402,7 @@ isbn:0262016044 :title "The Bodhisattva's Brain : Buddhism Naturalized" ;
 	:goodreads-url <http://www.goodreads.com/book/show/12399319-the-bodhisattva-s-brain> ;
 	:author "Owen Flanagan" ;
 	:num-pages "264" ;
-	:average-rating "3.7" .
+	:average-rating "3.71" .
 	:owned "false" .
 
 isbn:0262540533 :title "The Intentional Stance" ;
@@ -2229,7 +2429,6 @@ isbn:014019441X :title "Occidental Mythology (The Masks of God, #3)" ;
 isbn:0140194428 :title "Oriental Mythology (The Masks of God, #2)" ;
 	:goodreads-url <http://www.goodreads.com/book/show/35520.Oriental_Mythology> ;
 	:author "Joseph Campbell" ;
-	:num-pages "576" ;
 	:average-rating "4.28" .
 	:owned "false" .
 
@@ -2250,7 +2449,7 @@ isbn:0091894425 :title "Eternal Child" ;
 isbn:0684810840 :title "The Art of Living Consciously: The Power of Awareness to Transform Everyday Life" ;
 	:goodreads-url <http://www.goodreads.com/book/show/646187.The_Art_of_Living_Consciously> ;
 	:author "Nathaniel Branden" ;
-	:average-rating "4.0" .
+	:average-rating "3.99" .
 	:owned "false" .
 
 isbn:026252225X :title "Mindblindness: An Essay on Autism and Theory of Mind" ;
@@ -2264,7 +2463,7 @@ isbn:0465005640 :title "The Evolution of Cooperation" ;
 	:goodreads-url <http://www.goodreads.com/book/show/366821.The_Evolution_of_Cooperation> ;
 	:author "Robert Axelrod" ;
 	:num-pages "264" ;
-	:average-rating "4.17" .
+	:average-rating "4.18" .
 	:owned "false" .
 
 isbn:048627263X :title "Flatland: A Romance of Many Dimensions" ;
@@ -2285,7 +2484,7 @@ isbn:0393350649 :title "The Second Machine Age: Work, Progress, and Prosperity i
 	:goodreads-url <http://www.goodreads.com/book/show/23316526-the-second-machine-age> ;
 	:author "Erik Brynjolfsson" ;
 	:num-pages "336" ;
-	:average-rating "3.93" .
+	:average-rating "3.94" .
 	:owned "false" .
 
 isbn:0312622376 :title "Our Final Invention: Artificial Intelligence and the End of the Human Era" ;
@@ -2306,7 +2505,7 @@ isbn:0307377903 :title "The Righteous Mind: Why Good People are Divided by Polit
 	:goodreads-url <http://www.goodreads.com/book/show/11324722-the-righteous-mind> ;
 	:author "Jonathan Haidt" ;
 	:num-pages "392" ;
-	:average-rating "4.11" .
+	:average-rating "4.12" .
 	:owned "false" .
 
 isbn:145162445X :title "A Universe from Nothing: Why There Is Something Rather Than Nothing" ;
@@ -2362,7 +2561,7 @@ isbn13:9780312367060 :title "Ending Aging: The Rejuvenation Breakthroughs That C
 	:goodreads-url <http://www.goodreads.com/book/show/519781.Ending_Aging> ;
 	:author "Aubrey de Grey" ;
 	:num-pages "400" ;
-	:average-rating "4.17" .
+	:average-rating "4.16" .
 	:owned "false" .
 
 isbn:0915145286 :title "The Methods of Ethics" ;
@@ -2383,14 +2582,14 @@ isbn:0486454274 :title "What's Wrong with the World" ;
 	:goodreads-url <http://www.goodreads.com/book/show/184565.What_s_Wrong_with_the_World> ;
 	:author "G.K. Chesterton" ;
 	:num-pages "224" ;
-	:average-rating "4.04" .
+	:average-rating "4.05" .
 	:owned "false" .
 
 isbn:0521627494 :title "Choices, Values, and Frames" ;
 	:goodreads-url <http://www.goodreads.com/book/show/125966.Choices_Values_and_Frames> ;
 	:author "Daniel Kahneman" ;
 	:num-pages "860" ;
-	:average-rating "4.2" .
+	:average-rating "4.19" .
 	:owned "false" .
 
 isbn:0521284147 :title "Judgment Under Uncertainty: Heuristics and Biases" ;
@@ -2404,14 +2603,14 @@ isbn:076192275X :title "Rational Choice in an Uncertain World: The Psychology of
 	:goodreads-url <http://www.goodreads.com/book/show/173932.Rational_Choice_in_an_Uncertain_World> ;
 	:author "Reid Hastie" ;
 	:num-pages "392" ;
-	:average-rating "3.95" .
+	:average-rating "3.91" .
 	:owned "false" .
 
 isbn:1439190755 :title "Flourish: A Visionary New Understanding of Happiness and Well-Being" ;
 	:goodreads-url <http://www.goodreads.com/book/show/9744812-flourish> ;
 	:author "Martin E.P. Seligman" ;
 	:num-pages "349" ;
-	:average-rating "3.81" .
+	:average-rating "3.82" .
 	:owned "false" .
 
 isbn:0670026557 :title "Give and Take: A Revolutionary Approach to Success" ;
@@ -2425,14 +2624,14 @@ isbn:0446579807 :title "God Is Not Great: How Religion Poisons Everything" ;
 	:goodreads-url <http://www.goodreads.com/book/show/43369.God_Is_Not_Great> ;
 	:author "Christopher Hitchens" ;
 	:num-pages "307" ;
-	:average-rating "3.94" .
+	:average-rating "3.95" .
 	:owned "false" .
 
 isbn:0996128107 :title "The Effective Engineer: How to Leverage Your Efforts In Software Engineering to Make a Disproportionate and Meaningful Impact" ;
 	:goodreads-url <http://www.goodreads.com/book/show/25238425-the-effective-engineer> ;
 	:author "Edmond Lau" ;
 	:num-pages "260" ;
-	:average-rating "4.28" .
+	:average-rating "4.3" .
 	:owned "false" .
 
 isbn:1590300572 :title "The Way of the Bodhisattva: A Translation of the Bodhicharyavatara" ;
@@ -2453,7 +2652,7 @@ isbn:1937785319 :title "The Healthy Programmer" ;
 	:goodreads-url <http://www.goodreads.com/book/show/17229509-the-healthy-programmer> ;
 	:author "Joe Kutner" ;
 	:num-pages "220" ;
-	:average-rating "3.74" .
+	:average-rating "3.73" .
 	:owned "false" .
 
 isbn:0961392177 :title "Beautiful Evidence" ;
@@ -2479,7 +2678,7 @@ isbn:1856230554 :title "Meat: A Benign Extravagance" ;
 	:goodreads-url <http://www.goodreads.com/book/show/9251480-meat> ;
 	:author "Simon Fairlie" ;
 	:num-pages "322" ;
-	:average-rating "4.02" .
+	:average-rating "4.05" .
 	:owned "false" .
 
 isbn:006090495X :title "The Phenomenon of Man" ;
@@ -2493,7 +2692,7 @@ isbn:0195060806 :title "Moral Mazes: The World of Corporate Managers" ;
 	:goodreads-url <http://www.goodreads.com/book/show/279812.Moral_Mazes> ;
 	:author "Robert Jackall" ;
 	:num-pages "249" ;
-	:average-rating "4.01" .
+	:average-rating "4.02" .
 	:owned "false" .
 
 isbn:0465030785 :title "I Am a Strange Loop" ;
@@ -2523,13 +2722,6 @@ isbn:1451636016 :title "Waking Up: A Guide to Spirituality Without Religion" ;
 	:average-rating "3.85" .
 	:owned "false" .
 
-isbn:1451683405 :title "Free Will" ;
-	:goodreads-url <http://www.goodreads.com/book/show/13259270-free-will> ;
-	:author "Sam Harris" ;
-	:num-pages "83" ;
-	:average-rating "3.82" .
-	:owned "false" .
-
 isbn:0393327655 :title "The End of Faith: Religion, Terror, and the Future of Reason" ;
 	:goodreads-url <http://www.goodreads.com/book/show/29501.The_End_of_Faith> ;
 	:author "Sam Harris" ;
@@ -2541,14 +2733,14 @@ isbn:0262527804 :title "The Technological Singularity" ;
 	:goodreads-url <http://www.goodreads.com/book/show/26017445-the-technological-singularity> ;
 	:author "Murray Shanahan" ;
 	:num-pages "272" ;
-	:average-rating "4.1" .
+	:average-rating "3.98" .
 	:owned "false" .
 
 isbn:0195136306 :title "Robot: Mere Machine to Transcendent Mind" ;
 	:goodreads-url <http://www.goodreads.com/book/show/837037.Robot> ;
 	:author "Hans Moravec" ;
 	:num-pages "240" ;
-	:average-rating "4.06" .
+	:average-rating "4.07" .
 	:owned "false" .
 
 isbn:1405034149 :title "Kushiel's Avatar (Phèdre's Trilogy #3)" ;
@@ -2568,7 +2760,7 @@ isbn:0375709223 :title "A General Theory of Love" ;
 isbn:1119186862 :title "Causal Inference in Statistics: A Primer" ;
 	:goodreads-url <http://www.goodreads.com/book/show/27164550-causal-inference-in-statistics> ;
 	:author "Judea Pearl" ;
-	:average-rating "3.85" .
+	:average-rating "3.75" .
 	:owned "false" .
 
 isbn:0130851981 :title "Computer Vision: A Modern Approach" ;
@@ -2582,7 +2774,7 @@ isbn:1558604790 :title "Probabilistic Reasoning in Intelligent Systems: Networks
 	:goodreads-url <http://www.goodreads.com/book/show/174277.Probabilistic_Reasoning_in_Intelligent_Systems> ;
 	:author "Judea Pearl" ;
 	:num-pages "552" ;
-	:average-rating "4.12" .
+	:average-rating "4.11" .
 	:owned "false" .
 
 isbn:0262182246 :title "Probabilistic Models of the Brain: Perception and Neural Function" ;
@@ -2596,14 +2788,14 @@ isbn:1605987980 :title "Project Animal Farm: An Accidental Journey into the Secr
 	:goodreads-url <http://www.goodreads.com/book/show/25010358-project-animal-farm> ;
 	:author "Sonia Faruqi" ;
 	:num-pages "336" ;
-	:average-rating "4.23" .
+	:average-rating "4.27" .
 	:owned "false" .
 
 isbn:0140445102 :title "The Art of Rhetoric" ;
 	:goodreads-url <http://www.goodreads.com/book/show/881319.The_Art_of_Rhetoric> ;
 	:author "Aristotle" ;
 	:num-pages "304" ;
-	:average-rating "3.84" .
+	:average-rating "3.85" .
 	:owned "false" .
 
 isbn:1890159018 :title "The Ethical Slut: A Guide to Infinite Sexual Possibilities" ;
@@ -2638,7 +2830,7 @@ isbn:006107344X :title "Schild's Ladder" ;
 	:goodreads-url <http://www.goodreads.com/book/show/156780.Schild_s_Ladder> ;
 	:author "Greg Egan" ;
 	:num-pages "352" ;
-	:average-rating "3.91" .
+	:average-rating "3.92" .
 	:owned "false" .
 
 isbn:1591847788 :title "Hooked: How to Build Habit-Forming Products" ;
@@ -2693,14 +2885,14 @@ isbn:0471763179 :title "The Power of Persuasion: How We're Bought and Sold" ;
 	:goodreads-url <http://www.goodreads.com/book/show/62121.The_Power_of_Persuasion> ;
 	:author "Robert V. Levine" ;
 	:num-pages "278" ;
-	:average-rating "3.9" .
+	:average-rating "3.92" .
 	:owned "false" .
 
 isbn:1593851286 :title "The Mindful Way through Depression: Freeing Yourself from Chronic Unhappiness" ;
 	:goodreads-url <http://www.goodreads.com/book/show/112588.The_Mindful_Way_through_Depression> ;
 	:author "Mark         Williams" ;
 	:num-pages "273" ;
-	:average-rating "4.04" .
+	:average-rating "4.05" .
 	:owned "false" .
 
 isbn:0262018020 :title "Machine Learning: A Probabilistic Perspective" ;
@@ -2714,21 +2906,21 @@ isbn:0262193981 :title "Reinforcement Learning: An Introduction" ;
 	:goodreads-url <http://www.goodreads.com/book/show/739791.Reinforcement_Learning> ;
 	:author "Richard S. Sutton" ;
 	:num-pages "344" ;
-	:average-rating "4.33" .
+	:average-rating "4.31" .
 	:owned "false" .
 
 isbn:052143971X :title "Practical Ethics" ;
 	:goodreads-url <http://www.goodreads.com/book/show/29378.Practical_Ethics> ;
 	:author "Peter Singer" ;
 	:num-pages "411" ;
-	:average-rating "4.02" .
+	:average-rating "4.03" .
 	:owned "false" .
 
 isbn:1107671191 :title "Prisoners of Reason" ;
 	:goodreads-url <http://www.goodreads.com/book/show/26535308-prisoners-of-reason> ;
 	:author "Sonja Amadae" ;
 	:num-pages "364" ;
-	:average-rating "0.0" .
+	:average-rating "5.0" .
 	:owned "false" .
 
 isbn:0521036259 :title "The Myth of Morality" ;
@@ -2742,7 +2934,7 @@ isbn:1107039592 :title "Global Problems, Smart Solutions: Costs and Benefits" ;
 	:goodreads-url <http://www.goodreads.com/book/show/17473239-global-problems-smart-solutions> ;
 	:author "Bjørn Lomborg" ;
 	:num-pages "766" ;
-	:average-rating "0.0" .
+	:average-rating "1.0" .
 	:owned "false" .
 
 isbn:0521592658 :title "The Biology and Psychology of Moral Agency" ;
@@ -2756,7 +2948,7 @@ isbn:069116276X :title "The Future of the Brain: Essays by the World's Leading N
 	:goodreads-url <http://www.goodreads.com/book/show/21981667-the-future-of-the-brain> ;
 	:author "Gary F. Marcus" ;
 	:num-pages "304" ;
-	:average-rating "3.7" .
+	:average-rating "3.72" .
 	:owned "false" .
 
 isbn:0140282025 :title "The Age of Spiritual Machines: When Computers Exceed Human Intelligence" ;
@@ -2769,8 +2961,7 @@ isbn:0140282025 :title "The Age of Spiritual Machines: When Computers Exceed Hum
 isbn:0671657135 :title "The Society of Mind" ;
 	:goodreads-url <http://www.goodreads.com/book/show/326790.The_Society_of_Mind> ;
 	:author "Marvin Minsky" ;
-	:num-pages "336" ;
-	:average-rating "3.98" .
+	:average-rating "3.99" .
 	:owned "false" .
 
 isbn:0805078533 :title "On Intelligence" ;
@@ -2798,7 +2989,7 @@ isbn:0198754620 :title "The Age of Em: Work, Love and Life When Robots Rule the 
 	:goodreads-url <http://www.goodreads.com/book/show/26831944-the-age-of-em> ;
 	:author "Robin Hanson" ;
 	:num-pages "368" ;
-	:average-rating "3.52" .
+	:average-rating "3.5" .
 	:owned "false" .
 
 isbn:188296828X :title "City" ;
@@ -2819,7 +3010,7 @@ isbn:3540221395 :title "Universal Artificial Intelligence: Sequential Decisions 
 	:goodreads-url <http://www.goodreads.com/book/show/388005.Universal_Artificial_Intelligence> ;
 	:author "Marcus Hutter" ;
 	:num-pages "278" ;
-	:average-rating "3.0" .
+	:average-rating "4.0" .
 	:owned "false" .
 
 isbn:0671792253 :title "Class: A Guide Through the American Status System" ;
@@ -2840,7 +3031,7 @@ isbn:0670022756 :title "The Beginning of Infinity: Explanations That Transform t
 	:goodreads-url <http://www.goodreads.com/book/show/10483171-the-beginning-of-infinity> ;
 	:author "David Deutsch" ;
 	:num-pages "487" ;
-	:average-rating "4.05" .
+	:average-rating "4.06" .
 	:owned "false" .
 
 isbn:0140092501 :title "Chaos: Making a New Science" ;
@@ -2854,7 +3045,7 @@ isbn:1598030795 :title "Biology and Human Behavior: The Neurological Origins of 
 	:goodreads-url <http://www.goodreads.com/book/show/2506042.Biology_and_Human_Behavior> ;
 	:author "Robert M. Sapolsky" ;
 	:num-pages "24" ;
-	:average-rating "4.42" .
+	:average-rating "4.43" .
 	:owned "false" .
 
 isbn:0743260163 :title "Monkeyluv: And Other Essays on Our Lives as Animals" ;
@@ -2896,7 +3087,7 @@ isbn:1455516902 :title "Adulting: How to Become a Grown-up in 468 Easy(ish) Step
 	:goodreads-url <http://www.goodreads.com/book/show/15791144-adulting> ;
 	:author "Kelly Williams Brown" ;
 	:num-pages "273" ;
-	:average-rating "3.78" .
+	:average-rating "3.77" .
 	:owned "false" .
 
 isbn:0091947561 :title "Velocity: The Seven New Laws for a World Gone Digital" ;
@@ -2944,27 +3135,27 @@ isbn:1849513244 :title "Opencv 2 Computer Vision Application Programming Cookboo
 	:goodreads-url <http://www.goodreads.com/book/show/11556575-opencv-2-computer-vision-application-programming-cookbook> ;
 	:author "Robert Laganiere" ;
 	:num-pages "304" ;
-	:average-rating "3.94" .
+	:average-rating "3.97" .
 	:owned "false" .
 
 isbn:0596516134 :title "Learning OpenCV: Computer Vision with the OpenCV Library" ;
 	:goodreads-url <http://www.goodreads.com/book/show/3101709-learning-opencv> ;
 	:author "Gary Bradski" ;
 	:num-pages "580" ;
-	:average-rating "3.99" .
+	:average-rating "3.98" .
 	:owned "false" .
 
 isbn:0470927623 :title "The Google Resume: How to Prepare for a Career and Land a Job at Apple, Microsoft, Google, or Any Top Tech Company" ;
 	:goodreads-url <http://www.goodreads.com/book/show/10673823-the-google-resume> ;
 	:author "Gayle Laakmann McDowell" ;
 	:num-pages "280" ;
-	:average-rating "3.74" .
+	:average-rating "3.75" .
 	:owned "false" .
 
 isbn:0976458705 :title "Thinking Forth" ;
 	:goodreads-url <http://www.goodreads.com/book/show/2047737.Thinking_Forth> ;
 	:author "Leo Brodie" ;
-	:average-rating "3.98" .
+	:average-rating "3.99" .
 	:owned "false" .
 
 isbn:0321197844 :title "An Introduction to Database Systems" ;
@@ -2978,7 +3169,7 @@ isbn:1934356263 :title "Land the Tech Job You Love" ;
 	:goodreads-url <http://www.goodreads.com/book/show/4784197-land-the-tech-job-you-love> ;
 	:author "Andy Lester" ;
 	:num-pages "267" ;
-	:average-rating "3.77" .
+	:average-rating "3.78" .
 	:owned "false" .
 
 isbn:0140436316 :title "The Descent of Man" ;
@@ -3005,7 +3196,7 @@ isbn:0134190440 :title "The Go Programming Language" ;
 	:goodreads-url <http://www.goodreads.com/book/show/25080953-the-go-programming-language> ;
 	:author "Alan A. A. Donovan" ;
 	:num-pages "380" ;
-	:average-rating "4.55" .
+	:average-rating "4.53" .
 	:owned "false" .
 
 isbn:038549517X :title "The Mating Mind: How Sexual Choice Shaped the Evolution of Human Nature" ;
@@ -3026,14 +3217,14 @@ isbn:0374151121 :title "The Expanding Circle: Ethics and Sociobiology" ;
 	:goodreads-url <http://www.goodreads.com/book/show/3026168-the-expanding-circle> ;
 	:author "Peter Singer" ;
 	:num-pages "190" ;
-	:average-rating "4.06" .
+	:average-rating "4.07" .
 	:owned "false" .
 
 isbn:0803291213 :title "Monte Walsh" ;
 	:goodreads-url <http://www.goodreads.com/book/show/311904.Monte_Walsh> ;
 	:author "Jack Schaefer" ;
 	:num-pages "442" ;
-	:average-rating "4.2" .
+	:average-rating "4.22" .
 	:owned "false" .
 
 isbn:0809045990 :title "Fortune's Formula: The Untold Story of the Scientific Betting System That Beat the Casinos and Wall Street" ;
@@ -3046,13 +3237,13 @@ isbn:0809045990 :title "Fortune's Formula: The Untold Story of the Scientific Be
 isbn:0470848855 :title "Applied Quantitative Methods for Trading and Investment (The Wiley Finance Series)" ;
 	:goodreads-url <http://www.goodreads.com/book/show/2798603-applied-quantitative-methods-for-trading-and-investment> ;
 	:author "Christian L. Dunis" ;
-	:average-rating "0.0" .
+	:average-rating "3.71" .
 	:owned "false" .
 
 isbn:0070615594 :title "All About Hedge Funds" ;
 	:goodreads-url <http://www.goodreads.com/book/show/27829479-all-about-hedge-funds> ;
 	:author "Robert Jaeger" ;
-	:average-rating "0.0" .
+	:average-rating "3.2" .
 	:owned "false" .
 
 isbn:1557388245 :title "Active Portfolio Management: Quantitative Theory And Applications" ;
@@ -3066,7 +3257,7 @@ isbn:0312940432 :title "City of the Chasch (Planet of Adventure, #1)" ;
 	:goodreads-url <http://www.goodreads.com/book/show/2596311-city-of-the-chasch> ;
 	:author "Jack Vance" ;
 	:num-pages "200" ;
-	:average-rating "3.9" .
+	:average-rating "3.89" .
 	:owned "false" .
 
 isbn:0268019444 :title "Whose Justice? Which Rationality?" ;
@@ -3080,21 +3271,21 @@ isbn:0715626736 :title "Marxism and Christianity" ;
 	:goodreads-url <http://www.goodreads.com/book/show/459625.Marxism_and_Christianity> ;
 	:author "Alasdair MacIntyre" ;
 	:num-pages "160" ;
-	:average-rating "3.4" .
+	:average-rating "3.43" .
 	:owned "false" .
 
 isbn:0385199732 :title "Engines of Creation: The Coming Era of Nanotechnology" ;
 	:goodreads-url <http://www.goodreads.com/book/show/83596.Engines_of_Creation> ;
 	:author "K. Eric Drexler" ;
 	:num-pages "299" ;
-	:average-rating "4.16" .
+	:average-rating "4.17" .
 	:owned "false" .
 
 isbn:0345347951 :title "Childhood's End" ;
 	:goodreads-url <http://www.goodreads.com/book/show/414999.Childhood_s_End> ;
 	:author "Arthur C. Clarke" ;
 	:num-pages "224" ;
-	:average-rating "4.08" .
+	:average-rating "4.09" .
 	:owned "false" .
 
 isbn:0944379532 :title "None Dare Call It Conspiracy" ;
@@ -3107,7 +3298,7 @@ isbn:0992127602 :title "Why We Bite the Invisible Hand: The Psychology of Anti-C
 	:goodreads-url <http://www.goodreads.com/book/show/22239166-why-we-bite-the-invisible-hand> ;
 	:author "Peter Foster" ;
 	:num-pages "504" ;
-	:average-rating "3.93" .
+	:average-rating "3.94" .
 	:owned "false" .
 
 isbn:1880656124 :title "Wabi-Sabi: For Artists, Designers, Poets & Philosophers" ;
@@ -3170,7 +3361,7 @@ isbn:0861713826 :title "The Gateless Gate: The Classic Book of Zen Koans" ;
 	:goodreads-url <http://www.goodreads.com/book/show/769888.The_Gateless_Gate> ;
 	:author "Wumen Huikai" ;
 	:num-pages "336" ;
-	:average-rating "4.24" .
+	:average-rating "4.23" .
 	:owned "false" .
 
 isbn:156865054X :title "The Mote in God's Eye" ;
@@ -3198,14 +3389,14 @@ isbn:0804136696 :title "Superforecasting: The Art and Science of Prediction" ;
 	:goodreads-url <http://www.goodreads.com/book/show/23995360-superforecasting> ;
 	:author "Philip E. Tetlock" ;
 	:num-pages "352" ;
-	:average-rating "4.15" .
+	:average-rating "4.14" .
 	:owned "false" .
 
 isbn:0674072820 :title "The Lost Art of Finding Our Way" ;
 	:goodreads-url <http://www.goodreads.com/book/show/16241535-the-lost-art-of-finding-our-way> ;
 	:author "John Edward Huth" ;
 	:num-pages "544" ;
-	:average-rating "3.8" .
+	:average-rating "3.79" .
 	:owned "false" .
 
 isbn:0804139024 :title "The Martian" ;
@@ -3240,7 +3431,7 @@ isbn:3540741046 :title "Decision Procedures: An Algorithmic Point of View" ;
 	:goodreads-url <http://www.goodreads.com/book/show/5374770-decision-procedures> ;
 	:author "Daniel Kroening" ;
 	:num-pages "304" ;
-	:average-rating "4.0" .
+	:average-rating "3.6" .
 	:owned "false" .
 
 isbn:0521288843 :title "Evolution and the Theory of Games" ;
@@ -3268,14 +3459,14 @@ isbn:1400077427 :title "Stumbling on Happiness" ;
 	:goodreads-url <http://www.goodreads.com/book/show/56627.Stumbling_on_Happiness> ;
 	:author "Daniel Todd Gilbert" ;
 	:num-pages "263" ;
-	:average-rating "3.8" .
+	:average-rating "3.81" .
 	:owned "false" .
 
 isbn:0465068634 :title "Our Final Hour: A Scientist's warning - How Terror, Error, and Environmental Disaster Threaten Humankind's Future in This Century — On Earth and Beyond" ;
 	:goodreads-url <http://www.goodreads.com/book/show/185583.Our_Final_Hour> ;
 	:author "Martin J. Rees" ;
 	:num-pages "240" ;
-	:average-rating "3.53" .
+	:average-rating "3.54" .
 	:owned "false" .
 
 isbn:075640407X :title "The Name of the Wind (The Kingkiller Chronicle, #1)" ;
@@ -3331,13 +3522,13 @@ isbn:0872331466 :title "World Enough & Time: On Creativity and Slowing Down" ;
 	:goodreads-url <http://www.goodreads.com/book/show/11956749-world-enough-time> ;
 	:author "Christian McEwen" ;
 	:num-pages "368" ;
-	:average-rating "4.1" .
+	:average-rating "4.11" .
 	:owned "false" .
 
 isbn:0062514547 :title "Slowing Down to the Speed of Life: How To Create A More Peaceful, Simpler Life From the Inside Out" ;
 	:goodreads-url <http://www.goodreads.com/book/show/721644.Slowing_Down_to_the_Speed_of_Life> ;
 	:author "Richard Carlson" ;
-	:average-rating "3.96" .
+	:average-rating "3.95" .
 	:owned "false" .
 
 isbn:0674017722 :title "A Theory of Justice" ;
@@ -3372,7 +3563,7 @@ isbn:0131467409 :title "Organizational Patterns of Agile Software Development" ;
 	:goodreads-url <http://www.goodreads.com/book/show/756250.Organizational_Patterns_of_Agile_Software_Development> ;
 	:author "James O. Coplien" ;
 	:num-pages "432" ;
-	:average-rating "3.98" .
+	:average-rating "4.02" .
 	:owned "false" .
 
 isbn:1590595009 :title "The Best Software Writing I" ;
@@ -3385,7 +3576,7 @@ isbn:1590595009 :title "The Best Software Writing I" ;
 isbn:0321197704 :title "The Rational Unified Process: An Introduction" ;
 	:goodreads-url <http://www.goodreads.com/book/show/1657071.The_Rational_Unified_Process> ;
 	:author "Philippe Kruchten" ;
-	:average-rating "3.4" .
+	:average-rating "3.36" .
 	:owned "false" .
 
 isbn:0596006624 :title "Hackers & Painters: Big Ideas from the Computer Age" ;
@@ -3399,14 +3590,14 @@ isbn:159059844X :title "Managing Humans: Biting and Humorous Tales of a Software
 	:goodreads-url <http://www.goodreads.com/book/show/1317946.Managing_Humans> ;
 	:author "Michael Lopp" ;
 	:num-pages "209" ;
-	:average-rating "3.91" .
+	:average-rating "3.92" .
 	:owned "false" .
 
 isbn:0471606952 :title "Pattern-Oriented Software Architecture, Patterns for Concurrent and Networked Objects" ;
 	:goodreads-url <http://www.goodreads.com/book/show/85030.Pattern_Oriented_Software_Architecture_Patterns_for_Concurrent_and_Networked_Objects> ;
 	:author "Douglas C. Schmidt" ;
 	:num-pages "666" ;
-	:average-rating "3.68" .
+	:average-rating "3.7" .
 	:owned "false" .
 
 isbn:0471316156 :title "Client/Server Survival Guide" ;
@@ -3420,14 +3611,14 @@ isbn:1418835935 :title "Database Systems: Design, Implementation, and Management
 	:goodreads-url <http://www.goodreads.com/book/show/161299.Database_Systems> ;
 	:author "Peter Rob" ;
 	:num-pages "696" ;
-	:average-rating "3.54" .
+	:average-rating "3.57" .
 	:owned "false" .
 
 isbn:0321112296 :title "Software Systems Architecture: Working with Stakeholders Using Viewpoints and Perspectives" ;
 	:goodreads-url <http://www.goodreads.com/book/show/223932.Software_Systems_Architecture> ;
 	:author "Nick Rozanski" ;
 	:num-pages "576" ;
-	:average-rating "4.22" .
+	:average-rating "4.23" .
 	:owned "false" .
 
 isbn:0321125215 :title "Domain-Driven Design: Tackling Complexity in the Heart of Software" ;
@@ -3455,7 +3646,7 @@ isbn:0976694026 :title "Behind Closed Doors: Secrets of Great Management" ;
 	:goodreads-url <http://www.goodreads.com/book/show/4100.Behind_Closed_Doors> ;
 	:author "Johanna Rothman" ;
 	:num-pages "176" ;
-	:average-rating "3.92" .
+	:average-rating "3.93" .
 	:owned "false" .
 
 isbn:0201432935 :title "Pattern Hatching: Design Patterns Applied (Software Patterns Series)" ;
@@ -3469,7 +3660,7 @@ isbn:0672330164 :title "The Object-Oriented Thought Process" ;
 	:goodreads-url <http://www.goodreads.com/book/show/4795641-the-object-oriented-thought-process> ;
 	:author "Matt Weisfeld" ;
 	:num-pages "330" ;
-	:average-rating "3.64" .
+	:average-rating "3.67" .
 	:owned "false" .
 
 isbn:0201895420 :title "Analysis Patterns: Reusable Object Models" ;
@@ -3490,7 +3681,7 @@ isbn:0764574817 :title "Reversing: Secrets of Reverse Engineering" ;
 	:goodreads-url <http://www.goodreads.com/book/show/1067264.Reversing> ;
 	:author "Eldad Eilam" ;
 	:num-pages "624" ;
-	:average-rating "4.0" .
+	:average-rating "4.02" .
 	:owned "false" .
 
 isbn:0814474578 :title "Debugging: The 9 Indispensable Rules for Finding Even the Most Elusive Software and Hardware Problems" ;
@@ -3539,39 +3730,39 @@ isbn:0978739213 :title "Release It!: Design and Deploy Production-Ready Software
 	:goodreads-url <http://www.goodreads.com/book/show/1069827.Release_It_> ;
 	:author "Michael T. Nygard" ;
 	:num-pages "326" ;
-	:average-rating "4.2" .
+	:average-rating "4.19" .
 	:owned "false" .
 
 isbn:0201786958 :title "Exploiting Software: How to Break Code" ;
 	:goodreads-url <http://www.goodreads.com/book/show/1319554.Exploiting_Software> ;
 	:author "Greg Hoglund" ;
 	:num-pages "512" ;
-	:average-rating "3.35" .
+	:average-rating "3.33" .
 	:owned "false" .
 
 isbn:0321293533 :title "Refactoring Databases: Evolutionary Database Design" ;
 	:goodreads-url <http://www.goodreads.com/book/show/161302.Refactoring_Databases> ;
 	:author "Scott W. Ambler" ;
-	:average-rating "3.65" .
+	:average-rating "3.66" .
 	:owned "false" .
 
 isbn:0201708426 :title "Extreme Programming Installed" ;
 	:goodreads-url <http://www.goodreads.com/book/show/67834.Extreme_Programming_Installed> ;
 	:author "Ron Jeffries" ;
 	:num-pages "288" ;
-	:average-rating "3.6" .
+	:average-rating "3.61" .
 	:owned "false" .
 
 isbn:0596527675 :title "The Art of Agile Development" ;
 	:goodreads-url <http://www.goodreads.com/book/show/1654215.The_Art_of_Agile_Development> ;
 	:author "James Shore" ;
 	:num-pages "440" ;
-	:average-rating "4.0" .
+	:average-rating "3.99" .
 	:owned "false" .
 
 isbn:0596008678 :title "Head First Object-Oriented Analysis and Design: A Brain Friendly Guide to OOA&D" ;
 	:goodreads-url <http://www.goodreads.com/book/show/179207.Head_First_Object_Oriented_Analysis_and_Design> ;
-	:author "Brett D. McLaughlin" ;
+	:author "Brett McLaughlin" ;
 	:num-pages "600" ;
 	:average-rating "3.94" .
 	:owned "false" .
@@ -3579,7 +3770,7 @@ isbn:0596008678 :title "Head First Object-Oriented Analysis and Design: A Brain 
 isbn:0596007957 :title "UML 2.0 in a Nutshell (In a Nutshell" ;
 	:goodreads-url <http://www.goodreads.com/book/show/233161.UML_2_0_in_a_Nutshell_In_a_Nutshell> ;
 	:author "Dan Pilone" ;
-	:average-rating "3.15" .
+	:average-rating "3.19" .
 	:owned "false" .
 
 isbn:0262510871 :title "Structure and Interpretation of Computer Programs" ;
@@ -3593,28 +3784,27 @@ isbn:0471958697 :title "Pattern-Oriented Software Architecture, a System of Patt
 	:goodreads-url <http://www.goodreads.com/book/show/85039.Pattern_Oriented_Software_Architecture_a_System_of_Patterns> ;
 	:author "Frank Buschmann" ;
 	:num-pages "476" ;
-	:average-rating "3.85" .
+	:average-rating "3.88" .
 	:owned "false" .
 
 isbn:0471358460 :title "Testing Computer Software" ;
 	:goodreads-url <http://www.goodreads.com/book/show/663621.Testing_Computer_Software> ;
 	:author "Cem Kaner" ;
 	:num-pages "480" ;
-	:average-rating "3.88" .
+	:average-rating "3.89" .
 	:owned "false" .
 
 isbn:0131858580 :title "Service-Oriented Architecture: Concepts, Technology, and Design" ;
 	:goodreads-url <http://www.goodreads.com/book/show/70147.Service_Oriented_Architecture> ;
 	:author "Thomas Erl" ;
 	:num-pages "760" ;
-	:average-rating "3.59" .
+	:average-rating "3.65" .
 	:owned "false" .
 
-isbn:0321166094 :title "The Rational Unified Process Made Easy: A Practitioner's Guide to the RUP" ;
+isbn:0321166094 :title "The Rational Unified Process Made Easy: A Practitioner's Guide to the RUP: A Practitioner's Guide to the RUP" ;
 	:goodreads-url <http://www.goodreads.com/book/show/1290162.The_Rational_Unified_Process_Made_Easy> ;
 	:author "Per Kroll" ;
-	:num-pages "464" ;
-	:average-rating "0.0" .
+	:average-rating "3.64" .
 	:owned "false" .
 
 isbn:0321146530 :title "Test Driven Development: By Example" ;
@@ -3635,14 +3825,14 @@ isbn:0201775948 :title "Beyond Software Architecture: Creating and Sustaining Wi
 	:goodreads-url <http://www.goodreads.com/book/show/224132.Beyond_Software_Architecture> ;
 	:author "Luke Hohmann" ;
 	:num-pages "352" ;
-	:average-rating "3.66" .
+	:average-rating "3.67" .
 	:owned "false" .
 
 isbn:0596510047 :title "Beautiful Code: Leading Programmers Explain How They Think" ;
 	:goodreads-url <http://www.goodreads.com/book/show/405790.Beautiful_Code> ;
 	:author "Andy Oram" ;
 	:num-pages "563" ;
-	:average-rating "3.7" .
+	:average-rating "3.71" .
 	:owned "false" .
 
 isbn:0471081124 :title "Lessons Learned in Software Testing: A Context-Driven Approach" ;
@@ -3669,7 +3859,7 @@ isbn:1593270038 :title "Write Great Code: Volume I: Understanding the Machine" ;
 isbn:0619215267 :title "Information Technology Project Management" ;
 	:goodreads-url <http://www.goodreads.com/book/show/118245.Information_Technology_Project_Management> ;
 	:author "Kathy Schwalbe" ;
-	:average-rating "3.68" .
+	:average-rating "3.66" .
 	:owned "false" .
 
 isbn:097451408X :title "Practices of an Agile Developer: Working in the Real World" ;
@@ -3683,14 +3873,14 @@ isbn:0932633609 :title "Waltzing with Bears: Managing Risk on Software Projects"
 	:goodreads-url <http://www.goodreads.com/book/show/665153.Waltzing_with_Bears> ;
 	:author "Tom DeMarco" ;
 	:num-pages "196" ;
-	:average-rating "3.97" .
+	:average-rating "3.98" .
 	:owned "false" .
 
 isbn:1572316217 :title "Software Project Survival Guide" ;
 	:goodreads-url <http://www.goodreads.com/book/show/93894.Software_Project_Survival_Guide> ;
 	:author "Steve McConnell" ;
 	:num-pages "306" ;
-	:average-rating "3.79" .
+	:average-rating "3.8" .
 	:owned "false" .
 
 isbn:0201699478 :title "Crystal Clear: A Human-Powered Methodology for Small Teams" ;
@@ -3702,14 +3892,14 @@ isbn:0201699478 :title "Crystal Clear: A Human-Powered Methodology for Small Tea
 isbn:0321213351 :title "Refactoring to Patterns (Addison Wesley Signature Series)" ;
 	:goodreads-url <http://www.goodreads.com/book/show/85041.Refactoring_to_Patterns> ;
 	:author "Joshua Kerievsky" ;
-	:average-rating "3.99" .
+	:average-rating "3.98" .
 	:owned "false" .
 
 isbn:0130676349 :title "Agile Software Development with Scrum" ;
 	:goodreads-url <http://www.goodreads.com/book/show/349419.Agile_Software_Development_with_Scrum> ;
 	:author "Ken Schwaber" ;
 	:num-pages "158" ;
-	:average-rating "3.75" .
+	:average-rating "3.76" .
 	:owned "false" .
 
 isbn:073561993X :title "Agile Project Management with Scrum" ;
@@ -3730,21 +3920,21 @@ isbn:0132344823 :title "SOA: Principles of Service Design" ;
 	:goodreads-url <http://www.goodreads.com/book/show/1265221.SOA> ;
 	:author "Thomas Erl" ;
 	:num-pages "573" ;
-	:average-rating "3.74" .
+	:average-rating "3.76" .
 	:owned "false" .
 
 isbn:020163385X :title "Object-Oriented Design Heuristics" ;
 	:goodreads-url <http://www.goodreads.com/book/show/179206.Object_Oriented_Design_Heuristics> ;
 	:author "Arthur J. Riel" ;
 	:num-pages "379" ;
-	:average-rating "4.18" .
+	:average-rating "4.16" .
 	:owned "false" .
 
 isbn:0201178885 :title "Component Software: Beyond Object-Oriented Programming" ;
 	:goodreads-url <http://www.goodreads.com/book/show/2017047.Component_Software> ;
 	:author "Clemens Szyperski" ;
 	:num-pages "411" ;
-	:average-rating "3.25" .
+	:average-rating "3.27" .
 	:owned "false" .
 
 isbn:0596009488 :title "Applied Software Project Management" ;
@@ -3758,28 +3948,28 @@ isbn:0321336380 :title "Continuous Integration: Improving Software Quality and R
 	:goodreads-url <http://www.goodreads.com/book/show/1311542.Continuous_Integration> ;
 	:author "Paul Duvall" ;
 	:num-pages "283" ;
-	:average-rating "3.72" .
+	:average-rating "3.74" .
 	:owned "false" .
 
 isbn:0596517718 :title "Making Things Happen: Mastering Project Management" ;
 	:goodreads-url <http://www.goodreads.com/book/show/2335148.Making_Things_Happen> ;
 	:author "Scott Berkun" ;
 	:num-pages "410" ;
-	:average-rating "4.0" .
+	:average-rating "3.99" .
 	:owned "false" .
 
 isbn:0321219775 :title "Agile Project Management: Creating Innovative Products" ;
 	:goodreads-url <http://www.goodreads.com/book/show/565477.Agile_Project_Management> ;
 	:author "Jim Highsmith" ;
 	:num-pages "277" ;
-	:average-rating "3.64" .
+	:average-rating "3.65" .
 	:owned "false" .
 
 isbn:020189551X :title "Object-Oriented Analysis and Design with Applications" ;
 	:goodreads-url <http://www.goodreads.com/book/show/424923.Object_Oriented_Analysis_and_Design_with_Applications> ;
 	:author "Grady Booch" ;
 	:num-pages "720" ;
-	:average-rating "3.84" .
+	:average-rating "3.85" .
 	:owned "false" .
 
 isbn:0321247140 :title "Design Patterns Explained: A New Perspective on Object-Oriented Design (Software Patterns Series)" ;
@@ -3821,14 +4011,14 @@ isbn:0131111558 :title "Agile and Iterative Development: A Manager's Guide (Agil
 	:goodreads-url <http://www.goodreads.com/book/show/1229810.Agile_and_Iterative_Development> ;
 	:author "Craig Larman" ;
 	:num-pages "342" ;
-	:average-rating "3.75" .
+	:average-rating "3.74" .
 	:owned "false" .
 
 isbn:0932633390 :title "The Deadline: A Novel about Project Management" ;
 	:goodreads-url <http://www.goodreads.com/book/show/123716.The_Deadline> ;
 	:author "Tom DeMarco" ;
 	:num-pages "310" ;
-	:average-rating "4.15" .
+	:average-rating "4.14" .
 	:owned "false" .
 
 isbn:0321200683 :title "Enterprise Integration Patterns: Designing, Building, and Deploying Messaging Solutions" ;
@@ -3856,14 +4046,14 @@ isbn:0131489062 :title "Applying UML and Patterns: An Introduction to Object-Ori
 	:goodreads-url <http://www.goodreads.com/book/show/85019.Applying_UML_and_Patterns> ;
 	:author "Craig Larman" ;
 	:num-pages "703" ;
-	:average-rating "3.81" .
+	:average-rating "3.8" .
 	:owned "false" .
 
 isbn:0735679622 :title "Software Requirements 3" ;
 	:goodreads-url <http://www.goodreads.com/book/show/18350357-software-requirements-3> ;
 	:author "Karl E. Wiegers" ;
 	:num-pages "672" ;
-	:average-rating "4.33" .
+	:average-rating "4.38" .
 	:owned "false" .
 
 isbn:0596528124 :title "Mastering Regular Expressions" ;
@@ -3877,7 +4067,7 @@ isbn:0321127420 :title "Patterns of Enterprise Application Architecture" ;
 	:goodreads-url <http://www.goodreads.com/book/show/70156.Patterns_of_Enterprise_Application_Architecture> ;
 	:author "Martin Fowler" ;
 	:num-pages "533" ;
-	:average-rating "4.14" .
+	:average-rating "4.13" .
 	:owned "false" .
 
 isbn:0201896850 :title "The Art of Computer Programming: Volume 3: Sorting and Searching" ;
@@ -3891,7 +4081,7 @@ isbn:0201896842 :title "The Art of Computer Programming, Volume 2: Seminumerical
 	:goodreads-url <http://www.goodreads.com/book/show/112246.The_Art_of_Computer_Programming_Volume_2> ;
 	:author "Donald Ervin Knuth" ;
 	:num-pages "784" ;
-	:average-rating "4.38" .
+	:average-rating "4.39" .
 	:owned "false" .
 
 isbn:0201896834 :title "The Art of Computer Programming, Volume 1: Fundamental Algorithms" ;
@@ -3911,8 +4101,7 @@ isbn:0321205685 :title "User Stories Applied: For Agile Software Development" ;
 isbn:0735605351 :title "Software Estimation: Demystifying the Black Art" ;
 	:goodreads-url <http://www.goodreads.com/book/show/93891.Software_Estimation> ;
 	:author "Steve McConnell" ;
-	:num-pages "308" ;
-	:average-rating "3.98" .
+	:average-rating "3.99" .
 	:owned "false" .
 
 isbn:0136291554 :title "Object-Oriented Software Construction (Book/CD-ROM)" ;
@@ -3925,7 +4114,7 @@ isbn:0201702258 :title "Writing Effective Use Cases" ;
 	:goodreads-url <http://www.goodreads.com/book/show/161370.Writing_Effective_Use_Cases> ;
 	:author "Alistair Cockburn" ;
 	:num-pages "304" ;
-	:average-rating "3.9" .
+	:average-rating "3.91" .
 	:owned "false" .
 
 isbn:0131479415 :title "Agile Estimating and Planning" ;
@@ -3953,7 +4142,7 @@ isbn:0135974445 :title "Agile Software Development, Principles, Patterns, and Pr
 	:goodreads-url <http://www.goodreads.com/book/show/84985.Agile_Software_Development_Principles_Patterns_and_Practices> ;
 	:author "Robert C. Martin" ;
 	:num-pages "529" ;
-	:average-rating "4.25" .
+	:average-rating "4.24" .
 	:owned "false" .
 
 isbn:0471128457 :title "Applied Cryptography: Protocols, Algorithms, and Source Code in C" ;
@@ -3988,7 +4177,7 @@ isbn:0618346252 :title "The Fellowship of the Ring (The Lord of the Rings, #1)" 
 	:goodreads-url <http://www.goodreads.com/book/show/34.The_Fellowship_of_the_Ring> ;
 	:author "J.R.R. Tolkien" ;
 	:num-pages "398" ;
-	:average-rating "4.32" .
+	:average-rating "4.33" .
 	:owned "false" .
 
 isbn:0375826696 :title "Eragon (The Inheritance Cycle, #1)" ;
@@ -4009,14 +4198,14 @@ isbn:0307394913 :title "The Book of General Ignorance" ;
 	:goodreads-url <http://www.goodreads.com/book/show/410632.The_Book_of_General_Ignorance> ;
 	:author "John Lloyd" ;
 	:num-pages "252" ;
-	:average-rating "3.79" .
+	:average-rating "3.8" .
 	:owned "false" .
 
 isbn:190686005X :title "Sustainable Materials - With Both Eyes Open" ;
 	:goodreads-url <http://www.goodreads.com/book/show/13072034-sustainable-materials---with-both-eyes-open> ;
 	:author "Julian M. Allwood" ;
 	:num-pages "384" ;
-	:average-rating "4.11" .
+	:average-rating "4.07" .
 	:owned "false" .
 
 isbn:0544668251 :title "Thing Explainer: Complicated Stuff in Simple Words" ;
@@ -4044,7 +4233,7 @@ isbn:0674445880 :title "In Over Our Heads: The Mental Demands of Modern Life" ;
 	:goodreads-url <http://www.goodreads.com/book/show/905156.In_Over_Our_Heads> ;
 	:author "Robert Kegan" ;
 	:num-pages "396" ;
-	:average-rating "4.23" .
+	:average-rating "4.22" .
 	:owned "false" .
 
 isbn:0060921927 :title "The Evolving Self: A Psychology for the Third Millennium" ;
@@ -4058,7 +4247,7 @@ isbn:0672329468 :title "Linux Kernel Development" ;
 	:goodreads-url <http://www.goodreads.com/book/show/8474434-linux-kernel-development> ;
 	:author "Robert   Love" ;
 	:num-pages "440" ;
-	:average-rating "4.31" .
+	:average-rating "4.29" .
 	:owned "false" .
 
 isbn:0451205367 :title "The Richest Man in Babylon" ;
@@ -4072,7 +4261,7 @@ isbn:1841690244 :title "Self-Theories: Their Role in Motivation, Personality, an
 	:goodreads-url <http://www.goodreads.com/book/show/419952.Self_Theories> ;
 	:author "Carol S. Dweck" ;
 	:num-pages "212" ;
-	:average-rating "4.04" .
+	:average-rating "3.99" .
 	:owned "false" .
 
 isbn:0374134758 :title "Day of the Oprichnik" ;
@@ -4093,14 +4282,14 @@ isbn:1934356964 :title "tmux: Productive Mouse-Free Development" ;
 	:goodreads-url <http://www.goodreads.com/book/show/13506825-tmux> ;
 	:author "Brian P. Hogan" ;
 	:num-pages "88" ;
-	:average-rating "3.88" .
+	:average-rating "3.9" .
 	:owned "false" .
 
 isbn:1888363827 :title "Profit Over People: Neoliberalism and Global Order" ;
 	:goodreads-url <http://www.goodreads.com/book/show/62659.Profit_Over_People> ;
 	:author "Noam Chomsky" ;
 	:num-pages "175" ;
-	:average-rating "4.07" .
+	:average-rating "4.06" .
 	:owned "false" .
 
 isbn:0226458083 :title "The Structure of Scientific Revolutions" ;
@@ -4135,13 +4324,12 @@ isbn:000224618X :title "Johnny Mnemonic" ;
 	:goodreads-url <http://www.goodreads.com/book/show/313998.Johnny_Mnemonic> ;
 	:author "William Gibson" ;
 	:num-pages "160" ;
-	:average-rating "3.74" .
+	:average-rating "3.75" .
 	:owned "false" .
 
 isbn:1594202559 :title "More Money Than God: Hedge Funds and the Making of a New Elite" ;
 	:goodreads-url <http://www.goodreads.com/book/show/7936425-more-money-than-god> ;
 	:author "Sebastian Mallaby" ;
-	:num-pages "496" ;
 	:average-rating "3.96" .
 	:owned "false" .
 
@@ -4163,14 +4351,14 @@ isbn:1590593766 :title "From Bash to Z Shell: Conquering the Command Line" ;
 	:goodreads-url <http://www.goodreads.com/book/show/172313.From_Bash_to_Z_Shell> ;
 	:author "Oliver Kiddle" ;
 	:num-pages "472" ;
-	:average-rating "3.72" .
+	:average-rating "3.71" .
 	:owned "false" .
 
 isbn:0300180276 :title "The Most Good You Can Do: How Effective Altruism Is Changing Ideas About Living Ethically" ;
 	:goodreads-url <http://www.goodreads.com/book/show/23168483-the-most-good-you-can-do> ;
 	:author "Peter Singer" ;
 	:num-pages "232" ;
-	:average-rating "3.83" .
+	:average-rating "3.84" .
 	:owned "false" .
 
 isbn:1741146712 :title "Affluenza: When Too Much is Never Enough" ;
@@ -4184,14 +4372,14 @@ isbn:1934356980 :title "Practical Vim: Edit Text at the Speed of Thought" ;
 	:goodreads-url <http://www.goodreads.com/book/show/13607232-practical-vim> ;
 	:author "Drew Neil" ;
 	:num-pages "300" ;
-	:average-rating "4.47" .
+	:average-rating "4.48" .
 	:owned "false" .
 
 isbn:0521880688 :title "Numerical Recipes: The Art of Scientific Computing" ;
 	:goodreads-url <http://www.goodreads.com/book/show/757917.Numerical_Recipes> ;
 	:author "William H. Press" ;
 	:num-pages "1235" ;
-	:average-rating "4.17" .
+	:average-rating "4.18" .
 	:owned "false" .
 
 isbn:0471915556 :title "The Complexity of Boolean Functions" ;
@@ -4205,14 +4393,14 @@ isbn:0201134470 :title "Computers & Typesetting, Volume A: The TeXBook" ;
 	:goodreads-url <http://www.goodreads.com/book/show/1190262.Computers_Typesetting_Volume_A> ;
 	:author "Donald Ervin Knuth" ;
 	:num-pages "483" ;
-	:average-rating "4.3" .
+	:average-rating "4.31" .
 	:owned "false" .
 
 isbn:0131774298 :title "Expert C Programming: Deep C Secrets" ;
 	:goodreads-url <http://www.goodreads.com/book/show/198207.Expert_C_Programming> ;
 	:author "Peter van der Linden" ;
 	:num-pages "384" ;
-	:average-rating "4.31" .
+	:average-rating "4.3" .
 	:owned "false" .
 
 isbn:0723404151 :title "Mathematics Made Difficult" ;
@@ -4231,7 +4419,6 @@ isbn:0307269930 :title "The Master Switch: The Rise and Fall of Information Empi
 isbn:0140157352 :title "Getting to Yes: Negotiating an Agreement Without Giving In" ;
 	:goodreads-url <http://www.goodreads.com/book/show/313605.Getting_to_Yes> ;
 	:author "Roger Fisher" ;
-	:num-pages "224" ;
 	:average-rating "3.87" .
 	:owned "false" .
 
@@ -4245,7 +4432,6 @@ isbn:030788743X :title "Ready Player One" ;
 isbn:0805082115 :title "Better: A Surgeon's Notes on Performance" ;
 	:goodreads-url <http://www.goodreads.com/book/show/213233.Better> ;
 	:author "Atul Gawande" ;
-	:num-pages "288" ;
 	:average-rating "4.18" .
 	:owned "false" .
 
@@ -4253,28 +4439,28 @@ isbn:0521865719 :title "Introduction to Information Retrieval" ;
 	:goodreads-url <http://www.goodreads.com/book/show/3278309-introduction-to-information-retrieval> ;
 	:author "Christopher D. Manning" ;
 	:num-pages "482" ;
-	:average-rating "4.2" .
+	:average-rating "4.21" .
 	:owned "false" .
 
 isbn:0521195276 :title "The Design of Approximation Algorithms" ;
 	:goodreads-url <http://www.goodreads.com/book/show/9678985-the-design-of-approximation-algorithms> ;
 	:author "David P. Williamson" ;
 	:num-pages "518" ;
-	:average-rating "0.0" .
+	:average-rating "4.29" .
 	:owned "false" .
 
 isbn:0865976309 :title "Human Action: A Treatise on Economics" ;
 	:goodreads-url <http://www.goodreads.com/book/show/81912.Human_Action> ;
 	:author "Ludwig von Mises" ;
 	:num-pages "1128" ;
-	:average-rating "4.3" .
+	:average-rating "4.31" .
 	:owned "false" .
 
 isbn:0387952209 :title "Algebraic Graph Theory" ;
 	:goodreads-url <http://www.goodreads.com/book/show/632832.Algebraic_Graph_Theory> ;
 	:author "Chris Godsil" ;
 	:num-pages "443" ;
-	:average-rating "0.0" .
+	:average-rating "4.27" .
 	:owned "false" .
 
 isbn:0387984038 :title "Categories for the Working Mathematician" ;
@@ -4302,21 +4488,21 @@ isbn:0399174850 :title "The Underwriting" ;
 	:goodreads-url <http://www.goodreads.com/book/show/23398790-the-underwriting> ;
 	:author "Michelle Miller" ;
 	:num-pages "372" ;
-	:average-rating "3.79" .
+	:average-rating "3.8" .
 	:owned "false" .
 
 isbn:837054116X :title "Limes inferior" ;
 	:goodreads-url <http://www.goodreads.com/book/show/2108205.Limes_inferior> ;
 	:author "Janusz A. Zajdel" ;
 	:num-pages "284" ;
-	:average-rating "4.28" .
+	:average-rating "4.27" .
 	:owned "false" .
 
 isbn:0441014038 :title "Glasshouse" ;
 	:goodreads-url <http://www.goodreads.com/book/show/17866.Glasshouse> ;
 	:author "Charles Stross" ;
 	:num-pages "335" ;
-	:average-rating "3.86" .
+	:average-rating "3.87" .
 	:owned "false" .
 
 isbn:2266079999 :title "Contact" ;
@@ -4344,14 +4530,14 @@ isbn:0321601912 :title "Continuous Delivery: Reliable Software Releases Through 
 	:goodreads-url <http://www.goodreads.com/book/show/8686650-continuous-delivery> ;
 	:author "Jez Humble" ;
 	:num-pages "463" ;
-	:average-rating "4.14" .
+	:average-rating "4.15" .
 	:owned "false" .
 
 isbn:1934356344 :title "The Passionate Programmer" ;
 	:goodreads-url <http://www.goodreads.com/book/show/6399113-the-passionate-programmer> ;
 	:author "Chad Fowler" ;
 	:num-pages "219" ;
-	:average-rating "3.98" .
+	:average-rating "3.97" .
 	:owned "false" .
 
 isbn:0596155891 :title "CouchDB: The Definitive Guide: Time to Relax" ;
@@ -4393,7 +4579,7 @@ isbn:0192803158 :title "Cryptography: A Very Short Introduction" ;
 	:goodreads-url <http://www.goodreads.com/book/show/634834.Cryptography> ;
 	:author "Fred C. Piper" ;
 	:num-pages "176" ;
-	:average-rating "3.6" .
+	:average-rating "3.59" .
 	:owned "false" .
 
 isbn:0142000655 :title "East of Eden" ;
@@ -4428,7 +4614,7 @@ isbn:0201100886 :title "Compilers: Principles, Techniques, and Tools" ;
 	:goodreads-url <http://www.goodreads.com/book/show/703102.Compilers> ;
 	:author "Alfred V. Aho" ;
 	:num-pages "500" ;
-	:average-rating "4.05" .
+	:average-rating "4.06" .
 	:owned "false" .
 
 isbn:0192880519 :title "The Extended Phenotype: The Long Reach of the Gene" ;
@@ -4477,7 +4663,7 @@ isbn:0879234628 :title "Les Fleurs du Mal" ;
 	:goodreads-url <http://www.goodreads.com/book/show/203220.Les_Fleurs_du_Mal> ;
 	:author "Charles Baudelaire" ;
 	:num-pages "365" ;
-	:average-rating "4.27" .
+	:average-rating "4.26" .
 	:owned "false" .
 
 isbn:0393244660 :title "Flash Boys: A Wall Street Revolt" ;
@@ -4508,12 +4694,6 @@ isbn:0316769177 :title "The Catcher in the Rye" ;
 	:average-rating "3.78" .
 	:owned "false" .
 
-isbn:158049580X :title "The Importance of Being Earnest" ;
-	:goodreads-url <http://www.goodreads.com/book/show/92303.The_Importance_of_Being_Earnest> ;
-	:author "Oscar Wilde" ;
-	:average-rating "4.16" .
-	:owned "true" .
-
 isbn:0872863107 :title "Howl and Other Poems" ;
 	:goodreads-url <http://www.goodreads.com/book/show/6295.Howl_and_Other_Poems> ;
 	:author "Allen Ginsberg" ;
@@ -4539,14 +4719,14 @@ isbn:0345915593 :title "The World According to Garp" ;
 	:goodreads-url <http://www.goodreads.com/book/show/7069.The_World_According_to_Garp> ;
 	:author "John Irving" ;
 	:num-pages "609" ;
-	:average-rating "4.06" .
+	:average-rating "4.07" .
 	:owned "false" .
 
 isbn:0385523386 :title "Orange Is the New Black" ;
 	:goodreads-url <http://www.goodreads.com/book/show/6314763-orange-is-the-new-black> ;
 	:author "Piper Kerman" ;
 	:num-pages "298" ;
-	:average-rating "3.69" .
+	:average-rating "3.7" .
 	:owned "false" .
 
 isbn:0393312836 :title "A Clockwork Orange" ;
@@ -4581,7 +4761,7 @@ isbn:0201558025 :title "Concrete Mathematics: A Foundation for Computer Science"
 	:goodreads-url <http://www.goodreads.com/book/show/112243.Concrete_Mathematics> ;
 	:author "Ronald L. Graham" ;
 	:num-pages "672" ;
-	:average-rating "4.3" .
+	:average-rating "4.31" .
 	:owned "false" .
 
 isbn:0521663504 :title "Purely Functional Data Structures" ;
@@ -4605,11 +4785,11 @@ isbn:0618680004 :title "The God Delusion" ;
 	:average-rating "3.89" .
 	:owned "false" .
 
-isbn:0451452011 :title "Infinity Welcomes Careful Drivers (Red Dwarf, #1)" ;
+isbn:0451452011 :title "Infinity Welcomes Careful Drivers (Red Dwarf #1)" ;
 	:goodreads-url <http://www.goodreads.com/book/show/349090.Infinity_Welcomes_Careful_Drivers> ;
 	:author "Grant Naylor" ;
 	:num-pages "298" ;
-	:average-rating "4.01" .
+	:average-rating "4.02" .
 	:owned "false" .
 
 isbn:0385512058 :title "Never Eat Alone: And Other Secrets to Success, One Relationship at a Time" ;
@@ -4665,7 +4845,7 @@ isbn:0387948600 :title "The Algorithm Design Manual" ;
 	:goodreads-url <http://www.goodreads.com/book/show/425208.The_Algorithm_Design_Manual> ;
 	:author "Steven S. Skiena" ;
 	:num-pages "486" ;
-	:average-rating "4.31" .
+	:average-rating "4.32" .
 	:owned "false" .
 
 isbn:0985930802 :title "The Nature of Code" ;
@@ -4686,21 +4866,21 @@ isbn:1584883723 :title "Handbook of Computational Group Theory" ;
 	:goodreads-url <http://www.goodreads.com/book/show/2984363-handbook-of-computational-group-theory> ;
 	:author "Derek F. Holt" ;
 	:num-pages "514" ;
-	:average-rating "0.0" .
+	:average-rating "4.5" .
 	:owned "false" .
 
 isbn:0201657880 :title "Programming Pearls" ;
 	:goodreads-url <http://www.goodreads.com/book/show/52084.Programming_Pearls> ;
 	:author "Jon L. Bentley" ;
 	:num-pages "239" ;
-	:average-rating "4.22" .
+	:average-rating "4.23" .
 	:owned "false" .
 
 isbn:0137081073 :title "The Clean Coder: A Code of Conduct for Professional Programmers" ;
 	:goodreads-url <http://www.goodreads.com/book/show/10284614-the-clean-coder> ;
 	:author "Robert C. Martin" ;
 	:num-pages "210" ;
-	:average-rating "4.27" .
+	:average-rating "4.26" .
 	:owned "false" .
 
 isbn:0131177052 :title "Working Effectively with Legacy Code" ;
@@ -4714,7 +4894,7 @@ isbn:1568812795 :title "Generatingfunctionology" ;
 	:goodreads-url <http://www.goodreads.com/book/show/1404774.Generatingfunctionology> ;
 	:author "Herbert S. Wilf" ;
 	:num-pages "192" ;
-	:average-rating "4.55" .
+	:average-rating "4.52" .
 	:owned "false" .
 
 isbn:1401940587 :title "The Dalai Lama's Cat" ;
@@ -4734,7 +4914,6 @@ isbn:0062116924 :title "Search Inside Yourself: The Unexpected Path to Achieving
 isbn:0230115217 :title "The Third Industrial Revolution: How Lateral Power Is Transforming Energy, the Economy, and the World" ;
 	:goodreads-url <http://www.goodreads.com/book/show/11104082-the-third-industrial-revolution> ;
 	:author "Jeremy Rifkin" ;
-	:num-pages "304" ;
 	:average-rating "3.86" .
 	:owned "false" .
 
@@ -4748,7 +4927,6 @@ isbn:0670025291 :title "How to Create a Mind: The Secret of Human Thought Reveal
 isbn:0066620732 :title "Just for Fun: The Story of an Accidental Revolutionary" ;
 	:goodreads-url <http://www.goodreads.com/book/show/160171.Just_for_Fun> ;
 	:author "Linus Torvalds" ;
-	:num-pages "288" ;
 	:average-rating "3.91" .
 	:owned "false" .
 
@@ -4770,7 +4948,7 @@ isbn:0312337361 :title "Corporate Confidential: 50 Secrets Your Company Doesn't 
 	:goodreads-url <http://www.goodreads.com/book/show/62085.Corporate_Confidential> ;
 	:author "Cynthia Shapiro" ;
 	:num-pages "224" ;
-	:average-rating "3.92" .
+	:average-rating "3.91" .
 	:owned "false" .
 
 isbn:082234114X :title "Terrorist Assemblages: Homonationalism in Queer Times" ;
@@ -4791,7 +4969,7 @@ isbn:0618514716 :title "Contemporary Abstract Algebra" ;
 	:goodreads-url <http://www.goodreads.com/book/show/211214.Contemporary_Abstract_Algebra> ;
 	:author "Joseph A. Gallian" ;
 	:num-pages "576" ;
-	:average-rating "4.0" .
+	:average-rating "4.01" .
 	:owned "false" .
 
 isbn:0142180009 :title "The Confusions of Young Törless" ;
@@ -4826,14 +5004,14 @@ isbn:0553278223 :title "The Martian Chronicles" ;
 	:goodreads-url <http://www.goodreads.com/book/show/76778.The_Martian_Chronicles> ;
 	:author "Ray Bradbury" ;
 	:num-pages "182" ;
-	:average-rating "4.11" .
+	:average-rating "4.12" .
 	:owned "false" .
 
 isbn:0743258215 :title "The Equation That Couldn't Be Solved: How Mathematical Genius Discovered the Language of Symmetry" ;
 	:goodreads-url <http://www.goodreads.com/book/show/233873.The_Equation_That_Couldn_t_Be_Solved> ;
 	:author "Mario Livio" ;
 	:num-pages "368" ;
-	:average-rating "3.85" .
+	:average-rating "3.86" .
 	:owned "false" .
 
 isbn:0751504386 :title "Skeleton Crew" ;
@@ -4867,7 +5045,6 @@ isbn:0262527138 :title "How to Write a Thesis" ;
 isbn:0451191153 :title "The Fountainhead" ;
 	:goodreads-url <http://www.goodreads.com/book/show/2122.The_Fountainhead> ;
 	:author "Ayn Rand" ;
-	:num-pages "720" ;
 	:average-rating "3.84" .
 	:owned "false" .
 
@@ -4881,14 +5058,14 @@ isbn:0451187849 :title "We the Living" ;
 isbn:1421808307 :title "Burmese Days" ;
 	:goodreads-url <http://www.goodreads.com/book/show/9650.Burmese_Days> ;
 	:author "George Orwell" ;
-	:average-rating "3.82" .
+	:average-rating "3.83" .
 	:owned "false" .
 
 isbn:0896083667 :title "Necessary Illusions: Thought Control in Democratic Societies" ;
 	:goodreads-url <http://www.goodreads.com/book/show/848628.Necessary_Illusions> ;
 	:author "Noam Chomsky" ;
 	:num-pages "432" ;
-	:average-rating "4.15" .
+	:average-rating "4.16" .
 	:owned "false" .
 
 isbn:0375714499 :title "Manufacturing Consent: The Political Economy of the Mass Media" ;
@@ -4908,7 +5085,7 @@ isbn:0525478817 :title "The Fault in Our Stars" ;
 isbn:1434464601 :title "Red Alert" ;
 	:goodreads-url <http://www.goodreads.com/book/show/4504070-red-alert> ;
 	:author "Peter  Bryant" ;
-	:average-rating "3.71" .
+	:average-rating "3.63" .
 	:owned "false" .
 
 isbn:0312019009 :title "The Mayor of Castro Street: The Life and Times of Harvey Milk" ;
@@ -4978,7 +5155,7 @@ isbn:0814408648 :title "Technical Analysis of Stock Trends" ;
 	:goodreads-url <http://www.goodreads.com/book/show/474623.Technical_Analysis_of_Stock_Trends> ;
 	:author "Robert D. Edwards" ;
 	:num-pages "789" ;
-	:average-rating "4.12" .
+	:average-rating "4.09" .
 	:owned "false" .
 
 isbn:0151009988 :title "Mrs. Dalloway" ;
@@ -5013,7 +5190,7 @@ isbn:0821816462 :title "Algebra" ;
 	:goodreads-url <http://www.goodreads.com/book/show/534605.Algebra> ;
 	:author "Saunders Mac Lane" ;
 	:num-pages "626" ;
-	:average-rating "4.0" .
+	:average-rating "4.06" .
 	:owned "false" .
 
 isbn:1593272200 :title "The Linux Programming Interface: A Linux and UNIX System Programming Handbook" ;
@@ -5027,7 +5204,7 @@ isbn:0470343435 :title "Professional Linux Kernel Architecture" ;
 	:goodreads-url <http://www.goodreads.com/book/show/5689669-professional-linux-kernel-architecture> ;
 	:author "Wolfgang Mauerer" ;
 	:num-pages "1337" ;
-	:average-rating "3.91" .
+	:average-rating "3.79" .
 	:owned "false" .
 
 isbn:0425198685 :title "Pattern Recognition (Blue Ant, #1)" ;
