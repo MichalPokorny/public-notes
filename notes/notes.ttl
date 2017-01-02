@@ -81,3 +81,8 @@ in belief domain:
 	between 600 BC and 1900 AD framed the major contours of all world
 	civilizations. Clearly, the transformations here were top-down.
 """ .
+
+<http://econlog.econlib.org/archives/2014/02/the_wolfers_equ.html> :note """
+	Happiness (in Standard Deviations) = a + .35 * ln(income). To raise income by
+	one sd, you have to raise income 1640%.
+""" .

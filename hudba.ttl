@@ -17,7 +17,8 @@ yt:4uUGkyXrY5w :under :hudba ;
 yt:b_kzxM2qVYI :under :hudba ;
 	:by :flutters .
 yt:C3cEbsb9a9c :under :hudba ;
-	:note "super powerful on lsd".
+	:note "Luke Howard -- Shift" ;
+	:note "super powerful on lsd" .
 
 ("Neurosis") :under :hudba .
 ("new Mogwai") :under :hudba .

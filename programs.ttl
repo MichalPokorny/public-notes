@@ -438,3 +438,4 @@ TUI: Ctrl-A X, then repaint with Ctrl-L
 
 ("ranger == file manager") :under :programs .
 ("openshot") :under :programs .
+("OpenElec (distro na Pi na multimedia); Exodus addon") :under :programs .
