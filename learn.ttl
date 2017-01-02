@@ -253,3 +253,4 @@
 ("style transfer") :under :learn .
 ("kolik zvirat rocne zabijeme?") :under :learn .
 ("laplace's rule of succession") :under :learn .
+<https://arxiv.org/abs/1610.07690> :under :learn .
