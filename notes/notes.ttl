@@ -86,3 +86,7 @@ in belief domain:
 	Happiness (in Standard Deviations) = a + .35 * ln(income). To raise income by
 	one sd, you have to raise income 1640%.
 """ .
+
+<http://effective-altruism.com/ea/15h/why_i_took_the_giving_what_we_can_pledge/> :note """
+	Peter Hurford
+""" .
