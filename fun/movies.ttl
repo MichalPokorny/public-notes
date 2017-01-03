@@ -52,7 +52,6 @@
 ("mulholland drive") :from :reddit-mindfuck ; :under :movies .
 ("prestige") :from :reddit-mindfuck ; :under :movies .
 ("coherence") :from :reddit-mindfuck ; :under :movies .
-("gone girl") :from :reddit-mindfuck ; :under :movies .
 ("prisoners") :from :reddit-mindfuck ; :under :movies .
 ("melancholia") :from :reddit-mindfuck ; :under :movies .
 ("(timecrimes - uz jsem asi videl)") :from :reddit-mindfuck ; :under :movies .
@@ -76,11 +75,9 @@
 ("Cloud Atlas") :under :watched-movies .
 ("Earth Days: dost spatne a nudne") :under :watched-movies .
 ("(celkem hezky short: This is water)") :under :watched-movies .
-("My neighbor totoro") :under :watched-movies .
 ("Barry Lyndon") :under :watched-movies .
 ("The Machinist") :under :watched-movies .
 ("Confessions of a Dangerous Mind") :under :watched-movies .
-("Gravity") :under :watched-movies .
 ("serial: Breaking Bad") :under :watched-movies .
 ("o kuratech a lidech") :under :watched-movies ;
 	:from :karry .
@@ -98,4 +95,3 @@
 ("Kinsey") :under :watched-movies .
 ("House of Cards") :under :watched-movies .
 ("Rosencrantz and Guildenstern are Dead") :under :watched-movies .
-("Trainspotting") :under :watched-movies .
