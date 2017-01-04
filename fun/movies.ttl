@@ -92,6 +92,5 @@
 ("bohove musi byt sileni") :under :watched-movies .
 ("death of a president (byl zajimavy)") :under :watched-movies .
 ("black mirror (serial)") :under :watched-movies .
-("Kinsey") :under :watched-movies .
 ("House of Cards") :under :watched-movies .
 ("Rosencrantz and Guildenstern are Dead") :under :watched-movies .
