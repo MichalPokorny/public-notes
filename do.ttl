@@ -162,3 +162,5 @@
 ("vipasana (detach meditation)") :under :do .
 
 <https://people.debian.org/~paultag/conduct-statement.txt> :under :do .
+("zkusit se prihlasit v Zurichu na doktorat") :under :do .
+("2:1 matching na MIRI") :under :do .
