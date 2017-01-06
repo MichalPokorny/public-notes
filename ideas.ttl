@@ -77,3 +77,4 @@ yt:WgSwvDkJVxE :under :ideas ;
 ("google translate CLI") :under :ideas .
 ("distribuovany vyzkum hodnot") :under :ideas .
 ("pujcit/sehnat par zamku na lockpickovani? (Krak)") :under :ideas .
+("Game of life turing machine simulating its own universe") :under :ideas .

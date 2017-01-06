@@ -244,3 +244,5 @@ komunikovaly spolu pomoci morseovky""") :under :read ;
 	Altruism (ways to get involved) and following
 """ .
 <http://lesswrong.com/lw/xa/a_new_day/> :under :read .
+<https://www.principles.com/> :under :read .
+("Principia Qualia") :under :read .
