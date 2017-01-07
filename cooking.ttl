@@ -47,3 +47,4 @@
 	:ingredient "mliko" .
 ("rybi steak") :under :cooking .
 ("kyselina misto soli: citronova stava / ocet / ...") :under :cooking .
+("mlecna ryze") :under :cooking .
