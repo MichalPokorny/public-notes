@@ -167,3 +167,5 @@
 ("improve looks") :under :do .
 ("precist si doprovodne texty k mindfulness") :under :do .
 ("fursupport: https://www.furaffinity.net/user/fursupport") :under :do .
+
+("memory storage device") :under :do .
