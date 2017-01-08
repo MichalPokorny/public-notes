@@ -90,3 +90,20 @@ in belief domain:
 <http://effective-altruism.com/ea/15h/why_i_took_the_giving_what_we_can_pledge/> :note """
 	Peter Hurford
 """ .
+
+<https://media.ccc.de/v/33c3-8315-a_world_without_blockchain> :note """
+	book transfer: two clients transfer within bank
+	mirror account: M-ING, M_ABN Ammo:
+		banka ma ucet u sebe a u jine banky, aby mohla delat book transfery
+		mirror: protoze museji mit stejne penize
+	central bank: all banks have accounts there (because banks are risk-averse and don't want to have mirror accounts at other banks)
+
+	SWIFT: Society for Worldwide Interbank Financial Telecommunication
+
+	BIC: bank identifier code
+		first 4 digits: bank code
+		2 digits: country (NL)
+		2 digits for location
+
+	suspense account (or "control account"): for batching
+""" .
