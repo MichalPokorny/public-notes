@@ -560,3 +560,5 @@ mnozstvi vypoctu?""") :under :zajimavosti ;
 ("Turritopsis: completely immortal multicellular organism") :under :zajimavosti .
 ("sparse MDPs = ?") :under :zajimavosti .
 ("executive function (changes resource allocation)") :under :zajimavosti .
+("Outernet") :under :zajimavosti .
+("time: most used noun in English") :under :zajimavosti .

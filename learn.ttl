@@ -254,3 +254,10 @@
 ("kolik zvirat rocne zabijeme?") :under :learn .
 ("laplace's rule of succession") :under :learn .
 <https://arxiv.org/abs/1610.07690> :under :learn .
+
+("systemy prirozene dedukce") :under :learn .
+("Genzenovy systemy") :under :learn .
+("Hilbertovske systemy") :under :learn .
+("server-less architectures") :under :learn .
+("adversarial networks") :under :learn .
+("astronomy") :under :learn .

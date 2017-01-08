@@ -246,3 +246,6 @@ komunikovaly spolu pomoci morseovky""") :under :read ;
 <http://lesswrong.com/lw/xa/a_new_day/> :under :read .
 <https://www.principles.com/> :under :read .
 ("Principia Qualia") :under :read .
+<https://alexvermeer.com/8760hours/> :under :read .
+<https://alexvermeer.com/anki-essentials/> :under :read .
+<https://alexvermeer.com/life-hacking/> :under :read .
