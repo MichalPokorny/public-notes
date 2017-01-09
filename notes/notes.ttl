@@ -107,3 +107,7 @@ in belief domain:
 
 	suspense account (or "control account"): for batching
 """ .
+
+<https://media.ccc.de/v/33c3-8404-community> :note """
+	""" ;
+	:todo "1 year of only doing what I love" .
