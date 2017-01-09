@@ -109,5 +109,8 @@ in belief domain:
 """ .
 
 <https://media.ccc.de/v/33c3-8404-community> :note """
+		community, hackerspaces
+
+		do what you really love
 	""" ;
 	:todo "1 year of only doing what I love" .
