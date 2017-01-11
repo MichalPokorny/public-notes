@@ -31,3 +31,4 @@
 ("Elixir (Ruby for Erlang)") :under :try-proglang .
 
 ("Beyond Meat: vegetarian fake chicken strips") :under :try .
+("encryptr: password manager") :under :try .
