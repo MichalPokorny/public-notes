@@ -249,3 +249,4 @@ komunikovaly spolu pomoci morseovky""") :under :read ;
 <https://alexvermeer.com/8760hours/> :under :read .
 <https://alexvermeer.com/anki-essentials/> :under :read .
 <https://alexvermeer.com/life-hacking/> :under :read .
+("philosophy of time") :under :read .
