@@ -562,3 +562,6 @@ mnozstvi vypoctu?""") :under :zajimavosti ;
 ("executive function (changes resource allocation)") :under :zajimavosti .
 ("Outernet") :under :zajimavosti .
 ("time: most used noun in English") :under :zajimavosti .
+("callingbullshit.org -- bullshit detection course") :under :zajimavosti .
+("Vasili Arkhipov") :under :zajimavosti .
+("Toba eruption") :under :zajimavosti .
