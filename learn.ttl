@@ -261,3 +261,6 @@
 ("server-less architectures") :under :learn .
 ("adversarial networks") :under :learn .
 ("astronomy") :under :learn .
+("population axiology") :under :learn .
+("anki: add Hamilton's rule") :under :learn .
+("anki: rok kdy byly vymyceny nestovice") :under :learn .
