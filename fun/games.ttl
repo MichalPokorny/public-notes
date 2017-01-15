@@ -36,3 +36,5 @@
 ("State of War") :under :games ;
 	:from :petr-hudecek ;
 	:note "cesky abadonware; na uloz.to" .
+("Watch Dogs") :under :games .
+("Watch Dogs 2") :under :games .
