@@ -565,3 +565,5 @@ mnozstvi vypoctu?""") :under :zajimavosti ;
 ("callingbullshit.org -- bullshit detection course") :under :zajimavosti .
 ("Vasili Arkhipov") :under :zajimavosti .
 ("Toba eruption") :under :zajimavosti .
+
+("Stanislaw Lem - Peace on Earth (split-brain main character)") :under :zajimavosti .
