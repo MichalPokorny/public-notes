@@ -77,23 +77,28 @@
 ("Groovy") :under :learn-lang .
 ("Grails") :under :learn-lang .
 
-:learn-memo rdfs:label "Learn - Memorize" ;
+:learn-anki rdfs:label "Learn - Memorize" ;
 	:under :learn .
-("Kegan stages of moral development") :under :learn-memo .
-("base64 encoding") :under :learn-memo .
-("speed of light") :under :learn-memo .
-("e") :under :learn-memo .
-("pi") :under :learn-memo .
-("Julia Galef") :under :learn-memo .
-("Julia Wise") :under :learn-memo .
-("Brian Tomasik") :under :learn-memo .
-("Go scoring") :under :learn-memo .
-("Go handicap system") :under :learn-memo .
-("Value of 1 life in DALYs") :under :learn-memo .
-("ASCII table organization") :under :learn-memo .
-("chemical elements") :under :learn-memo .
-("Greek alphabet") :under :learn-memo .
-("Measure and memorize my height") :under :learn-memo .
+("Kegan stages of moral development") :under :learn-anki .
+("base64 encoding") :under :learn-anki .
+("speed of light") :under :learn-anki .
+("e") :under :learn-anki .
+("pi") :under :learn-anki .
+("Julia Galef") :under :learn-anki .
+("Julia Wise") :under :learn-anki .
+("Brian Tomasik") :under :learn-anki .
+("Go scoring") :under :learn-anki .
+("Go handicap system") :under :learn-anki .
+("Value of 1 life in DALYs") :under :learn-anki .
+("ASCII table organization") :under :learn-anki .
+("chemical elements") :under :learn-anki .
+("Greek alphabet") :under :learn-anki .
+("Measure and memorize my height") :under :learn-anki .
+("add Hamilton's rule") :under :learn-anki .
+("rok kdy byly vymyceny nestovice") :under :learn-anki .
+("STDs and risk levels") :under :learn-anki .
+("Definition of exp(x)") :under :learn-math ;
+	:under :learn-anki .
 
 :learn-cs rdfs:label "Learn - CS" ;
 	:under :learn .
@@ -166,7 +171,6 @@
 ("Shannon-Hartley theorem") :under :learn-math .
 ("Markov decision processes") :under :learn-math .
 ("Central limit theorem and its proof") :under :learn-math .
-("Definition of exp(x)") :under :learn-math .
 ("Von Neumann-Morgenstern theorem and its proof") :under :learn-math .
 ("Hyperreal numbers") :under :learn-math .
 ("Coefficient of determination") :under :learn-math .
@@ -262,5 +266,3 @@
 ("adversarial networks") :under :learn .
 ("astronomy") :under :learn .
 ("population axiology") :under :learn .
-("anki: add Hamilton's rule") :under :learn .
-("anki: rok kdy byly vymyceny nestovice") :under :learn .
