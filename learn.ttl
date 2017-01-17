@@ -79,9 +79,9 @@
 
 :learn-anki rdfs:label "Learn - Memorize" ;
 	:under :learn .
+("simpson's paradox") :under :learn-anki .
 ("Kegan stages of moral development") :under :learn-anki .
 ("base64 encoding") :under :learn-anki .
-("speed of light") :under :learn-anki .
 ("e") :under :learn-anki .
 ("pi") :under :learn-anki .
 ("Julia Galef") :under :learn-anki .
@@ -94,7 +94,7 @@
 ("chemical elements") :under :learn-anki .
 ("Greek alphabet") :under :learn-anki .
 ("Measure and memorize my height") :under :learn-anki .
-("add Hamilton's rule") :under :learn-anki .
+("Hamilton's rule") :under :learn-anki .
 ("rok kdy byly vymyceny nestovice") :under :learn-anki .
 ("STDs and risk levels") :under :learn-anki .
 ("Definition of exp(x)") :under :learn-math ;
@@ -156,7 +156,6 @@
 ("Persistent data structures") :under :learn-ds .
 ("Skip lists") :under :learn-ds .
 ("Red-black trees") :under :learn-ds .
-("Splay trees") :under :learn-ds .
 
 :learn-math rdfs:label "Learn - Math" ; :under :learn .
 ("Krylov subspace; power method; krylov subspace methods") :under :learn-math .
