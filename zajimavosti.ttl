@@ -567,3 +567,4 @@ mnozstvi vypoctu?""") :under :zajimavosti ;
 ("Toba eruption") :under :zajimavosti .
 
 ("Stanislaw Lem - Peace on Earth (split-brain main character)") :under :zajimavosti .
+("intentional living") :under :zajimavosti .

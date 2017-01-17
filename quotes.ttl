@@ -38,3 +38,7 @@ they aren't there just for you.""")
 	mid-makeout move ever.""")
 	:under :quotes ;
 	:from <http://www.asofterworld.com/index.php?id=428> .
+
+("""When we are born, we cry that we are come to this great stage of fools.""")
+	:under :quotes ;
+	:from "William Shakespeare" .

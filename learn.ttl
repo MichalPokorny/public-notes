@@ -266,3 +266,7 @@
 ("adversarial networks") :under :learn .
 ("astronomy") :under :learn .
 ("population axiology") :under :learn .
+
+("experiment design") :under :learn .
+("python: setup.py") :under :learn .
+("Pip, requirements.txt") :under :learn .

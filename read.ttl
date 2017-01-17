@@ -250,3 +250,5 @@ komunikovaly spolu pomoci morseovky""") :under :read ;
 <https://alexvermeer.com/anki-essentials/> :under :read .
 <https://alexvermeer.com/life-hacking/> :under :read .
 ("philosophy of time") :under :read .
+<https://blog.gregbrockman.com/define-cto-openai> :under :read .
+<http://martin.zinkevich.org/rules_of_ml/rules_of_ml.pdf> :under :read .
