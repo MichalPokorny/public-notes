@@ -568,3 +568,4 @@ mnozstvi vypoctu?""") :under :zajimavosti ;
 
 ("Stanislaw Lem - Peace on Earth (split-brain main character)") :under :zajimavosti .
 ("intentional living") :under :zajimavosti .
+<https://www.facebook.com/scott.siskind> :under :zajimavosti .

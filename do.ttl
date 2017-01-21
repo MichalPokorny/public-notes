@@ -1,11 +1,9 @@
 :do rdfs:label "Do" .
-("webpage: hodit tam prezentaci o Bazelu") :under :do .
 ("fix music on mobile phone (album Built to Spill - You in Reverse)") :under :do .
 ("purge old laptop (HP)") :under :do .
 ("make Dropbox start on its own") :under :do .
 ("join myfitnesspal + beeminder + vaha.ods") :under :do .
 ("visit stiftung for EA in Berlin") :under :do .
-("urgovat zverejneni Fable of the Dragon-Tyrant na Bostromove strance") :under :do .
 ("fio osobni ucet") :under :do .
 ("procistit vnitrni pamet mobilu") :under :do .
 ("mapa Prahy nebo sveta na vnitrni strane dveri od zachoda") :under :do .
@@ -65,7 +63,6 @@
 ("future of humanity institude - visit?  (Ondra)") :under :do .
 ("Martin Fowler: sw engineer, author, international public speaker on SWE. smart guy. has blog.") :under :do .
 ("Jerry Fodor (philosopher)") :under :do .
-("pridat do CV: spring school of combinatorics 2014 stuff") :under :do .
 ("throw out all socks, get 30 identical pairs") :under :do .
 ("Galibi deskovky") :under :do .
 ("create public feedback form") :under :do .
@@ -102,7 +99,6 @@
 	:under :fun .
 ("ssh-agent on metacentrum") :under :do .
 ("change swapfile location.") :under :do .
-("vyresit mobilni internet O2 - po vycerpani se vypne") :under :do .
 ("right hemisphere dysfunction: https://medicalspeechpathology.wordpress.com/student-handbook/right-hemisphere-dysfunction/") :under :do .
 ("test na anemii: anemie zpusobuje depresi") :under :do .
 ("apply to OpenAI") :under :do .
@@ -172,3 +168,4 @@
 ("tim ferriss lay down in supermarket (CoZE)") :under :do .
 ("pristi zimu: letet do Thajska") :under :do .
 ("password for mp@decin.cz on LinkedIn: hacked") :under :do .
+("AB-Z career plan: https://docs.google.com/document/d/1MBpwNLl3AgsKi4Yh4PZ2X30PYy4gV9xK2xgqXKevaVQ/preview") :under :do .

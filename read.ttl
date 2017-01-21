@@ -253,3 +253,5 @@ komunikovaly spolu pomoci morseovky""") :under :read ;
 <https://blog.gregbrockman.com/define-cto-openai> :under :read .
 <http://martin.zinkevich.org/rules_of_ml/rules_of_ml.pdf> :under :read .
 <https://gist.github.com/yossorion/4965df74fd6da6cdc280ec57e83a202d> :under :read .
+<https://en.wikipedia.org/wiki/Funes_the_Memorious> :under :read .
+<http://benjaminrosshoffman.com/statusphere/> :under :read .
