@@ -255,3 +255,4 @@ komunikovaly spolu pomoci morseovky""") :under :read ;
 <https://gist.github.com/yossorion/4965df74fd6da6cdc280ec57e83a202d> :under :read .
 <https://en.wikipedia.org/wiki/Funes_the_Memorious> :under :read .
 <http://benjaminrosshoffman.com/statusphere/> :under :read .
+("meaningness") :under :read .
