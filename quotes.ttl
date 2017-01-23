@@ -42,3 +42,6 @@ they aren't there just for you.""")
 ("""When we are born, we cry that we are come to this great stage of fools.""")
 	:under :quotes ;
 	:from "William Shakespeare" .
+
+("May you walk on warm sands") :under :quotes ;
+	:from "Khajiiti greeting (Oblivion)" .
