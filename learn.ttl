@@ -79,6 +79,14 @@
 
 :learn-anki rdfs:label "Learn - Memorize" ;
 	:under :learn .
+("xargs") :under :learn-anki .
+("pgrep") :under :learn-anki .
+("pkill") :under :learn-anki .
+("heredoc syntax") :under :learn-anki .
+("list of signals") :under :learn-anki .
+("columns of ls -l") :under :learn-anki .
+("man bash") :under :learn-anki .
+("Swiss national holidays") :under :learn-anki .
 ("simpson's paradox") :under :learn-anki .
 ("Kegan stages of moral development") :under :learn-anki .
 ("base64 encoding") :under :learn-anki .
@@ -122,8 +130,14 @@
 ("client-side JS (Backbone, ...)") :under :learn-cs .
 ("JS/jQuery frontends") :under :learn-cs .
 ("COBOL?") :under :learn-cs .
-("pochopit python metaclasses") :under :learn-cs .
-("Python 3: private variables") :under :learn-cs .
+
+:learn-py :under :learn-cs ;
+	:label "Learn - Python" .
+("metaclasses") :under :learn-py .
+("Python 3: private variables") :under :learn-py .
+("setup.py") :under :learn-py .
+("Pip, requirements.txt") :under :learn-py .
+
 ("torch7") :under :learn-cs .
 ("GoogLeNet") :under :learn-cs .
 ("ABAP?; chef; flume") :under :learn-cs .
@@ -172,7 +186,6 @@
 ("Central limit theorem and its proof") :under :learn-math .
 ("Von Neumann-Morgenstern theorem and its proof") :under :learn-math .
 ("Hyperreal numbers") :under :learn-math .
-("Coefficient of determination") :under :learn-math .
 ("Category theory (ureddit)") :under :learn-math .
 ("Group representations (ureddit)") :under :learn-math .
 ("non-principal ultrafilter => hyperreals") :under :learn-math .
@@ -221,7 +234,6 @@
 
 :learn-phil rdfs:label "Learn - Philosophy" ; :under :learn .
 ("hyperreality") :under :learn-phil .
-("allegory of the cave") :under :learn-phil .
 ("authenticity (philosophy)") :under :learn-phil .
 ("consensus reality") :under :learn-phil .
 <https://en.wikipedia.org/wiki/Marx's_theory_of_alienation> :under :learn-phil .
@@ -229,11 +241,13 @@
 ("negative utilitarism") :under :learn-phil .
 ("humean vs. kantian AI architecture") :under :learn-phil ;
 	:from "The Singularity: A Philosophical Analysis" .
-("Ethics: perfectionism, emotivism, contractarianism") :under :learn-phil .
-("Ethics: pasadena paradox, heaven and hell problem") :under :learn-phil .
-("non-cognitivism") :under :learn-phil .
-("error theory") :under :learn-phil .
-("subjectivism, substantive realism, constructivism") :under :learn-phil .
+:learn-ethics :under :learn-phil .
+("perfectionism, emotivism, contractarianism") :under :learn-ethics .
+("pasadena paradox, heaven and hell problem") :under :learn-ethics .
+:learn-metaethics :under :learn-phil .
+("non-cognitivism") :under :learn-metaethics .
+("error theory") :under :learn-metaethics .
+("subjectivism, substantive realism, constructivism") :under :learn-metaethics .
 
 :learn-webdev rdfs:label "Learn -WebDev" ; :under :learn-cs .
 ("CSS3 transitions") :under :learn-webdev .
@@ -267,5 +281,3 @@
 ("population axiology") :under :learn .
 
 ("experiment design") :under :learn .
-("python: setup.py") :under :learn .
-("Pip, requirements.txt") :under :learn .

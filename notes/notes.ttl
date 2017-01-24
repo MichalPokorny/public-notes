@@ -114,3 +114,6 @@ in belief domain:
 		do what you really love
 	""" ;
 	:todo "1 year of only doing what I love" .
+
+<https://github.com/jlevy/the-art-of-command-line> :note """
+	""" .
