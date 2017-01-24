@@ -46,8 +46,6 @@ ActiveRecord calculations
 
 Rails services
 
-%i: symbol array syntax
-
 rspec: its("phone_numbers.size") { should == 2 }
 its([:key]) { should eq(value) }: na hashe
 TODO: jak RSpec dela, ze jde udelat 'def'?

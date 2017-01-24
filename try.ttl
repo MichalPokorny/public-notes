@@ -15,7 +15,6 @@
 ("Lucid dreaming (reality checking)") :under :try .
 ("Automatic thought & behavior sampling at random intervals") :under :try .
 ("Cooking with meat replacements") :under :try .
-("Buy tempeh") :under :try .
 ("Steem") :under :try .
 ("Dual N-back test for enhancing general cognitive ability") :under :try .
 ("gRPC") :under :try .

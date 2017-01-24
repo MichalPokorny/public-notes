@@ -1,7 +1,7 @@
-:megalocap :note "Lenovo X230" .
-:feynmann :note "Nejstarsi notebook (Asrock)" .
-:vakarian :note "HP 4530s" .
-:dragon :note "Server" .
+:megalocap rdfs:label "Lenovo X230" .
+:feynmann rdfs:label"Nejstarsi notebook (Asrock)" .
+:vakarian rdfs:label "HP 4530s" .
+:dragon rdfs:label "Server" .
 
 :megalocap :note "Test-server kazdou hodinu" ;
 	:note "Androidovy path (/opt/android-sdk/platform-tools)" ;

@@ -37,3 +37,45 @@ gstock:URPO rdfs:label "UPRO - 3x leveraged SP-500" ;
 	:todo "check out" .
 gstock:BLKB rdfs:label "BLKB - Berkshire Hathaway" ;
 	:under :stock .
+
+gstock:VTI rdfs:label "Vanguard total stock market ETF" ;
+	:under :stock .
+
+:stock :todo "check out malaysian airlines?" ;
+	:todo <http://futureoflife.org/invest/> ;
+	:note "alternativy: Betterment, Nutmeg" .
+
+:stock :note """
+	Tickers:
+		UPRO (3x SP-500)
+		BLKB (Berkshire Hathaway)
+		QQQ
+
+	MCSI (Morgan-Stanley Capital Intl.)
+	Russell 3000, Wilshire 5000, REIT (real estate idx fund)
+
+	emerging markets
+
+	Stocks:
+		- USA stocks: FSTMX, POMIX, VTSMX
+		- developing countries: VSIIX, VDMIX
+		- emerging markets: VEIEX
+
+		YAO (all china), HAO (low-cap china), TAO (china real estate)
+
+	Real estate: VGSIX, bonds: VBMFX, cash: FORXX, VMMXX
+
+	"spider" SP500
+	"snake" Total Stock Market Fund
+
+	VTI, IWV = total USA
+	VEA, EFA = emerged markets
+	VWO, EEM = emerging markets
+	VT (VEU), ACWI (EWI) = global markets
+
+	sell losses (at end of year)
+	ETF on margin: "no"?
+
+	P/E low over expected margin
+	GCBLX = green century balanced fund
+""" .
