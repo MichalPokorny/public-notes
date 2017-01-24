@@ -76,7 +76,6 @@ yt:C3cEbsb9a9c :under :hudba ;
 ("TODO: consider Genesis") :under :hudba .
 ("TODO: consider opposing force OST") :under :hudba .
 ("TODO: cesky postrock?") :under :hudba .
-("TODO: sehnat The Who") :under :hudba .
 
 ("Hangedup") :under :hudba ;
 	:note "nope, to je celkem bad" .

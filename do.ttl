@@ -1,5 +1,4 @@
 :do rdfs:label "Do" .
-("fix music on mobile phone (album Built to Spill - You in Reverse)") :under :do .
 ("purge old laptop (HP)") :under :do .
 ("make Dropbox start on its own") :under :do .
 ("join myfitnesspal + beeminder + vaha.ods") :under :do .
@@ -121,7 +120,8 @@
 ("check out 'owncloud' - mohla by se hodit tvrda zaloha") :under :do .
 ("bezpecnejsi login? co kdyz prijdu o klic? hesla by nemela stacit...") :under :do .
 
-("liska bystrouska") :under :do .
+("liska bystrouska") :under :do ;
+	:under :fun .
 ("Viden - narodni opera") :under :do .
 ("david hume") :under :do .
 ("stahnout 'find the music in you'") :under :do .

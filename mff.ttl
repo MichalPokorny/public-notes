@@ -65,7 +65,7 @@
 :NSWI109 rdfs:label "Konstrukce prekladacu" ; :under :mff-subjects .
 :NSWI145 rdfs:label "Webove sluzby" ; :under :mff-subjects .
 :NSWI152 rdfs:label "Vyvoj cloudovych aplikaci" ; :under :mff-subjecs .
-:NTIN067 rdfs:label "DS2" ; :under :mff-subjects .
+:NTIN067 rdfs:label "Datove struktury 2" ; :under :mff-subjects .
 :NTIN088 rdfs:label "Alg. nahodnost" ; :under :mff-subjects .
 :NTIN099 rdfs:label "Alg. aspekty booleovskych funkci a par. slozitost" ; :under :mff-subjects .
 :NTIN100 rdfs:label "Zaklady prenosu a zpracovani informace" ; :under :mff-subjects .
