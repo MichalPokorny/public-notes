@@ -37,7 +37,6 @@ yt:WgSwvDkJVxE :under :ideas ;
 ("Google Finance virtualni burza") :under :ideas .
 ("ulozit si privatni klic a takove veci do sejfu v bance (muzu tam i pridat ruzna vysvedceni a podobne veci) - stoji v KB 1020 + 20% DPH rocne") :under :ideas .
 ("linked data: vidim Google v textu => kliknu a dostanu shrnuti Googlu") :under :ideas .
-("Ruby runtime") :under :ideas .
 ("muzu mit na dragonu vlastni named.") :under :ideas .
 ("Go vs. C performance") :under :ideas .
 ("skript pri vstupu do adresare v bashi (a-la-Vorner)") :under :ideas .

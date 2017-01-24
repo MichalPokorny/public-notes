@@ -569,3 +569,4 @@ mnozstvi vypoctu?""") :under :zajimavosti ;
 ("Stanislaw Lem - Peace on Earth (split-brain main character)") :under :zajimavosti .
 ("intentional living") :under :zajimavosti .
 ("HumanistFurs") :under :zajimavosti .
+<https://github.com/facebook/PathPicker> :under :zajimavosti .

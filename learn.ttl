@@ -83,6 +83,9 @@
 ("pgrep") :under :learn-anki .
 ("pkill") :under :learn-anki .
 ("heredoc syntax") :under :learn-anki .
+("'join' command") :under :learn-anki .
+("'split' command") :under :learn-anki .
+("ssh tunnel porting") :under :learn-anki .
 ("list of signals") :under :learn-anki .
 ("columns of ls -l") :under :learn-anki .
 ("man bash") :under :learn-anki .
@@ -107,6 +110,7 @@
 ("STDs and risk levels") :under :learn-anki .
 ("Definition of exp(x)") :under :learn-math ;
 	:under :learn-anki .
+("Swiss national holidays") :under :learn-anki .
 
 :learn-cs rdfs:label "Learn - CS" ;
 	:under :learn .
@@ -269,7 +273,6 @@
 	Komunikacni dovednosti""") :under :learn .
 ("style transfer") :under :learn .
 ("kolik zvirat rocne zabijeme?") :under :learn .
-("laplace's rule of succession") :under :learn .
 <https://arxiv.org/abs/1610.07690> :under :learn .
 
 ("systemy prirozene dedukce") :under :learn .
