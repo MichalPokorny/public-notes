@@ -89,3 +89,7 @@ yt:C3cEbsb9a9c :under :hudba ;
 ("the soundless dawn") :under :alarms .
 
 ("Cloower Wooma - Witch Head Nebula") :under :hudba .
+
+("Clint Mansell - Lux Aeterna") :under :hudba ;
+	:note "dramatic sad music" ;
+	:from :striving .
