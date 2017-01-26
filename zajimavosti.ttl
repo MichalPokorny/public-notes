@@ -85,7 +85,7 @@
 <http://reciprocity.io> :under :zajimavosti .
 <http://reducing-suffering.org/altruists-focus-reducing-short-term-far-future-suffering/> :under :zajimavosti .
 <http://research.microsoft.com/en-us/projects/liquid/> :under :zajimavosti .
-<https://80000hours.org/career-guide/career-capital/?source=fb> :under :zajimavosti .
+<https://80000hours.org/career-guide/career-capital/> :under :zajimavosti .
 <https://aeon.co/opinions/there-is-a-better-way-to-parent-than-the-nuclear-family> :under :zajimavosti .
 <http://samizdat.mines.edu/howto/HowToBeAProgrammer.html> :under :zajimavosti .
 <https://cmusatyalab.github.io/openface/> :under :zajimavosti .
@@ -456,13 +456,11 @@ mnozstvi vypoctu?""") :under :zajimavosti ;
 
 	- quantified self
 	- variable size bin packing problem
-	- 'a' ^ ' ' == 'A' atd.
 	- http://nplusonemag.com/
 	- malte spitz data retention (tell-all telephone)
 	- cex.io
 	- fight club + the bends -- spustit jak skonci logo 21st century fox
 	- gaze tracking library
-	slavoj zizek - less than nothing
 	indexovane gramatiky; openccg
 """ .
 
@@ -487,11 +485,11 @@ mnozstvi vypoctu?""") :under :zajimavosti ;
 
 ("""idiom "hodit si masli" """) :under :zajimavosti ;
 	:from :honza-burian .
-("Open Steno Project') :under :zajimavosti .
+("Open Steno Project") :under :zajimavosti .
 <https://en.wikipedia.org/wiki/Wikipedia:Unusual_articles> :under :zajimavosti .
 
 :zajimavosti :note "intuition pump::: Consciousness Explained: Chinese Room argument" ;
-	:note <https://www.youtube.com/watch?v=DATQKB7656E> ;
+	:note yt:DATQKB7656E ;
 	:note "RAND health insurance experiment" ;
 	:note "kipling: the gods of copybook headings" ;
 	:note """
@@ -525,10 +523,11 @@ mnozstvi vypoctu?""") :under :zajimavosti ;
 	:from :peter-stadtner .
 ("material design: https://material.io/") :under :zajimavosti .
 
-<https://www.youtube.com/watch?v=YTd4-WXw2SM> :note """
+yt:YTd4-WXw2SM :note """
 	Voldemort effect: if you're too scared to name what you're worried
 	about, you generalize your worry to everything.
 """ .
+
 ("plat sekretarky v Cechach: ~16-19k hrubeho") :under :zajimavosti .
 <http://philpapers.org/surveys/> :under :zajimavosti ;
 	:note "basic philosophical questions" .
@@ -572,3 +571,4 @@ mnozstvi vypoctu?""") :under :zajimavosti ;
 <https://github.com/facebook/PathPicker> :under :zajimavosti .
 ("TNCBH hebrew (תנצבה)") :under :zajimavosti ;
 	:note "to je na nahrobnich kamenech a je to hezka formule" .
+("riot.im") :under :zajimavosti .

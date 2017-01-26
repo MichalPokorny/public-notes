@@ -45,7 +45,8 @@ yt:pL3DW6-xzLc
 """ .
 
 ("Nikolai Fyodorovich Fyodorov") :under ("Transhumanismus") ;
-	:note "pre-transhumanismus (19. stoleti)" .
+	:note "pre-transhumanismus (19. stoleti)" ;
+	:under :zajimavosti .
 
 ("Brain Preservation Foundation") :under :cryonics .
 ("Institute for Science-Based Cryonics") :under :cryonics ;
@@ -54,7 +55,7 @@ yt:pL3DW6-xzLc
 ("nekourit; pozor na auta; pozor na nebezpecne operace; zdravou vahu; cvicit") :under :life-extension ;
 	:from :petr-hudecek .
 
-("TODO: arguments for 'why should you care about other people?' from basics?") :under :lesswrong .
+:lesswrong :todo "arguments for 'why should you care about other people?' from basics?" .
 
 :lesswrong :note "verifikace programu je jeden z pozadavku MIRI" ;
 	:note "adopt goals for instrumental reasons" ;
@@ -78,3 +79,5 @@ yt:pL3DW6-xzLc
 	:note <https://web.archive.org/web/20141013084617/http://kruel.co/2013/01/10/the-singularity-institute-how-they-brainwash-you/> .
 
 :lesswrong :note "think of yourself as both real and simulated" .
+
+:lesswrong :todo "vytahnout z Jirky Nadvornika kritiku na Bostroma" .

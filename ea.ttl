@@ -5,15 +5,15 @@
 
 <https://drive.google.com/drive/u/0/folders/0B9ou-zj3xxwbOW16N096d0tyUWc> :under :ea ;
 	:title "Running EA Chapter" ;
-	:note "TODO: take notes" .
+	:todo "take notes" .
 
 <http://wiki.effectivealtruismhub.com/index.php?title=Common_objections_to_effective_altruism> :under :ea ;
 	:title "Common objections to EA" ;
-	:note "TODO: take notes" .
+	:todo "take notes" .
 
 <http://wiki.effectivealtruismhub.com/index.php?title=Criticism_of_effective_altruism> :under :ea ;
 	:title "Criticism of EA" ;
-	:note "TODO: take notes" .
+	:todo "take notes" .
 
 :ea :note "social problems are big --> additional resources diminish in value very slowly" .
 :ea :note "neglectedness: compare marginal costs" .
@@ -26,14 +26,14 @@
 :ea :note "animal equality: 11 animal lives saved per dollar" .
 
 ("$800 = 1 dead child") :under :ea ;
-	:note "TODO: get source" .
+	:todo "get source" .
 
 :ea :note "evaluation issues: advocacy, meta, far future, ... not verifiable by experiments" .
-:ea :note "TODO: learn modeling, Bayesian stuff" .
-:ea :note "TODO: is risk aversion somehow justifiable?" .
+:ea :todo "learn modeling, Bayesian stuff" .
+:ea :todo "is risk aversion somehow justifiable?" .
 ("time discounting") :under :ea ;
 	:note "unethical by itself; double counting of probability discounting" ;
-	:note "TODO: source on claim" .
+	:todo "source on claim" .
 
 ("supporting locally") :under :ea ;
 	:note "only if you have sufficient comparative advantage in cause selection and/or marginal utility" .
@@ -42,7 +42,7 @@
 
 ("assessing risk of death") :under :ea ;
 	:note "micromort (3.5 hours of unconsciousness after 1 hour of driving a motorcycle)" ;
-	:note "TODO: get micromort estimates" .
+	:todo "get micromort estimates" .
 
 <https://www.givingwhatwecan.org/> :under :ea ;
 	rdfs:label "Giving What We Can" ;

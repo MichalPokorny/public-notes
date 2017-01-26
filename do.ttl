@@ -18,6 +18,7 @@
 ("poridit lekarnicku, teplomer") :under :do .
 ("koupit vahu, co umi automaticky logovat vahu do webservice po wifi") :under :do .
 ("najit: draco telling harry to always be ready to give everything back") :under :do .
+("najit: tell me what to do (in personal relationships) in HPMOR") :under :do .
 ("zlozvyk: jedeni oboci") :under :do .
 ("linux: program 'spark' (console sparkcharts)") :under :do .
 ("zjistit neco o beer brewing?") :under :do .
@@ -44,7 +45,6 @@
 	:note "tarif? lepsi mobilni internet?" .
 ("zmerit delku 'hand span', vzdalenost natazenych rukou") :under :do .
 ("poridit si vizitky?") :under :do .
-("add wallet-btc to BTC backups") :under :do .
 ("if-found wallpaper for phone") :under :do .
 ("get better handle? move GitHub?") :under :do ;
 	:note "requires link updating :(" .
@@ -65,7 +65,6 @@
 ("throw out all socks, get 30 identical pairs") :under :do .
 ("Galibi deskovky") :under :do .
 ("create public feedback form") :under :do .
-("koupit Ondrovi celovku") :under :do .
 ("navsteva Pavla a EA/rationality Zurich ve Svycarsku") :under :do .
 ("recompile XMonad") :under :do .
 ("fix Anki card: cyclomatic complexity") :under :do .
@@ -80,7 +79,8 @@
 ("stochastically sample automatic thoughts") :under :do .
 ("joga") :under :do ;
 	:from :vojta-tuma .
-("write todo-list Eisenhower matrix organizer") :under :do .
+
+:knowledgebase :todo ("write todo-list Eisenhower matrix organizer") .
 
 :configuration :todo "znovu zprovoznit organizaci vypisu z KB" .
 
@@ -90,7 +90,7 @@
 ("test na facebook app listening") :under :do .
 ("join forums for LW, EA") :under :do .
 ("koupit osusku") :under :do .
-("strategy of conflict: zbyva precist Part 4+") :under :do .
+("strategy of conflict: zbyva precist Part 4+") :under :read .
 ("build self-worth") :under :do .
 ("agentyduck.blogspot.com") :under :do .
 ("Argunet (software na argument mapping)") :under :do .
