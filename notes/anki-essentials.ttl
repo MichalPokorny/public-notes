@@ -21,4 +21,27 @@
 		(inspiring quotes, cool images, etc.)
 
 		Meet people before meeting them - Anki deck.
+
+		Mnemonic Major System:
+		0: z, s, soft c (sound like the start of "zero")
+		1: d, t (single down stroke, sound similar)
+		2: n (two down strokes)
+		3: m (three down strokes)
+		4: r (sounds like four)
+		5: l (the roman for 50)
+		6: j, soft "g" (also: sh, soft "ch", dg, zh)
+		7: k (also: hard c, hard g, hard "ch", q, qu) - a "k" looks like
+		two 7 stuck together, the rest sound similar
+		8: f, v, th - a fancy f looks a bit like an 8, v sounds like f
+		9: b, p: both look like flipped nines
+
+		Vowels can be used as "fillers".
+
+		Do this for 100 words from 0 to 99 => memorize by series of AV images
+		(for better memorization: hand-draw 100 pictures)
+
+		Put in motivations, quotes, major events in world history,
+		long-term goals -- "shit that gets me motivated"
+
+		Image Occlusion 2.0: easily creates occluded images
 	""" .
