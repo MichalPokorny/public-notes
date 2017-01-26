@@ -45,3 +45,5 @@ they aren't there just for you.""")
 
 ("May you walk on warm sands") :under :quotes ;
 	:from "Khajiiti greeting (Oblivion)" .
+("allons enfants de la patrie") :under :quotes ;
+	:from "marseillaise" .

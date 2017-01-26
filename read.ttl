@@ -256,3 +256,4 @@ komunikovaly spolu pomoci morseovky""") :under :read ;
 <https://en.wikipedia.org/wiki/Funes_the_Memorious> :under :read .
 <http://benjaminrosshoffman.com/statusphere/> :under :read .
 ("meaningness") :under :read .
+("Mala a Velka logika (Englis)") :under :read .

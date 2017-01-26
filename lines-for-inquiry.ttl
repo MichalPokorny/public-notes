@@ -42,3 +42,4 @@
 :inquiry :note "kde sehnat velblouda?" .
 :inquiry :note "(Martin-Sachar): koreluje nekonzistence v jedne oblasti zivota s nekonzistencemi jinde?" .
 :inquiry :note "how does UTM tracking work?" .
+:inquiry :note "GWWC pledge: what happens when I go work directly?" .

@@ -570,3 +570,5 @@ mnozstvi vypoctu?""") :under :zajimavosti ;
 ("intentional living") :under :zajimavosti .
 ("HumanistFurs") :under :zajimavosti .
 <https://github.com/facebook/PathPicker> :under :zajimavosti .
+("TNCBH hebrew (תנצבה)") :under :zajimavosti ;
+	:note "to je na nahrobnich kamenech a je to hezka formule" .

@@ -124,6 +124,9 @@
 """ .
 
 :fun :note "vyzkouset swingers club" .
-("Westworld (TV series)") :under :fun .
+("Westworld (TV series)") :under :fun ;
+	:note "watched" .
 
 ("The New Collosus - Emma Lazarus") :under :fun .
+
+("Frazer's YT channel (/user/unitedvisionaries)") :under :fun .
