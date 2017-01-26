@@ -1,0 +1,7 @@
+("Anki Essentials") :note <https://alexvermeer.com/anki-essentials/>
+	:note """
+		Ctu verzi 1.0
+
+		Other popular SRS (spaced repetition software): Mnemosyne,  :under :read .Metric, iSRS
+		
+	""" .
