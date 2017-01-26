@@ -3,5 +3,22 @@
 		Ctu verzi 1.0
 
 		Other popular SRS (spaced repetition software): Mnemosyne,  :under :read .Metric, iSRS
-		
+
+		Interesting study options:
+			Timeboxing study sessions: limit time for session, then show a notification
+			Force Anki to wait the full step length
+			New cards first, last, or mixed
+			Don't display the number of scheduled cards
+			Don't display the review intervals
+
+		Filtered decks are just filters. The filters can be re-run, then emptied.
+
+		When a card lapses, the interval after it's re-learned
+		may be bigger -- inherited from before lapsing.
+
+		"Weekly" study option group:
+		maximum reviews/day: 5, maximum interval: 7 days
+		(inspiring quotes, cool images, etc.)
+
+		Meet people before meeting them - Anki deck.
 	""" .
