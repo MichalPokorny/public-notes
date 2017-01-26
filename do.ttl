@@ -170,3 +170,4 @@
 ("password for mp@decin.cz on LinkedIn: hacked") :under :do .
 ("AB-Z career plan: https://docs.google.com/document/d/1MBpwNLl3AgsKi4Yh4PZ2X30PYy4gV9xK2xgqXKevaVQ/preview") :under :do .
 ("nenasilna komunikace: http://www.skola21.com/kurzy/5/") :under :do .
+("nosit s sebou paratka") :under :do .
