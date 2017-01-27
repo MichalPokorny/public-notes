@@ -572,3 +572,5 @@ yt:YTd4-WXw2SM :note """
 ("TNCBH hebrew (תנצבה)") :under :zajimavosti ;
 	:note "to je na nahrobnich kamenech a je to hezka formule" .
 ("riot.im") :under :zajimavosti .
+("https://alexvermeer.com/getmotivated/ -- motivation poster") :under :zajimavosti ;
+	:under :do .

@@ -79,6 +79,7 @@
 
 :learn-anki rdfs:label "Learn - Memorize" ;
 	:under :learn .
+("learn tabular in latex") :under :learn-anki .
 ("xargs") :under :learn-anki .
 ("pgrep") :under :learn-anki .
 ("pkill") :under :learn-anki .
