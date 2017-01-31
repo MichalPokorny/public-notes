@@ -258,3 +258,4 @@ komunikovaly spolu pomoci morseovky""") :under :read ;
 ("Mala a Velka logika (Englis)") :under :read .
 ("Husa v cele") :under :read ;
 	:note "o managementu, jak komunikovat s lidmi" .
+<https://developers.google.com/web/updates/2017/01/css-grid> :under :read .
