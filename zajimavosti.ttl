@@ -574,3 +574,4 @@ yt:YTd4-WXw2SM :note """
 ("riot.im") :under :zajimavosti .
 ("https://alexvermeer.com/getmotivated/ -- motivation poster") :under :zajimavosti ;
 	:under :do .
+<http://checkyourbackups.work/> :under :zajimavosti .
