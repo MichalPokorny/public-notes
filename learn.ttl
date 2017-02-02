@@ -286,3 +286,6 @@
 
 ("experiment design") :under :learn .
 ("k cemu je interferon?") :under :learn .
+("unifikacni algoritmus") :under :learn .
+("fibonacciho halda") :under :learn .
+("trenovani boltzmannovych stroju") :under :learn .
