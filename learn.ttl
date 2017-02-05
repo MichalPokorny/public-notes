@@ -289,3 +289,4 @@
 ("unifikacni algoritmus") :under :learn .
 ("fibonacciho halda") :under :learn .
 ("trenovani boltzmannovych stroju") :under :learn .
+("marching cubes algorithm") :under :learn .

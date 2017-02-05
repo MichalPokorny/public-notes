@@ -36,3 +36,6 @@
 
 ("meditacni naramek -- 'vrat se do pritomnosti'") :under :wish .
 ("solidni svycarsky nuz s nozem, paratkem, sroubovakem, obrusovatkem na nehty") :under :wish .
+
+("skutr") :under :wish .
+("eye tracker") :under :wish .
