@@ -575,3 +575,5 @@ yt:YTd4-WXw2SM :note """
 ("https://alexvermeer.com/getmotivated/ -- motivation poster") :under :zajimavosti ;
 	:under :do .
 <http://checkyourbackups.work/> :under :zajimavosti .
+
+("journalctl: -o json, -o json-pretty") :under :zajimavosti .
