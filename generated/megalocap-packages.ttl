@@ -307,7 +307,6 @@
 :tar :installed-on :megalocap .
 :teamviewer :installed-on :megalocap .
 :terminology :installed-on :megalocap .
-:terminus-font :installed-on :megalocap .
 :testdisk :installed-on :megalocap .
 :texinfo :installed-on :megalocap .
 :texlive-bibtexextra :installed-on :megalocap .
