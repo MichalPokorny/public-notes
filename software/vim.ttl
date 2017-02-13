@@ -2,15 +2,10 @@
 	rdfs:label "Vim" ;
 	:note "makeprg: muze obsahovat %, ktere se expanduje na soubor" ;
 	:note ":R ls -la = scratchbuffer ls -la" ;
-	:note ":bufdo s/co/naco/ge" ;
 	:note "ZZ" ;
-	:note "Ctrl-F = obrazovka dolu, Ctrl-B = obrazovka nahoru" ;
-	:note "help: Ctrl-] = prejdi, Ctrl-T = zpet" ;
 	:note ":set textwidth=80" ;
 	:note "'' nebo ``: pred poslednim skokem" ;
 	:note "<> = zacatek/konec vizualni oblasti" ;
-	:note "C-N, C-P" ;
-	:note "& = repeat replace" ;
 	:note "Command-T: fuzzy search in Vim" ;
 	:note ":s, :g" ;
 	:note "\\| v map?" ;
@@ -28,7 +23,6 @@
 	:note "it = inside tag (textovy objekt)" ;
 	:note "bind key to run (how do I bind quickly?)" ;
 	:note "`` == jump between last marks" ;
-	:note "Ctrl-C/[ misto Esc" ;
 	:note "\\< \\>: left/right word boundary" .
 
 :vim-commentary rdfs:label "vim-commentary" ;
@@ -71,7 +65,6 @@
 	ge			previous word end
 	W, B, E, gE		the same for whitespace-separated words
 	t, T			same as f, but stops before the character
-	zz			center current line on screen
 	visual:o, O		edit other end (, corner) of selection
 	"A..Z			append to register (works even when recording)
 	C-X C-F			autocomplete file name (and many other such tricks)
@@ -79,14 +72,8 @@
 	/.../e			move to end of matching text (also e+1, e-1 etc.)
 	/...\\_s.../		match space or line break
 	s			the same as cl
-	S			the same as cc
 
 	C-W p			goto previously active window
-	C-W r/R			rotate windows
-	[<num>] C-W +/-		increase/decrease window height
-	[<num>] C-W >/<		increase/decrease window width
-	<num> C-W _/|		set window height/width
-	:all			open all edited files in windows
 	:ball			open all buffers in windows
 	:windo <cmd>		execute <cmd> in all windows
 	:bufdo <cmd>		... in all buffers

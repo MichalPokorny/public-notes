@@ -115,8 +115,6 @@
 	:note "hinttimeout - ms po kterych se aktivuje neunikatni hint" ;
 	:note "vertical tabs" ;
 	:note "smazani seznamu stazeni: rm ~/.mozilla/firefox/*/downloads.sqlite" ;
-	:note "Firefox: Ctrl-DELETE: odstranit offending line" ;
-	:note "web inspector: F12" ;
 	:note ";I -- open hint image in new tab" .
 
 ("it's all text") :under :programs; :note "mozilla plugin" .

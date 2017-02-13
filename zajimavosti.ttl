@@ -233,10 +233,12 @@ wiki:Modafinil :under :modafinil .
 <https://github.com/tmadl/sklearn-expertsys> rdfs:label "interpretable sklearn-compatible classifiers based on decision rules" ;
 	:under :zajimavosti .
 
-<http://nbviewer.jupyter.org/github/google/deepdream/blob/master/dream.ipynb> rdfs:label "Inceptionism ipython notebook" ;
+<http://nbviewer.jupyter.org/github/google/deepdream/blob/master/dream.ipynb>
+	rdfs:label "Inceptionism ipython notebook" ;
 	:under :zajimavosti .
 
-<https://github.com/jcjohnson/neural-style> rdfs:label "Neural Style repo (adapt to style of other image)" ;
+<https://github.com/jcjohnson/neural-style>
+	rdfs:label "Neural Style repo (adapt to style of other image)" ;
 	:under :zajimavosti .
 
 <heroforge.com> rdfs:label "custom dnd miniatures" ;
@@ -286,6 +288,10 @@ konecne mnoho veci, co maji etickou hodnotu? je proveditelne jenom konecne
 mnozstvi vypoctu?""") :under :zajimavosti ;
 	:from :bostrom .
 
+<http://www.targetprocess.com/articles/speed-in-software-development.html> :under :zajimavosti .
+<http://en.wikipedia.org/wiki/Lord_British> :under :zajimavosti .
+<http://redditgifts.com/gallery/secret-santa-2010/gift/8-secret-envelopes/> :under :zajimavosti .
+
 :zajimavosti :note """
 	- wiki: priority call
 	- Emil Leon Post - smrt na infarkt pri elektricke lecbe deprese
@@ -294,8 +300,6 @@ mnozstvi vypoctu?""") :under :zajimavosti ;
 	- desert bus - hra
 	- StorJ - Bitcoin digital lifeform
 	- full employment theorem
-	http://www.targetprocess.com/articles/speed-in-software-development.html
-	http://en.wikipedia.org/wiki/Lord_British
 	- global consciousness project
 	- programming collective intelligence
 	- the 4-hour workweek (muse business)
@@ -310,8 +314,6 @@ mnozstvi vypoctu?""") :under :zajimavosti ;
 	Fio model portfolio
 	"Yo" app (tenderlove)
 	Jim: Rails contributor ("will be missed")
-	ruby: Array.assoc
-	- http://redditgifts.com/gallery/secret-santa-2010/gift/8-secret-envelopes/
 	- "arbing" = open hand signalling
 	- diceware -- password generator
 	http://dev.stephendiehl.com/hask/ (what i wish i knew when learning haskell 2.0)
@@ -561,7 +563,6 @@ yt:YTd4-WXw2SM :note """
 ("Outernet") :under :zajimavosti .
 ("time: most used noun in English") :under :zajimavosti .
 ("callingbullshit.org -- bullshit detection course") :under :zajimavosti .
-("Vasili Arkhipov") :under :zajimavosti .
 ("Toba eruption") :under :zajimavosti .
 
 ("Stanislaw Lem - Peace on Earth (split-brain main character)") :under :zajimavosti .
