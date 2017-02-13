@@ -110,7 +110,6 @@
 ("Greek alphabet") :under :learn-anki .
 ("Measure and memorize my height") :under :learn-anki .
 ("Hamilton's rule") :under :learn-anki .
-("rok kdy byly vymyceny nestovice") :under :learn-anki .
 ("STDs and risk levels") :under :learn-anki .
 ("Definition of exp(x)") :under :learn-math ;
 	:under :learn-anki .
