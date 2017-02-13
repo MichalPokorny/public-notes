@@ -290,3 +290,5 @@
 ("unifikacni algoritmus") :under :learn .
 ("trenovani boltzmannovych stroju") :under :learn .
 ("marching cubes algorithm") :under :learn .
+("Bayes factor") :under :learn .
+("internal/external validity") :under :learn .
