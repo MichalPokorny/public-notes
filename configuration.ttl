@@ -488,7 +488,6 @@ win-alt-h: spust htop
 	:todo "timidity mi zere baterku... je potreba?" ;
 	:todo "crypto header backup - cryptsetup luksHeaderBackup --header-backup-file <file> <device>" ;
 	:todo "crypto backup" ;
-	:todo "webuntemp: umej vic souboru, prosim" ;
 	:todo "tweaky, co dela powertop, by se mely delat automaticky." ;
 	:todo "suspend on lid switch unless mounted" ;
 	:todo "proc xosdutil tak rychle skonci pri acpi?" ;
