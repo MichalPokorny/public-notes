@@ -6,7 +6,6 @@
 	:note "CanCan" ;
 	:note "Views -> Cells" ;
 	:note "rails s + gem debugger -> kdekoliv dam breakpoint pomoci 'debugger'." ;
-	:note "rake -T: list tasks" ;
 	:note "Postgres: umi se chovat jako NoSQL pres HSTORE" ;
 	:note "rails-recurly-subscription-saas" ;
 	:note "hodilo by se umet psat rychlejsi testy." ;
@@ -62,11 +61,6 @@
 		na spravnejsi nelogovani klice: http://stackoverflow.com/questions/6152388/manually-filter-parameters-in-rails
 		config.action_dispatch.signed_cookie_salt, encrypted_cookie_salt. VISIT JE SIGNED, NE ENCRYPTED! encrypted_signed_cookie_salt
 		activsupport taggedlogging
-
-		rails: blank? string === obsahuje jenom whitespace
-		0, 0.0 nejsou blank
-		.presence = present? or nil
-		.try { |p| ... }
 	""" ;
 	:note """
 		'bundle check' => 'bundle': nemusi hitovat gem cache! :)

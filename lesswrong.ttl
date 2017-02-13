@@ -22,7 +22,7 @@ yt:pL3DW6-xzLc
 	:note "you only live twice" .
 ("Alcor Life Extension Foundation") :under :cryonics .
 ("Cryonics Institute") :under :cryonics ;
-	:note "TODO: investigate" .
+	:todo "investigate" .
 
 ("Hanson hour") :under :cryonics;
 	:from :petr-hudecek .

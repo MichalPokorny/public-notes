@@ -63,7 +63,6 @@
 	:...C-D			see completion list
 
 	ge			previous word end
-	W, B, E, gE		the same for whitespace-separated words
 	t, T			same as f, but stops before the character
 	visual:o, O		edit other end (, corner) of selection
 	"A..Z			append to register (works even when recording)
@@ -71,7 +70,6 @@
 	gj, gk			move by visible lines
 	/.../e			move to end of matching text (also e+1, e-1 etc.)
 	/...\\_s.../		match space or line break
-	s			the same as cl
 
 	C-W p			goto previously active window
 	:ball			open all buffers in windows
