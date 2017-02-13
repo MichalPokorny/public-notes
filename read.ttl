@@ -259,3 +259,4 @@ komunikovaly spolu pomoci morseovky""") :under :read ;
 ("Husa v cele") :under :read ;
 	:note "o managementu, jak komunikovat s lidmi" .
 <https://developers.google.com/web/updates/2017/01/css-grid> :under :read .
+<https://claviger.net/lessons-from-fandom-fundraising-strategies.html> :under :read .

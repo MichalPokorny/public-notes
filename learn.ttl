@@ -79,6 +79,8 @@
 
 :learn-anki rdfs:label "Learn - Memorize" ;
 	:under :learn .
+("Knightian uncertainty") :under :learn-anki .
+<https://lzone.de/cheat-sheet/YAML> :under :learn-anki .
 ("learn tabular in latex") :under :learn-anki .
 ("xargs") :under :learn-anki .
 ("heredoc syntax") :under :learn-anki .
