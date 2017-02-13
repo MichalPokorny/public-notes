@@ -51,6 +51,9 @@
 ("grounded theory") :under :learn-methodology .
 ("Cronbachova alfa") :under :learn-methodology .
 ("statisticke testy") :under :learn-methodology .
+("Bayes factor") :under :learn-methodology .
+("internal/external validity") :under :learn-methodology .
+("experiment design") :under :learn-methodology .
 
 :learn-lang rdfs:label "Learn - Programming language" ;
 	:under :learn .
@@ -136,6 +139,7 @@
 ("client-side JS (Backbone, ...)") :under :learn-cs .
 ("JS/jQuery frontends") :under :learn-cs .
 ("COBOL?") :under :learn-cs .
+("marching cubes algorithm") :under :learn-cs .
 
 :learn-py :under :learn-cs ;
 	:label "Learn - Python" .
@@ -148,6 +152,7 @@
 ("GoogLeNet") :under :learn-cs .
 ("ABAP?; chef; flume") :under :learn-cs .
 ("C# 6") :under :learn-cs .
+("server-less architectures") :under :learn-cs .
 
 :learn-algorithms rdfs:label "Learn - Algorithms" ;
 	:under :learn-cs .
@@ -280,15 +285,10 @@
 ("systemy prirozene dedukce") :under :learn .
 ("Genzenovy systemy") :under :learn .
 ("Hilbertovske systemy") :under :learn .
-("server-less architectures") :under :learn .
 ("adversarial networks") :under :learn .
 ("astronomy") :under :learn .
 ("population axiology") :under :learn .
 
-("experiment design") :under :learn .
 ("k cemu je interferon?") :under :learn .
 ("unifikacni algoritmus") :under :learn .
 ("trenovani boltzmannovych stroju") :under :learn .
-("marching cubes algorithm") :under :learn .
-("Bayes factor") :under :learn .
-("internal/external validity") :under :learn .
