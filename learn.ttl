@@ -82,6 +82,137 @@
 
 :learn-anki rdfs:label "Learn - Memorize" ;
 	:under :learn .
+("""
+	double strtod(const char *nptr, char **endptr); endptr may be NULL;
+	float strtof
+	long double strtold
+	rsize_t
+	_Alignof
+	offsetof
+	memcpy
+	memcmp
+	strcmp
+	strcoll
+	strchr
+	strspn
+	strcspn
+	strnlen_s
+	strcpy_s
+	difftime
+	struct timespec
+	struct tm
+	_Exit
+	quick_exit
+	setjmp
+	longjmp
+	_Noreturn; noreturn (stdnoreturn.h)
+	snprintf
+	<ctype.h>
+	<fenv.h>
+	<locale.h>
+	<setjmp.h>
+	<stdalign.h>
+	<stdatomic.h>
+	<stddef.h>
+	<threads.h>
+	<uchar.h>
+	<wchar.h>
+	<wctype.h>
+	perror
+	mktime
+	fgetpos
+	fsetpos
+	thrd_create
+	errno: reset (= 0)
+	printf_s
+	static_assert
+	_Static_assert
+	nearbyint vs. round
+	fputs
+	fputc
+	cbrt
+	copysign
+	exp2
+	fma
+	isfinite
+	isinf
+	isnan
+	fputs vs puts: fputs doesn't append end of line
+	fclose
+	fflush
+	rename
+	remove
+	fgets
+	fgetc
+	feof
+	islower
+	isupper
+	isblank
+	isspace
+	isdigit
+	isxdigit
+	iscntrl
+	isalnum
+	isalpha
+	isgraph
+	isprint
+	ispunct
+	strpbrk
+	time()
+	difftime
+	mktime
+	strftime
+	timespec_get
+	asctime_s
+	ctime_s
+	gmtime_s
+	localtime_s
+	getenv_s
+	setlocale
+		LC_COLLATE
+		LC_CTYPE
+		LC_MONETARY
+		LC_NUMERIC
+		LC_TIME
+		LC_ALL
+	localeconv
+	at_quick_exit <- use when default handlers are too time-consuming
+	atexit
+	_Exit: inhibits even at_quick_exit
+	abort: inhibits even some system cleanups
+	Doxygen syntax
+	little vs big endian
+	realloc shrinking
+	realloc: if returns NULL, old pointer remains valid
+	memmove vs memcpy
+	_Thread_local / thread_local
+	%eax
+	%ecx
+	%edi
+	%edx
+	%esi
+	%rax
+	%rbp
+	%rcx
+	%rdx
+	%rsp
+	TODO: usage of %rbp
+	TODO: usage of %rsp
+	xorl %eax, %eax
+	scanf return value
+	setlocale(LC_ALL, "");
+	mbstate_t
+	mbsrtowcs (multibyte string, restartable, to wide character string)
+	mbrtowc
+	MBSTATE
+	EILSEQ
+	MB_LEN_MAX
+	fread
+	fwrite
+	fseek: SEEK_SET SEEK_CUR (SEEK_END, with some glitches)
+	EDOM EILSEQ ERANGE
+	snprintf and NULL destination pointer
+""") :under :learn-anki .
 ("Knightian uncertainty") :under :learn-anki .
 <https://lzone.de/cheat-sheet/YAML> :under :learn-anki .
 ("learn tabular in latex") :under :learn-anki .
