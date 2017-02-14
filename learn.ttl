@@ -212,6 +212,23 @@
 	fseek: SEEK_SET SEEK_CUR (SEEK_END, with some glitches)
 	EDOM EILSEQ ERANGE
 	snprintf and NULL destination pointer
+
+	alignas
+	restrict
+	alignof
+	inline
+	getcontext/setcontext
+	signal
+	thrd_create, thrd_exit
+	sig_atomic_t
+	atomic_flag
+	_Atomic with lock free property and relaxed consistency
+	mtx_t
+
+	threads.h
+	thrd_start_t
+	thrd_create
+	thrd_join
 """) :under :learn-anki .
 ("Knightian uncertainty") :under :learn-anki .
 <https://lzone.de/cheat-sheet/YAML> :under :learn-anki .
@@ -422,3 +439,6 @@
 ("k cemu je interferon?") :under :learn .
 ("unifikacni algoritmus") :under :learn .
 ("trenovani boltzmannovych stroju") :under :learn .
+("calculating statistical moments without storing all samples") :under :learn .
+("define: skew (distribution)") :under :learn .
+("morseovka") :under :learn .
