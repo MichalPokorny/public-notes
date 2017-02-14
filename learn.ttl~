@@ -239,7 +239,6 @@
 
 	C memory orders
 """) :under :learn-anki .
-("Modern C - Atomic access and memory consistency") :under :learn-anki .
 ("Knightian uncertainty") :under :learn-anki .
 <https://lzone.de/cheat-sheet/YAML> :under :learn-anki .
 ("learn tabular in latex") :under :learn-anki .
