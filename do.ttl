@@ -68,6 +68,7 @@
 ("navsteva Pavla a EA/rationality Zurich ve Svycarsku") :under :do .
 ("recompile XMonad") :under :do .
 ("fix Anki card: P/E ratio") :under :do .
+("anki: enable building JSON from my cards") :under :do .
 
 :zurich :todo ("investigate: delat na ETH PhD zatimco budu pracovat v Googlu?") .
 :zurich :todo ("podivat se na nabidky spolubydleni v Zurichu?") .

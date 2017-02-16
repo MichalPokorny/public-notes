@@ -46,6 +46,8 @@
 
 :learn-methodology rdfs:label "Learn - Research methodology (in soc. sciences)" ;
 	:under :learn .
+("paired T-test") :under :learn-methodology .
+("effect size") :under :learn-methodology .
 ("experiment, kvazi-experiment") :under :learn-methodology .
 ("reliabilita, validita") :under :learn-methodology .
 ("grounded theory") :under :learn-methodology .
@@ -82,6 +84,10 @@
 
 :learn-anki rdfs:label "Learn - Memorize" ;
 	:under :learn .
+("cognitive biases and fallacies") :under :learn-anki .
+("personality disorders") :under :learn-anki .
+("quick Bayes table") :under :learn-anki .
+("12 virtues of rationality") :under :learn-anki .
 ("""
 	double strtod(const char *nptr, char **endptr); endptr may be NULL;
 	float strtof
@@ -452,4 +458,5 @@
 ("trenovani boltzmannovych stroju") :under :learn .
 ("calculating statistical moments without storing all samples") :under :learn .
 ("define: skew (distribution)") :under :learn .
-("morseovka") :under :learn .
+
+<http://plusacumen.org/courses/> :under :learn .

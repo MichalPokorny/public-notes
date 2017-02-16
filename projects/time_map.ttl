@@ -1,0 +1,6 @@
+:time-map rdfs:label "map with distances corresponding to travel time" ;
+	:note """
+		https://docs.gimp.org/en/plug-in-displace.html
+		transform each triangle one by one
+		http://davis.wpi.edu/~matt/courses/morph/2d.htm#Mesh
+	""" .
