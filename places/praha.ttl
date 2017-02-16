@@ -60,3 +60,4 @@
 ("zpivani na schodech: http://ibex.krakonos.org/mailman/options/zpivani") :under :praha .
 
 ("Leclan") :under :praha .
+<http://www.bendixpraha.cz/> :under :praha .

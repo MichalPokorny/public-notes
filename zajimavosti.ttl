@@ -578,3 +578,5 @@ yt:YTd4-WXw2SM :note """
 
 ("journalctl: -o json, -o json-pretty") :under :zajimavosti .
 <http://html5up.net> :under :zajimavosti .
+<https://complice.co/room/ea/interstitial> :under :zajimavosti .
+<https://github.com/Stvad/CrowdAnki> :under :zajimavosti .
