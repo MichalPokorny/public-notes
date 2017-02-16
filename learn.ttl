@@ -460,3 +460,5 @@
 ("define: skew (distribution)") :under :learn .
 
 <http://plusacumen.org/courses/> :under :learn .
+
+("Zipf's law") :under :learn .

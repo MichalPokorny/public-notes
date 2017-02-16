@@ -261,3 +261,5 @@ komunikovaly spolu pomoci morseovky""") :under :read ;
 <https://developers.google.com/web/updates/2017/01/css-grid> :under :read .
 <https://claviger.net/lessons-from-fandom-fundraising-strategies.html> :under :read .
 <http://tinyurl.com/gmfbh46> :under :read .
+<https://medium.com/life‐learning/how‐to‐get‐any‐job‐you‐want‐even‐if‐you‐re‐unqualified‐6f49a65f5491> :under :read .
+<http://www.kalzumeus.com/2012/01/23/salary‐negotiation/> :under :real .
