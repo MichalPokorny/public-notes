@@ -172,3 +172,4 @@
 ("nenasilna komunikace: http://www.skola21.com/kurzy/5/") :under :do .
 ("nosit s sebou paratka") :under :do .
 ("learn Mnemonic Major System - translates numbers into letters and visual words") :under :do .
+("start using https://www.passwordstore.org/") :under :do .
