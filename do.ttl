@@ -174,3 +174,5 @@
 ("learn Mnemonic Major System - translates numbers into letters and visual words") :under :do .
 ("start using https://www.passwordstore.org/") :under :do .
 ("preventative care") :under :do .
+<https://fluent-forever.com/how-to-learn-german-grammar-with-anki/> :under :do ;
+	:note "learn German" .
