@@ -120,4 +120,23 @@ in belief domain:
 """ .
 
 <http://polyweekly.com/2015/06/pw-436-date-your-species/> :note """
-""" .
+	interesting: Twin Peaks intentional community
+
+	date your species:
+		Reid Mihalko
+		you can't count on love/attraction; it's about self-expression
+		"species": "what kind of polyamorous are you"
+		figure out what kind of poly are you
+			(your dating pool may be smaller than you think)
+
+	1. what are your win-wins? - make a list
+		e.g. -
+		my relationship works better if the other person has a job
+		lives nearby
+		is the same religion
+		etc.
+		(some of these may not be politically correct)
+	2. what are bottom lines, deal breakers? - make a list
+	3. 
+""" ;
+	:todo "think about what is my species" .
