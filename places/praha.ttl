@@ -61,3 +61,10 @@
 
 ("Leclan") :under :praha .
 <http://www.bendixpraha.cz/> :under :praha .
+
+("""
+	www.klasektea.cz
+	www.darjeeling.cz
+	Daniel Klásek: velkoobchod s cajem a prislusenstvim a sladkostmi
+""")
+	:under :praha .

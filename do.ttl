@@ -176,3 +176,4 @@
 ("preventative care") :under :do .
 <https://fluent-forever.com/how-to-learn-german-grammar-with-anki/> :under :do ;
 	:note "learn German" .
+("oskenovat zdravotni zaznamy") :under :do .
