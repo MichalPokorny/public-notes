@@ -173,3 +173,4 @@
 ("nosit s sebou paratka") :under :do .
 ("learn Mnemonic Major System - translates numbers into letters and visual words") :under :do .
 ("start using https://www.passwordstore.org/") :under :do .
+("preventative care") :under :do .
