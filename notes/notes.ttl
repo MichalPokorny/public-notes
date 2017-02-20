@@ -116,4 +116,8 @@ in belief domain:
 	:todo "1 year of only doing what I love" .
 
 <https://github.com/jlevy/the-art-of-command-line> :note """
-	""" .
+	finished and in Anki
+""" .
+
+<http://polyweekly.com/2015/06/pw-436-date-your-species/> :note """
+""" .
