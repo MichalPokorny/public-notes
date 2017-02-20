@@ -266,3 +266,5 @@ komunikovaly spolu pomoci morseovky""") :under :read ;
 <http://alexvermeer.com/life‐hacking> :under :real .
 <http://www.benkuhn.net/giving‐101#donor‐advised‐funds> :under :real ;
 	:note "donor-advised funds" .
+
+("author: Augusten Burroughs (The Oatmeal)") :under :read .
