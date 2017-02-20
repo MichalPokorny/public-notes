@@ -580,3 +580,6 @@ yt:YTd4-WXw2SM :note """
 <http://html5up.net> :under :zajimavosti .
 <https://complice.co/room/ea/interstitial> :under :zajimavosti .
 <https://github.com/Stvad/CrowdAnki> :under :zajimavosti .
+("""
+	konvertiti: "ben/bat Avraham ve-Sara" nebo "bar Rut"
+""") :under :zajimavosti
