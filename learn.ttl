@@ -88,6 +88,8 @@
 ("personality disorders") :under :learn-anki .
 ("quick Bayes table") :under :learn-anki .
 ("12 virtues of rationality") :under :learn-anki .
+("districts of Zurich") :under :learn-anki .
+("map of Switzerland") :under :learn-anki .
 ("""
 	double strtod(const char *nptr, char **endptr); endptr may be NULL;
 	float strtof
