@@ -1,10 +1,7 @@
 :do rdfs:label "Do" .
 ("purge old laptop (HP)") :under :do .
-("make Dropbox start on its own") :under :do .
 ("join myfitnesspal + beeminder + vaha.ods") :under :do .
 ("visit stiftung for EA in Berlin") :under :do .
-("fio osobni ucet") :under :do .
-("procistit vnitrni pamet mobilu") :under :do .
 ("mapa Prahy nebo sveta na vnitrni strane dveri od zachoda") :under :do .
 ("zalozit si seznam narozenin a svatku") :under :do .
 ("sada na opravu duse?") :under :do .
@@ -25,9 +22,7 @@
 ("cesky basnik: Skácel") :under :do .
 ("lectures (combinatorics, set theory, etc.): https://www.reddit.com/tb/2xtojb") :under :do .
 ("dysthymia") :under :do .
-("prejit na vic one-click OS...") :under :do .
 ("find czech wordlist") :under :do .
-("nova zidle") :under :do .
 ("sehnat ucetniho? (zrejme ~6k za trzni ceny)") :under :do .
 ("study synthetic biology existential risks") :under :do .
 ("stockton vypada nefunkcne!") :under :do .
@@ -58,7 +53,6 @@
 ("change diet, work out in the morning, maximize health, maximize physical attractiveness") :under :do .
 ("dluzim kajovi par piv (za KFC z Polska)") :under :do .
 ("mel bych zase zacit hubnout!") :under :do .
-("dalsi KSP sraz") :under :do .
 ("future of humanity institude - visit?  (Ondra)") :under :do .
 ("Martin Fowler: sw engineer, author, international public speaker on SWE. smart guy. has blog.") :under :do .
 ("Jerry Fodor (philosopher)") :under :do .
@@ -66,12 +60,8 @@
 ("Galibi deskovky") :under :do .
 ("create public feedback form") :under :do .
 ("navsteva Pavla a EA/rationality Zurich ve Svycarsku") :under :do .
-("recompile XMonad") :under :do .
 ("fix Anki card: P/E ratio") :under :do .
 ("anki: enable building JSON from my cards") :under :do .
-
-:zurich :todo ("investigate: delat na ETH PhD zatimco budu pracovat v Googlu?") .
-:zurich :todo ("podivat se na nabidky spolubydleni v Zurichu?") .
 
 ("""create Anki card: vim: parens in \\( \\) \\+ in regex, not .""") :under :do .
 ("vim: backreference: \\1") :under :do .
@@ -96,11 +86,9 @@
 ("Argunet (software na argument mapping)") :under :do .
 ("Go klub (MFF)") :under :do ;
 	:under :fun .
-("ssh-agent on metacentrum") :under :do .
 ("change swapfile location.") :under :do .
 ("right hemisphere dysfunction: https://medicalspeechpathology.wordpress.com/student-handbook/right-hemisphere-dysfunction/") :under :do .
 ("test na anemii: anemie zpusobuje depresi") :under :do .
-("apply to OpenAI") :under :do .
 ("mind hacking") :under :do .
 ("check for vitamin deficiencies, anaemia, hypothyroidism") :under :do .
 ("""existuje nejaky spravny zpusob, jak na kytaru davat nove struny?
@@ -147,18 +135,15 @@
 ("delam preklepy standartni/standardni") :under :do .
 ("pochopit jak funguje DPH") :under :do .
 ("try Blablacar") :under :do .
-("learn and start using trigger-action planning") :under :do .
 ("komplexni systemy, network science") :under :do .
 
 ("learn about comparative advantage") :under :do .
 
 ("""osvobozeni od navyku: uzit si televizi/internet/mobily
 	-- co presne chci, kdy to zacne, kdyz to skonci""") :under :do .
-("deaktivovat timeline?") :under :do .
 ("vipasana (detach meditation)") :under :do .
 
 <https://people.debian.org/~paultag/conduct-statement.txt> :under :do .
-("zkusit se prihlasit v Zurichu na doktorat") :under :do .
 ("2:1 matching na MIRI") :under :do .
 ("improve looks") :under :do .
 ("precist si doprovodne texty k mindfulness") :under :do .
