@@ -1,0 +1,31 @@
+:nonviolent-communication :notes """
+	Translating "have to" to "choose to":
+		1. write down "have to"'s
+		2. acknowledge choice
+		3. get in touch with intention ("I choose to do X because Y.")
+
+	money, approval, escaping punishment, avoiding shame, guilt, satisfying
+	a sense of duty:: be conscious of these actions, be aware of the price
+	you're paying for them.
+
+	anger: comes from blame & judgement
+		To motivate by guilt, mix up stimulus and response.
+		What other people do is never a cause for how we feel.
+
+		"alarm clock": a need is not being met
+
+	not "I am angry because they ..."; "I am angry because I".
+
+	4 options when hearing a difficult message:
+		- blame ourselves
+		- blame others
+		- sense our own feelings and needs
+		- sense others' feelings and needs
+
+	As soon as people think that they have done something wrong, they will
+	not be fully apprehending our pain.
+
+	3x5 cheat-sheet card about NVC
+""" ;
+	:todo "do have to -> choose to exercise" ;
+	:todo "practice translating each judgement into an unmet need" .
