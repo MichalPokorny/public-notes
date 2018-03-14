@@ -6,7 +6,6 @@
 ("zalozit si seznam narozenin a svatku") :under :do .
 ("sada na opravu duse?") :under :do .
 ("sehnat stop-motion videa z K-SCUKu (Lukas mi poslal neco jineho...)") :under :do .
-("ICE kontakt v mobilu") :under :do .
 ("nastavit na facebooku notifikace na zpravy od neznamych") :under :do .
 ("cheatsheet: miry, veky, ...") :under :do .
 ("AndroidLost admin rights") :under :do .

@@ -1,15 +1,6 @@
 :read rdfs:label "To read" .
 
-<http://algorithmicassertions.com/computer-science/2015/07/05/Things-I-Cant-Solve-Multiplication.html> :under :read .
-<http://arslan.io/ten-useful-techniques-in-go> :under :read .
-<http://blog.givewell.org/2011/08/18/why-we-cant-take-expected-value-estimates-literally-even-when-theyre-unbiased/> :under :read .
-<http://blog.givewell.org/2015/03/11/open-philanthropy-project-update-global-catastrophic-risks/> :under :read .
-<http://blog.keras.io/building-autoencoders-in-keras.html> :under :read .
 ("http://book.mixu.net/distsys/ (distributed systems)") :under :read .
-<http://firstround.com/review/this-90-day-plan-turns-engineers-into-remarkable-managers/> :under :read .
-<http://futureoflife.org/2016/02/29/introductory-resources-on-ai-safety-research/> :under :read .
-<http://globalprioritiesproject.org/2015/10/three-areas-of-research-on-the-superintelligence-control-problem/> :under :read .
-<http://jvns.ca/blog/2013/12/30/questions-im-asking-in-interviews/> :under :read .
 <http://lesswrong.com/lw/3nn/scientific_selfhelp_the_state_of_our_knowledge/> :under :read .
 <http://lesswrong.com/lw/4z7/the_neuroscience_of_desire/> :under :read .
 <http://lesswrong.com/lw/llw/immortality_a_practical_guide/> :under :read .
@@ -19,20 +10,13 @@
 <http://lesswrong.com/r/discussion/lw/gpl/imitation_is_the_sincerest_form_of_argument/> :under :read .
 ("http://producingoss.com/en/index.html (producing open-source software)") :under :read .
 <http://rationality.org/reading/> :under :read .
-<https://adeshpande3.github.io/adeshpande3.github.io/The-9-Deep-Learning-Papers-You-Need-To-Know-About.html> :under :read .
-<https://blog.gregbrockman.com/my-path-to-openai> :under :read .
-<https://brainstormers.wordpress.com/2010/10/18/altruistic-awesomeness-your-challenge/> :under :read .
-<https://diegocaleiro.com/2013/07/08/first-challenge-stop-learning-start-doing/> :under :read .
-<https://docs.python.org/3/reference/datamodel.html> :under :read .
 ("http://searchwarp.com/swa267806.htm ('How Do You Create A Relationship When You've Been Hurt So Many Times Before?')") :under :read .
 <https://github.com/jlevy/the-art-of-command-line> :under :read .
 <https://github.com/prakhar1989/awesome-courses> :under :read .
 <https://github.com/sindresorhus/awesome> :under :read .
 ("http://shoup.net/ntb/ntb-v2.pdf - computational introduction to number theory & algebra") :under :read .
-<https://iamaaditya.github.io/2016/04/visual_question_answering_demo_notebook> :under :read .
 <https://intelligence.org/2016/04/21/two-new-papers-uniform/> :under :read .
 <https://nthlook.wordpress.com/2015/12/31/self-improve-in-10-years/> :under :read .
-<https://sploitfun.wordpress.com/2015/02/10/understanding-glibc-malloc/> :under :read .
 <https://web.archive.org/web/20140618083128/http://www.reddit.com/r/LessWrong/comments/17y819/lw_uncensored_thread/c8blnyz?context=1> :under :read .
 <https://web.archive.org/web/20140626092902/http://www.reddit.com/r/HPMOR/comments/28yjbx/some_strangely_vehement_criticism_of_hpmor_on_a/cifxmzb> :under :read .
 <https://wiki.lesswrong.com/wiki/Creating_Friendly_AI> :under :read .
@@ -46,7 +30,6 @@
 <https://www.reddit.com/r/LessWrong/comments/17y819/lw_uncensored_thread/> :under :read .
 <https://www.reddit.com/r/LessWrong/comments/17y819/lw_uncensored_thread/c8biu0v> :under :read .
 <https://www.technologyreview.com/s/542371/a-tale-of-do-it-yourself-gene-therapy/> :under :read .
-<https://www.twilio.com/blog/2016/02/patrick-mckenzie-on-salary-negotiation-job-hunting.html> :under :read .
 <http://theuncertainfuture.com/> :under :read .
 <http://tkipf.github.io/graph-convolutional-networks/> :under :read .
 <http://wiki.80000hours.org/index.php/AI_Safety_Research> :under :read .
@@ -55,10 +38,7 @@
 <http://www.effective-altruism.com/ea/vo/expected_value_estimates_you_can_maybe_take/> :under :read .
 <http://www.existential-risk.org/faq.html> :under :read .
 <http://www.givewell.org/labs/causes/ai-risk> :under :read .
-<http://www.hexahedria.com/2015/08/03/composing-music-with-recurrent-neural-networks/> :under :read .
-<http://www.ribbonfarm.com/2012/11/27/patterns-of-refactored-agency/> :under :read .
 <http://www.sens.org/research/introduction-to-sens-research> :under :read .
-<http://www.skeptictank.org/hs/vanish.htm> :under :read .
 <http://www.sl4.org/shocklevels.html> :under :read .
 <https://docs.google.com/document/d/1B6KjyzeW_HpFi9GSgcLON2p9KcA-MqrrjEbFsuUqY00/edit#heading=h.dc8oimokjfao> :under :read ;
 	rdfs:label "AI Safety Syllabus" .
@@ -202,7 +182,6 @@ komunikovaly spolu pomoci morseovky""") :under :read ;
 	:todo "find and read this book" .
 
 
-<http://harpers.org/wp-content/uploads/HarpersMagazine-1998-01-0059425.pdf> :under :read .
 ("rosseau: teorie obecneho blaha") :under :read .
 <https://meaningness.com/#contents> :under :read ;
 	:note "about Kegan Stage 3 -> Stage 4" .
@@ -217,13 +196,9 @@ komunikovaly spolu pomoci morseovky""") :under :read ;
 <http://www.succeedsocially.com/articlecategories> :under :read .
 
 <https://wiki.80000hours.org/index.php/Places_we_sometimes_recommend_people_apply_to_work> :under :read .
-<http://globalprioritiesproject.org/wp-content/uploads/2015/05/MovementGrowth.pdf> :under :read .
-<https://80000hours.org/2015/11/working-at-effective-altruist-organisations-good-or-bad-for-career-capital/> :under :read .
 
 <http://lesswrong.com/lw/76k/the_optimizers_curse_and_how_to_beat_it/> :under :read .
-<http://www.ribbonfarm.com/2015/02/18/a-dent-in-the-universe/> :under :read .
 <http://www.openphilanthropy.org/focus> :under :read .
-<https://foundational-research.org/the-case-for-suffering-focused-ethics/> :under :read .
 <https://foundational-research.org/artificial-intelligence-and-its-implications-for-future-suffering#A_soft_takeoff_seems_more_likely> :under :read .
 <https://foundational-research.org/open-research-questions/> :under :read .
 <https://foundational-research.org/the-eliminativist-approach-to-consciousness/> :under :read .
@@ -234,10 +209,6 @@ komunikovaly spolu pomoci morseovky""") :under :read ;
 <http://effective-altruism.com/ea/5f/effective_altruism_reading_list/> :under :read .
 ("LW arguments for thinking of yourself as software") :under :read .
 <https://en.wikipedia.org/wiki/Cynicism_(philosophy)> :under :read .
-<https://faculty.fuqua.duke.edu/~jes9/bio/The_Optimizers_Curse.pdf> :under :read .
-<https://en.wikipedia.org/wiki/Maximum_likelihood_estimation> :under :read .
-<http://blog.givewell.org/2011/08/18/why-we-cant-take-expected-value-estimates-literally-even-when-theyre-unbiased/> :under :read .
-
 
 <http://reducing-suffering.org/> :under :read ;
 :note """
@@ -249,10 +220,8 @@ komunikovaly spolu pomoci morseovky""") :under :read ;
 <https://alexvermeer.com/8760hours/> :under :read .
 <https://alexvermeer.com/life-hacking/> :under :read .
 ("philosophy of time") :under :read .
-<https://blog.gregbrockman.com/define-cto-openai> :under :read .
 <http://martin.zinkevich.org/rules_of_ml/rules_of_ml.pdf> :under :read .
 <https://gist.github.com/yossorion/4965df74fd6da6cdc280ec57e83a202d> :under :read .
-<https://en.wikipedia.org/wiki/Funes_the_Memorious> :under :read .
 <http://benjaminrosshoffman.com/statusphere/> :under :read .
 ("meaningness") :under :read .
 ("Mala a Velka logika (Englis)") :under :read .

@@ -12,9 +12,6 @@
 ("80000 hours: decision framework (career guide)") :under :80k .
 ("fit, discovery value, corruption risk, job satisfaction, fit with rest of life") :under :80k .
 
-("Adapter na notebook") :note ("2013-04; 11s45n0305z1zlz3342215; 11s36200296zz300342215") .
-("Blox") :note ("muj kabel je 7F38, tiskarna 192.168.12.18") .
-
 :sites rdfs:label "Sites" .
 <http://noexcuselist.com/> :under :sites .
 <http://news.ycombinator.com/> :under :sites .

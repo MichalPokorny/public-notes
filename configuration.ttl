@@ -4,17 +4,13 @@
 :dragon rdfs:label "Server" .
 
 :megalocap :note "Test-server kazdou hodinu" ;
-	:note "Androidovy path (/opt/android-sdk/platform-tools)" ;
-	:note "enable cups demon" .
+	:note "Androidovy path (/opt/android-sdk/platform-tools)" .
 
 :generic-mapping :note """
 Generic mapping!!! (musim testovat, ze funguje dobre)
 	GENERIC na serveru i na notebooku!
 """ ;
-	:under :dragon ;
-	:under :megalocap .
-
-:megalocap :note "/etc/acpid: obsahuje eventy na lenovo dock a undock kvuli koleji".
+	:under :dragon .
 
 :configuration :note """
 	available: prvak.name (6.4 eur na rok),
@@ -32,17 +28,6 @@ MOZNA SI BUDU MOCT UKRADNOUT prvak.cz!
 	:todo "test that dropbox keeps extended attributes" ;
 	:todo "unbreak kbcsvgrab.py" ;
 	:todo "jaky je Dropbox SLA?" .
-
-:megalocap :note """
-	Checklist:
-	- konfigurak k postfixu
-	- nainstalovat xosdutil, xosdutilctl.
-
-	Demoni: postfix
-
-	- /etc/hosts aby obsahovalo hostname
-""" ;
-	:todo "check spravnosti (ze dokazu vsechno spustit)" .
 
 :megalocap :note """
 	MAC: 3C:97:0E:C1:07:59
@@ -63,19 +48,7 @@ MOZNA SI BUDU MOCT UKRADNOUT prvak.cz!
 		- install fakeroot (abych mohl buildovat yaourt baliky pod rootem)
 		- enable multilib for wine
 		- xvidcap (+rarian)
-	""" ;
-	:note "Dokovaci stanice: potreba klicem pohnout kousek na druhou stranu pred za/odmykanim" ;
-	:note """
-	LED diody:
-		/proc/acpi/ibm/led
-
-		echo "0 off/on/blink"
-		0: dioda na zapinacim tlacitku
-		7: mesicek na zadni strane
-		12: ???
-	""" ;
-	:note "ebay: 40 usd za 9clankovou baterii, 80 usd za pridavnou 6-clankovou" ;
-	:note "vypnuti touchpadu: synclient TouchpadOff=1 (nebo 0)" .
+	""" .
 
 :dragon :note """
 	systemctl enable sshd
@@ -454,23 +427,6 @@ win-alt-h: spust htop
 		POZOR! Dovecot version mismatch zpusobeny nerestartem po upgradu
 		potichu zabije prichod mailu! EXPLICITNE KONTROLOVAT!
 
-	**Na lokalu**
-		postfix
-			lokalni dorucovani:
-				home_mailbox = .maildir/
-			smtp_sasl_auth_enable=yes
-			smtp_sasl_password_maps=hash:/etc/postix/saslpasswd
-			smtp_always_send_ehlo=yes # PROC?
-			smtp_sasl_security_options= # TODO: tohle je nebezpecne!
-			smtp_generic_maps=hash:/etc/postfix/generic
-			smtp_tls_security_level = encrypt
-
-			generic:
-				@tezitko.localdomain pok@rny.cz
-				@localhost.localdomain pok@rny.cz
-
-		symlink do crypta - saslpass, saslpass.db!
-
 	BACHA: MUSIM MIT TAKY DOSTATECNE VYSOKY LIMIT NA VELIKOST ZPRAV
 
 	smtpd_client_restrictions = permit_mynetworks,
@@ -484,27 +440,13 @@ win-alt-h: spust htop
 
 :configuration :todo "naucit test-server zkusit to pozdeji znovu?" ;
 	:todo "vim write & buffer delete" ;
-	:todo "co se stane, kdyz odeberu notebook z doku zatimco spi? chci aby pochopil ze uz neni v doku..." ;
-	:todo "timidity mi zere baterku... je potreba?" ;
-	:todo "crypto header backup - cryptsetup luksHeaderBackup --header-backup-file <file> <device>" ;
-	:todo "crypto backup" ;
-	:todo "tweaky, co dela powertop, by se mely delat automaticky." ;
-	:todo "suspend on lid switch unless mounted" ;
-	:todo "proc xosdutil tak rychle skonci pri acpi?" ;
 	:todo "opravit funkce suspendovacich tlacitek" ;
 
-	:todo """
-		screensaver-unmount si neumi detekovat displej, ktery je otevreny
-			- muzu si zjistit PID xscreensaveru a pak se podivat do /proc/#{pid_xscreensaveru}/environ :D
-			- moznost B: jednou za cas udelat rekoncilaci rucne
-	""" ;
 	:todo "zalohovat nekam moje konfiguraky Dragonu (a vubec cely Dragon)" ;
 	:todo "crypto backup. a vubec lepsi zalohovani. (hesla a tak)" ;
 	:todo "backup - .nobackup pro adresare, ktere fakt nechci zalohovat" ;
 	:todo "pridat k `ovec` moznost konfigurace vlnkovanych vyrazu" ;
-	:todo "skript co dela powertop optimalizace mi zabijel sitovku... :(" ;
 	:todo "zalohovani fotek!" ;
-	:todo "acpi hook xosdutil" ;
 	:todo "vim skeletons" ;
 	:todo "suspend: 'in 30 minutes'" ;
 	:todo "ovec: seznam prikazu, ve kterych nevlnkovat, by mel byt nastavitelny (\"najdi si .ovecrc v parentech\")" ;
@@ -516,9 +458,7 @@ win-alt-h: spust htop
 	:todo "vypnout xoff/xon" ;
 	:todo "jak naucit zsh aby disownoval joby?" ;
 	:todo "vim -- vypnout v ...?-line upozorneni na mixed-indent" ;
-	:todo "nedovolit move-to-crypto kdyz neni crypto mounted" ;
-	:todo "napad: aplikace na to, ze jsem si zamkl" ;
-	:todo "cryptounmount -- nerestartuje" .
+	:todo "napad: aplikace na to, ze jsem si zamkl" .
 
 :configuration :note """
 	Postfix: Bacha: kdyz se separatne updatne postfix a dovecot, oba na to umrou, ale nebudou si stezovat zadnemu cloveku.
@@ -527,8 +467,7 @@ win-alt-h: spust htop
 :notes rdfs:label "Note-taking system" ;
 	:todo "consider using Notation 3 instead of Turtle?" .
 
-:configuration :todo "set Firefox as default URL opener" ;
-	:todo "rescuetime: stop collecting window + document titles?" .
+:configuration :todo "rescuetime: stop collecting window + document titles?" .
 
 :configuration :todo "Anki fails unless run from console because of nonstandard path" ;
 	:todo "document server process, possibly create installation procedure" ;
