@@ -4,7 +4,6 @@
 	:note "spacebar: Good, 1 = Again, 2 = Good, 3 = Easy" ;
 	:note "to change field replacement tags: {{=<% %>=}} <%latex field%>" ;
 	:note "{{text:Expression}}: strip HTML" ;
-	:note "AnkiWeb" ;
 	:note "{{#FieldName}} ... {{/FieldName}}: shown only if FieldName is non-empty" ;
 	:note "{{^FieldName}} ... {{/...}} : only if FieldName empty" ;
 	:note "{{hint:MyField}}" ;

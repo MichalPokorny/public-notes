@@ -1,22 +1,19 @@
 :read rdfs:label "To read" .
 
-("http://book.mixu.net/distsys/ (distributed systems)") :under :read .
 <http://lesswrong.com/lw/3nn/scientific_selfhelp_the_state_of_our_knowledge/> :under :read .
 <http://lesswrong.com/lw/4z7/the_neuroscience_of_desire/> :under :read .
 <http://lesswrong.com/lw/llw/immortality_a_practical_guide/> :under :read .
-<http://lesswrong.com/lw/m78/strategies_and_tools_for_getting_through_a_break/> :under :read .
 <http://lesswrong.com/lw/s5/rebelling_within_nature/> :under :read .
 <http://lesswrong.com/lw/ur/crisis_of_faith/> :under :read .
 <http://lesswrong.com/r/discussion/lw/gpl/imitation_is_the_sincerest_form_of_argument/> :under :read .
 ("http://producingoss.com/en/index.html (producing open-source software)") :under :read .
 <http://rationality.org/reading/> :under :read .
-("http://searchwarp.com/swa267806.htm ('How Do You Create A Relationship When You've Been Hurt So Many Times Before?')") :under :read .
 <https://github.com/jlevy/the-art-of-command-line> :under :read .
 <https://github.com/prakhar1989/awesome-courses> :under :read .
 <https://github.com/sindresorhus/awesome> :under :read .
 ("http://shoup.net/ntb/ntb-v2.pdf - computational introduction to number theory & algebra") :under :read .
 <https://intelligence.org/2016/04/21/two-new-papers-uniform/> :under :read .
-<https://nthlook.wordpress.com/2015/12/31/self-improve-in-10-years/> :under :read .
+<https://sploitfun.wordpress.com/2015/02/10/understanding-glibc-malloc/> :under :read .
 <https://web.archive.org/web/20140618083128/http://www.reddit.com/r/LessWrong/comments/17y819/lw_uncensored_thread/c8blnyz?context=1> :under :read .
 <https://web.archive.org/web/20140626092902/http://www.reddit.com/r/HPMOR/comments/28yjbx/some_strangely_vehement_criticism_of_hpmor_on_a/cifxmzb> :under :read .
 <https://wiki.lesswrong.com/wiki/Creating_Friendly_AI> :under :read .
@@ -29,13 +26,12 @@
 <https://www.fightaging.org/> :under :read .
 <https://www.reddit.com/r/LessWrong/comments/17y819/lw_uncensored_thread/> :under :read .
 <https://www.reddit.com/r/LessWrong/comments/17y819/lw_uncensored_thread/c8biu0v> :under :read .
-<https://www.technologyreview.com/s/542371/a-tale-of-do-it-yourself-gene-therapy/> :under :read .
+<https://www.twilio.com/blog/2016/02/patrick-mckenzie-on-salary-negotiation-job-hunting.html> :under :read .
 <http://theuncertainfuture.com/> :under :read .
 <http://tkipf.github.io/graph-convolutional-networks/> :under :read .
 <http://wiki.80000hours.org/index.php/AI_Safety_Research> :under :read .
 <http://www.anthropic-principle.com> :under :read .
 <http://www.anthropic-principle.com/preprints/cau/paradoxes.html> :under :read .
-<http://www.effective-altruism.com/ea/vo/expected_value_estimates_you_can_maybe_take/> :under :read .
 <http://www.existential-risk.org/faq.html> :under :read .
 <http://www.givewell.org/labs/causes/ai-risk> :under :read .
 <http://www.sens.org/research/introduction-to-sens-research> :under :read .
@@ -196,12 +192,15 @@ komunikovaly spolu pomoci morseovky""") :under :read ;
 <http://www.succeedsocially.com/articlecategories> :under :read .
 
 <https://wiki.80000hours.org/index.php/Places_we_sometimes_recommend_people_apply_to_work> :under :read .
+<<<<<<< HEAD
+=======
+<https://80000hours.org/2015/11/working-at-effective-altruist-organisations-good-or-bad-for-career-capital/> :under :read .
+>>>>>>> Slim down old stuff
 
 <http://lesswrong.com/lw/76k/the_optimizers_curse_and_how_to_beat_it/> :under :read .
 <http://www.openphilanthropy.org/focus> :under :read .
 <https://foundational-research.org/artificial-intelligence-and-its-implications-for-future-suffering#A_soft_takeoff_seems_more_likely> :under :read .
 <https://foundational-research.org/open-research-questions/> :under :read .
-<https://foundational-research.org/the-eliminativist-approach-to-consciousness/> :under :read .
 ("Dr. Fafkova - Ja; Ja jsem") :under :read .
 <http://www.paulgraham.com/stuff.html> :under :read .
 <https://gruntledandhinged.com/how-to-get-therapy/> :under :read .
@@ -209,6 +208,11 @@ komunikovaly spolu pomoci morseovky""") :under :read ;
 <http://effective-altruism.com/ea/5f/effective_altruism_reading_list/> :under :read .
 ("LW arguments for thinking of yourself as software") :under :read .
 <https://en.wikipedia.org/wiki/Cynicism_(philosophy)> :under :read .
+<<<<<<< HEAD
+=======
+<https://en.wikipedia.org/wiki/Maximum_likelihood_estimation> :under :read .
+
+>>>>>>> Slim down old stuff
 
 <http://reducing-suffering.org/> :under :read ;
 :note """
@@ -229,7 +233,6 @@ komunikovaly spolu pomoci morseovky""") :under :read ;
 	:note "o managementu, jak komunikovat s lidmi" .
 <https://developers.google.com/web/updates/2017/01/css-grid> :under :read .
 <https://claviger.net/lessons-from-fandom-fundraising-strategies.html> :under :read .
-<http://tinyurl.com/gmfbh46> :under :read .
 <https://medium.com/life‐learning/how‐to‐get‐any‐job‐you‐want‐even‐if‐you‐re‐unqualified‐6f49a65f5491> :under :read .
 <http://www.kalzumeus.com/2012/01/23/salary‐negotiation/> :under :real .
 <http://alexvermeer.com/life‐hacking> :under :real .

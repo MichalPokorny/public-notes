@@ -43,10 +43,6 @@ yt:WgSwvDkJVxE :under :ideas ;
 ("prekladac hudby do tabu") :under :ideas ;
 	:note "2 casti: jedna bude urcovat podobnost, druha tam bude cpat pokusy o vytabovani" .
 
-("Facebook bot") :under :ideas ;
-	:by :petrhudecek ;
-	:note "Could be useful in FB bot: message tagging" .
-
 :startup-ideas :under :ideas .
 ("questy ve skutecnem zivote") :under :startup-ideas .
 ("google feature request -> ok.") :under :startup-ideas .
@@ -72,7 +68,6 @@ yt:WgSwvDkJVxE :under :ideas ;
 	:note "- pocet taktu pro instrukce" ;
 	:note "- GNU superopt => jak moc je to uzitecne?" .
 ("Michal Koucky: system na backupy po blocich") :under :thesis-ideas .
-
 ("google translate CLI") :under :ideas .
 ("distribuovany vyzkum hodnot") :under :ideas .
 ("pujcit/sehnat par zamku na lockpickovani? (Krak)") :under :ideas .

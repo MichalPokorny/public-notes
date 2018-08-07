@@ -53,7 +53,6 @@
 ("prestige") :from :reddit-mindfuck ; :under :movies .
 ("coherence") :from :reddit-mindfuck ; :under :movies .
 ("prisoners") :from :reddit-mindfuck ; :under :movies .
-("melancholia") :from :reddit-mindfuck ; :under :movies .
 ("(timecrimes - uz jsem asi videl)") :from :reddit-mindfuck ; :under :movies .
 
 :watched-movies :under :movies ;

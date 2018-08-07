@@ -27,7 +27,6 @@
 ("stlaceny vzduch") :under :wish-util .
 ("predlozku do koupelny") :under :wish-util .
 ("slozitelne krabice") :under :wish-util .
-("lepici pasku") :under :wish-util .
 <http://www.amazon.com/gp/product/B0031Q8U9S/ref=oh_details_o03_s01_i00> :under :wish-util .
 ("sadu na lepeni duse") :under :wish-util .
 

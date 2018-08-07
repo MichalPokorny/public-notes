@@ -5,7 +5,6 @@
 ("Coursera course - FP in Scala") :under :learn .
 ("Android apps in Scala") :under :learn .
 ("Physics") :under :learn .
-("Timeless decision theory") :under :learn .
 <https://www.coursera.org/learn/learning-how-to-learn> :under :learn ;
 	rdfs:label "Learning How to Learn (UC San Diego on Coursera)" ;
 	:note "+ Paulie" .
@@ -415,7 +414,6 @@
 ("consensus reality") :under :learn-phil .
 <https://en.wikipedia.org/wiki/Marx's_theory_of_alienation> :under :learn-phil .
 ("reality shift (plane)") :under :learn-phil .
-("negative utilitarism") :under :learn-phil .
 ("humean vs. kantian AI architecture") :under :learn-phil ;
 	:from "The Singularity: A Philosophical Analysis" .
 :learn-ethics :under :learn-phil .

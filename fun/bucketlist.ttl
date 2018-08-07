@@ -17,7 +17,7 @@
 ("sensoric deprivation (floatation tank)") :under :bucketlist .
 ("'lucid dreaming: DILD, WILD, Galantamine, WBTB'") :under :bucketlist .
 ("play pokemon go") :under :bucketlist .
-("'hausboty v Holandsku: daji se pujcit na ridicak'") :under :bucketlist .
+("hausboty v Holandsku: daji se pujcit na ridicak") :under :bucketlist .
 ("write more exercises on Khan Academy (still got binary numbers; even/odd, chemistry?)") :under :bucketlist .
 ("try something for 30 days") :under :bucketlist .
 ("painting") :under :bucketlist .

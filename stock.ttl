@@ -18,27 +18,18 @@ gstock:MRK rdfs:label "MRK" ;
 
 :stock-etfs :under :stock .
 
-gstock:VTI rdfs:label "VTI - Vanguard Total Stock Market ETF" ;
-	:under :stock-etfs .
 gstock:ONEQ rdfs:label "ONEQ - Fidelity NASDAQ Composite Index" ;
 	:under :stock-etfs .
 
 :stock-technology :under :stock .
 
-gstock:GOOG rdfs:label "GOOG - Google Class A" ;
-	:under :stock-technology .
 gstock:MSFT rdfs:label "MSFT - Microsoft" ;
-	:under :stock-technology .
-gstock:AAPL rdfs:label "AAPL - Apple" ;
 	:under :stock-technology .
 
 gstock:URPO rdfs:label "UPRO - 3x leveraged SP-500" ;
 	:under :stock ;
 	:todo "check out" .
 gstock:BLKB rdfs:label "BLKB - Berkshire Hathaway" ;
-	:under :stock .
-
-gstock:VTI rdfs:label "Vanguard total stock market ETF" ;
 	:under :stock .
 
 :stock :todo "check out malaysian airlines?" ;
@@ -49,7 +40,6 @@ gstock:VTI rdfs:label "Vanguard total stock market ETF" ;
 	Tickers:
 		UPRO (3x SP-500)
 		BLKB (Berkshire Hathaway)
-		QQQ
 
 	MCSI (Morgan-Stanley Capital Intl.)
 	Russell 3000, Wilshire 5000, REIT (real estate idx fund)

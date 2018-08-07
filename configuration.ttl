@@ -1,10 +1,5 @@
-:megalocap rdfs:label "Lenovo X230" .
-:feynmann rdfs:label"Nejstarsi notebook (Asrock)" .
 :vakarian rdfs:label "HP 4530s" .
 :dragon rdfs:label "Server" .
-
-:megalocap :note "Test-server kazdou hodinu" ;
-	:note "Androidovy path (/opt/android-sdk/platform-tools)" .
 
 :generic-mapping :note """
 Generic mapping!!! (musim testovat, ze funguje dobre)
@@ -12,42 +7,18 @@ Generic mapping!!! (musim testovat, ze funguje dobre)
 """ ;
 	:under :dragon .
 
-:configuration :note """
-	available: prvak.name (6.4 eur na rok),
-	prvak.info (7.4 eur na rok)
-MOZNA SI BUDU MOCT UKRADNOUT prvak.cz!
-	- pokorny.name
-	- prvak.name
-	- prvak.info
-""" .
-
 :configuration :todo "POSTFIX BOUNCES POSILEJ NA POK@RNY.CZ!" ;
-	:todo "cannot access ~/notes if it's not mounted" ;
-	:todo "must not start Dropbox if it's not mounted" ;
-	:todo "create cold backup, not bound to dropbox?" ;
-	:todo "test that dropbox keeps extended attributes" ;
-	:todo "unbreak kbcsvgrab.py" ;
-	:todo "jaky je Dropbox SLA?" .
+	:todo "create cold backup, not bound to dropbox?" .
 
 :megalocap :note """
-	MAC: 3C:97:0E:C1:07:59
 	/root ma jine dotfily - specialne napriklad nema xosdutil reference a vim bundly
 		TODO: udelat z toho jinou variantu v gitu?
 	Log:
 		- installed powertop, xf86-video-intel, autoconf, automake
-		- enabled atd, cronie
 		- zkopirovano .mozilla
-		- syslog-ng
-		- sudoers
-		- lid no suspend
-		- x11: nolisten tcp
 		- updatedb.conf pruning
-		- enable smartd (+warning)
-		- mergnut postfix, aktivovan smartd
-		- add prvak to wireshark
+		- mergnut postfix
 		- install fakeroot (abych mohl buildovat yaourt baliky pod rootem)
-		- enable multilib for wine
-		- xvidcap (+rarian)
 	""" .
 
 :dragon :note """
@@ -363,51 +334,12 @@ MOZNA SI BUDU MOCT UKRADNOUT prvak.cz!
 	:todo "Shorten the above description." .
 
 :megalocap :note """
-Asi nejde vubec rekalibrovat baterka (v BIOSu to neni)
-
 TEST SYSTEMU:
 	- SMTP rny.cz, rny.cz:5257
-	- HTTP rny.cz, work.rny.cz, poko.rny.cz, orldecin.cz, crm.b4f.cz
-
-Server: zaply syslog-ng v systemd, abych mel logy z postfixu a tak
-
-test-server kazdou hodinu
-kazdych 6 hodin net-worth-keeper
-kazdych 5 minut se zkontroluje, jestli uz 5 minut nebezi locknuty screensaver, a provede se pokus o unmount
-
-ntpd
-
-win-alt-h: spust htop
-
-/usr/lib/systemd/system-sleep: skript co se pusti pri suspendu -- pokusi se odmontovat crypto a zamkne obrazovku
-/etc/systemd/system/powertop-optimize.service: powertop --auto-tune
+	- HTTP rny.cz, poko.rny.cz, orldecin.cz
 """ .
 
-:raspberry :note """
-	Nainstalovany software:
-		dillo (chromium je uplne nepouzitelne, rekonq je taky pomaly)
-			alternativy: dwb, epiphany, arora (firefox neni v repech)
-
-	/etc/X11/xdm/Xservers: -nolisten tcp
-
-	NTP: chce /var/tmp;
-""" .
-
-:vakarian :note """
-	Heslo ulozeno v crypto/hesla.
-
-	Je na nem speech synthesis:
-		festival + english, us
-		espeak
-			Test Espeak with: English female voice, emphasis on capitals (-k), speaking slowly (-s) using direct text:-
-
-			espeak -ven+f3 -k5 -s150 "I've just picked up a fault in the AE35 unit"
-
-		echo "Hello World" | festival --tts
-
-		espeak je mnohem modernejsi!
-			TODO: umi i cestinu...
-""" .
+:vakarian :note """Heslo ulozeno v crypto/hesla""" .
 
 ("mail system") :note """
 	**Na serveru**
@@ -438,23 +370,15 @@ win-alt-h: spust htop
 		permit
 """ .
 
-:configuration :todo "naucit test-server zkusit to pozdeji znovu?" ;
-	:todo "vim write & buffer delete" ;
-	:todo "opravit funkce suspendovacich tlacitek" ;
-
+:configuration :todo "vim write & buffer delete" ;
 	:todo "zalohovat nekam moje konfiguraky Dragonu (a vubec cely Dragon)" ;
-	:todo "crypto backup. a vubec lepsi zalohovani. (hesla a tak)" ;
-	:todo "backup - .nobackup pro adresare, ktere fakt nechci zalohovat" ;
 	:todo "pridat k `ovec` moznost konfigurace vlnkovanych vyrazu" ;
 	:todo "zalohovani fotek!" ;
 	:todo "vim skeletons" ;
-	:todo "suspend: 'in 30 minutes'" ;
 	:todo "ovec: seznam prikazu, ve kterych nevlnkovat, by mel byt nastavitelny (\"najdi si .ovecrc v parentech\")" ;
 	:todo "goodnight by mel vypinat zvuk" ;
-	:todo "nejak upozornovat ze nemam namontovane crypto" ;
 	:todo "zsh: battery level" ;
 	:todo "automaticky mail-pingovaci skript" ;
-	:todo "xmonad-contrib: chci tam mit ten svuj patch, nebo pouzivat svuj layout" ;
 	:todo "vypnout xoff/xon" ;
 	:todo "jak naucit zsh aby disownoval joby?" ;
 	:todo "vim -- vypnout v ...?-line upozorneni na mixed-indent" ;

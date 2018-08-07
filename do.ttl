@@ -1,7 +1,6 @@
 :do rdfs:label "Do" .
 ("purge old laptop (HP)") :under :do .
 ("join myfitnesspal + beeminder + vaha.ods") :under :do .
-("visit stiftung for EA in Berlin") :under :do .
 ("mapa Prahy nebo sveta na vnitrni strane dveri od zachoda") :under :do .
 ("zalozit si seznam narozenin a svatku") :under :do .
 ("sada na opravu duse?") :under :do .
@@ -11,7 +10,6 @@
 ("AndroidLost admin rights") :under :do .
 ("soukromy skladovy skript?") :under :do .
 ("seridit kolo") :under :do .
-("poridit lekarnicku, teplomer") :under :do .
 ("koupit vahu, co umi automaticky logovat vahu do webservice po wifi") :under :do .
 ("najit: draco telling harry to always be ready to give everything back") :under :do .
 ("najit: tell me what to do (in personal relationships) in HPMOR") :under :do .
@@ -27,21 +25,16 @@
 ("stockton vypada nefunkcne!") :under :do .
 ("nastudovat neurosis / neurotic") :under :do .
 ("3000 work Pomodoros, 500 study Pomodoros, 500 personal Pomodoros") :under :do .
-<http://slideslive.com/casp/xiii-celostatni-konference-casp-laska-ve-21-stoleti> :under :do .
 <http://www.paulgraham.com/vb.html> :under :do .
 <http://www.marcandangel.com/2011/12/11/30-things-to-stop-doing-to-yourself/> :under :do .
 ("Podivat se na: http://www.kieser-training.cz/ http://www.youtube.com/user/scooby1961 https://www.youtube.com/watch?v=pIrcgwf_kUo") :under :do .
 ("contribute to Electronic Frontier Foundation (HTTPS everywhere, etc.)") :under :do .
 ("zastavit se nekdy za kardiologem?") :under :do .
-("focus on health; learn how to identify and solve problems; soft skills are important; learn how to teach") :under :do .
-("proc nefunguje odmontovavani crypta? proc se odmonotovava kdyz nema? * reenable screensaver-unmount") :under :do .
 ("vejit do tarifu s O2ckem?") :under :do ;
 	:note "tarif? lepsi mobilni internet?" .
 ("zmerit delku 'hand span', vzdalenost natazenych rukou") :under :do .
 ("poridit si vizitky?") :under :do .
 ("if-found wallpaper for phone") :under :do .
-("get better handle? move GitHub?") :under :do ;
-	:note "requires link updating :(" .
 ("rychla navigace v souborech (jako ma DestroyAllSoftware)") :under :do .
 ("root: chci mit v dotfiles reference na vim bundles jenom kdyz jsem normalni uzivatel (root by mel mit spolehlivou konfiguraci)") :under :do .
 
@@ -51,14 +44,12 @@
 ("podivat se na eliezerovy stare maily z ~1997") :under :do .
 ("change diet, work out in the morning, maximize health, maximize physical attractiveness") :under :do .
 ("dluzim kajovi par piv (za KFC z Polska)") :under :do .
-("mel bych zase zacit hubnout!") :under :do .
 ("future of humanity institude - visit?  (Ondra)") :under :do .
 ("Martin Fowler: sw engineer, author, international public speaker on SWE. smart guy. has blog.") :under :do .
 ("Jerry Fodor (philosopher)") :under :do .
 ("throw out all socks, get 30 identical pairs") :under :do .
 ("Galibi deskovky") :under :do .
 ("create public feedback form") :under :do .
-("navsteva Pavla a EA/rationality Zurich ve Svycarsku") :under :do .
 ("fix Anki card: P/E ratio") :under :do .
 ("anki: enable building JSON from my cards") :under :do .
 
@@ -71,9 +62,6 @@
 
 :knowledgebase :todo ("write todo-list Eisenhower matrix organizer") .
 
-:configuration :todo "znovu zprovoznit organizaci vypisu z KB" .
-
-("try pre-cooking") :under :do .
 ("Ludwigova meta-prednaska") :under :do .
 ("hnuti brontosaurus") :under :do .
 ("test na facebook app listening") :under :do .
@@ -124,8 +112,6 @@
 ("join ACM? (policy-affecting)") :under :do .
 ("arguments for universal objective binding morality") :under :do .
 ("je sance, ze jeste existuji moje zaznamy od psycholozky, kdyz jsem tam byl?") :under :do .
-("sehnat houby, pozvat tomiho na vec") :under :do .
-("relationship advice thread z order of the stick") :under :do .
 ("add to anki: how to run vim macros from file?") :under :do .
 ("try LibGen") :under :do .
 ("epravo.cz -- studium advokacie") :under :do ;
@@ -135,23 +121,17 @@
 ("pochopit jak funguje DPH") :under :do .
 ("try Blablacar") :under :do .
 ("komplexni systemy, network science") :under :do .
-
 ("learn about comparative advantage") :under :do .
-
 ("""osvobozeni od navyku: uzit si televizi/internet/mobily
 	-- co presne chci, kdy to zacne, kdyz to skonci""") :under :do .
 ("vipasana (detach meditation)") :under :do .
-
 <https://people.debian.org/~paultag/conduct-statement.txt> :under :do .
-("2:1 matching na MIRI") :under :do .
 ("improve looks") :under :do .
 ("precist si doprovodne texty k mindfulness") :under :do .
 ("fursupport: https://www.furaffinity.net/user/fursupport") :under :do .
-
 ("memory storage device") :under :do .
 ("tim ferriss lay down in supermarket (CoZE)") :under :do .
 ("pristi zimu: letet do Thajska") :under :do .
-("password for mp@decin.cz on LinkedIn: hacked") :under :do .
 ("AB-Z career plan: https://docs.google.com/document/d/1MBpwNLl3AgsKi4Yh4PZ2X30PYy4gV9xK2xgqXKevaVQ/preview") :under :do .
 ("nenasilna komunikace: http://www.skola21.com/kurzy/5/") :under :do .
 ("nosit s sebou paratka") :under :do .

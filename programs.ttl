@@ -27,7 +27,6 @@
 ("units") :under :programs .
 ("nltk") :under :programs .
 ("CellWriter") :under :programs .
-("Google Prediction API") :under :programs .
 ("xiki") :under :programs .
 :ocr rdfs:label "OCR" .
 ("cuneiform") :under :programs ; :purpose :ocr .
@@ -284,10 +283,7 @@ TUI: Ctrl-A X, then repaint with Ctrl-L
 	C++: operator&: zpusobuje, ze nejde udelat bezpecnou forward deklaraci!
 	operator"": user literals
 	operator=: insidious :)
-
 	initializer_list""" ;
-	:note "delegating constructors: using Base::Base -- redeklaruje stare konstruktory" ;
-	:note "c++: string _name{\"abc\"};" ;
 	:note """
 		scoped_ptr, scoped_array
 		std::exception_ptr, std::nested_exception
