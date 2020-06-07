@@ -1,3 +1,0 @@
-:mff rdfs:label "Studium na MFF" ;
-	:note "kniharstvi na diplomku: http://www.kniharstvi-cap.cz/" ;
-	:note """ "KSP patro": B6 @ 17/11""" .
