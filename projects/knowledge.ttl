@@ -1,3 +1,0 @@
-:knowledge rdfs:label "Personal Knowledge Graph" ;
-	:note "http://prefix.cc/ -- namespace lookup for RDF developers" ;
-	:note "turtle format doesn't allow slashes" .
